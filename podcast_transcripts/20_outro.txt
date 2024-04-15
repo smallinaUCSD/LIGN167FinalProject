@@ -1,0 +1,2143 @@
+Hi everybody, and welcome to the very last video of the quarter here for Linguistics 101.
+So, today's plan is pretty straightforward.
+We'll talk about your linguistic future, we'll talk about Dostoevsky, case and translation theory,
+and we'll talk about what a life in language might look like.
+So, your linguistic future.
+It's time to admit it.
+We've been kind of dancing around this all quarter, but it's time to admit it.
+You secretly want, or maybe overtly want, to major or minor in linguistics.
+Maybe a little tiny bit, maybe that little bit of your heart is crying out,
+maybe you're not ready to listen yet, maybe you still, you know, but that's okay.
+If you ever decide that, you know what, it's time, I need to go deeper,
+then this is the address you need to go to.
+Meet with our advisor, we'll help you out.
+Because we really do want to help you out.
+Join us and we will complete your training.
+The saddest part of Ling 101 is that it is, at least it's sad for me,
+maybe not for you, I don't know, but is that it's so short.
+There are so many amazing things in language that we've had to leave behind, right?
+And so the joy of the major is getting to interact in more depth with each one of these subfields.
+To go into the awesomeness of phonology that maybe never was covered in this,
+well, it certainly never was covered in this class.
+Or that you wouldn't have had time to cover in any intro class anywhere, right?
+This class could be three quarters long and it would still just scrape the surface of all of this.
+And because this is important, because I think many of you are already linguists and you don't know it yet.
+The reason I say that is because you don't generally just happen into a linguistics class, right?
+Usually there's some little bit of you in the back of your mind.
+Or maybe you're a person with some affinity already.
+I mean, you people are out there, right?
+Like serial language learners.
+If you have Duolingo installed and that owl is yelling at you in four different languages,
+you might actually be a linguist. You might not know that yet.
+If you are a person who has taken a bunch of languages and wants to take even more,
+yeah, you might be a linguist.
+Language analyzers, even people who aren't interested as much in foreign languages,
+but love picking apart sentences.
+Somebody will say something and you're like, oh wow, that's really weird.
+Why did they say it that way?
+Yeah, you might be a linguist.
+Maybe you're easily distracted by odd language use.
+If somebody uses a brand new word, you're not just like, oh, that was weird.
+You're like, wait, where did you learn that? What does that come from?
+Oh my God, I've never heard that before. Tell me, tell me more.
+Maybe you're fascinated just by differences and similarities among languages.
+This is often the case for bilingual folks.
+You grow up and you're aware of like, wow, I have these entirely two different worlds inside of my mind,
+but they're similar in these ways, but they're different in these.
+This can be very easy, or even among dialects.
+Maybe you're a person who just loves, you know, I think I can guess where you're from.
+You're probably a linguist.
+Look, if any of these things sound like you, you might be a linguist in denial.
+Or of course, this is probably the very, very best evidence.
+Yeah, that's me.
+You know who else didn't know he was a linguist at one point in time?
+This guy. Yeah.
+Yeah.
+This was me, actually, just starting my sophomore year of college.
+And at that time, I didn't think I was a linguist yet.
+And so I want to tell you actually a little bit about my linguistic journey,
+because it'll highlight some really amazing parts of language,
+and because it'll give you a sense of, well, how you might end up here.
+Whether that's a cautionary tale or something you'd like to emulate, I'll leave that up to you.
+But let's talk a little bit about how I ended up here, because I think that's useful.
+I started college as a Russian major.
+I was going to be a translator.
+At that moment, I thought to myself, wow, language is kind of cool.
+There's hint number one.
+I should be a translator.
+I should go out.
+I should work for the UN or something like that.
+That was my idea.
+That was my goal.
+But then linguistics kind of hunted me down, right?
+And the way that it did so was with case.
+I've talked about case now a couple of times in this class,
+because when we talked about grammatical relations,
+we've talked about different ways that languages can show us how a language marks who did what to whom, right?
+And English uses word order to mark grammatical relations.
+We've talked about this already, but it's not the only way.
+In case-marking systems, you use inflectional morphology to mark grammatical relations.
+You use these inflectional morphemes, and you stick them onto the end of a word to say,
+this is the role that this thing has in the sentence.
+This is the role that this thing has in the sentence.
+And as a result, you end up with a lot of good clarity, very often at least,
+in terms of who did what to whom.
+And so Russian.
+Remember, I started as a Russian major.
+I was going to be a translator.
+And Russian, oh, Russian has case.
+And every case marker corresponds to a grammatical role.
+Ignore that 245.
+I don't know why it's in there, but hey, PowerPoint.
+Well, not actually PowerPoint, but still.
+The nominative case in Russian handles what is generally considered the subject,
+that is, the subject of an intransitive sentence,
+as well as the subject of a transitive sentence.
+So like in I eat, I'm in nominative case.
+Or if I threw the ball, I'm still nominative, right?
+Accusative case handles the object.
+The thing, if I threw the ball, the ball is the thing that's in accusative, right?
+Or if I see the cat, the cat is in accusative.
+It's the object of the sentence.
+So in Russian, we talked about this, I think, already.
+I might have given you this exact example, right?
+The dog sees or saw the ball.
+So, or I'm sorry, the dog saw the cat.
+Later on.
+So the dog we would have here in the sentence is the dog saw the cat.
+We would have dog in nominative case.
+It's the seer.
+And the cat is in accusative case.
+And it's a feminine ending because cat is a feminine word in Russian.
+We didn't even get into grammatical gender.
+We didn't get into grammatical gender.
+Anyways, I digress.
+So the dog is nominative.
+The cat is accusative because it's being seen.
+But if we swap those endings around, if suddenly we get кошка instead of кошку,
+and if we suddenly get собаку rather than собака,
+wow, my Russian is bad today.
+If we swap the nominative and the accusative, then suddenly the cat saw the dog.
+All you need to do is switch those morphemes around,
+and suddenly the meaning of the sentence changes, right?
+And so similarly, you have pronouns with different case markings.
+So я тебя вижу means I, you, see.
+And I is nominative.
+You are accusative.
+I see you.
+But if it's you see me, you could say ты меня видишь.
+So you goes into nominative.
+I go into accusative.
+And see.
+And the word order changed here, but that's mostly just for pragmatics,
+for information marking.
+So I see you and you see me.
+The pronouns are in different cases.
+In both cases, the agent or the person doing the thing, the subject,
+is in nominative, and the person being seen is in accusative case.
+And so you change the pronouns around.
+Я becomes меня, and ты becomes тебя.
+Awesome, right?
+So, thinking about it this way.
+If the nominative case is for the subject,
+and the accusative case is for the object,
+if I have the sentence, Nilu hugged the turtle,
+and I were to put it into Russian,
+the proper cases, the proper case that you would choose would be
+A, Nilu's nominative, turtle's accusative.
+B, Nilu accusative, turtle's nominative.
+C, Nilu's nominative, turtle's nominative.
+And D, both are accusative.
+So, think about it for a second.
+So if Nilu hugged the turtle, Nilu is the agent,
+it's the subject of this sentence here.
+And so she would go into the nominative case,
+and the turtle is being hugged,
+therefore the turtle would go into accusative.
+So the correct answer here is A.
+So, in Russian, this actually frees some things up, right?
+You can use word order for pragmatics.
+I can say,
+and I can say,
+I can say,
+Note that the morphemes haven't changed.
+I've just changed the word order.
+And as a result, this means the cat saw the dog.
+I can say,
+the cat saw the dog.
+All of these things,
+even though the word order is different one to one,
+all of these mean the same thing.
+But informationally, they're a little bit different.
+This here is emphasizing the cat.
+This is emphasizing the seeing.
+This is emphasizing the dog.
+All three of those things mean the same thing,
+but I can say,
+No, the cat saw the dog.
+Whereas in English, we have to use prosody to do that,
+and Russian word order can be used for this.
+This is just awesome as sort of an aside.
+And this is why Russian is considered often a non-configurational language.
+It just doesn't, syntax doesn't do the same things in Russian
+as it does in some other languages.
+Although syntax still plays a role.
+And you'll probably,
+I don't know if you'll get into that in 121,
+but hopefully you will.
+It's awesome.
+Ask your syntactician about that.
+So yeah, that's fun.
+And by the way, English has case two, right?
+I see him.
+I is nominative.
+Him is accusative, right?
+Him is the accusative form of he.
+Similarly, he sees me.
+He is nominative, and me is accusative.
+So you wouldn't say me see him, right?
+That doesn't work.
+Or him see me, or him see I,
+none of those would work.
+You need to use the nominative accusative program.
+English used to have a full case system,
+but it's kind of fallen off.
+What else has case actually is a little strange,
+and that's geonosian.
+So I think it's time that I confess to you all
+that I'm kind of a nerd, right?
+And one of the domains of my nerddom is Star Wars.
+I encourage you not to get me started on the last three here recently,
+but at the very least,
+and I'm not, the prequels too,
+but in the second movie,
+we're going to put aside my feelings here
+because they are strong and they are many.
+We had a book series.
+Anyways, you were the chosen one.
+The geonosians in episode two,
+the second of the prequel movies,
+there was this species of animals
+called the geonosians or aliens,
+or I don't know whether they're animals or not.
+That's the semantics.
+We'll see.
+But they looked like this, and they flew,
+and they spoke a language that was very, very clicky, right?
+They had a lot of clicks and a lot of sounds
+that weren't actually possible with human tongues.
+But in this language,
+I happened to notice that they had case marking
+because in one scene, they were talking about,
+because every time they talked,
+they would speak in geonosian,
+and then it would be subtitled.
+And I noticed that in one sentence,
+they said, count Dooku.
+So Dooku is a word,
+and they had Dooku in an agent position
+or a nominative position,
+and it was Dooku.
+And then in another position,
+they had Dooku, or another sentence, that is,
+they had Dooku as an object,
+and it was Dookoa.
+That's case.
+That's case marking.
+So geonosian,
+we don't know anything really about this language.
+I don't know how fully it was designed.
+I don't know who came up with it,
+but I'm pretty damn sure it has case marking.
+If you go back and look at it,
+you'll probably see that as well.
+By the way,
+I still didn't think I was a linguist at this point.
+I was just a Russian major.
+I just happened to see geonosian, right?
+But Russian, coming back to Russian again,
+which was, in a lot of ways,
+maybe not my first love.
+Maybe Spanish was there,
+but still,
+it was definitely one of my more passionate affairs.
+My wife, of course.
+Yeah, winning, but still.
+The Russian case system is really complex.
+We've talked about nominative and accusative,
+where nominative marks the subject,
+and the accusative marks the direct object,
+the thing that's being thrown,
+the thing that's being seen.
+There's also the dative case,
+which marks a recipient.
+Something like,
+I gave Lisa flowers,
+Lisa would be the recipient of the flowers, right?
+Genitive case,
+the possessor.
+So the thing that possesses something goes in genitive.
+The locative case shows the location of an event.
+Instrumental case shows a tool
+or an instrument being used to accomplish something.
+And it formerly actually had a vocative case,
+where you call out somebody's name,
+you'd put that in vocative.
+So the genitive case marks possession,
+generally speaking.
+It allows you,
+well, genitively speaking, I suppose.
+The genitive case allows you to put
+who owns something
+or who has something in their possession.
+So if I have a sentence like,
+I see the dog's ball.
+I see the dog's ball.
+In that case, I go into nominative case
+because, well,
+nominative case is,
+I'm the subject, right?
+The ball is accusative.
+That's the thing that I'm seeing.
+And then the dog owns the ball.
+So the dog is put into genitive case.
+Similarly, if I see John's book,
+John goes into the genitive case
+because John is the owner of the book.
+In some ways, the English z,
+like putting the apostrophe s,
+is genitive-y,
+although it's not obviously quite the same thing.
+So that's genitive case in action.
+Locative case marks the location of events,
+where something took place.
+It's also called prepositional case
+sometimes in Russian.
+But the locative case
+would be something like this.
+I live in California.
+Я живу в Калифорнии.
+In this case,
+я живу is I live,
+past tense,
+or I'm sorry,
+present tense, that is,
+nominative case for me,
+locative case for California
+because California
+is the location of that living.
+Instrumental case
+marks an object being used
+to accomplish a task
+and sometimes something
+that you accomplish something with.
+So Andres пишет карандашом.
+So Andres writes with a pencil.
+Andres goes nominative,
+write third-person singular,
+he writes,
+with a pencil.
+Pencil goes into instrumental case.
+We don't need any prepositions.
+It's just карандашом.
+And because of that case ending,
+we know that that's what he wrote with.
+Similarly,
+I eat borscht with sour cream.
+Я ем борщт со сметаной.
+We put sour cream
+in the instrumental case.
+Even though it's not technically
+like you're eating the borscht
+using sour cream,
+it can still have that meaning
+of I ate it with that
+as an accessory.
+So instrumental case does that.
+And then finally,
+maybe finally,
+dative case.
+It marks the indirect object
+or the recipient of an item.
+So something like
+Кевин дает святи Лисе.
+Kevin gave Lisa flowers.
+Kevin, nominative.
+Flowers, accusative
+because they're the thing being given.
+And then Lisa is the recipient.
+Lisa is the beneficiary
+of the flowers.
+Анчелади не дала Нилу.
+So in this case,
+анчелада is an accusative case.
+They're what are being given.
+I am in the dative
+because I'm receiving the anchiladas.
+And then past feminine
+and then Нилу
+is in the nominative case
+because she is the giver
+of the anchiladas.
+So in this case,
+we would have мене,
+the мене,
+that is the dative form
+for first person singular.
+You can also use dative
+for goals and beneficiaries.
+Like я помогаю Кевину.
+I helped Kevin.
+Or I'm sorry,
+I'm helping Kevin.
+That would be
+I am in the first person singular
+nominative form.
+So I am me
+and I'm doing the action.
+And then Kevin is the recipient
+of the help.
+Kevin goes into dative.
+Similarly, Барак Обама,
+мне звонил Барак Обама,
+Барак Обама called me.
+I go into the dative case
+because I am receiving
+the phone call.
+I am the beneficiary
+of the call.
+And Барак is, of course,
+the nominative case.
+And no, he didn't.
+So if we put the sentence
+Joanie gave Dieter some pellets
+into Russian,
+what would the proper cases be?
+A. Joanie would be accusative.
+B. Or I'm sorry,
+Joanie accusative,
+Dieter dative,
+pellets nominative.
+B. Joanie nominative,
+Dieter dative,
+pellets accusative.
+C. Joanie nominative,
+Dieter accusative,
+pellets dative.
+Or D. Joanie dative,
+Dieter accusative,
+pellets nominative.
+Deserve some tea.
+So do you.
+Assuming you like tea.
+So if we do this correctly,
+Joanie is the giver, right?
+Joanie is the agent.
+So the Joanie should be
+in nominative case, right?
+So that narrows it down
+to B and C, right?
+Dieter is the recipient
+of the pellets.
+So Dieter needs to be
+in the dative case.
+And then that leaves us with B.
+And pellets are the thing
+that are being given.
+So therefore,
+we know the correct answer
+is B.
+The giver,
+the recipient,
+and the things being given.
+So that's the Russian case system.
+Nominative,
+accusative,
+dative,
+genitive,
+locative.
+And then instrumental as well,
+which is awesome.
+I had to add that in there
+because my prosody was wrong.
+I dropped on locative
+when I should have dropped
+on instrumental.
+See, prosody is magic.
+But it's actually
+much more complicated than this.
+The Russian case system
+is just amazingly complex.
+But I want to tell you about it
+because it has a major role
+in some of these things.
+And by the way,
+all this looks like argument roles
+we were talking about earlier.
+Wow, amazing.
+Now you know the Russian system.
+You're probably wondering
+why do you care?
+Even though you now know it
+just in case.
+Case.
+Okay.
+English is very capable
+of handling nominative
+and accusative, right?
+We have it.
+We have I and me.
+We have he and him, right?
+We can swap those things around.
+So English is okay with nominative.
+It's okay with accusative.
+Those things work out.
+Dative case doesn't work.
+We just can't even do dative case.
+We have trouble with this.
+And this in turn
+causes massive troubles
+for translation.
+This is the first time
+we've really talked about translation
+in this class,
+but translation is a really,
+really difficult thing
+because all of these
+different facets of grammar
+that we've talked about
+so far this quarter
+make languages differ
+from one another
+in a bunch of different ways.
+And they're awesome ways, right?
+The different elements of grammar
+make languages divergent.
+It makes them tricky sometimes.
+And individual unique properties
+of languages
+can make what they're expressing
+very interesting,
+very different,
+and very hard to express
+in another language.
+And this is fundamentally
+the problem that translators face, right?
+So imagine that you've got
+a crazy person,
+in this case, Fyodor Dostoevsky.
+And I say that with all the love.
+He's an amazing author.
+And you've written a book
+called Crime and Punishment.
+Here's my copy, actually,
+from college.
+Hey!
+But Crime and Punishment
+is just,
+it's an absolutely amazing book.
+It's absolutely nuts.
+It feels like a fever dream,
+basically,
+is the best way
+I can describe this book.
+But I was taking a class
+in Dostoevsky in college,
+because, remember,
+a Russian major.
+And I happened,
+I was reading this book,
+and then I happened upon a quote.
+And that quote
+sort of turned me into a linguist.
+This is the quote here.
+In Russian,
+Упокой, господь, мёртвых,
+оживим и сожит.
+This sentence
+turns out to be
+super-duper,
+duper hard to translate.
+What would,
+what does this mean in practice?
+One translation,
+and sort of
+one of the more authoritative
+translations,
+has this as
+God give peace to the dead,
+the living have still to live.
+That's a weird sentence, right?
+Another translation has
+May the Lord grant rest
+to the souls of the dead,
+and let life be the realm
+of the living.
+That is one Russian sentence
+up there.
+These two are
+very, very different
+translations, right?
+This has entirely
+different words in it
+that weren't present.
+Another translation,
+this one actually,
+which is, by the way,
+the one I generally
+recommend to people,
+English, well,
+to English speakers, yes.
+You would read it in English
+if you're an English speaker.
+But Pivir and Volkonsky
+do a great work.
+They have
+May the Lord grant rest
+to the dead,
+but the living have still
+got to live.
+This is, again,
+a third translation,
+very, very different.
+A little bit more similar
+to the Garnet translation,
+but still.
+And then, of course,
+everybody's favorite translator,
+Google Translate,
+God rest the dead,
+but still live alive.
+Yeah.
+So, why does this one sentence
+have such a diversity
+of translations?
+This one Russian sentence,
+how does it create
+all of this difference?
+Why is this so hard
+to translate?
+So, let's look at it.
+У покой господь мертвый.
+First chunk of this.
+If we were to break this apart
+into Russian morphemes,
+we have out.
+So that у at the front of it
+means like out or away.
+У покой means like
+уходи is like go away,
+get away from me.
+So that у generally means
+out or away.
+Rest is, well,
+to rest, right?
+And then this is imperative.
+This is a command,
+у покой,
+like rest,
+like rest somebody.
+And then God is the agent here.
+God is nominative case.
+And then the dead are accusative.
+So what you are saying is,
+hey God,
+make the dead rest,
+like rest the dead.
+This is not something
+that English can do, right?
+We can't use rest transitively.
+I can't, for instance,
+well, actually,
+I guess you can.
+You can rest a field
+or something like that,
+or you can rest a piece of equipment.
+I'm going to rest that tractor
+for a week to see if the oil,
+I don't know.
+But by and large,
+we don't do that in English.
+So having God as the nominative case,
+dead as the accusative,
+and then an imperative here,
+that's tough enough, right?
+And so this is a command.
+And they're not receiving the rest,
+by the way.
+The dead are not receiving rest.
+It's not like God give the dead rest.
+It's just like rest them.
+Put them down there and rest them, right?
+So this is tricky in and of itself,
+and it gives rise to different things.
+God give peace to the dead.
+So this makes some sense, right?
+Because you can give somebody peace,
+but you can't really rest somebody.
+So I can see why Constance Garnett
+might have gone this route.
+May the Lord grant rest.
+So okay, grant rest to the souls of the dead.
+Feels a little more dative,
+feels a little more recipient-y.
+And by the way, souls is nowhere in here.
+Russian has a word for soul,
+and it's not in that quote.
+But still, may the Lord grant rest
+to the souls of the dead.
+Kind of gives that feeling of like
+you're giving the rest to them, I guess.
+May Lord grant rest to the dead.
+So again, this is like giving the rest
+rather than rest them.
+And again, this is to the dead,
+so it's less like for beneficiary stuff.
+And then Google God rest the dead.
+That's actually kind of okay, right?
+Упокой, rest, and then God is there,
+and then the dead is just there.
+So they didn't bother with any of the flowery stuff,
+just like God rest the dead.
+Actually, at some level,
+Google Translate's got a point here.
+Оживим еще жить, the other half.
+But the living, dative case, still to live.
+That's all.
+But, а, еще, still, жить,
+is like the verb to live.
+But then there's this живим, living, dative.
+The act of living is what's continuing,
+the still living.
+So still living is that chunk there.
+But the living are not doing the living.
+The living are receiving their living.
+For the living, the living are the beneficiaries
+of that still living, right?
+They are receiving it.
+So how do you handle this in translation?
+English does not have a dative case.
+We are not able to cope with this.
+The living have still got to live.
+So what this is saying is like,
+almost as a feeling of obligation, right?
+The living have still got to live.
+That's very different.
+That's very, that's crazy.
+So this is very, very different
+than the original meaning.
+Like, this is an obligation for them.
+It is still ahead of them,
+when in reality, it's a gift,
+according to this dative, right?
+Let life be the realm of the living.
+Okay, David McNuff.
+But the living have still got to live.
+This is interesting.
+Have still got.
+Like they've still received.
+But even still, this feels a little bit off.
+There's no real good way in English
+to handle that dative stuff.
+But still live alive.
+Yeah, no.
+Je vime.
+Yeah, that's, that's, yeah,
+those are the alive people, right?
+And I mean, they got all the words, but no.
+This is, none of these are really,
+strictly speaking, faithful
+to what's actually going on here.
+None of them really capture the dativeness.
+The fact that the living
+are the recipients of this.
+And all of this, by the way,
+ignores conversational context.
+All of this, the context, of course,
+being they just found out
+about somebody's death,
+and somebody was trying
+to kind of manically move them,
+because manic, Dostoevsky,
+manically move the conversation along.
+Well, okay, God grant rest of the dead,
+but the living, we've still got to live.
+Yeah.
+But it ignores all kinds
+of connotational information
+and things like that,
+and that's yet another thing
+that you have to worry about
+in translation.
+But you end up with all kinds
+of different translations.
+The translation I'm giving this,
+based on, you know,
+linguistic discussion,
+based on serious linguistic business,
+is this.
+God, take the dead and rest them.
+But those living
+are still given a life to live.
+Now, this is awful, right?
+I hope that given everything
+we've talked about,
+you understand that
+that's pretty accurate.
+We've got God.
+You're giving God a command.
+You're telling him
+to rest the dead directly.
+But those living, the jivim,
+still are given a life.
+They still have that life
+given to them, dative, to live.
+This is pretty accurate,
+but it's awful.
+It's a terrible English sentence.
+And think about it.
+Look at all these translations.
+Given what you've said,
+or given what we've said here,
+which one of these feels best?
+Which do you find
+is most pleasing to read?
+And if you choose
+the Google Translate one,
+I'm going to be a little sad.
+For most people, in practice,
+the one that they like most
+is probably B.
+B is the Peaver and Volkonsky
+translation.
+This is a very English-forward one.
+They've done a pretty good job
+of balancing the needs
+of the Russian and the English,
+but it's still a thing.
+And this is always a tension.
+As you are doing translation,
+you have to decide
+whether you want to favor L1,
+the original language,
+or L2, the language
+that you're moving into.
+And as you're doing this,
+you have these competing constraints.
+On one hand,
+you want to make it accurate.
+You want your translation
+to be, well, accurate.
+You want it to sound right.
+But you also want it to flow well.
+You want it to be literature.
+You want it to be readable.
+If I were to go through
+and translate this book
+in the same way
+that I translated that sentence,
+it would be a cursed object.
+Like, I could hold this up
+at Muggers and they would run away.
+Like, that's the level of bad
+my translations would be there
+because I'm not a translator
+and I'm completely
+over-favoring accuracy.
+So my sentence,
+God take the dead and rest them,
+but the living are still
+given a life to live,
+is a horrible English sentence.
+And the Garnet translation,
+give peace to the dead,
+the living have still to live,
+that's not a terrible sentence.
+I'm sorry.
+But nonetheless,
+you will always have
+this kind of translation,
+this tension.
+Garnet is a little bit
+more faithful to the Russian
+than Pivir and Volkonsky.
+Garnet is also a good deal older.
+Garnet was a contemporary
+of Tolstoy.
+So this is an old translation.
+This is the one you find
+for free on Project Gutenberg
+and such.
+But still,
+at least I think that's on there.
+Yeah, it is.
+And Brothers Karmasov too.
+Anyways, this is a little bit
+less faithful than mine,
+but it's a little bit less flowy
+than the Pivir and Volkonsky
+translation.
+And then there's Google Translate,
+which is its own little bit of joy.
+But this brought me
+to a conclusion.
+As I was doing this essay,
+and this turned into
+an entire final paper,
+and God bless the instructor
+of that class,
+Vicky Hendrickson,
+absolutely amazing instructor
+at CU Boulder.
+I dropped this proposal
+on the table,
+like I would like to do
+my entire final project
+on how to translate
+this one sentence.
+And she kind of looked at me
+like, okay,
+I don't understand you,
+but I'm in.
+Yeah, sure.
+Let's do it.
+And so I did it.
+And the end result of this
+was like, oh God,
+this isn't a science.
+Translation is art.
+Translation is really difficult.
+You cannot capture
+Russian nuance in English
+and vice versa.
+And all of the translations
+are going to either favor
+the original language
+or favor the new language,
+favor the L1 or the L2.
+And so you need to learn,
+by the way,
+as a consumer of translated goods,
+which you prefer.
+Some people prefer
+reading books
+that are very faithful
+to the original.
+Some people prefer
+reading very flowy books.
+I think a lot of people
+will prefer
+the very flowy versions.
+But you learn
+which you prefer
+and then you use it.
+And translation theory
+is yet another branch
+of linguistics
+that struggles
+with exactly these issues.
+But it led me to the feeling,
+and this is a well-known quote,
+that all translations
+are well-meaning lies.
+And it's true.
+It really is.
+There is not accurate translation.
+There can be.
+I mean, in some cases,
+saying yes and saying yes
+like, see, yes, hey, accurate.
+But by and large,
+any translation worth a damn
+is not going to capture
+exactly what was said.
+This is part of the reason
+that I have so much respect
+for translators,
+for interpreters,
+for people who are able to sit,
+for instance,
+at the front of a classroom
+and in real time
+interpret one language, English,
+into another language,
+for instance, ASL,
+and to do it with any degree
+of accuracy,
+with any degree of flow
+and faithfulness.
+This is an amazing...
+I have so much respect
+for translators.
+But it's important to remember
+that at the end of the day,
+it's not perfect, right?
+This is an art,
+not a science.
+And the people doing it
+are amazing artists.
+But it is not exactly faithful,
+right?
+Every translation that you read
+is not the same thing
+as the source text.
+And in fact,
+this has been shown
+over and over again.
+Different cultures around the world
+have different views
+on translation.
+For instance,
+I believe it is the case
+that in Islam,
+the Qur'an is not...
+You haven't read the Qur'an
+if you've read a translation of it.
+You need to read the Qur'an
+in its original Arabic
+in order for you
+to sort of be seen
+as actually studying it.
+So this is...
+That's a very strong take.
+Like there is not...
+Like translation
+is not good enough for this.
+And so thinking about translation
+as well-meaning lies
+is helpful.
+But this broke me.
+This broke me 100%,
+because at the moment
+I was doing this,
+I was thinking,
+Oh God,
+I want to be a translator.
+And yet,
+I don't know
+that I can do this.
+How is anybody supposed
+to translate anything?
+How...
+Is accurate translation
+even a thing?
+Is inaccurate translation
+even a thing?
+I was scared.
+I was genuinely like...
+And look,
+as far as,
+you know,
+crises of identity go,
+this one wasn't so bad.
+But still,
+oh my God,
+I needed help.
+I was completely lost.
+So I took Ling 101.
+I thought,
+Okay,
+you know what?
+Let me see
+what the linguists
+have to say about this.
+What do they do anyway?
+They just speak a bunch
+of languages.
+What do they know?
+And so I walk in,
+Ling 101.
+Hey,
+how many languages do you speak?
+No,
+I don't think I...
+I might have done that.
+Let's be real here.
+So I took Ling 101.
+I took it with this guy,
+Zygmunt Freisinger.
+CU Boulder.
+Absolutely amazing linguist.
+He's a field linguist
+specializing in languages
+of Africa,
+actually Hausa,
+as well as related languages
+a great teacher for 101.
+And I took the class.
+It was like,
+oh my God,
+this is awesome.
+They're engaging
+with all the stuff
+that people don't talk about
+in these language textbooks.
+They're talking about the sounds,
+not the writing system.
+They're talking about
+these weird changes
+that keep happening
+at the end of these words
+in Russian
+that no one really talks about.
+Like,
+oh my God,
+we're engaging with it.
+It's right there.
+People talk about
+this stuff directly
+rather than beating around
+the bush in textbooks
+and making you
+memorize dialogues.
+I'm not memorizing dialogues.
+I'm memorizing grammar.
+And so I took Ling 101
+and I declared
+a linguistics major
+like halfway through the class
+because I was hooked.
+I wanted more.
+And then I took phonetics
+the next quarter.
+And then I took
+morphosyntax.
+They were combined
+at that school.
+And then I took phonology.
+Then I took the equivalent
+for Ling 8,
+language in U.S. society.
+Then I took semantics.
+I took pragmatics.
+Then I did some
+independent studies
+on translation theory.
+And then,
+by the way,
+you should do this.
+If you have anything
+that you're really
+passionate about,
+start talking to faculty
+in your department
+and see if anybody
+would be willing
+to supervise
+an independent study.
+It's a great experience
+for everybody involved.
+But then,
+at that point,
+after I took
+all these classes
+as an undergrad,
+I realized,
+oh my God,
+I'm this.
+This is me.
+I like this stuff.
+I want to keep doing this.
+And I couldn't picture
+doing anything else
+with my life
+but to keep going.
+And so that's why
+you start looking
+at grad schools.
+And I'm going to be real
+with you here for a second.
+Grad school,
+particularly in linguistics,
+is the easiest thing
+you can imagine
+doing with your life.
+If you're thinking,
+well,
+I could go to grad school
+with linguistics
+or I could be perfectly
+happy doing X,
+chances are the easier path
+is going to be doing
+something else
+in your life.
+Right?
+Just,
+it's not a straightforward path.
+So I started looking
+at grad schools though
+because for me,
+it was just like,
+I can't not think
+about vowels.
+I can't,
+I'm going to do this anyways.
+I might as well
+maybe get paid
+for it someday.
+Right?
+So I looked at grad schools.
+I'll put a link about that.
+But it was for me
+and I got into
+one of my grad schools.
+One out of the four
+I applied to.
+I got into one.
+One!
+But that's okay.
+That's all I needed.
+Right?
+It was sad
+and my application
+was hot garbage.
+I'm going to be real
+with you here.
+In retrospect,
+ooh,
+I'm glad I got into one.
+And I stayed at
+CU Boulder actually.
+They accepted me
+into their program there
+and I got my,
+I started grad school there.
+And so if you want
+to go into linguistics
+grad school,
+it's going to look
+a little bit different
+than every program,
+but chances are
+you're going to take phonetics,
+you're going to take phonology,
+and morphology, syntax,
+semantics, pragmatics.
+Weird.
+That looks a lot like
+the structure of Ling 101.
+Amazing.
+It's almost like
+patterns repeat.
+Whoa!
+Nesting?
+In my linguistics?
+It's more likely
+than you think.
+So I went to
+linguistics grad school
+and I started taking
+these classes.
+But I also took classes
+like field methods.
+Field methods
+is an amazing class
+and if you have a chance
+to take it,
+once you've got some more
+But the idea with field methods
+is they sit a small
+number of people
+down in a room
+with a speaker of a language
+and no one speaks.
+They say,
+okay, go, figure it out.
+Boom.
+That's it.
+And you're there
+with a faculty member
+and they're willing,
+they're able to kind of
+guide you through
+the process of going,
+okay,
+uh,
+huh,
+how do you say fish?
+Let's start there.
+And then you move on
+and move on and move on
+and move on.
+But field methods covers
+how you actually do
+field linguistics.
+An amazing class.
+Then I took more courses
+in computational linguistics.
+Oh my God,
+that's amazing too.
+Language acquisition,
+phonetic theory,
+because at that point
+I knew I was a Ph. linguist.
+Right?
+There's this common distinction
+that we discuss
+in the linguistics community
+between Ph. linguists,
+phonetics, phonologies,
+or P-side linguists.
+Phonetics, phonology,
+sometimes morphology
+falls there,
+and S-linguists,
+syntax, semantics,
+and often pragmatics
+falls there too.
+I knew I was a P-side person.
+That was just how
+my brain worked.
+And so I went deeper
+in phonetics
+and phonology and such.
+I took diachronic linguistics,
+looking at language reconstruction,
+that kind of thing.
+Took statistics,
+because that's going to be
+increasingly useful
+as we go through the world.
+Right?
+And then I did the
+LSA Summer Institute.
+This is an awesome experience.
+You can do this as a grad student
+or as an undergrad actually.
+It's every two years,
+and in 2021
+it's at UMass Amherst,
+I hope.
+But that's a link
+to check it out there.
+And then there you go,
+basically you pick a school
+and then they just send
+all of the linguists there.
+You get professors
+from all around the country.
+This is the
+Linguistic Society of America.
+So professors from
+all around the country
+apply to teach classes there
+and they choose the classes
+they like most.
+And then they all go there
+for about a month
+and then a bunch of students
+come there for about a month
+and you all stay there
+and it's just this gigantic
+linguistic-y nerd fest.
+And it's absolutely amazing.
+You'll also be put to work,
+whether as a TA
+or a graduate instructor
+in grad school.
+Right?
+Many of your,
+well all of your graduate TAs
+are doing exactly that
+right now.
+You are in a classroom.
+You're working with students
+or maybe you can be
+a researcher too.
+Pardon me.
+For some of my time
+in graduate school
+I was on research projects
+rather than teaching.
+Well I love teaching
+so I'm very happy to be here.
+But anyways,
+working on and managing
+research projects
+is another possibility.
+You'll also write large papers
+both for publication
+in journals
+and also for the department itself
+alongside your coursework.
+So there will be
+two or three major papers
+that you'll write.
+Dissertation proposals,
+experiments,
+things like that.
+And then after all that
+you write a dissertation.
+And a dissertation
+in a doctoral program
+is a very large research project
+where you just advance
+the knowledge of the field
+just a little.
+Like if this is how much
+we know as a field,
+your dissertation does that.
+Just a little tiny bit
+more knowledge
+sticking up past there.
+You're advancing
+the knowledge of the field
+just a little tiny bit.
+Mine was on the acoustical
+and perceptual features
+of vowel nasality.
+Basically if I say E, E,
+how can you hear
+the difference there?
+Really little tiny subject
+but still 160 pages?
+A lot.
+It was a lot of work.
+And then I got a PhD.
+Here's me in a nerdy hat.
+And here's my dissertation advisor.
+This is Dr. Rebecca Scarborough
+at CU Boulder.
+An absolutely wonderful linguist.
+Then I went on
+and I got a postdoc.
+So very often
+after you get your PhD
+you go in the job market.
+And maybe in a perfect world
+you go immediately
+into a faculty position.
+Some people pull it off.
+It's absolutely amazing.
+I ended up going
+into a postdoc
+which is a postdoctoral
+research fellowship.
+In this case
+the University of Michigan
+and specifically
+a couple of folks
+in their phonetics department
+needed somebody
+who worked on vowel nasality.
+It was like,
+that's like me
+and ten other people.
+Oh my God, yes.
+I am there.
+And so I was in Michigan
+for a few years.
+And while I was there
+I was doing my own work.
+As a postdoc
+I was working
+on some of my own stuff.
+I published my own papers.
+I was helping other folks
+work on their research.
+I was running a lab for them.
+I advised grad students
+and undergrads.
+Grad students would come in
+and go,
+Will, I've got problems.
+And I said,
+Here, have a seat.
+We can work.
+And advising undergrads as well.
+Guiding research projects.
+Sometimes you teach
+courses in postdocs.
+I didn't.
+That made me a little sad
+but that's okay.
+That wasn't the nature
+of my postdoc.
+But it's a time
+to grow as a scholar.
+It's a time
+to get publications.
+In my case it was huge.
+I got so much out
+of doing that
+because it was
+a different department.
+It was a different
+set of problems.
+And I was forced
+to try things
+that I hadn't really
+tried before.
+So linguists actually
+have a number
+of jobs available.
+Both in the academic world
+as well as outside it.
+So we should talk about
+a couple of those things
+out there.
+One thing that's actually
+a lot of folks
+don't quite realize
+is that linguists
+make great data scientists.
+Because at some level
+we're great at patterns.
+That's what we do.
+Chances are if you're
+in this class
+and you're loving it,
+you're loving finding patterns.
+In data sets.
+In language generally.
+In sentences.
+We're good at chasing down
+and finding little
+fiddly patterns
+and making rules
+and things like that.
+So for data science
+that's a really good skill.
+The other thing is that
+linguists usually have
+experience working
+with language data.
+And so often now
+data is not just
+in numbers,
+it's in words.
+It's in sentences.
+People are collecting
+even in marketing forms
+like how do you feel
+about this product?
+And that's really hard
+to deal with
+if you're only able
+to deal with
+one through five.
+So linguists are very,
+very commonly
+pulled into data science
+these days.
+And a lot of people
+who've decided
+not to go the academic route
+have decided that
+data science is a great
+place to end up.
+Industry also loves
+computational folks.
+So if you have any
+computational background
+you should be able
+to find something.
+For instance,
+text-to-speech,
+which is how Siri
+knows how to talk to us.
+And automatic
+speech recognition,
+which is why Siri
+has trouble listening
+to us, right?
+All of those things
+are definitely
+computational linguistics
+worlds.
+If you're curious
+at all about this,
+take Ling 6.
+It's a really good
+intro to this.
+It's at a very
+accessible level.
+And you'll be prepared
+for it because
+you've taken 101s.
+You know some of the
+other, you know some
+of the basic concepts
+we're discussing,
+but there we'll be
+applying them
+directly to computers.
+So places like Google,
+Facebook, and Apple
+are absolutely hiring.
+And they want linguists
+desperately to be able
+to analyze these things.
+The Department of Defense,
+at least here in the U.S.,
+loves linguists.
+Like the NSA, CIA, FBI,
+all want linguists
+for analysis.
+Because not only
+are they interested
+in doing things like
+computational linguistics
+and all the kinds
+of tasks generally,
+but also things like
+regional linguistics.
+Okay, for instance,
+if there's a conflict
+in an area of the world,
+they might want
+somebody to go there
+and figure out,
+okay, what are
+the different dialects?
+That way, if they get
+a phone call,
+they can figure out
+who's talking, right?
+These are the kinds
+of things that linguists
+do and many, many more.
+I can't give you
+concrete examples
+because it's classified.
+But if that's something
+you'd be comfortable doing,
+this is a really
+good place to go.
+There's also translation
+opportunities like crazy.
+Linguists definitely
+can make great translators.
+There's also language
+teaching, like at the
+Defense Language Institute
+in Boston.
+So there's that.
+The Department of Defense
+definitely has jobs
+for linguists.
+You can teach English
+as a second language.
+It seems these days
+like everybody wants
+people to teach English
+as a second language.
+It's a really common
+desire, right?
+And so if you have
+language, namely English,
+and you're willing
+to travel,
+you've probably got a job
+and you can probably
+be making a competitive
+wage someplace overseas
+where maybe the cost
+of living is lower.
+So teaching English
+is another way
+and a really common thing
+that people do
+even after a bachelor's
+in linguistics, right?
+So this is a common path.
+Speech pathology
+and audiology
+are another great place
+that linguists end up.
+Helping children
+and adults with speech
+and hearing disorders
+is a common way
+that people do this
+because phonetics
+is often studying
+how this works sort of,
+I don't want to say
+normally necessarily,
+but without pathology.
+When you get into pathology,
+it's like, okay,
+why is this person
+struggling to make this sound?
+And working through them,
+coaching that.
+And then audiology
+and hearing science
+are really interesting.
+You work with all sorts
+of questions about,
+you know,
+why is speech perception
+hard for this person?
+What can we do
+to help repair the ears?
+Or in other cases,
+what can we do
+to make people,
+to allow people
+to live the best life
+that they can
+with whatever hearing loss
+that they have?
+Whether that's
+in counseling them
+towards interventions
+or in counseling them
+towards sign languages.
+So all of these things
+are possible.
+And so working with adults
+with speech and hearing disorders
+is really common.
+As is working with children
+with language delays.
+This is another area
+that linguists can go into
+where it's not
+maybe necessarily physical,
+it's not necessarily
+a hearing issue,
+but they just,
+they are delayed in language.
+So working with these kids
+is another common path.
+Then there are
+academic positions.
+Postdocs are becoming
+increasingly common.
+They're almost becoming
+increasingly necessary.
+Fewer and fewer people
+are getting
+a tenure-track job
+immediately out of academic,
+out of their PhD, that is.
+You also get things
+like administrative positions
+or lab management positions
+or researcher positions,
+although those are
+relatively rare.
+But the thing is,
+most folks want to do
+what I'm doing.
+We want to be
+a tenure-track professor.
+And as a professor,
+you live a very strange life,
+but it's a good one.
+You have job security
+eventually,
+if you don't screw up.
+I don't quite yet.
+Hopefully I'll get tenure.
+Please, please,
+student evaluations
+help me a lot, right?
+Teaching professor, help!
+But you have
+job security eventually.
+Once you get tenure,
+that's important.
+You'll do some research.
+You'll also teach.
+And you'll do
+administrative stuff as well.
+And all three of those
+are a major component
+of my life,
+because a week
+is roughly spent
+doing those three things.
+And occasionally,
+I have a life
+outside of school.
+It's weird, right?
+You'll also have to do things
+like fighting for grant money
+or fighting for money
+within the university.
+But you do it all
+in the pursuit
+of a field you love.
+Remember,
+you're researching
+things that you love.
+If you love language,
+you're researching language.
+You're teaching Ling 101,
+which is amazing.
+You're doing
+administrative stuff
+that is maybe not
+things you love,
+but it's so that
+you can do more things
+that you do love up here,
+and so on and so forth.
+It's a joy.
+And so it's a wonderful position.
+But there is a big problem
+with planning to be a professor,
+and that is the linguistics
+academic job market,
+which is, I think,
+one of the circles of hell.
+Dante wasn't super clear about it,
+but I'm pretty sure,
+because it is very, very sparse.
+The academic job market
+is tough.
+Last year,
+there were seven...
+I'm sorry,
+this is a year prior.
+There were seven jobs
+in syntax
+at well-known schools total
+last year.
+I don't mean at the same time,
+because the job market
+for academics
+is usually year-based,
+so you have one application cycle
+every year.
+And last year,
+or the year before last,
+that is,
+there were seven jobs
+in syntax total,
+and that was
+an exceptionally good year.
+That was a crazy year
+for syntax.
+Everybody wanted
+a syntax position,
+and so you could probably
+find more
+if you were willing
+to look at schools
+that are lesser known,
+or if you're willing
+to look outside
+of the English-speaking world,
+you can find additional ones.
+But that was a really good year,
+and that's seven jobs.
+Competition is very,
+very fierce.
+Jobs will have
+100-plus applicants
+for one single position.
+Of those,
+maybe 10 will get...
+well, no,
+I guess it would be
+Zoom interviews, right?
+And three to six of them
+will visit campus,
+will actually get
+to give a job talk,
+will get to basically
+plead their case
+to the faculty themselves.
+And all of that
+is usually for one job.
+There are sometimes
+things where it's like,
+well, we have two jobs,
+and that's like,
+oh my God,
+yes, amazing!
+But it's really tough
+The advice that I got
+that is good and terrible
+all at the same time
+is wait your turn,
+you only need one job.
+And that got me there,
+but I'm not going to say
+it was easy.
+It was emotionally
+very draining,
+and the year that I got
+this position
+was the last year
+I was planning to apply.
+And so it is
+very, very difficult.
+The job market is tough,
+and so if you're looking
+at this going,
+oh, I'm going to declare
+a linguistics major,
+then I'm going to be
+a linguistics professor
+just like Will.
+I mean, ideally better.
+But nonetheless,
+great, have fun,
+but ooh, boy,
+you need to know
+that you want to teach.
+You need to know
+that you want to do research.
+You need to know
+that you want an academic job
+in order to put up with this.
+This is a very real problem.
+So it's not an easy life.
+The other thing to remember
+is that you're going
+where work is, right?
+I ended up in San Diego.
+I'm super happy about that, right?
+But the other jobs
+that I had applied for that year
+and that I was a candidate for
+were in Delaware and Vancouver.
+And so you're not really able
+to say, well,
+I want to live in,
+you know, Duluth.
+And be a linguistics professor.
+I mean, you could get very lucky,
+but chances are, no.
+You're just going to go
+wherever hires you.
+And so definitely make sure
+that your partner is mobile.
+You also need to be able
+to tread water financially
+for a while.
+Because grad school,
+you're not making great money.
+And you're taking a vow
+of fiscal renunciation.
+As an academic,
+you make some money,
+but you're not going to do
+anywhere near as well
+as some of your friends
+and family and industry, right?
+But still,
+after four long years
+in the job market,
+here I am.
+I'm actually getting to teach.
+And that's an amazing thing.
+I love it.
+The thing is,
+your life might not be like mine.
+In many ways,
+I really hope it isn't.
+But this part of my life,
+linguistics, language,
+and teaching languages,
+is an absolute joy for me.
+I have found
+a great deal of pleasure
+in looking at these questions
+that so many people
+leave behind.
+These things that
+so many people ignore.
+You might end up
+going a different route.
+You might choose
+industry over academia.
+And that's, in many ways,
+a great choice, right?
+You might choose
+to pursue linguistics
+as a component
+of a different career elsewhere.
+The fact is,
+there are many people out there
+who are linguists,
+but who've decided,
+you know what?
+I'm a linguist,
+but I really like computer science,
+so I'm going to really be
+the most linguistic-y
+computer scientist in the room,
+rather than vice versa.
+And that's completely reasonable.
+That's a good approach.
+And you might combine
+your love of language
+with your love of something else.
+All of these things
+are possibilities.
+And who knows?
+You might even be able
+to convince yourself
+after this class
+that you're a linguist somehow.
+Go figure, right?
+But your life
+could be like mine.
+And maybe you'll go down
+the rabbit hole.
+Maybe this class
+will do for you
+what 101 did for me
+and leave you feeling like,
+oh my God,
+I can't not do this.
+So remember back
+when we started,
+the very first video
+for this course
+about linguistics.
+I mentioned to you
+something that I really hope.
+My secret goal
+for this course
+is that someday
+you'll sit down
+someplace or another
+and you'll hear
+two people talking.
+And you will listen to them.
+And now,
+think about the complexity
+that you can see
+in that conversation.
+You'll see them talking
+and you'll look at
+their mouths moving
+and you'll be like,
+oh my God,
+their tongues are moving.
+They're doing alveolar,
+velar sounds.
+They're jumping back and forth.
+The movements,
+the voicing is turning
+on and off,
+on and off,
+on and off constantly.
+And then that's turning
+into little sound waves
+and going into their ear,
+which they're able
+to reconstruct
+even though it's bouncing
+off of the bus
+and everything like that
+Then they're turning that
+into chunks of sound
+which they're combining
+and they're understanding
+that this chunk of sound
+is different
+because it's next to this one,
+because of phonological rules.
+And then those two things
+combined make a morpheme
+and those morphemes
+stick together with these guys.
+And then suddenly
+that creates a brand new word
+in that sentence alone
+or maybe just generally speaking.
+Maybe it's a brand new
+derivational thing
+they've just done.
+And then those things
+get stuck together
+into bigger and bigger sentences.
+And those sentences
+are interpretable
+either,
+or maybe they're ambiguous.
+But still,
+we're able to interpret
+the meaning of those
+sentences
+in a certain way.
+Or maybe they're
+talking about
+being on the bus
+or having a specific force
+in the conversation.
+And then those two people
+are sitting there
+in a discourse context
+because they've been talking.
+They already know
+that they're talking about
+being on the bus
+or maybe they're talking about
+that cat they saw last weekend.
+There are so many parts
+of this conversation
+that you're not even aware of
+that they're able to understand
+but you are not
+because of discourse context,
+because of pragmatics.
+And through that process,
+through that process
+of flapping bits of meat
+around in their head
+and hearing those things
+and processing them
+they are able
+to share thoughts.
+And that is
+the coolest
+damn
+thing
+ever.
+And now you understand
+just a little bit more
+of how that works.
+So,
+you may live a life
+doing something else.
+But I hope
+no matter what
+you end up doing
+with your life
+that at some level
+you understand
+that language
+is the most amazing thing
+we ever will do
+as a species
+and that a life in language
+is a life worth living.
+So,
+thank you all
+so very, very much
+for joining me
+in this class.
+I hope that it's been
+interesting and entertaining
+for you
+and I very, very much
+hope that
+at some little level
+at some point
+in your lifetimes
+you choose
+and you are able
+to see language
+with the same sense
+of joy and wonder
+that I am
+and that so many of us are
+on a regular basis.
+So,
+thank you all
+and have an absolutely
+wonderful rest of your day.
+May your lives
+and language
+have already begun.
+Have a good one.

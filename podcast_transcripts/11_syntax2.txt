@@ -1,0 +1,897 @@
+Okay, hi everybody. Today we're going to talk a little bit more about syntactic phrase structure rules.
+Last time we talked about basic intuitions for syntax, namely that, wow, it sure seems like sentences aren't flat.
+Now we're going to think about how that might actually work in a grammatical framework.
+We're going to think about how could we write a rule that describes the structure of these noun phrases, verb phrases, prepositional phrases, that kind of thing.
+So today our general plan is going to be to, as soon as I get my remote working here,
+our general plan is going to be to talk about phrase structure rules, what those do for us, why do we even bother with them.
+We'll talk about tree planting generally. How do you make a tree in a linguistic context?
+So last time we talked about constituents as a raw idea. We gave you things like noun phrase, verb phrase, prepositional phrase.
+These chunks that sure feel like they belong together and these chunks that can move together.
+These chunks that seem to have some identity within the language. And so we talked about all of these things.
+Now the question is, okay, we know the world of syntax isn't flat.
+We saw from last time the world makes more sense if we think in terms of trees, if we think in terms of hierarchy.
+And we saw good examples of this, both from the existence of constituency itself to the idea of ambiguity,
+giving us further evidence that, you know what, this can't be analyzed as a single string of words all at the same level.
+And by the way, the rest of the world isn't flat either, but we shouldn't have to cover that anymore. I think we had that.
+Anyways, let's think a little bit more about the structures that we see within the syntactic world.
+And the way that we're going to do that is using phrase structure rules.
+So one way to think about this is, again, we've been talking over and over about grammar.
+And grammar as in the thing that is in the speaker's heads that allows us to do language, right?
+And we've thought about this in terms of phonology. Those two things can't belong together.
+It's wugs rather than wugs.
+This is yet another one of those cases where we have some intuitions inside our mind about what a noun phrase looks like in English.
+So for instance, the big strong rhinoceros works, right? That feels okay.
+The big quickly rhinoceros?
+Not quite so much. That doesn't fly. We're not allowed to have an adverb in the middle of this.
+The strong charged rhinoceros doesn't work at all, unless charged is an adjective.
+But if this is a verb, that can't work. You can't have a verb inside the noun phrase in that particular way, right?
+All of these things weren't legal.
+Same thing with a prepositional phrase.
+I saw her outside the barn. That's fine, right? No problem.
+I saw her outside fall over?
+No, because the prepositional phrase needs to have a noun it's relating things to, not a verb.
+I saw her outside beautiful. Aw, but not grammatical.
+And so even verb phrases have constraints.
+Things like, I hugged the small kitten. I small hugged the kitten.
+No, that doesn't work. The small needs to go with the kitten over there, right?
+I hugged gently the kitten?
+Ehhhh, I've had people tell me good, I've had people tell me bad.
+It's a thing, right?
+And sentences absolutely have rules in English.
+I can say Sam sent Amanda to the store.
+But I can't say sent Sam Amanda to the store.
+I can't say Amanda Sam to the store sent.
+I mean, I can, but no one understands me. It's not grammatical English, right?
+Unless Yoda you are, in which case, it's good to go.
+But there are lots of rules about these phrases that are inside our heads as speakers, as listeners.
+We understand, okay, that doesn't belong in a noun phrase.
+But how? What's useful there? What can we do with it?
+Well, this is grammar, right?
+And so this is one of the things that a good theory of syntax will do for us.
+It generates all of the sentences that speakers of language think are grammatical.
+So what we want from a good theory of syntax is to have a system that is able to create a sentence that will be grammatical.
+If I know, for instance, that I have the word penguin, I have the word polar bear, and I have the word chase,
+that will give us the biologically improbable sentence, the penguin chased the polar bear, right?
+Mostly because they're on different sides of the planet.
+Anyways, I digress.
+But we want a theory of syntax that can generate all of the sentences that speakers of a language think are grammatical.
+And we want it not to also generate things that speakers of a language think are ungrammatical.
+This second one is really important, right?
+Because I can generate, I mean, look, if I want to create a machine that guesses all of your birthdays in the room,
+I could do it just by cycling through every birthday.
+And it would work, it would be 100% reliable, but it would not be a good thing, right?
+Instead, we want to constrain it.
+We want to make sure that it's producing only the output we want.
+And so these two things combined give us a generative theory of syntax.
+And in fact, this idea here, the fact that something can generate a grammar,
+or a theory of grammar, that is, can generate all of the good stuff and none of the bad stuff,
+this is one of the ideas behind generative linguistics.
+You'll hear that phrase over and over again.
+A generativist is trying to design theories that will generate the good stuff and not generate the bad stuff.
+And so we're going to give you a very, very, very basic approach to this.
+Now, huge disclaimer time.
+Syntax is gigantic.
+Like I said, it's a subfield, it's huge, and there's so very much literature here.
+And we're only teaching a very small part of it that will handle a very small number of sentences.
+The rules that I'm giving you do not suffice for more complex sentences,
+because very often you need things like movement.
+You need to be able to move things around.
+You need more complexity than any of these rules will allow you to do.
+He says, holding up a paper you can't read, than any of these rules will allow you to do.
+Right?
+And so the rules that you have do not suffice if you're looking at more complexity.
+The handout that I've put on Canvas will show you the rules that we do use.
+There are other sets of rules out there.
+Oh my gosh, there are other sets out there.
+So trust nobody else, not even the book.
+I don't even particularly love the rule set the book uses.
+It's very similar, but they've got some things in there that we don't need right now.
+So use the handout we're giving you.
+Also, realize that I'm going to be saying, oh, you know, yeah, that's true.
+That's a reason.
+For instance, you might give me a sentence and I'll say, oh, that's a great sentence.
+We can't handle that one yet.
+I'm going to be saying this.
+Don't worry about that a lot.
+No, no, no, nope, there were dragons there.
+Don't go there.
+I'm going to be doing that a lot this quarter.
+And so as a result, if you are really loving syntax, you should consider 101 syntax to be a teaser for 121.
+Because there you'll get a bigger picture.
+You'll be working with actual syntacticians who will give you a much better sense of how all of this can work in real life if you're trying to build a complete theory of English.
+And even still, a complete theory of English is very, very difficult.
+But you'll get a much bigger sense of it there.
+And you'll use a different set of rules there, by the way.
+But that's okay.
+So the phrase structure rules I'm giving you are very, very simple, right?
+A phrase structure rule is a thing that describes the sub elements which can form a constituent.
+Basically, I'm saying that X, for instance, a noun phrase, is made up of two other things or one other thing.
+A phrase structure rule just says these are the components that go within this kind of phrase, as well as giving us their ordering.
+That's really important.
+When I give you a list of rules, the ordering that I give these to you in is not, that's not changeable, right?
+If I say this becomes an N and then a PP, then it needs to be exactly that.
+And so we're going to be talking in terms of building trees, but really what we're doing is we're building sentences.
+In our minds, presumably, if this kind of a framework has cognitive reality, in our minds we are doing, we're building sentences.
+But in order to do that, we're using this hierarchy, right?
+And so syntax trees are built using these phrase structure rules.
+And so the format that I'm giving you is X goes to Y and Z.
+And so this is not necessarily transformative.
+This is a branching.
+If I have X up here, that means that below that there needs to be a Y and a Z in that order.
+That's exactly what we see there.
+So if I give you a rule that says this, S goes to NPVP.
+What that means is there's going to be an S node up at the top here, and then down here NP, down here VP.
+Easy, right?
+There are two things that go under an S node.
+One of them is NP, one of them is VP, and they occur in that order.
+So this is the way that you would look at these rules.
+The arrow simply means this.
+It means this thing turns into these two things here.
+And so this is how a phrase structure rule looks on paper, and this is how it looks in a tree.
+S becomes an NP and a VP in that order.
+Okay.
+So phrase structure rules are then building blocks of sentences.
+We build sentences by building chunks using phrase structure rules,
+and then we combine them into larger forms and larger forms and larger forms.
+In a lot of ways, these look like many of you might have played with these as a kid or, frankly, as an adult.
+I learned the name of these as tangrams, right?
+But these are a set of many shapes that you can combine in different ways to create many more shapes, right?
+You can turn these things into a sailboat or a goose or a camel or something like that.
+You're just putting things together in such a way that you've created a different shape, even though it's the same elements.
+So in a lot of ways, phrase structure rules work like that, right?
+We can have an infinite number of sentences.
+We've talked about this already.
+But those infinite number of sentences are built up of a finite number of rules.
+And so just by combining them differently, we get different sentence shapes.
+Then a quick note on notation.
+We're going to talk about three levels for nouns.
+We're going to talk about NP, which is a noun phrase.
+We're going to talk about N bar, which is this guy right over here, where you get that little bar there.
+That's N bar.
+And so that is an intermediate level.
+And then N is just the noun itself.
+So NP is the noun phrase itself.
+N bar, which is sometimes written like this, by the way.
+You might see this out in the literature.
+That's fine, too.
+But we're going to call it N bar.
+And that is an intermediate level.
+And then there is the N.
+And then I'm also going to be using these two things interchangeably, a real arrow and a fake arrow here.
+The real arrow and the fake arrow.
+This is just way easier to type, right?
+So you might be thinking at this point, wow, syntactic phrase structure rules?
+But really, syntactic phrase structure rules!
+No? Okay.
+All right.
+Anyways, how do we build these trees is the bigger question you're probably getting at.
+You've looked at the homework.
+You're like, oh, my God, we're going to have to build sentence trees.
+How do we do that?
+What do these phrase structure rules do to help us?
+How does any of this work?
+And so the way that you'll do this is first you'll go through a sentence.
+You'll look at a sentence and you will find the constituents in there.
+You'll use our constituency test to figure out, okay, what chunks go together here?
+And then for each of those chunks, you'll think, okay, what is this?
+Is this a noun phrase?
+Is this a verb phrase?
+A prepositional phrase?
+Maybe this is a sentence.
+Maybe it's a complementizer.
+But you'll think about what kinds of phrases you're looking at.
+So you might look down at a chunk and go, hmm, let's see here.
+From La Jolla.
+That's a preposition.
+There's a from there.
+This is probably a prepositional phrase.
+There's got to be a PP around here someplace, right?
+And then there are different ways that you can do this.
+But one way is to start from the top.
+Start from sentences and then move down the tree,
+stitching together all of those various phrase structures that you're ‑‑
+I'm sorry, well, stitching together all those constituents
+according to our phrase structure rules,
+using this to create these individual little phrase structure chunks.
+Some folks prefer to work up starting from individual phrases.
+You know what?
+That works fine, too.
+It's all good.
+But the top node, the very thing at the top of the tree for our class
+is always going to be S.
+This is not the case in all theories of syntax.
+Other theories of syntax might use different approaches.
+But for us, at least, the top node is always going to be an S.
+And so you want to make sure that every single branching,
+every time that your tree splits, make sure it's obeying one of our rules.
+Every split needs to be justified by something on this sheet of paper here.
+Right?
+So you'll need to think, okay, this is rule 9 here,
+and then that splits down to a rule 1 and then a rule 2, et cetera.
+And then after you've done this, you have a beautiful, beautiful tree.
+A couple of other rules for this.
+You always want to branch downwards.
+In this class, we're just branching downwards.
+This is a convention, but it's a good convention.
+It makes things easier.
+You never want to move upwards.
+You never want to have, like, a branch that goes down
+and then another one that goes back up off of it and then off to the new.
+Just always go downwards.
+Lines should never, ever, ever cross.
+You don't want this to be the case.
+It doesn't make sense for it to because this is strictly hierarchical.
+They don't need to.
+And if you think they need to, you're probably doing it wrong.
+Come talk to us in office hours.
+And then you will not have any 3 or 4 or 5 or 6 or 10-way branching in Ling 101.
+Every branch will either have one connection down,
+so every little node, every NP, for instance,
+will either go down to one connection below it or to two.
+But we won't do any 3-way branching.
+There are arguments of syntax that allow 3-way,
+or theories of syntax, that is, that allow 3-way branching.
+And some of them are quite compelling,
+but for this class, we're keeping things simple.
+You will either have one going down or you'll have two going down,
+but you'll never have three.
+And then finally, some branches might end up having two words.
+So, for instance, Will Styler probably doesn't have any syntactic internal structure to it.
+But on your homeworks, I'm going to give you one-word chunks.
+So Mai Tai would be another example of, like, it's technically two words.
+It's got a space in the middle, but it's not like Mai is a type of Thai,
+or something like that, or back up your computer.
+Yeah, one could pretty much argue that that's a single chunk, right?
+And then, again, use the phrase structure rules we give you on the handout.
+Don't use other people's rules, because we will mark it wrong.
+In some cases, you know, we might understand it,
+but it's still going to be wrong because you're meant to use these rules.
+This is for your protection as well as for ours, frankly.
+So let's talk about these rules one by one.
+We'll start off thinking about noun phrase rules,
+because noun phrases are very intuitive for a lot of folks, right?
+So a noun phrase, the first rule that you'd want to deal with
+is that a noun phrase generally has a determiner and an end bar.
+And then the end bar goes, and we'll talk more about why we have end bar in a second here.
+But the end bar then becomes a noun, right?
+So we go from noun phrase to determiner, like the,
+and then an end bar, and then the end bar goes straight down to a noun.
+So this gives us something like the cat.
+The is a determiner.
+We don't use a determiner phrase here.
+We just have the noun phrase here, and then end bar goes to end, goes to cat.
+It's important to write this intermediate level.
+You'll see why in a little bit here.
+But using these two rules, we can describe the phrase the cat, right?
+Very simple noun phrase, but we'll use these two rules to do it.
+You might be thinking to yourself, well, but there aren't always determiners, right?
+There could be something like, you know, cats see dogs.
+Right there, those are two noun phrases, cats and dogs, but without a determiner.
+In this case, we have a different rule.
+We have a rule that says NP just goes to end bar, and then end bar goes to end.
+This is the rule that we've just seen already.
+We've already played with rule three, but if you combine rules two and three,
+you can deal with something like Will Styler or penguins, where there is no determiner.
+So by using rules two and three together, you can get this little chain here.
+Rule two at the top, then rule three right here.
+And that gives us the right structure for this little chunk here.
+Good? Happy?
+Okay.
+Adjectives.
+So for adjectives, we need to throw in an additional rule here.
+And that rule is that end bar goes to an adjective and then another end bar.
+This is cool.
+The fact that end bar can contain another end bar is recursion.
+This allows us to keep adding things in there.
+So we can combine rules one, rule four on the end there, and rule three to get something a little fancier.
+This is supposed to be the cute cat, but for some reason it's cut off at the moment.
+But there's a cat down there, I swear to you, and he's cute.
+So in this case, NP goes to end bar, the cute cat.
+Or here's a different one, some angry koalas.
+In this case, we see the determiner here.
+Then we go to an end bar.
+But rather than just going straight to koalas, so end bar to end, we go end bar goes to an adjective and an end.
+And so we put in the angry and then koalas.
+So this is three different rules.
+Rule one gives us this top split here.
+Rule four gives us this intermediate split.
+And then rule three gives us this split over here.
+Nice.
+Easy.
+So this is how we would create that sentence structure.
+But like I said, rule four is recursive.
+Rule four can repeat and repeat and repeat and repeat and repeat and repeat over and over again.
+Because the end bar contains yet another end bar.
+And this can apply as many times as you need.
+Again, recursion.
+Or here's another great picture of recursion with Noam Chomsky holding a picture of recursion recurringing.
+It's kind of amazing, right?
+So nonetheless, we can have the cute cat, right?
+This is a perfectly reasonable sentence.
+But we could add another adjective in there.
+And to add another adjective, all we would do is use recursion.
+We would put underneath the end bar another adjective to end bar.
+And so we now have two adjectives.
+The cute black cat.
+And then we could do it again.
+Under this end bar over here, we could put another end bar.
+Or we could do it at the top.
+I forgot which way I did it in this one.
+But we did.
+Now we've got the tiny cute black cat.
+So the end bar can insert here again.
+And we can keep going.
+The little tiny cute black cat.
+And we can keep going.
+The little tiny cute black stray cat.
+We just keep creating new end bars here.
+And we can keep adding new adjectives in there.
+So you might be thinking, okay, this is great.
+But why end bar?
+Why do we use end bar rather than just NP there?
+This is pretty straightforward, actually.
+What we use, the reason we have end bar is because of this determiner here, right?
+That determiner has to be in a certain position.
+It is ungrammatical to say little the tiny cute black stray cat.
+That doesn't work.
+Or little tiny the cute black stray cat.
+No.
+Little tiny cute the black stray cat doesn't work.
+Little tiny cute black the stray cat doesn't work.
+And little tiny cute black stray the cat doesn't work.
+The only structure that works is one where the determiner is outside all of these adjectives.
+So we know that the determiner has to be at a level outside of the adjectives.
+And if all of these were NPs, then we could put an NP with a determiner at any point in this.
+And that would be predicted to be grammatical.
+That would predict something that is not okay.
+That would go against our fundamental rule of generate all the good stuff and don't generate crazy things.
+And so we use NP here to say the NP level can take a determiner.
+But the N bar level, oh, it can do adjectives.
+It can do a bunch of stuff with an N bar.
+But you sure can't add a determiner in there.
+And so by having this structure, by having NP, then N bar, then N, we are able to capture this intuition.
+Determiners go outside the adjectives.
+But you can have as many adjectives as you'd like in the middle there.
+So this is why we have N bar.
+It allows us to do this.
+And so it seems at some level like why are you overcomplicating things if you're just looking at, for instance, the cat.
+Where you see NP, then N bar, N.
+But in practice, for something like this, it pays off.
+It describes the data better.
+And if something describes the data better, as linguists, that's a win, right?
+We want that thing.
+So you can do that.
+And you can keep going and going and going and going forever.
+But that's the power of recursion.
+And that's the power of N bar.
+And that's the reason we have N bar in there.
+Prepositions, what about them?
+Linguists love prepositions.
+So for prepositions, we have two rules that give us prepositiony things.
+Well, actually, we've got some other rules involving prepositions.
+But for the moment, we'll focus on this one.
+First one is NP goes to NP and PP.
+So a noun phrase contains a noun phrase.
+Whoa, recursion!
+As well as another prepositional phrase.
+And then a prepositional phrase contains a preposition and a noun phrase.
+Neat.
+Let's see how these work in practice.
+The dog from the future.
+Okay.
+So in this case, what we have here is a noun phrase that contains a noun phrase.
+The dog.
+Because this is a complete noun phrase here.
+It is a complete constituent described by, I think this is rule 1 and 3?
+Yes.
+Yeah, rule 1 and 3.
+So rule 1 and 3 gives us this chunk over here.
+And then we use rule 5 up here.
+Yes, that's rule 5.
+And then rule 6 over here.
+So now we have the dog with a prepositional phrase modifying it.
+With a prepositional phrase attached to it.
+Then within the prepositional phrase, we have a preposition.
+Whoa, what a shock!
+And then a noun phrase next to it.
+So the preposition and then the thing it's describing the relationship with.
+In this case, the future.
+So by doing this, we have one complete chunk.
+The dog from the future.
+If I have the sentence, I saw the dog from the future, I could say, I saw him.
+And that works, right?
+I saw him replaces this entire chunk, so we know it is one entire chunk.
+We know it's all one big NP.
+So by doing this, we can do that.
+So this gives us the power to start doing more complicated things.
+I can say something like, two computational linguists from San Diego.
+You have the rules to diagram this.
+So what I encourage you to do right now, your life will be much better if you pause the video and try and diagram this chunk out.
+You don't have to start from S here.
+In fact, the whole thing is a noun phrase.
+But I want you to go ahead and try and diagram this out while I drink some tea.
+Pause the video.
+Good?
+Okay.
+Cool.
+The way that we would do this is as follows.
+Two computational linguists is itself an NP.
+It is a chunk.
+I could say, those from San Diego.
+That works.
+Or who from San Diego?
+I can replace this.
+This is a chunk.
+And from San Diego is similarly a chunk, right?
+Two computational linguists.
+I could say which two computational linguists or something like that.
+Or from San Diego, two computational linguists came.
+Something like that.
+Either way, you can replace both of these chunks.
+So these are all chunks.
+And they all go under an NP.
+The first NP has a determiner.
+In this case, two.
+Two can be a determiner, by the way.
+We talked about determiners as being a or the, but this can be a two.
+This can be a determiner as well.
+Right?
+You also have an adjective here.
+So you need an N bar.
+And then linguists.
+That's fine.
+And then from San Diego has a PP.
+From and then San Diego.
+Why is San Diego a single chunk?
+Well, San Diego isn't really two things, I would argue.
+It's not, for instance, there's San Diego and Maldiego.
+It's not like there are two separate cities here.
+I'd say San Diego is a single unified chunk.
+There aren't different Diegos we have to worry about here.
+So now we can make a sentence.
+Pardon me.
+Now let's think about how we would make that sentence.
+So rule seven gives us the fundamental.
+This is the thing that starts off at the top of every tree.
+So a sentence goes to an NP and a VP.
+Period.
+Every sentence in the English language has a noun phrase and a verb phrase.
+You can create incomplete sentences.
+Like, for instance, walk.
+And in that case, that's kind of complete.
+It's a command.
+They're weird, right?
+But every sentence by and large will have an S, an NP, and a VP.
+And then for a verb phrase, a verb phrase can be very simple.
+It can just be a verb, right?
+So I can say I see.
+Cool.
+I see.
+I'm seeing right now.
+Amazing.
+I talk.
+I rant.
+All of those things are a thing.
+So a very, very simple sentence could use rules two, three, seven, and eight.
+So we would use rule seven gives us S to NP, VP.
+Rules two and three give us NP, N bar, N, will.
+And then rule eight gives us VP to V, eight.
+So we have will eight.
+This is a complete sentence, and this is a complete tree.
+Very simple tree, but a good one.
+But we might want to add more complexity in there.
+For instance, a VP becomes a verb and a prepositional phrase.
+So it's not just the case that will eight.
+If I wanted to say will eight behind the theater, I could do that.
+I could say will eight outside APNM.
+Great.
+That works.
+And so now this part here is the same, right?
+We still have a rule two to three for this chunk.
+And then eight outside APNM, we know that's one chunk because I could say
+will did so, right?
+And that would replace the whole thing.
+So then VP goes to PP underneath there because there's the outside,
+the APNM thing.
+And then there's the verb here.
+And then within the prepositional phrase, there's a separate
+downphrase, APNM.
+And, again, we'll just consider that to be a single chunk because it's
+not really decomposable, right?
+It would be weird.
+Even if you said applied physics and mathematics, it's not really
+syntactic-y.
+It's just a label for something, right?
+So anyways, this is how you could diagram that slightly more
+complicated sentence.
+But a lot of verbs are what are called transitive verbs.
+And they take a noun phrase as the object of that.
+So this allows us to do something a little more complicated.
+So we have a verb phrase that includes both a verb and another noun
+phrase.
+So I could do something like will ate the cake.
+So in this case, this part's easy.
+We've done this over and over again.
+And if it doesn't feel easy, scroll back again or watch back a little bit,
+and we'll talk you back through that again.
+But still, will ate the cake.
+In this case, we have the verb phrase.
+We have a verb still.
+But then beneath it, the thing that the verb is modifying is the noun
+phrase, the thing that is being eaten in this case.
+And that is the cake.
+And this noun phrase looks like every other noun phrase we've ever seen.
+What's underneath a noun phrase tag is uniform, right?
+You will always use the same rules for noun phrase, no matter what's
+above it, right?
+A noun phrase is a noun phrase.
+But you'll need to make sure you follow the rules, even in that case.
+And then we can bring back old rules, right?
+We can do an NP, boring NP, goes to an NPVP.
+I'm sorry.
+I'm sorry.
+VP goes to VNP.
+That's what I meant to say here.
+And then we can have a determiner in there.
+And then we can throw in a couple of NPARs for adjectives.
+So we can have will ate the massive chocolate cake.
+This thing is a fundamentally boring noun phrase that we've done before.
+This is no different than the cute black kitten.
+But we've just added that complexity back in.
+We've brought those other rules in.
+And then we can bring in more rules.
+We can throw in a prepositional phrase.
+I could say will ate the massive chocolate cake.
+Again, this is a chunk we can handle here.
+From the new bakery, this is a chunk we already know how to handle.
+We can combine them using this rule here, which is rule five.
+And then we can combine those using the verb phrase here.
+And then we end up with will ate the massive chocolate cake from the new bakery.
+Cool.
+And maybe we want to modify the verbing.
+This is a slightly different case.
+In this case, we have a preposition phrase here that's modifying the cake.
+It is the massive chocolate cake from the new bakery.
+But we might want to do something that modifies how the verbing happened.
+So, for instance, will ate with his wife.
+This means that I didn't eat a thing that was, you know, this is a preposition phrase.
+What I did is I did the act of eating in concert with my wife.
+My wife and I were sitting together and we ate.
+Right?
+So, this allows me to modify that verb with a preposition phrase.
+So, we have a verb phrase that goes to a VP and a PP.
+And, by the way, recursion.
+Whoa, cool.
+So, you can add in any other element of a VP underneath this one.
+In this case, it's very simple.
+VP to V.
+But will ate with his wife.
+Very easy, right?
+Or I can say two computational linguists from San Diego walked into a bar.
+Nice.
+Okay.
+So, how do we finish this?
+We already know this chunk.
+We've done this chunk before.
+And, in fact, it looks identical to what we see over here.
+But then the question becomes how do we handle the rest of it?
+How do we handle the walked into a bar?
+So, what we'll do is we'll start off and we'll use this S goes to NPVP rule.
+That's rule seven.
+Then we'll use over here, we will use the VP.
+So, we'll use rule looks like nine.
+So, rule nine gives us V to PP.
+Right?
+Underneath the verb phrase.
+And then PP goes to PNP.
+Easy.
+And then for NP, we'll do the usual determiner, end bar, et cetera.
+So, by doing this, we're able to talk about how they walked.
+Basically, they walked into a bar.
+We modify that verb phrase using a prepositional phrase.
+So, cool.
+Hopefully, this is starting to make some sense.
+And you're starting to see that from these very basic building blocks, we can do a bunch of other things.
+And we can do this same thing, by the way, of adding in a preposition to a sentence we've already created.
+Will ate the massive chocolate cake from the new bakery with his wife.
+So, I can add in this VPPP thing, just stick it in the middle there.
+Right?
+Add in another intermediate layer and then attach that with his wife.
+And it's worth noting the positioning of with his wife here.
+With his wife is modifying this entire chunk.
+Ate the massive chocolate cake from the new bakery.
+It's not a new bakery with my wife.
+That would be really weird, right?
+It's not a massive chocolate cake with my wife.
+The thing that included my wife in the process was eating the massive chocolate cake from the new bakery.
+That whole thing includes her.
+So, we'll do it in this way.
+We'll use this VP goes to VPPP rule, which is rule 11, to do that.
+And so, hopefully, this is starting to feel familiar.
+These are Legos.
+We're just building sentences up from smaller existing parts.
+And so, we can keep doing this to combine small elements and get bigger and bigger and fancier and fancier trees.
+I saw the big sweet dogs from La Jolla with fleas.
+This whole thing over here is a noun phrase.
+Right?
+And all of these rules are ones we've seen.
+Noun phrase goes to NPPP.
+Great.
+Here's another one.
+Noun phrase goes to NPPP.
+Great.
+This is a boring noun phrase with some end bars.
+Actually, it's not boring.
+It's amazing.
+But, nonetheless.
+And then, this prepositional phrase, straightforward.
+This prepositional phrase, straightforward.
+All we're doing is combining existing chunks that we know about, that we've used, that we're happy with, to make bigger, fancier chunks.
+And we can go deeper, though.
+We can absolutely go deeper.
+So, complementizers are really fun, and they put sentences inside sentences.
+These are words like that, when, if, while, as, and there are other ones out there in the world.
+But what they allow us to do is to embed a sentence within a sentence.
+So, we have now Rule 7, which gives us a sentence goes to an NPVP.
+We now have a new rule that says a verb phrase gives us a verb and a complementizer.
+And then we have Rule 13, which says a complementizer gives us a complement, or a CP, that is, has a complementizer, and then a whole damn sentence.
+And then the whole process can repeat.
+You can drop a whole new sentence in there.
+Oh, my God.
+And so, you can have a sentence like this.
+I love when you hug squirrels.
+This is a very straightforward complementizer sentence.
+So, I could have just replaced all of this with a single NP, right?
+I could cover all this up and say, I love you, all in a platonic teacher-student sort of way.
+But nonetheless, I love you is a perfectly reasonable sentence in the English language.
+But I can replace that NP with a CP here.
+And then I can change this whole thing into a sentence.
+So, I love when, complementizer, and then this whole bit down here, if we put all that aside, you hug squirrels, perfectly acceptable sentence, right?
+Little weird, perfectly acceptable.
+So, right there, that's a sentence just like any of the ones we've seen before.
+Easy.
+All we're doing is we're using this little intermediate layer here, this CP and this C, to merge those sentences, to stick one sentence inside the other one.
+So, I love when you hug squirrels allows us to put a sentence inside a sentence.
+And we can go deeper.
+We could say, John knows that, so here, very basic sentence, I love when you hug squirrels.
+That's the sentence from last time.
+But we've just stuck it inside another sentence using a complementizer.
+And this combines with everything that we were doing.
+People cheered as Will ate the massive chocolate cake from the new bakery with his wife.
+This looks big and scary, but in practice, all of these are small chunks that you've dealt with already.
+And then you just keep stitching them together with the rules that you already have.
+So, you have a sentence here.
+And then you want to insert that, so you need a complementizer.
+Oh, here we go.
+That goes to a CP.
+Oh, then we can put a verb here, another noun phrase, etc.
+And we can keep going.
+The proud baker from San Bernardino loved that people cheered as Will ate the massive chocolate cake from the new bakery with his wife.
+This is a perfectly grammatical English sentence.
+A bit unwieldy, I'll give you.
+But this is how you create that.
+All of these things are chunks we've seen before.
+This sentence we've already analyzed.
+This is the last sentence we were looking at.
+Then I threw another complementizer in there to give us a verb phrase.
+And then I just decided, oh, let's make a bigger NP here.
+So, it's a proud baker from San Bernardino.
+And you can keep going and going and going and going and going until you feel like you need help.
+And that's okay.
+But the fact is, these relatively simple 13 rules, and it may not feel simple at the time,
+but relative to the full story, so to speak, this is pretty straightforward,
+are able to give you massive amounts of complexity.
+The little bits of grammar that we have in language, or the large amounts of grammar, if you want to look at it that way,
+that we have allow us to build huge amounts of complexity.
+And that's amazing.
+That's a joy.
+And that's one of the things that provides us linguists with job security, right?
+If there are an infinite number of sentences we can produce, it's using things like this, like recursion.
+It's using things like the flexibility of these building blocks, which allow us to, under this NP,
+look, we could just keep going.
+We could put more prepositional phrases.
+From San Bernardino, which recently had, you know, et cetera.
+And so, we can do a great deal with these very basic building blocks.
+So, you might be feeling, oh, my God, I need help.
+This is scary.
+I'm afraid.
+Help me.
+And that's okay.
+That last one was mostly me just having fun.
+Fun for certain values of fun.
+I found it fun.
+And I'm sure someday you will, too, when you're a linguist.
+But more importantly, you're not going to have anything quite that complicated on tests or homeworks or things like that.
+You will be doing things that are a little bit simpler than that.
+So, all of these things, though, this is the process, right?
+You just take it and you break a large sentence apart into smaller chunks,
+and then you stitch those chunks together, stitch those chunks together, stitch those,
+until you reach the end and you hit an S and you're like, okay, I'm done here.
+This is probably feeling a little bit intimidating right now.
+And that's okay.
+A lot of people feel a little intimidated as they're first getting started with these kinds of trees.
+But it gets easier.
+And we are here to help you.
+That's the most important thing to remember, is that we're talking about this right now,
+but we're going to spend a bunch of time on this.
+We will spend a bunch of time on this in class.
+And if you come to our office hours, we will spend even more time on it.
+We want you to be able to look at this sentence and be like, yeah, easy peasy.
+And you can get there.
+I believe in you.
+It's a thing, right?
+But it's going to take a little bit of time, and you'll get there.
+So, how do you do this?
+How do you actually, like, draw them?
+What is the physical process to make this beast here?
+How do you do that?
+There are a couple of ways that you can do this.
+I mean, one of them is to do it by hand.
+And if you do that, make sure it's legible.
+On a homework, for instance, you'll have the opportunity to scan something,
+and so you can go through and do that.
+I encourage you to, you know, start in pencil and then trace over in pen to make it darker.
+Make sure that you're not, you know, because it's really easy to run out of space.
+Like, oh, okay, I'll just start right here, and then suddenly, oh, God, this is getting bigger and bigger.
+And then you start kind of trying to cheat down the side of the paper, and it's not good.
+So, make sure that you're doing it legibly.
+And if you end up doing that, just copy it onto a new sheet of paper.
+It's okay.
+But you need to scan your paper, not just take a picture of it.
+And it's also really important that it is legible.
+Because if we can't read it, if we can't understand it, we can't grade it, right?
+There are other approaches that you can do.
+I've had people, I use LaTeX, actually, to generate all of my sentence trees these days,
+which is a fancy typesetting engine.
+But people also will use PowerPoint.
+They'll also use MS Paint is a possibility.
+There are also tools like this.
+This is a tool that allows you to enter in a syntax tree in a very specific format,
+and it will create a pretty one for you.
+So, you need to use what's called bracket notation to do that.
+I already do that for LaTeX.
+But bracket notation works.
+It's a little frustrating, but it gets you there.
+And your brain needs to work on that.
+But this is the notation, actually, to create something like that in bracket notation.
+So, each one of these brackets close chunks of this.
+You're probably looking at this and thinking, oh, God, no, no, no, no, no, no, no, no.
+It gets easier.
+There are ways that you can get your brain around it.
+But actually doing it, it's much more straightforward.
+But that's an approach that you can take as well.
+And some people love doing it this way.
+Some people would rather do it in PowerPoint or MS Paint.
+And some people who have, you know, they've been in architecture school already,
+have the handwriting, have the legibility, and are able to do it by hand.
+That works too.
+But either way, there are lots of approaches here.
+So, what I'd like you to do for the moment is actually to practice for a second.
+I'm going to go on ahead, and I'm going to have you pause.
+What I want you to do is we're going to break down the sentence here.
+And I want you to go ahead, and we'll do it step by step.
+So, the grumpy polar bears from L.A. hated the excruciating traffic on the 405.
+It's a big sentence.
+Let's start with the grumpy polar bears.
+Pause.
+Well, actually, diagram.
+Then pause.
+Or pause, then diagram.
+Okay.
+So, now that you've finished this sentence, let's look at what it looks like.
+The way that we would do this is starting off with a rule one.
+That gives us an NP goes to a dead end bar.
+Then we go to a rule four right here, which gives us this adjective.
+And then rule four gives us another adjective.
+And then rule three.
+Some of you might be asking, wait, isn't polar bears one word?
+You could make that argument, right?
+I don't know.
+But you could probably sell me that polar bears is a single chunk.
+I don't know.
+This isn't a super important element of the structure.
+But I went ahead, and I told you, you know, I'm sorry.
+In homeworks and such, I will go ahead and tell you, treat polar as an adjective.
+If there was a situation like this.
+So, from L.A.
+I just gave you that chunk, because it's a single chunk.
+So, from L.A.
+I just gave you that chunk, because it's a single chunk.
+So, from L.A.
+I just gave you that chunk, because it's a single chunk.
+I just gave you that chunk, because it's very easy.
+It's rule six, rule two, rule three.
+Now, next chunk.
+The grumpy polar bears from L.A.
+Go.
+Okay.
+I'm assuming that you've paused the video, and now completed it.
+So, let's go ahead and have you try this.
+What you've got already is most of what you need here.
+You just need to combine the prepositional phrase, and then that noun phrase.
+And you use rule five to do that.
+So, you end up with this chunk here.
+So, the grumpy polar bears from L.A.
+is accounted for.
+Okay.
+Let's try the excruciating traffic.
+Pause the video.
+Go.
+Okay.
+So, excruciating traffic uses rules one, four, and three.
+So, NP goes to dead N bar, N bar goes to edge N bar, N bar goes to N.
+Easy.
+At this point in time, this is something that you've seen a fair amount.
+So, great.
+On the 405, this one should have built in, but here you go.
+Have a freebie.
+On the 405, gives you this.
+Each individual element is according to our rules here.
+So, we've got a rule six, followed by a rule one, followed by a rule three.
+Now, combine these two together.
+Go.
+Okay.
+So, you'll use a rule five here to combine these chunks again.
+So, NP goes to NPPP, and there you go.
+Now, hated the excruciating traffic on the 405.
+What rule goes above these?
+Take a second.
+So, this whole chunk is a constituent, and the thing that heads it is a verb.
+So, that would be a verb phrase, right?
+And so, we know that we have a verb phrase here.
+And we know that there is a verb here, and we know that this chunk,
+we've already finished the excruciating traffic bit, that's a noun phrase.
+So, we need a rule that goes VP, goes to verb, noun phrase.
+And that rule is rule nine.
+And boom, there you go.
+Now, you have mambo number five stuck in your head.
+All right.
+And then, finally, we can tie it all together.
+The grumpy polar bears are going to go to NPPP.
+And then, finally, we can tie it all together.
+The grumpy polar bears from LA hated the excruciating traffic on the 405.
+Go!
+Okay.
+So, the way that you do this is actually really easy, right?
+All you really need here is rule seven.
+Then, boom.
+You combine this NP that we built already with this VP that we just finished building
+with rule seven, and you're all set.
+This is the correct structure.
+This is not a small sentence.
+This is not a trivial sentence.
+But by breaking it down little bit by little bit, you're able to do this.
+You're able to make this work.
+If you would like some immediate practice with this before we get to class,
+and we will practice it a bunch more in our class sessions.
+You'll practice it more for discussions.
+You will get more practice with this.
+But this is another presentation that just has more examples where I ask you,
+and you can just click through one by one,
+and I will give you a bunch more of these things that you can try
+where you will get, you know, okay, here's what to do.
+Okay, now here's the form.
+Here's what to do.
+Here's the form.
+So, if you're feeling at all questionable about this, just go ahead,
+click this link.
+It's going to be awesome, or just type it in,
+and you will be able to find immediately all of those examples
+and work through them on your own.
+And if you're having trouble with them, come to class, see if that helps,
+or just come into our office hours,
+and we will more than happily walk you through this step by step.
+So, there we go.
+For next time, we're going to touch on some of the things
+we're leaving behind in syntax.
+In practice, for the exams, for the homeworks,
+you know everything you need to know now.
+By using this set of phrase structure rules that I've given you
+and using the basic principles for building trees,
+you know what you need to.
+The next step is going to be looking at the things
+that you aren't necessarily going to know how to do in English
+and just kind of focusing on some of the fun syntactic questions
+that we have to leave on the table because Ling 101 is so short.
+So, for next time, we'll focus on that.
+Thank you all very much, and have a wonderful day.

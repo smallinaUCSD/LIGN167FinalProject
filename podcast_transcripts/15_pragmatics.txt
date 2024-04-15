@@ -1,0 +1,596 @@
+Okay, hi everybody. Today we're going to talk a little bit about pragmatics and we're also going to get into some of the intersections within
+linguistics that we've left behind. But first a quick note on metaphorical extension.
+We've talked about this a little bit already in the class, but metaphorical extension is when a
+concept or a word is kind of applied a little bit further outside of its domain.
+So think about fitting objects into a trunk. You can fit them into your schedule, right?
+It's not anymore a spatial process. You're no longer literally placing objects,
+but you're pushing something into a packed area, right?
+And so this is another example of this. Deep-frying in the U.S.
+is where you put some kind of a food item, usually in some kind of breading, and you dip it into oil and you burn
+the heck out of it. And so deep-frying is
+applied now actually to memes, where you get incredibly large amounts of, you know,
+image processing artifacts, you get weird coloration, etc.
+So this is kind of a cool extension of the word deep-fried, and a cool example of that in action generally.
+So today, pragmatics. Language in context. Last time we started off talking about the cooperative principle, right?
+The idea that if people are acting cooperatively, if people are trying to work together and not defect, so to speak,
+we are able to skip a bunch of pain. We're able to be more efficient.
+We're able to assume more things about conversation. We talked about the maxims that help us define that. Today
+we're going to talk a little bit more about some of the things that grow out of those maxims, that grow out of that
+cooperation, and allow us to do pragmatics, right? And so the maxims we talked about last time, just to review, are quality.
+Namely, say the things that are accurate. Say things you know to be true, and don't say things you don't know to be true.
+Quantity, give the right amount of information. Not too much, not too little.
+Relevance, or relation, is talk about things that are relevant to the conversation. And manner
+gets into the manner by which you say things. Use words that are clear. Speak in such a way that you're being clear.
+Manner covers that. So today's plan is to talk about implicature in conversation, to talk about speech acts,
+Dykesis, and then finally to address some of the other things we're leaving behind. So conversational implicature is
+what is suggested, but not expressed or entailed by an utterance.
+So by expressed, I mean something like, if I say, this puppy is cute.
+I am making a very strong expression that the puppy is cute.
+And in fact, that the puppy is cute is entailed by that utterance as well. But expression is direct.
+It is overt. You are saying exactly that thing. As opposed to implicature, which is covert.
+It's something that we understand to be true, and we guess is probably true, but it's not necessarily said directly.
+So as a listener, when you hear a statement that has a strong implicature, that you can draw that implicature from it.
+I'm sorry. It's not so fair to say that the statement has an implicature. You as a listener draw an implicature from a statement.
+But there are many statements that have very obvious implicatures to be drawn.
+So, um, for instance, let's think about this versus entailment.
+If I give you the sentence, Mary finally bought a hard drive to back up her computer,
+what kind of things does this entail? Pause for a second, think about it, then come back.
+So what this would entail for most people
+would be things like Mary now owns a hard drive.
+If she bought a hard drive, that means she now owns one. Or even more simply, Mary has a hard drive. That works.
+For instance, there was a time period where Mary didn't have a hard drive. Finally, pretty strongly, I mean, that's a thing, right?
+Or perhaps, although actually, hold on, I have to bust my own
+entailment there, it could be the case that she had other hard drives,
+but they weren't to back up her computer. So that would actually have to be an implicature.
+But other things that could work is that hard drives can back up your computer, or
+Mary is able to purchase things.
+You know, those are the kinds of boring things that you get out of entailment, right?
+Entailed sentences don't tend to give us much new information, by definition, right?
+We can think, though, about the implicatures of this sentence. What does this imply?
+So one of the big ones is that Mary didn't have one before.
+It'd be a little bit weird to say something like this if she already had a hard drive to back up her computer, right?
+And in fact, you would flaunt the maxim. If, for instance, Mary, like myself, is kind of obsessed with backups and has
+five different hard drives with copies of her machine, saying,
+oh, wow, Will finally bought a hard drive to back up his computer, is a good way to make fun of me, right, for being a
+little bit obsessed in that particular way.
+So, um, but saying it like this carries the implicature that Mary didn't have one before.
+It also carries the implicature that she needed one for a long time, that she's had this computer for six months already and hasn't backed
+it up. And so this carries that as well. It implies that her computer wasn't backed up before.
+Again, this isn't strong. You can very easily find ways to cancel this, but it's there. It implies that she owns a computer.
+It's not, strictly speaking, it's not an entailment, because it could be actually that it's her aunt's computer.
+Mary is using it, or maybe it's her employer's computer that she's backing up, but still,
+we don't know this for sure, but it's a pretty strong implication there. And it doesn't imply a bunch of things, right?
+It doesn't imply that she's Icelandic. In fact, the country of Iceland, there are no reasonable Icelandic implicatures to be drawn from this.
+That wouldn't be sane.
+There is a set of things that we can draw, of
+implicatures that we can pretty safely draw from sentences, and then every other statement about the world is in the set that we really can't,
+right? It doesn't imply that she owns a Mac in any way, shape, or form. There's nothing here that is Mac-ish.
+She went to Costco for the hard drive is not implied by this. It's a good idea, by the way.
+They will take back hard drives that they break and just give you new ones, or that are, that die.
+Anyways, I digress. Still, that doesn't give you that, and it doesn't imply every other statement in the world, right?
+There are a lot of things that are not implied by sentences,
+but there is this set still of things that are very reasonable implicatures for a listener to draw.
+So, implicature is sort of a very different world,
+but it has a very similar feeling to entailment for most people in their daily life.
+The difference being that, unlike entailments, implicatures don't need to be true in every situation.
+Both implicature and entailment are pieces of information that you can get from a sentence, from an utterance, but
+entailments are true always.
+Implicatures are only true in certain situations, or are probably true, but not necessarily true.
+So, um, we can think about all of these things and bust each one of these, and in fact, we already did earlier before.
+I mean, maybe she didn't need one for a long time.
+Maybe she just got her computer yesterday, and you're being sarcastic, or maybe she just got her computer yesterday,
+and you have really high standards for unbacked up data.
+Again, we can get into all of these various reasons why these things might not be true. They might not be true,
+but still, these are useful.
+We do them, and the reason that we do them, and the reason that we're able to do them, is because of the cooperative principle.
+The cooperative principle is, again, the thing underlying our maxims.
+We can draw implicatures because we think people are cooperating, and because, by and large, they are, right?
+We're trying to find a way that the other person's phrasing, that the other person's words, is in accordance with the Gricean maxims.
+So, if we look at some sampling implicatures, for instance, Robert and Jisung sure have been hanging out a lot.
+What does this mean? What does this imply?
+For most people, this would mean,
+I think there's something more here than just a friendship, or maybe they were previously enemies,
+but now they're hanging out a lot, but it implies that there's something notable about their relationship.
+Usually, I think these people are secretly falling for each other, or something like that.
+It would be very strange, for instance, and a way to think about this is, it would be very, very strange to say this about,
+for instance, if Robert and Jisung are brother and sister. It would be very weird to say that, right?
+It would seem like you're implying something very unusual there, and so you would probably not use that sentence there.
+This has the implicature that there's something romantic going on here, or that there's something otherwise notable.
+Maybe if you're trying, maybe there's a conspiracy afoot. You're like, well, I don't know who's,
+who the, the imposter is. Maybe, maybe Robert and, I mean, Robert and Jisung sure have been hanging out a lot.
+I mean, you could go that route, but this says there's something notable about that fact. You're interested in Ron?
+He cheated on his last girlfriend. What does this imply? What are the implicatures of this statement?
+The big one for most people is that if he cheated on his last girlfriend,
+he will cheat on you as well. That Ron is going to be a bad match for you precisely because
+this is a problem for Ron.
+So you say this, and the reason you bring up this cheated on his last girlfriend is because you feel it's relevant to the situation.
+This is a maximum of relevance issue. For instance, you're interested in Ron.
+He eats s'mores
+when camping. That wouldn't make any sense, unless that were some kind of a disclaimer here.
+So you wouldn't say this unless it were some kind of a problem for you to work with.
+If you've got somebody up on the stand,
+for instance, if you're a lawyer, you're cross-examining somebody, you might say something,
+I don't know if you would say this, but you see this stuff in movies, like, was this before or after your conviction for armed robbery?
+What does this imply?
+Well, very strongly, this would imply for a jury that this person is not trustworthy.
+This implies that this person is a criminal, right?
+And so it might taint their testimony in the eyes of a jury, or something along those lines.
+And then if you walk up to somebody and you say, hmm, lots of folks wear deodorant. What does that generally imply?
+That implies that you smell funny. You, too, should consider deodorant. Deodorant might be right for you.
+But either way, saying this has a strong implicature that you don't, and that's a problem.
+For, because of the maxim of relevance. And in fact, all of these things are relevance sort of situations.
+So, um, that's useful. But there are implicatures that you can draw based on other maxims, right?
+So if I say, Robert might have eaten the cookie.
+This implies,
+what this gets at here, fundamentally, is that I'm not sure. This implies very strongly that Robert
+might have eaten the cookie, but that I'm not sure. Because if the maxims are true,
+and I know that Robert ate the cookie,
+I would just say Robert ate the cookie. Or if I know he didn't, I'd just say Robert didn't.
+But this carries the implication that I'm unsure that Robert ate the cookie or not.
+This would be a quality violation if I know about that. If we have the sentence,
+Bub ate some of the cat treats, this implies that Bub didn't eat all of the cat treats, right?
+This is by virtue of what's called scalar implicature.
+If you say, I ate some of X, that implies that you didn't eat all of them.
+And so if this is the case, if Bub did eat all of the cat treats, this would be a quantity violation.
+This would be a violation of the maximum quantity. Again,
+we use this example, which is one of my very favorites. John, who is 100% not a lizard person, is coming to dinner.
+The fact that most people would hear this and go, wow,
+I didn't know John was a lizard person, or is he a lizard person, is entirely a relevance thing.
+Because he wouldn't have mentioned it otherwise. It's like I've seen, you know, t-shirts that say,
+I'm not a, and then some, you know, thing that people consider deplorable, and then on the back side,
+it said, stop asking, it's right on the t-shirt. And just kind of getting at this idea of relevance,
+that you wouldn't bring it up if it weren't possibly true, right?
+The lady doth protest too much is a nice example of a relevance violation.
+If somebody, you know, if my wife walks into my, into the kitchen, and I immediately turn to her and say, I didn't eat your cookie,
+she's going to
+pretty heavily assume that I ate her cookie, right? Because otherwise, that would be a relevance violation,
+that wouldn't make any sense otherwise. And then, who do you think stole the cookie? I heard Robert was in town.
+This is a cool one, right? The immediate implication from that is, I think Robert stole your cookie.
+Um, but this implies that we have reason to believe that. And again, if not, this would be a relevance violation.
+Because Robert's being in town is completely irrelevant, if it has nothing to do, I mean,
+unless there's some relation to the cookie, it would be a relevance issue.
+Or similarly, if somebody says, you know, hey, did you write this note? And I said, no, no quiero responder a esta pregunta.
+What this means, generally speaking, is that I don't speak any English.
+So, if somebody just walks up to me, and they see a note, and I'm standing next to it,
+and they say, hey, did you write this note? And I respond to them in Spanish, that carries the implicature that I don't speak English.
+Otherwise, it would be a manner violation. I heard them speak English to me, and
+they asked me for information, and I gave it to them in Spanish. That would be a manner violation,
+unless I don't actually speak English, right? I mean, by the way, this can be very easily used and weaponized, right? If you,
+if somebody walks up to you with a clipboard on campus,
+the very best way to do that is just to start respond to them in a different language, and, and they assume,
+oh, they must not speak English, they're not worth my time.
+Anyways, there are lots of techniques for dodging people with clipboards, but that's a really good one. As are strongly accented, no English,
+sorry, statements. Works well, too. Although, that's a quality violation, more so.
+Um, because I, I do actually have English. So, anyways, as you probably noticed at some point in time during this quarter,
+so, other implications are out there all the time. We can think of sentences that carry implications
+everywhere. It is constant.
+So,
+implicature turns out to be really important in language, because it is everywhere, and it can be intentional or unintentional.
+We've probably all been in a situation where we say something, and it carries exactly the wrong implicature, right?
+Um, for instance, I'll give you an example of this. Recently, the folks in the linguistics department,
+we put together a statement that was just
+directly against sexual harassment and that kind of thing. Just saying, we do not support all of this misconduct that's, you know, come out lately.
+Um, with,
+with regards to the MeToo movement and otherwise,
+we just wanted to put on the record that that does not fly in our department.
+And it's absolutely 100% true. And somebody said, oh, we should put this at the top of our department website. And then somebody
+brought up the fact that, wait a second, hold on, we do implicature here.
+That might not be great, because we haven't had any scandals. This wasn't brought about on the basis of some
+major issue here.
+Instead, what this is for is just sort of general purpose.
+But if I were to write that, if I were to put at the very top of our website,
+hey, we don't participate in sexual harassment,
+that carries an implicature that we did before, right? And that's not true. That's not accurate.
+So we don't want to do that. We want to be careful about that.
+So unintentional implicature is definitely a thing, and it can cause trouble. Um, you can get deceptive implicatures as well.
+This is a really good way to lie to somebody, is to use implicatures. That way you're not actually violating quality.
+You're not actually lying. You're just being,
+you're just using implicatures that are a little bit tricky, right? So a deceptive implicature would be something like this.
+I saw at a grocery store something like, Herman's rice is gluten-free.
+What's the implicature here?
+The big one is that everybody else's rice is not.
+When in reality, all rice is gluten-free. People, come on! Saying my rice is gluten-free is a
+really stupid
+quantity violation, right? That's, that's saying the obvious. Rice is gluten-free.
+But they're using this to try and position their product
+for the people who are scared of gluten for some reason now. And by the way,
+I'm not making light of people who actually have gluten issues, right?
+That's a thing.
+But it became a fad recently that you should go non-gluten for some reason, and as a result,
+this is trying to appeal to those people by abusing the maxim, right?
+Um, it implies that all other rice isn't. Promise me that you didn't eat my cookie. We've been friends for ten years!
+You didn't actually say you didn't eat the cookie, right?
+But this carries the implication that, of course, if we're friends, I wouldn't eat your cookie, and we've been friends for so long.
+Um, what did you do last night? I went out for a ginger ale with my hamster, then got stuck in traffic before heading home.
+This carries the implication that after you got home, that's the end of it, right?
+The maxim of quantity tells us that there's nothing else there. You wouldn't add, you know,
+this implies that you wouldn't say, oh, and then after I got home, I went out and I robbed three banks.
+That's a different thing. Um, so the cooperative principle is implying
+cooperation, and so if you're not cooperating, well, all bets are off, right? It doesn't always apply.
+So, uh, this is something that interrogators, I actually had an interrogator in my 101 class at one point in time,
+and it was great, because we got to talk all about implicature, right? Because it's a common thing in that world.
+And so, uh, this does not always apply,
+but it's really interesting to think about it when it doesn't, seeing dancing back and forth across the maxims.
+Um, so implicature is a really important part of pragmatics,
+and it stems from that cooperative principle, as well as from the conversational context. If there's reason to believe that we're not
+being honest with each other, that these won't be followed, then things get very different, very interesting, right?
+But there are other elements of conversation that can come from the context as well.
+One of those is the idea of a speech act, or performative speech. These mean roughly the same thing.
+Sometimes a statement means more than just a statement. Most speech out there is something that's declarative, saying,
+hey, that cat is cute. Or interrogative,
+what are you having for dinner? Or it serves to expand the discourse in some way. It serves to move forward our interactions, right?
+Something like, hey, could you close the door? Or just close the door. Those things are,
+yeah, these are very basic kinds of sentences. You're asking questions, you're making statements,
+you're just interacting with a person, right?
+But there are cases where speech itself is taking an action. By saying something,
+you are doing real work in the world. And this is a speech act.
+Um, these are sentences that accomplish an action by virtue of having been uttered. When you say something,
+something happens in the world. So an example of this would be something like, I declare you to be married.
+When a person with the proper authority says that about people who intend to be married, at that moment,
+marriage has occurred. At least, you know, there are many traditions. Marriage is cultural.
+But by, in legally speaking, at that point, marriage has occurred.
+So you need to be the proper person to do it. You can't just do that to random people on the bus.
+But nonetheless, it works. If you say, I sentence you to 15 hours of community service, the moment before the judge said that,
+you had no community service sentence. The moment after it, you have to do 15 hours of community service.
+You have changed a fact about the world. In this case, it's a social fact, right?
+There's a social contract that upheld, but still, um, you have changed something about the world.
+Um, I swear that I didn't steal your cookie. This is a speech act as well.
+You're doing something above and beyond. If I say, I didn't steal your cookie, that's a statement.
+That's a declarative. If I say, I swear that I didn't steal your cookie,
+that's sort of like an escalation. Like, I truly, truly, deeply did not steal your cookie,
+and I am willing to attest to that. And very often, it's, I swear on vowels, or something that means something to somebody.
+Why did, okay, nerd. Um, but nonetheless, saying, I swear X, often has more weight.
+It is doing a thing, right? Um, I apologize for eating your cookie. It's a similar thing, right?
+When you say, I apologize for X, you are doing a thing. You are making some, you are making an action
+that could potentially make somebody feel better. I agree to your terms is yet another kind of a speech act.
+When you say, I agree to your terms to somebody, or when you write that down, or when you click the button
+at the bottom of the 150 pages Apple makes you scroll through, um, at that point, something has
+changed about the world by doing that act. Or saying, I formally object to you doing this.
+You would do this only in a concept, or in a context where that makes sense, right? Where there is a process.
+But you're basically saying, I am going to trigger a process here. By saying this, I am putting myself
+on record as objecting to this. I think this is a bad idea, and it shouldn't be done, and I want this
+to be referenced later on. So all of these things are speech acts. They are cases where you are
+talking, or writing, or something like that, or signing, but you are doing something by virtue
+of having done that. And speech acts are a very weird kind of speech in a lot of ways. They have
+four big and important characteristics. One, they are always in the present. You would never say,
+for instance, if somebody, if my wife gets home, sees her cookie is missing, and I say to her,
+I swore that I didn't steal your cookie, or I will swear that I didn't steal your cookie.
+Does that accomplish it? No, not really. That doesn't actually cover anything. If I say,
+I apologized for eating the cookie, is that the same thing as saying, I apologize, or I will
+apologize for eating the cookie? Have you done the thing? No. The thing is done in present tense. I
+will agree to your terms. It's not the same thing as saying you agree to them, right? Saying to a
+lawyer, I will sign this contract. You have not signed this contract. It ain't over till it's
+over, right? Speech acts are also always first person. Saying, I agree to your terms, you can't
+walk up to somebody and say, you agree to my terms. That's not a speech act. That's not valid.
+It doesn't work that way. You couldn't say, she declares you husband and wife. Wouldn't work. Not
+a thing. Robert swears he never ate the cookie. You could be reporting this statement, right? You
+could be saying, I overheard Robert swearing that, but it's not a speech act. It's just a
+declarative, right? And you can do it in first person singular, I, or first person plural, we.
+The jury find the defendant guilty right there at that moment, something changed. Life is different
+now. So in this case, um, these have to be first person. Unlike most other parts of speech,
+they're always using a subset of verbs, right? You could never say I walk into the room as a
+speech act. Maybe, maybe in like a dungeons and dragons context or a collaborative storytelling
+thing, you could do that, but it's not exactly the same thing. It's not a speech act in the
+classical sense of I'm changing something in our real world, in the meat space world that we all
+inhabit, so to speak. I can't say, I say you're going to enjoy homework for probably will, but
+it's not a speech act, right? I brush my teeth. Nope, not a speech act. And they depend on social
+context. If you say, if you sentence somebody to community service, it requires you to be a judge,
+right? There were these, without going too deep into it, there, there were groups of people on
+the internet who believe that they are able to, uh, find people arbitrarily because they are their
+own judge. Right. And so, you know, Oh, I, I sentence you government official to, you know,
+a hundred and 50 bazillion dollars worth of fines payable, and I will file liens against your person.
+And it's a world, right? Um, a fascinating world, but it's a world. Um, this doesn't work unless you
+have societal power to do this. If you were made a judge, if you are our sentence, or I'm sorry,
+if you are created as a judge, if you are judged, it's not a verb, there's got to be something
+invested. If you are judged, we'll just use that. Um, then you can do this. Otherwise you can't,
+I declare you married requires you to be an officiant. And this depends state by state.
+Of course, uh, some places require you to be, you know, of a clergy or a judge other places,
+as long as you do something, you can do that. Um, look, you just need to have some variety of power,
+uh, delegated to you by the state, because at least for the moment, uh, marriage is partially
+sanctioned by the state. Um, the, I apologize for eating your cookie. It only works if you say that
+to the person whose cookie you stole, right? I, if I feel really bad about something, I can't walk
+up to some random, you know, the cashier at Vaughn's and go, I'm really sorry. I stole my
+wife's cookie last night. They're going to look at me like, Oh, wow, you're special. Um, and it
+ain't going to be the good kind of special, right? And it won't have any effect at all on my healing
+the wounds of my wife who didn't have a cookie. There are usually other rituals involved because
+these are very ritualistic. So some of these things, like I swear to tell the whole truth,
+the truth or the truth, the whole truth and nothing about the truth. So help me God.
+Usually you put your hand on some kind of a, an object or something like that,
+or maybe there's a handshake. I agree to your terms. You shake hands and that seals it.
+Or a wedding ceremony is another ritual involved. Even if that's as short as going to a justice of
+the peace at a courthouse, right? All of these things involve some level of ritual. And certainly
+a court proceeding is a ritual par excellence. So all of these things are socially context or
+socially context dependent, right? Not everything is a speech act. Now, if I press this button here,
+YouTube is going to strike this video down with the fury of a thousand angry gods. Um, this is a
+clip from the office and this is an amazing clip from the office. I highly encourage you to watch
+it, but it hinges on the fact that declaring bankruptcy is not a speech act. So, um, I
+encourage you to check that out. So which of the below sentences is not a speech act. I'm sorry,
+which of the below sentences is a speech act. So a is we ate 10 cookies last night. B I might've
+eaten 10 cookies last night. See, I swear to you, I have no idea who ate the cookies. D I
+formally declared so young to be a competent researcher and E she sentenced Carla to three
+weeks of house arrest. Okay. So we ate 10 cookies last night. First sign past tense and not a
+speech act verb. So a isn't going to be it. I might've eaten two cookies or 10 cookies last
+night. Again, that's actually the might part is present, but it's not really a speech act. D verb,
+right? That doesn't make sense. I formally declared so young to be a competent researcher.
+This feels pretty good, right? Formally declare that speech acting past tense. So this is saying
+I declared them in the past to be a competent researcher. And then finally, she sentenced Carla
+to three weeks of house arrest. This is a statement. It's not saying it's not first person,
+which is really important and it's past tense. So the only speech act here is, I swear to you,
+I have no idea who ate the cookies. And after this presentation, my wife will never believe me
+that somebody else broke in and ate the cookies again, because I basically threw implicature.
+Yeah, it's been bad. So the context dependence of these is why these end up landing in pragmatics
+land, right? And why they're very difficult actually for us to interpret outside of a
+pragmatic context. Now, there are other things in the world that depend on context. And one of the
+big ones is Dykesis. Dykesis is, uh, well, let's give an example here. Imagine you walk outside
+and you find a ground or a note on the ground. You find a ground on the note. I guess that all
+depends on your perspective, right? Either way. Um, if you find a note on the ground outside,
+you'll read the note says, meet me here tomorrow at this time.
+What does that mean? When do you meet them? Well, tomorrow, but really? Because you don't know when
+the note was placed. Maybe that note was placed last week. So tomorrow would have been last
+Thursday. That's possible. Maybe the note was placed at 5 p.m. And so they meant 5 p.m., but
+it's currently 2 p.m. That wouldn't make sense. Maybe the note blew along the path. Maybe the
+note, you found it in Muir, but it actually got its start over in 6th someplace, right? Um, that
+would be a whole different thing. This is not an interpretable note because all of these things,
+oh, and by the way, who are you meeting? Me. Who's me? You don't know. The person who wrote the note,
+right? All of these things depend on some element of the conversational context to interpret their
+meaning. And so this note is completely and totally useless, right? Um, and so you can't
+figure out where's here, who's me, when's tomorrow, and at what time? Because all of these are
+deictic expressions. They make reference to discord context, uh, discord. Wow. Discourse
+context. Although actually, deixes can make sense, uh, reference to context within discord. That's
+true. Um, and they don't have meaning outside of that context, right? So a deictic word is a word
+whose meaning depends entirely on conversational context. And I don't mean this, and I want to
+be very clear about one thing. Oftentimes lexical, uh, ambiguity can be like this, right? Uh, for
+instance, if I have the word B-A-S-S, uh, which can either be bass or bass, depending on what you're
+talking about. Um, if somebody is talking about a concert they went to the other day and you say,
+how was it? And, and they text you back, there was, uh, um, I really did. I didn't care for it.
+There was a lot of B-A-S-S. In that case, it's not really hard to interpret that they mean bass,
+right? A lot of strong, uh, bass frequency vibration, as you can tell by this gesture
+right here, which is actually way slower than bass should be. Anyways, I digress. Um, you know,
+it's not about fish because of context, but deixes, that is an ambiguity resolved by context.
+This is something where the words meaning depends entirely on context. So types of deictic words
+would be things like pronouns, right? Me doesn't work unless you know who's talking, right? Us
+doesn't work unless you know who's in the room. Him doesn't work. So for instance, imagine that
+you're, you get a recording randomly delivered to you and the only words that are spoken are,
+you know, so what are we going to do tomorrow? This doesn't, you don't know who we is, right?
+That doesn't provide information as opposed to what are you, Sarah and myself, Will going to do
+tomorrow. That makes a little bit more sense. Um, but anyways, pronouns are deictic.
+Temporal expressions are as well, because today doesn't mean anything outside of the context where
+today is the day that I'm filming this in. Next month doesn't mean anything unless you know what
+month it currently is. Now refers to now, then refers to some time in the past and soon has a
+limited fall off, right? If I say right now, oh, I'm going to see you soon. Does that mean five
+minutes? Probably maybe 10 minutes, 20 minutes, two hours, three hours, two days, three days,
+two weeks, three weeks, two months, three months, three years. It's getting less and less likely as
+you go further out. Soon kind of falls off, but it's always with reference to the moment,
+to the exact moment of conversation. Locatives are very deictic. So for instance, meet me here.
+You don't even know where here is. Actually you do. It's my house because we're all in our houses,
+right? But anyways, uh, here is hard for you to understand without knowledge of where we are,
+right? Or, oh, I'll see you there. That depends on us having a context, right? Like, oh, we're going
+to go to Vons. I'll see you there. Um, or, you know, close, uh, just means nearby to where you
+are right now or across the street actually tends to mean. So for instance, oh, you know, it's, uh,
+you should go to that grocery store. Wow. That's sounds like all I go to. You should go to that
+tattoo parlor. It's across the street from you. That requires them to know where they are. That
+requires context demonstratives like this or that. Oh, I like this tea and doesn't give you
+any information unless you know specifically what's in here. This is a bohey tea. It's really
+good by the way. Um, I know you were concerned and then that the other, all of those things,
+these are demonstratives. So which of these sentences does not contain any dike dick words?
+So a Rick and Graham had their wedding there. B I'm not sure who you're talking about. C Mahesh
+will see to it next week. D Sally took some students out for dinner at a sushi restaurant
+and E John saw a coffee shop across the parking lot. Think about it and then come back on pause
+when you are ready. It's going to be amazing. So a Rick and Graham had their wedding there.
+Where's their context? Need it. So there is dike dick. Um, B I'm not sure who you're talking about.
+I is dike dick. You is dike dick. So we don't know. Mahesh will see to it next week.
+Two dike dick issues there. A it, you need context to understand that. Maybe it's a brand
+new project that's, you know, getting done or maybe it's just, you know, bringing some
+used paint to the paint store, uh, or something like that. Either way,
+you don't know what it means. And next week depends on the timing of what was said there
+in E John saw a coffee shop across the parking lot from what? Dikesis. You need to know where
+John was in order to understand where the parking lot, what was across the parking lot from him.
+And then D Sally took some students out to dinner at a sushi restaurant.
+None of these things are dike dick. It's at a sushi restaurant. So there's no specific
+referent there. We don't know who the students are, but we don't necessarily need to. It's
+just some students. We know that Sally is so E I'm sorry. D is the correct answer here.
+So dike dick expressions need context to be understood. And this is a big problem actually
+for natural language processing, for using computers to understand speech. For instance,
+if I say something like John, we'll meet you here. This in means that you need to know where
+they are, right? You need to know the location where that was said. Ron scheduled her for two
+weeks out. If you come across this in a note and you're trying to put this on a timeline,
+that's really tough, right? Because it could mean that Ron scheduled her for two weeks after
+the appointment during which Ron met with her, or it could mean Ron scheduled her for two weeks
+after this particular bit of text was written. We're not actually a hundred percent sure. So
+likely they're pretty similar in temporality. If you ever want to get into temporal relations
+in text, come talk to me. Oh my God. Come talk to me. Um, but still this is tough.
+She'll need to come back for a consult shortly. So back where who's she and when is shortly,
+does that mean two weeks, two months, two years, probably something more on the order of two weeks,
+maybe even a few days, but either way, um, these are all very difficult. Mary's parked across the
+street from there. You need to know there. All of these things depend on past elements of
+conversation, right? Um, and so if I say John will take care of it next week, you're going to
+understand, oh, we were just talking about this software project and John's an awesome software
+writer. So he'll be really good at that. He'll take care of it next week. They're going to have
+a great time. This makes a lot of sense. If you were just talking about the fact that, you know,
+Carlos and Miranda are going to be going to Palm Springs for a vacation or something like that,
+I don't know if you probably have a great time there. Um, the cat will win the show for sure.
+Both the cat and the show require Dyches to understand which ones they refer to. Maybe
+you're talking, you were just talking about this amazing, you know, British short hair cat. I think
+that's a type of cat, um, that you just saw on YouTube and you're like, yeah, they said they're
+bringing that cat to the show. That cat will win the show for sure. 100%. Yes. So all of these
+things depend on past elements. It's really useful to know conversational context, to be able to
+interpret dyctic things. And we've actually seen this before already in the form of definite and
+indefinite articles. The definite article refers to something that has already been defined as
+opposed to the indefinite article, which refers to something that hasn't yet been defined. So this is
+really kind of cool, right? We, this does a lot of work for us. If somebody says, uh, did you go
+to the store? What does that generally mean? Generally, it's something like, did you go to
+the grocery store? Did you go to the store that we usually shop at? Right. Or maybe there's prior
+reference versus did you go to a store? That's kind of a weird question to ask somebody, but
+maybe for instance, they, um, they were expecting you home 20 minutes ago and they might ask, oh,
+did you go to a store? And just to get information, right? But there you don't know which store it is.
+You're just asking if they went to any of them. I saw a man last week. Pretty easy, pretty boring,
+right? It was at the grocery store. Saw a man last week. I saw the man last week. If I were to say
+that just randomly to my wife, she would kind of start scrambling, trying to figure out what we
+meant, what I meant by that. Maybe, you know, oh, we were talking about, I don't know, a random guy
+who was dressed very strangely walking down the street, uh, near where we live. And, and if I said,
+I saw the man last week, she'd think about it for a second, go, oh, the guy who's dressed weirdly.
+So she would need to dig way deep in context to get that. Um, if I say a handyman can fix the door,
+that usually means that, you know, oh, any kind of handy man can do that. Um, as opposed to if I
+say the handyman can fix the door, that would imply that I actually have a handyman who I'm
+aware of. I think that's still a thing you can get. Um, but, uh, you know, you should talk to,
+you know, Roger, he's a great handyman. He can fix the door. Or you should just ask your handyman
+on the assumption that somebody knows a handyman that they prefer, right? My cat is going to be in
+a show versus my cat is going to be in the show implies that you have a shared referent. If I say
+the, uh, for what that show is. And we know these reference based on discourse. And this whole idea
+is called, uh, an Africa, uh, resolving the reference of different terms, trying to figure
+out, okay, I have this term here. What does it point back to in the text? Really, really cool
+problem again in, in natural language processing. So there's a lot more to this information.
+Structure of discourse is huge. New information versus old information. Who does what refer to
+what's being contrasted because you can do this, right? We can do this with prosody. We can do this
+otherwise. Like, no, no, no. Mary's going to the park next week by saying it in that way.
+You understand that somebody had just said it incorrectly. They said John was going to the park.
+Um, so contrast is important, but that's a whole other bag of worms and when we don't have time
+for, but all of that put together is a sampling of pragmatics, right? The idea that meaning of
+some things is inseparable from the discourse context and that discourse context actually
+gives meaning to things within there. And this is the final of our major subfields. We're going to
+terribly underdescribe. What I mean by that is, ah, quarter system, quarter system. It's brutal.
+Absolutely brutal. I would love to spend two weeks on each of these subfields, right? It would be
+amazing, but we can't. Uh, so instead we, we are forced to just buzz through. This is great. Your
+greatest weakness, uh, interpreting semantics of the question, but ignoring the pragmatics. Well,
+could you give an example? Yes, I could. Amazing. So they have read the semantics. They know what
+that means, but they've ignored the pragmatics, which is, Hey, give me an example of this. Um,
+which is just, it's great. So this brings us back to our linguistic subfields, right? We've talked
+about the major subfields. And of course, there's always a little bit of debate as to what counts
+as a major subfield and what doesn't. And there were some very plausible ones that we've not
+really touched on. Psycholinguistics one could argue is very much a subfield of linguistics.
+Sociolinguistics is a major subfield of linguistic, but we've talked about sort of the canonical ones,
+the ones that are big enough that we have dedicated classes for them. Actually, no,
+we have a sociolinguistics class, but anyways, um, we've talked about the big ones that are
+historically well-known at least. Um, and that's phonetics, phonology, morphology, syntax, semantics,
+and pragmatics. There are other fields. We'll talk about that a little bit more. Um, but we've
+treated them all as independent. We kind of segmented them out into like, okay, this week,
+we're talking phonetics, then phonology, then syntax, then morphology. Well, vice versa,
+but they're really not actually that independent. They're all interconnected. This is a kind of an
+intersectionally thing. So let's think about how they mix for a few minutes. Syntax and phonetics,
+very far apart this quarter, but very closely related. And the area where these mix is prosody.
+The elements of speech that aren't vowels and consonants, things like pauses, things like
+pitch, things like timing, things like chunking, things like emphasis, uh, volume, that kind of
+thing. All of these things go into prosody, right? And incorrect prosody is a great way to bother
+people. We talked about this already with list intonation. I'm going to the store to get carrots,
+peas, carrots, milk, cat food, and cereal. And then people wait. Um, but you can do other things.
+You can say, for instance, I, if I see this sentence, I saw the Duke of Edinburgh speak.
+That's how you would generally say this sentence. But you could say something like, I saw the Duke
+of Edinburgh speak. I saw the Duke of Edinburgh speak. That doesn't work because that makes it
+seem like he's the Duke of Edinburgh speak, which is a thing. Or I saw the, or I saw the Duke of
+Edinburgh speak. That doesn't really, yeah, you can screw up prosody and have a lot of fun there.
+Um, did you see me at the cat show? That's how you would normally say it, but you can
+use falling intonation just to mess with people. Did you see me at the cat show?
+Like you can do this, but it has a very specific and very different meaning of like,
+I'm disappointed that you saw me there. And here's a really fun one. Asking somebody,
+did you go to the store? That's one thing, but asking somebody, Hey, did you go to the store?
+Did you go to the store? What does this mean? This doesn't mean the grocery store anymore.
+Did you go to the store? Makes it sound somehow illicit, right? It makes it sound somehow dirty.
+No doubt. All of you are thinking of the store in your particular life, but it makes it sound
+very, very different. So asking somebody, Hey, did you go to the store? Is very different than,
+Hey, did you go to the store? And they will look at you so weirdly if you do this.
+Um, and usually tell you it's none of your business. How weird is this? By the way,
+just prosody can make this word dirty. Um, here's a really good way to just mess with poets. Um,
+what are the roots that clutch? What branches grow out of this stony rubbish? Son of man,
+you cannot say or guess for, you know, only a heap of broken images where the sun beats and
+the dead tree gives no shelter, the cricket, no relief and the dry stone, no sound of water.
+Only there is shadow under this red rock coming under the shadow of this red rock.
+And I will show you something different from either your shadow at morning striding behind
+you or your shadow at evening rising to meet you. I will show you fear in a handful of dust.
+This is by the way, a very good way to punish poets, find their favorite poets and then
+threaten to give them to text to speech, right? Because you get something that is fundamentally
+not art, right? There is an element of poetry that is very much artistic and text to speech
+is unable to do that. I will show you something different from either your shadow at morning
+striding behind you or your shadow at evening rising to meet you. I will show you fear in a
+handful of dust. That feels much better than what the text to speech did because we as humans,
+and maybe you disagree. I don't know. I like the poem, but I don't claim to be a professional,
+right? Um, but nonetheless, I, this will give you something fundamentally different read by a human
+and read by a text to speech algorithm, which is just not going to be good at prosody, right?
+So prosody is really important. Wow. Text to speech is hard. You should take Ling six. You'll
+find out more. Um, because we talk all about this kind of thing. Um, that's a plug. Yes. I know.
+Um, phonetics and pragmatics, these two things interface a great deal too, because you can use
+stress for contrastive focus. Like, no, I saw Steve last weekend. I touched on this earlier.
+This implies that you made the right, or you made the wrong choice. Initially. Um, Mary went to the
+park last weekend, not John. So you stress that the phonetics can be really powerful there. I went
+to the store versus I went to the store again, all of these things carry pragmatic meaning.
+And so this is syntax as well as a pragmatics, as well as phonetics, morphology and phonology
+are real tight, right? There is a reason that we generally advise students to take phonology
+before they take morphology because otherwise you're going to have a pretty bad time, right?
+So for instance, English refrigerate, great, cool, cool word, right? Um, let's add on a morpheme,
+the agentive morpheme. So we get refrigerator. So refrigerate refrigerator. There aren't really
+many changes to this word here. You're just adding the error on the end there.
+Compare that to photograph and photographer,
+refrigerate, refrigerator, basically the same words, photograph, photographer. It's not photograph
+and it's not photographer. It's photograph, photographer. Oof. Oof. So this is a really cool
+phenomenon. And in fact, entire areas within morphology and phonology are interested in how
+this might work in ways that these kinds of things can happen. We're adding and adding
+in ways that these kinds of things can happen. We're adding an affix completely destroys this
+word, or at least makes it change entirely. And it doesn't do anything to this word,
+which is just awesome, right? So morphology and phonology interface, syntax and semantics. Oh,
+we've been all over that already. Things like verb frames, argument structure. Those things
+are tightly linked syntax and pragmatics. I saw John last weekend carries a meaning, right? It
+was John that I saw last weekend. Generally speaking, emphasizes the fact that it was John
+rather than Mary. John is who I saw last weekend. Last weekend, I saw John. This is emphasizing the
+weekend. John, I saw last weekend. This means that you've been in the middle of a list. You know,
+for instance, Herbie, I saw at the fair. Karen, I saw last weekend yelling at a manager and John,
+I saw last weekend. Sorry, Karen's not the world. It's a thing, right? Speaking of pragmatics and
+connotation, more importantly, the whole Karen meme is kind of amazing from a semantic perspective.
+And then John, saw him last weekend, I did. Kind of weird, right? But all of these things will
+carry slightly different pragmatic forces. Plus, there are all the other fields we haven't talked
+about yet, like language change and historical linguistics. We'll get a little bit into that
+next time, thinking about typology, thinking about language families and things like that.
+Sociolinguistics, we've touched on a little bit in the first lecture. I'm sorry, I guess it'd be
+third, talking about dialect and sociolect and idiolect. Psycholinguistics, we've talked about
+a little bit in the first, but again, computational linguistics, I just drop in everywhere because I
+have a problem, right? Neurolinguistics, we mentioned briefly, but all of these things are
+very, very big subfields. And then language acquisition, that's one of the ones that's
+especially troublesome, right? Because how do kids pick all this stuff up? Like, this stuff is
+hard for adults. How do kids learn this? Seriously, whoa. Every one of these subfields interacts with
+every other subfield. We talk about these as separate things, but they're not. Really, this
+is a schema for representing our knowledge within the field. We have tongue knowledge that lives in
+phonetics. We have sound pattern knowledge that lives in phonology, but then parts of that lives
+in morphology, and then there's syntactic sides of it too. We think about all these as regions,
+but it's really hard to draw these exact lines, and the lines are going to differ from language
+to language, right? If you have a language like, for instance, Wichita, where most of the words,
+where a lot of the words, that is, are single, I'm sorry, where a lot of the things that would
+be used for sentences in English are single words in this language, the role of syntax kind of takes
+a bit of a back burner and instead starts feeling like morphology. Although actually, some
+syntacticians still do very much work in polysynthetic languages, including one of our
+own, Michelle Yuen. All of those kinds of things work differently depending on the language,
+depending on the lines. The thing is, you need to know all of these things, and linguistics grad
+school will make you do some work in every area. When you go on to linguistics grad school, you
+will find yourself looking at all of the subfields again, but in greater depth, right? It is a very
+sad linguist who knows only one subfield, right? We all specialize, right? I'm a phonetician,
+and I've got this weird secondary specialization as a computational linguistics person, but
+generally speaking, even if you focus only in one area, you know enough phonetics,
+you know enough phonology, enough morphology, because you can't run, you can't hide. And this
+is the advantage to a ling major, rather than just taking one or two courses, because I know some of
+you are going, well, I don't know, I think I might be a linguist, but I'm also an electrical
+engineer, and I don't want to declare the full-on major. Just do it. Just do it. Come on, you can do
+it. We believe in you. Nonetheless, you get that full, well-rounded experience, and you get to see
+all of these things interacting properly. So put differently, you cannot run, you cannot hide.
+Phonetics will find you. So just learn the damn IPA, okay? So I know what you're thinking. Will,
+of course, I want to declare a ling major. What classes do I have to look forward to?
+Well, as you're planning for your ling major, I'm going to give you just a listing of classes
+that are generally available in each quarter. So in the fall, usually you get ling 110.
+Usually you get ling 8, Languages and Cultures of America, or ling 6, Linguistics of Invented
+Languages, which is a really fun class, by the way. Sign Language and Their Cultures, ling 7.
+All of those are available in the fall. You should definitely plan to take phonetics
+next fall, just as soon as you can, because that will give you the gateway to phonology,
+which gives you the gateway to morphology. Because in the winter, you'll have 111, which you'll want
+to take as well, phonology. Then you might take ling 6, Language and Computers. There will be
+puns there. Or ling 112, Speech Sounds and Speech Disorders, or 121, Syntax, or Language of
+Influence. When that's offered, that's a great class. And then morphology is offered usually
+in the spring, along with semantics, along with pragmatics. All of those things are going to be
+awesome. And so it's a good idea to start thinking already about, okay, in the fall I'll take
+phonetics, then phonology, then morphology, and then I want to get syntax in as well,
+and then let's do semantics, and the next year I'll come around, I'll get pragmatics,
+or something like that. If you want more information, contact linginfo at ling.ucsd.edu
+for more information about the major. They can help you. They can sit down with you and look
+through your major that exists and say, hey, cool, all you need to take are these four classes,
+and you've got a ling major. Amazing. So anyways, not that there was a hard sell there. Nope,
+not at all. Wrapping up today, conversational maxims allow us to imply things with language.
+Implicature is everywhere. Speech acts are a thing. Dixis is referentacular,
+and pragmatics is very much contextual, and you cannot, contextual, that's how you say that word,
+and you cannot hide from any element of language. It will find you. Next time we'll talk a little
+bit about language families and typology. Thank you all so very much, and have a wonderful rest
+of your day.

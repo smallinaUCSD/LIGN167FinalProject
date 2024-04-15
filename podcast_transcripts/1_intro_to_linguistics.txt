@@ -1,0 +1,999 @@
+Hi everybody, I'm Will Styler and today we're going to talk about what it is that we're
+going to cover in Linguistics 101 this quarter.
+So today's plan for you is to start off by talking about introductions, just to introduce
+myself.
+Then we'll talk about what the course is about, how we're going to teach it, and what linguistics
+is as a whole and why we care.
+That's today's goal, is to figure out what is this thing that we're going to be doing
+and why on earth would anybody do it.
+And so, yeah, there's today's goal.
+Introductions.
+I'm Will Styler.
+I look a lot like that guy, actually.
+But basically, I am a linguist.
+I'm an assistant teaching professor here in the linguistics department and my biggest
+passion is language and more specifically, speech.
+I'm interested in what it is that you're doing as you're talking.
+I'm interested more even so in how it is that other people are able to turn the acoustic
+signal you're generating that this microphone is capturing right now back into some understanding
+of what I did inside my mouth.
+And thus, when I say the word penguin, you know what that was.
+That to me is really fascinating.
+I also have some background in computational linguistics.
+I've done a fair amount of work with natural language processing and I teach classes ranging
+from phonology, morphology, probably phonetics at some point, also Ling 6, language in computers,
+and then linguistics of memes is coming up here shortly, as well as a hearing science
+class.
+I have a lot of fun here.
+But yeah, I'm Will Styler.
+I'm a linguist.
+I'm a gigantic nerd.
+And in fact, we have an entire amazing instructional team, all of whom are linguists of various
+levels in their career, but, and they haven't fully been assigned at this point in the recording,
+but still we are all linguists.
+The folks on the instructional team are linguists.
+This is another way to say a gigantic professional language nerd.
+We are nerds about one very specific thing and that is language.
+We are interested in talking about language and thinking about language and I'm not meaning,
+by the way, what we're going to be repeatedly discussing, the difference between lowercase
+language and uppercase language.
+Uppercase language means language, all of them.
+The concept, this thing that I'm doing right now to you is language, generally speaking,
+versus a lowercase language like Spanish or Russian or English or Malayalam.
+There are lots of languages out there, but we're thinking about language, capital L language.
+And so we're going to learn how it is that linguists talk about language.
+We'll talk about what language is, generally speaking.
+How do we define it?
+How is it different from other things that humans do?
+We'll talk about different aspects of language.
+What exactly, how can we break language down into smaller, analyzable chunks?
+We'll think about the different subfields that tackle different problems.
+I'm a speech guy.
+So fundamentally, that's where I spend a lot of my time.
+But I have colleagues who spend all of their time thinking about words and word boundaries
+or who think about sentences and sentence structures.
+All of these subfields have different fun problems for us to think about.
+We'll talk about different tools and techniques that linguists use during the course of the
+quarter and then we'll look at actual language data over and over and over again.
+Every synchronous session, by and large, we'll be thinking about language data, whether we're
+generating it or getting it from elsewhere or looking at an existing data set, we're
+going to be looking at language.
+We're going to be picking it apart and trying to get a good sense of what's going on.
+So that's kind of our main goal for Ling 101 and we'll also have a lot of fun, for certain
+values of fun, in the process.
+I'm going to have fun and I'm sure you all will too.
+So that's what the course is about.
+How are we going to teach it?
+Well, we're going to be online, as you can probably tell, given that we're online.
+That means we're going to use online videos like this one, wow, as well as offline assignments
+as well as these synchronous work sessions.
+And we're going to be doing some one-on-one questioning and answering.
+There should be an and in there someplace, don't worry about that.
+But you understood it, magic language.
+Anyways, so we're going to be doing all of those things together to try and get all of
+this information to you.
+This is an instructional video, wow, amazing, I know you're shocked.
+But the slides for this video are posted on the syllabus.
+If you go to the syllabus and click on the name of this video, you can get a link to
+exactly the slides you're looking at here.
+And you can also use YouTube to speed me up, slow me down, or to get captioning using YouTube.
+And the captioning from YouTube is fascinating.
+We talk more in link six about why that's such a hard problem, right?
+But these instructional videos are here for your help.
+You can also get to them by a canvas, but it's mostly me talking.
+But you'll also see things that look like this.
+These are check-in questions.
+A check-in question is where you have a set of answers.
+And when I give you something like this, your idea, the goal here is for you to take a look
+at it.
+For you to look over at these things and pause, maybe even pause the video, but take a second
+and figure out the right answer.
+So I'm going to give you a moment here, and I'm going to drink some tea.
+And I'm going to spill some tea down the front of me.
+Wow, one lecture in and I'm already really, yeah, anyways, look at the question.
+So I hope that you figured out by this point in time that the answer is, in fact, D. The
+correct answer here is D, because I told you that.
+Wow, they're not all going to be that easy.
+So let's use a different question, this one based on the syllabus.
+When should you tell me about special accommodations you're going to need, whether due to religious
+holidays, whether due to Office of Student Disabilities, or whether due to time zone
+issues or things like that?
+So A, within the first two weeks, B, end of the quarter, C, when I'm freaking out about
+my grade, and D, I won't tell him.
+The answer to this, if you've read the syllabus, or frankly if you're a sane human being, is
+going to be A, within the first two weeks.
+So this is how this works.
+One thing to highlight, though, is that listening to these videos isn't magic.
+I mean, language is magic, and therefore the videos will take on a little bit of character
+of magic, but it's not itself magical.
+You're going to want to take notes.
+Likely, there are people in the world who don't need to take notes, but it's probably
+a good idea to at least try it.
+But remember not to write down word for word what I'm saying.
+Write down the ideas.
+I'm saying this, and a lot of you have figured this out already, but reconceptualizing what
+I'm saying is a really useful tool for this.
+And summarize things in your own words.
+You have the joy right now of having videos, which means you can pause the video if you
+need to take a little bit longer time to write down some notes.
+You can look at the slides later on.
+Everything is still available to you.
+So take notes well, summarize, rethink, and that'll make life easier.
+Also, I really encourage you to write down questions that you have, because we'll have
+not only the question and answer session during the week, but you'll have office hours, and
+at the start of each session, we'll take a little bit of time for questioning.
+Write those questions down, because chances are if you have a question, a bunch of your
+classmates have the same question.
+So I'd like to answer it.
+So yeah, and then cross them out if you later realize I've answered them in the lecture,
+but yeah, there you go, and post them on Canvas if you just can't sleep, if you're sitting
+there like, oh my God, what exactly is the difference between dialect and idiolect?
+You'll get that later on, and if you can't figure those two things out, okay, anyways,
+we'll cross that bridge when we come to it.
+But Canvas is another place to get questions answered.
+So the other thing to remember is that we as a species are really, really awful at multitasking.
+That's right.
+Close Discord.
+I know there are a billion distractions out in the world.
+That's a thing.
+Seriously, but just don't, resist the temptation, no, do resist the temptation, prosody there.
+Resist the temptation.
+You know, the more time that you can spend with some degree of focus on these videos,
+the better, and because this is where you're going to be getting a lot of the course content
+rather than the course analysis and skills, it's really important that you focus here,
+or study it again later, but it's more time efficient just to do it right the first time.
+So I'm going to write any questions here, and when I do that, what I want you to do
+is to think.
+Stop.
+Hmm.
+Do I have any questions?
+If so, write them down.
+That's all.
+Okay.
+So this brings us to our main topic here.
+What is linguistics?
+Why are we doing this?
+Why am I a thing?
+It's a long story right there, but most people, the thing is, have zero clue.
+If I walk up to somebody and I say, hi, I'm a linguist, they're going to first go, hmm,
+I think I've heard of one of you at some point in time in the past.
+Oh, I watched Arrival.
+So you talk to aliens, or the most likely answer is, how many languages do you speak?
+This is sort of a running joke among linguists.
+You can go to the LSA and see somebody wearing a how many languages do you speak t-shirt,
+just because it's kind of, it's the thing, and it makes sense, right?
+But it's not exactly accurate, because many linguists speak more than one language.
+I speak a couple myself, but there is way more to linguistics than knowing languages.
+I know monolingual linguists who are absolutely amazing as linguists, who do great work, who
+know the field well and are excellent, but just happen to have only picked up the one
+they started with, right?
+Because linguists are not studying many, many languages.
+There are polyglots in the world.
+There are translators who can go from four different languages back and forth fluently.
+This is an amazing set of skills.
+It's one that I value and respect incredibly.
+But linguists do a different thing.
+We are studying capital L language.
+We are studying how language as a concept works.
+All of these different things, whether it's Spanish, whether it's Russian, whether it's
+Malayalam, whether it's some other language, you know, all of these things, Gua, for instance,
+all of these languages have some things in common, right?
+And sign languages as well.
+All of them have things in common.
+What are those things?
+And so we can study this by looking at Spanish, Laotian, Russian, Kumeyaay, or any other variety
+of interesting languages.
+Learning languages can be a big part of that.
+And absolutely, as a linguist, learning more languages is a good thing because you get
+a better sense of how things work and with different parts, different arrays.
+But that's not the whole thing because we're interested again in capital L language.
+We are interested in the concept even as we study individual languages and how things
+work there.
+But the problem is we've got a problem as linguists because language is amazingly complex.
+It's both a problem and it's job security.
+I'll take both, right?
+Let's look at a sentence like this.
+The duck quacked gleefully at his bay.
+So putting aside the fact that I think bay is now old vocabulary, I'm trying over here,
+right?
+What are the different elements of this?
+We can think about this in so many different ways.
+If I say the duck quacked gleefully at his bay, what did I do there?
+How did I make that sequence of sounds?
+What did I do with my mouth, with my lips?
+The duck quacked gleefully.
+So you can think about what it is that my tongue is doing.
+Why is it that the qu, qu, involves this lift gesture here?
+Interesting, right?
+You can think about it in terms of my world.
+How did you understand the acoustic signal that this microphone is capturing that is
+going into your ears and is allowing you to understand that that sentence was made?
+Why is there a T at the end of quacked rather than a D?
+There's a D up there.
+Why is it not a T?
+Why is it, or I'm sorry, why is it not quacked, quacked?
+For that matter, why is it not quacked?
+Probably was at some point.
+English changes, right?
+But why is there a T there, quacked?
+That's an interesting question in phonology.
+What does that D actually mean?
+What's the difference between the duck quacked gleefully and the duck quack gleefully?
+Why do we use one rather than the other in this dialect of English?
+Then we might ask ourselves bigger structural questions, like who quacked at whom?
+We know that there was quacking involved, but who did it?
+When did this happen?
+Did it happen now?
+Is it in the future?
+How do we even know this?
+What was gleeful about it?
+Was the quacking gleeful?
+Was the duck gleeful?
+Was the bay gleeful?
+Gleeful, wow, interesting.
+Gleeful?
+I don't know.
+That's interesting.
+Why did I substitute an L for a W right there?
+Another good question.
+Whose bay was it?
+How do we know that the bay belonged to the duck rather than to the quacking, to the gleefulness,
+or somebody else's bay?
+Or maybe the bay was somebody else's bay.
+We don't know that.
+And what is a bay anyways?
+What does that mean?
+Why would you even use that word?
+Why would you put this old slang in a Ling 101 presentation?
+There are so many questions we can ask ourselves.
+And then we can get into our understanding that we can glean from the world.
+For instance, is this duck single?
+Probably.
+Maybe.
+Probably not.
+If he's got a bay, then presumably, if it's actually his bay, not single anymore.
+Is the duck happy?
+Well, if they're quacking gleefully, probably.
+So anyways, you have all sorts of questions you can ask for this.
+And can a duck have a bay?
+Probably.
+Right?
+I don't know.
+But either way, this gets at the idea that language is complex.
+Every element of analysis I just talked about has a lot of complexity in it, right?
+And so thinking about even a simple sentence like that adds, well, a bunch of more complexity
+there.
+So because language is complex, linguistics has to be complex as well.
+And so we're going to look at all of the complexities.
+That is the biggest oversimplification ever, because we're not going to look at all of
+them, but we're going to look at a bunch of them from a very high level.
+If you look at any one of these subfields, if you look at any one of these areas, there
+are entire graduate courses possible.
+But we're going to look at the different levels of complexity that we deal with.
+So we're going to look at many of the central subfields of linguistics.
+We're also going to ask other questions that we as linguists are also really interested
+in.
+So what elements of linguistics are we going to cover this quarter?
+Well, how does talking work?
+What is it that I'm doing right now with my mouth and lips that's creating a set of sounds
+that you're hearing?
+Phonetics.
+How do sounds change when we combine them together?
+Why is it quacked rather than quacked?
+That's phonology.
+We'll talk about how we build words in language, and that's morphology.
+What is the shape of words?
+What do they sound like?
+We'll talk about how we combine words into sentences, syntax.
+We'll talk about what all of this means together, semantics, pragmatics.
+And then we will cover some other little things off to the side, but our main goal is going
+to be to cover all of these big subfields here, because you're going to be taking more
+and more classes in these subfields when you declare your linguistics major.
+So what won't we be covering this quarter?
+Well, a couple of big important things to start with.
+One of the things that a lot of people always get this kind of weirded out about is, if
+I say, oh, I'm a linguist, they'll immediately stop and go, oh, I'm sorry, why?
+Because my grammar is terrible, I'm not really articulate.
+And this is a big oof moment for me, because that's not at all what we do in linguistics.
+We'll talk about this over and over again, but the goal of this class is to help you
+understand how language actually works for actual humans, rather than worrying about,
+you know, oh, what is good language?
+What is articulate?
+What is grammar?
+And we'll talk more about this a little bit later on.
+How does poetry work?
+We're not going to get into aesthetics of language.
+I mean, certainly, you'll learn things that'll help you understand how rhyme works.
+It'll help you as a poet to know more about language and linguistics, but we're not going
+to engage directly with the aesthetics of language.
+What makes a great author great is a different question.
+That's the literature department.
+We're interested in what makes a great author understandable.
+What are they doing?
+We're not going to get into directly learning new languages.
+Certainly, knowing more about linguistics helps you know more about languages.
+It helps you learn languages more quickly, because you're going to be able to understand,
+oh, this is a case system.
+I learned about that in 101.
+Or oh, wow, so the syntax is just backwards.
+And so we'll understand these kinds of things, relative, of course, backwards, relative to
+another language.
+But nonetheless, it'll help you, but we're not going to get directly into learning languages.
+We're not going to talk about how to be a translator.
+I will talk about translation theory, because oh my God, translation theory is amazing.
+But we're not going to talk about the physical act of translation or anything like that.
+And we're not going to talk about individual languages as much.
+I will be using examples over and over again from languages of the world.
+And for me, it's probably going to be Spanish or Russian, because those were in many ways
+my first love.
+But I'm going to try and use a diversity of examples wherever I can.
+So we'll talk about individual languages from time to time, but this class will not be about
+Spanish linguistics.
+It will not be about Russian linguistics or Kumeyaay linguistics or anything like that.
+This is a class that is about language generally.
+So that's what we're doing here.
+This gives you a sense of linguistics, gives you a sense of what we're up to, but the bigger
+question remains, why?
+Why does anyone care about linguistics, Will?
+And of course, it's, you know, who asks these kinds of crazy things?
+But at least there are a bunch of ways to answer it.
+Just in case you have to explain to your parents why you've declared this new major, we'll
+help you out here.
+Every linguist ends up having their own reason.
+For me, personally, I can't not be a linguist.
+I'm broken in a very creative way, such that these questions make a lot of sense to me.
+And I can't not ask them.
+I can't not investigate speech perception, because if I try and avoid it, I'll be at
+a restaurant or something, and the waiter will come up, and I'll just be like, oh, wow,
+you have a really interesting voice quality, and I don't say this part, you have a really
+interesting voice quality, and I'm very, very curious about why that works.
+So I'm a linguist.
+I'm born to it.
+And you'll have your own, but you might not know that yet.
+When I started my school, at college, that is, I didn't think I was a linguist yet.
+I found my own reasons, and you'll find your own reasons when you become a linguist.
+But I'll give you two big answers as to why linguistics is amazing.
+And the first is that linguists do linguists interesting.
+Linguists, but linguistics.
+Ah, pronunciation.
+We do interesting things, and the other thing is that language is awesome.
+It really, really is.
+So let's start with the interesting things part of it.
+So experimental work in linguistics is a really big thing.
+A lot of folks don't really think about that initially, especially folks coming from outside
+of the social sciences might not even think about experimental work being a possibility
+when you're doing this kind of thing.
+But it's definitely a thing.
+So observe, this is a nerd right here in his natural habitat using what's called an oral
+nasal airflow mask.
+This is a mask that has sort of a cup that you put over your mouth, then there's a divider
+in the middle of the cup such that when you put this over your nose and mouth, there is
+a divider that gives me the air that's coming out of your nose so I can measure its pressure
+and the air coming out of your mouth so you can measure its pressure.
+This gives you a really detailed and fine grained knowledge of air coming out of the
+mouth versus nose.
+You might be thinking, why does anyone care?
+Nasality, vowel nasality, consonant nasality.
+Nasals are sounds like bend, mm, mm, or mom, or in French, beau versus bon, on.
+That's a nasal vowel.
+So we can use experimental methods to measure nasality, as this nerd right here is doing
+way back when.
+Or electromagnetic articulography.
+This is another nerd in his natural habitat under an electromagnetic articulography machine.
+This is a machine that uses magnetic coils up here in these arms that you're seeing around
+the head.
+And those magnetic coils transmit a very subtle magnetic field, and that magnetic field is
+picked up by little tiny sensors.
+This is to scale.
+That is the sensor down at the bottom there.
+That is a very, very small sensor.
+And then what we do is we glue those sensors to you.
+Using super glue, we just super glue sensor here, sensor here, sensor here, all up and
+along down your tongue, along your jaw, even your eyebrows, so we can get a sense of what
+does it mean when your eyebrows are moving?
+And so we use this to track the position of things in space, and by doing this, we get
+really detailed information about how exactly it is that the mouth and tongue and whatnot
+are moving as we're going through the world.
+So that's really fun.
+This is one of the things I did in my postdoc.
+This is my postdoc advisor, Pam Baddour, with an ultrasound machine.
+And this is just literally an ultrasound machine.
+May have had one already for medical purposes.
+But what it allows us to do is to, well, it bounces sound waves up, and then when they
+hit air, for instance, at the top of your tongue, they bounce back.
+And so you can see a slice through the mouth.
+And so let's take a look at a video here recorded at Michigan.
+And what we're going to see here is right in this area is the tongue.
+This moving line here is the tongue, and the tip of the tongue is this direction, the root
+of the tongue is back that way.
+The north wind and the sun were disputing which was the stronger.
+When a traveler came along wrapped in a warm cloak, they agreed that the one who first
+succeeded in making the traveler take his cloak off...
+So if we pay attention, you can see that different sounds trigger different movements
+of that tongue.
+...as hard as he could.
+But the more he blew, the more closely did the traveler fold his cloak around him.
+You see it moving fluidly.
+And at last the north wind gave up the attempt.
+All the gestures blend together.
+Then the sun shined out warmly, and immediately the traveler took off his cloak.
+And so the...
+This is amazingly useful for us.
+As we study speech, being able to see the tongue moving in real time and in full detail
+rather than just having a few sensors, as I talked about with Emma, being able to see
+that moving in full detail is absolutely amazing.
+It gives us great information about how it is that our speech actually works over time.
+Really, really cool stuff.
+So all of those are fun instrumental methods for measuring speech, but there are other
+things that you can do too.
+Just good old-fashioned acoustics.
+A lot of my work happens with just a microphone, like this one, although usually it's one that
+we mount to the front of the face like this, so it's a little bit more like the Britney
+Spears style.
+But anyways, I dug...
+That's an old reference.
+Wow.
+Aging.
+Anyways, acoustics is another thing we use.
+We just measure the sound.
+And we can look at the sound using fancier techniques, and you'll learn more about these
+in Ling 112 or in Ling 6.
+This is a spectrogram showing us the different frequency components of the sound as it moves
+through over time.
+And so you can see, this is the word noise here, that each one of those different bands
+corresponds to different parts of the word there.
+I'm not going to go into it right now, even though I really, desperately, truly want to,
+because this is 101, but still, acoustics gives us a lot of really great information.
+There's also eye tracking, is another really interesting element, where we use actually
+a setup not that different from the one I'm using right now, except we have a very specialized
+camera that's looking back at me, looking back at my eyes, and trying to get a sense
+of where on the screen I'm looking at any given moment.
+So it can follow, using a cursor, my gaze.
+So as I'm looking around, and it's very jagged, you can tell exactly where I'm looking.
+This is useful because we can then get very, very quick information.
+For instance, for a speech perception experiment, because if I say, you know, press a button,
+here or here, when you hear the word you think you've heard, like it'll give you bend bed
+or something like that, there's a big delay, because I have to move my arm, I have to think
+about the gesture to move my arm, et cetera.
+With eyes, we're real quick to move them.
+So watch this trial.
+This is an example of an eye tracking trial for speech perception.
+Look at the pictures.
+Pink cursor is the eye gaze.
+Fixate cross.
+Now, look at send.
+So in this case, we can see the exact moment, and I'll replay it again in a second, where
+the person made the decision, I'm hearing the word send on this side, rather than the
+word said on this side.
+Really, really cool.
+One more time.
+Look at the pictures.
+Fixate cross.
+Now, look at send.
+See how quick that decision was?
+That's really, really, really useful.
+So eye tracking is really helpful in phonetics, but also in other parts of psycholinguistic
+work.
+Dr. Wittenberg in our department has an eye tracker and uses it to great effect.
+Neurolinguistics is another element of the world that is really fascinating, because
+there are all kinds of different tools that we can use to measure what's going on in the
+brain, ranging from EEG, fMRI, MEG, all sorts of really cool techniques that can give us
+some sense of what might be going on inside our heads, and then correlate those to various
+linguistic measures.
+And they're really, really cool.
+We can get so much interesting data and start to get a sense of not just what it is that
+we're doing behaviorally when we deal with language, but how we're processing it inside
+of our brains.
+There are other fun things that you can do as a linguist, though, that aren't just experimental.
+I'm an experimentalist, right?
+But there are lots of elements of our language, or of our language, but also of our field.
+Documentation is one of them.
+So there are many, many, many, many, many languages in the world.
+We'll talk more about exactly how many there are later on, but there are a ton of languages.
+And even in the US, certainly before colonialism happened, there were many, many, many languages,
+and there remain many great indigenous languages out there.
+Language documentation is when a linguist goes to an area and actually does work, right?
+They work with a community.
+They talk to teachers of that language in the community, or they talk to speakers of
+the language if no one's teaching it.
+And very often they'll call them teachers anyways because they are teaching us the language.
+And then we will try and get a sense of what's going on in that language.
+We'll work with members of the community to understand exactly where the language and
+the culture relate to each other.
+We'll talk to the members of the community about how they, and if they, would like to
+rebuild their language, to revitalize it, to rebuild in cases where it's been completely
+lost.
+But still, basically trying to find a way to collaborate with members of the community
+to bring a language that might be in danger of fading out into more regular use, if that's
+what members of the community want, and at the very least to describe the language so
+we know more about human language by virtue of knowing more about this specific language.
+And we have a very strong department here at UCSD working in field linguistics.
+We have several different faculty members as well as a bunch of different graduate students
+who all work with languages around the world.
+We have people working on Somali, we have people working on the Inuit languages, people
+working on languages of South Africa, South America, that is, people working in languages
+of West Africa, as well as East Africa for that matter.
+We've got a lot of documentation going on, as well as people working on languages of
+San Diego.
+Because remember, English is not San Diego's native language, at least it sure wasn't.
+In fact, languages like Kumeyaay and Cahuilla were spoken in this area.
+Kumeyaay is the predominant in this particular region.
+But still, this is something that is really important for us to do as a field and provides
+us with a lot of richness for our understanding.
+The one place that everyone has seen language documentation now is the movie Arrival.
+Linguists feel many things, many complicated things about Arrival, by and large.
+A, it's probably the last time we're ever going to get a linguist in a mainstream movie,
+which hey, good, good, we'll take it, right?
+There were elements of it, the whole language influencing thought thing, we'll get into
+next time.
+But what they showed was a massively accelerated version of exactly language documentation.
+Doing in three days what would have taken two years, certainly an impressive linguist.
+But still, that's language documentation, just in sort of a different way.
+Computational linguistics is my other love, and this involves lots of questions, namely
+like if I am talking to Siri, okay good, she didn't wake up.
+If I'm talking to Siri, what, how does that work?
+How do any, oh damn it, she woke up.
+No, sorry Siri, go away.
+I'm sorry.
+No, you don't need to apologize, okay, I'm sorry.
+I have way too many of these devices around because I teach them.
+Anyways, how does this work?
+How does Siri understand these kinds of things that we're doing on a regular basis?
+When I say those magical words that wake those devices up, because I have Google, Alexa,
+and Siri staring at me right now, waiting, just waiting.
+How does that work?
+How do they evaluate the query, et cetera?
+So we get into that kind of thing.
+And how do you deal with questions like this?
+This one has been fixed, by the way, but this is a danger for computational linguistics.
+Why is this bad?
+Well, Siri has had an ambiguity there, and we'll talk more about ambiguity later on,
+but is this call in the sense of make a phone call, or is this call in the sense of address
+somebody as?
+And so this is a really cool little example, although it's also a little dangerous, but
+of computational linguistics in a very applied sense.
+But computational linguistics also works in other fields.
+There are types of computational linguistics that have nothing to do with virtual assistants,
+even though that's an area I love talking about, because it kind of gives you the whole
+stack, right?
+But automatic summarization.
+Imagine you've got a very, very long news article.
+How do you get the gist of it very quickly?
+Information extraction.
+I have 50 boxes of medical documents.
+I need to go through there and find the one that talks about this particular disease.
+In that case, or even worse, I need to find all of the ones where this disease happened
+within six months after taking this medication.
+This is a kind of information extraction, trying to pull data out of other data.
+Ad targeting is 100% a thing, and linguists are involved in this, in some ways more and
+in some ways less than they should be.
+But nonetheless, ad targeting is definitely another area where computational linguists
+are useful.
+Because if somebody keeps talking about a certain area of life, for instance, if somebody
+keeps talking about watches, then you might want to give them watch ads.
+But that might be the case even if they talk about other related terms, like horology,
+the science of watches, or escapement.
+You need to have kind of a cluster of ideas of what should trigger the right kinds of
+ads.
+Sentiment analysis is really interesting.
+Trying to read, for instance, a review and figure out how somebody felt about it.
+Trying to read a larger long-form review of a movie and figure out, okay, what did they
+actually feel about this?
+Or maybe reading a newspaper article and seeing how the author of the article felt about the
+thing being discussed.
+Also, pattern recognition, just generally speaking, is a thing over and over again in
+computational linguistics.
+And this can be useful to a bunch of different people.
+Concept mention, detection, all of these things fit together.
+One of the biggest areas where this is useful or used right now, certainly in the U.S.,
+is by the three-letter agencies, so to speak.
+They, for instance, will have a vested interest in...
+So imagine for just a second that you were going to sell something very, very illegal.
+Something that, you know, these kinds of folks might be interested in, well, asking
+you about.
+You probably wouldn't just come out, right, and say, hey, I would like to sell you this
+highly illegal material.
+Okay, what is your pricing?
+That would be a really dumb sort of thing to do.
+Instead, you'd probably code your language.
+Hey, I have a package for you.
+Oh, really?
+What would it cost for me to pick it up?
+You've done the same thing there, but you're not using the same words.
+So folks like the NSA, like the CIA, folks like all kinds of other agencies, are really
+interested in trying to get a sense of what people are talking about, even when they're
+trying to talk in code, and also just trying to read a whole bunch of material, in many
+cases a lot of material, to figure out where, if anywhere, these kinds of things are.
+The ethics, the questions about this kind of thing for a society, are sort of a separate
+question entirely, but this is another area where a lot of linguists work.
+Forensic linguistics is a different thing, but a really cool one.
+Forensic linguistics is sort of the intersection of linguistics and the criminal justice system,
+or the legal system, but also in very close analysis for a specific reason.
+For instance, emergency call analysis, trying to get a sense of what was said in emergency
+calls that aren't clear, trying to get a sense of how scared somebody was, because there
+are lots of things.
+By the way, a couple of content warnings, there's going to be some mention of crime
+and violence and things like that.
+Authorship attribution is a really useful thing.
+This is useful outside of a criminal context.
+This answers questions like, so often, somebody says, oh my god, Shakespeare didn't write
+Shakespeare.
+Authorship attribution is the way that we figure these things out.
+By looking for similarities in writing style across different authors, we can get a better
+sense of what's going on there.
+You also get things like, and this can be useful also for social media.
+If you have a tweet that was written by a major celebrity or something like that that's
+really controversial, they might say, oh, well, my intern wrote that instead.
+Authorship attribution can give you a sense of how similar it was to prior tweets.
+Ransom notes is another big one.
+If somebody writes a ransom note, is it very similar to how they normally talk?
+Also suicide letters, unfortunately, is another area where authorship attribution is major,
+versus, well, a suicide letter that somebody else wrote probably isn't actually a suicide.
+All of these things are really important in forensics.
+You also get things like voice identification.
+Back in the day, so to speak, when Osama bin Laden was still alive, one of the biggest
+questions that always happened any time there was a brand new bin Laden tape released, a
+tape released to the press from Osama, everybody would always ask, oh my god, is it actually
+him?
+This is the kind of folks, this is the work that you do there.
+Getting a sense of what his language sounded like, just from the physical element of, like,
+what did his vocal tract look like?
+Did this, is this sort of a set of sound signals that is plausible for this human?
+But also what kinds of language patterns he used, that kind of thing.
+All of those things for voice are really useful.
+And this also gets into questions like voice print ID.
+Sooner or later, somebody is going to try and sell you voice print ID as a secure way
+to get into X, Y, or Z.
+Absolutely not.
+Nope, no, no, no, nope, nope, nope, nope.
+If your bank offers voice print identification, they're selling you a cute little lie.
+Anyways, and so voice identification is yet another area in forensic linguistics that's
+important.
+Then trademarks, actually, is another really common area that linguists get called in.
+For instance, this could happen if, I don't even know why, Swiffer is a, Swiffer was actually,
+it was a term that was generated by linguists.
+The sweeping little mop thing that you could find at the grocery store, when they tried
+to come up with a name for that, they wanted something that was useful, like er, that had
+that er, I do things suffix, that was swift and fast, and it was sweepy as well, and it
+was swift.
+You know, look, somebody was paid a lot of money for the word Swiffer.
+But imagine then that another company comes along and offers the Swaffer.
+How similar is that?
+Is that similar enough that you can sue them?
+This comes up a lot, actually.
+I just got, like, three or four days before filming this video, an email from somebody
+asking me if I, you know, if I knew enough about, actually, in this case, it was the
+medical marijuana industry, to help talk about similarity of vocabulary in a trademark case
+or something.
+No, I don't, but nonetheless, a lot of folks need linguists for this.
+One of the biggest areas where forensic linguistics came up was actually in the Exxon Valdez disaster.
+This was a case, a famous case, of a ship running aground, an oil tanker, running aground
+off the coast of Alaska.
+And it was negligently so.
+The person, the captain of the ship, should not have run aground there.
+That was a really bad idea.
+And there were big questions as to whether the captain of the ship was drunk at the time
+that he was driving the ship.
+And this has massive consequences, both criminal, for the captain himself, as well as for the
+insurance company.
+And so there was a bunch of research done, and it had the awkwardness of no one was able
+to get onto the ship for about six hours after the disaster.
+So all that they had were recordings of the radio calls made by the captain of the ship.
+And so the question was, can we determine whether this person is drunk or not based
+on these recordings?
+So this spawned a whole area of research into the linguistics of intoxication, which is
+kind of fascinating.
+I mentioned advertising and branding.
+The Swiffer thing already is huge.
+This is an area that you can actually get paid pretty well as a linguist, but it's a
+rare area.
+Lexicography.
+I know several lexicographers.
+The idea here is to study words, not necessarily how they're made or how they're broken
+up, but where they come about, to trace them down.
+These are folks like the Oxford English Dictionary.
+The OED is available to you free with your campus, on campus or with the campus VPN.
+You can get into the unabridged OED.
+And what this means is you can find the origin with high confidence in any word.
+Just like period, any word is now available to you.
+You can go through and find the very first use of the word nerd, circa 1950, which is
+kind of amazing, or at least the first one in literature, of course.
+But lexicographers are the kinds of folks who will hunt these kinds of things down.
+And so you use that link to get to the OED.
+And again, you can get to the links through the slides on Canvas, or I'm sorry, on the
+syllabus.
+So linguists, we do awesome things, I mean, clearly.
+But the best reason to care about linguistics is that, well, language is awesome.
+Like I've been talking about fun things that linguists do, but at the end of the day, the
+thing itself is so cool.
+Oh my God.
+And so what I'd like to do for you right now is to give you a sampling platter of some
+of the awesomeness of language.
+So one of the ways that languages differ is in the sounds that they use.
+So in English, for instance, we actually have a pretty good variety of consonants and vowels
+and other kinds of sounds.
+But other languages around the world have other sounds.
+And so for instance, there are a whole host of sounds that English doesn't use.
+So for instance, clicks, bilabial click, up, up, up.
+And in some cases, up, you can have different ways to do that.
+You can have dental clicks, post-alveolar, up, up.
+And lateral clicks, like you would call a horse.
+So all of those are sounds that English doesn't have.
+And by the way, not all African languages have clicks either.
+We'll talk about that later on, but don't run down that road too quickly.
+Implosives are a sound that English doesn't really use either, a ba, ba, ba, ba, ba.
+By the way, you do have an implosive.
+This uvular implosive here at the bottom.
+That's right.
+We can all make that sound.
+We just generally don't.
+And it's not a part of our language, although it is a part of other languages.
+And then adjectives.
+A ba.
+I'm sorry.
+I screwed that up.
+Up, up, up, up, up.
+A ba, a, a, a.
+A pa, the bilabial.
+A pa, dental.
+A ca, velar.
+A ca, alveolar.
+Implosives are, I'm sorry, adjectives are actually relatively common around the world,
+but English doesn't have them.
+One place where they did show up is actually in the movie Avatar, where I believe one of
+the characters was named Duc Te, or something along those lines.
+So implosives showed up there.
+I'm sorry, adjectives showed up there.
+Which is kind of interesting.
+They also showed up in Lakota, which by the way is very similar to the language that was
+used in Avatar in terms of its sound structure, which is funny because Avatar is basically
+dancing with wolves and dancing with wolves was about Lakota.
+Anyways, I digress.
+Um, the, yeah, so there's that.
+Mandarin Chinese.
+Oh, this is so much fun.
+Mandarin Chinese has fricatives that are just amazing.
+So I'm going to play for you a Mandarin tongue twister.
+西十四十四十四十四十四十四十四十四十四十四十四十四十
+四十四十四十四十四十四十四十四十四十四十四十
+Here's the same thing from another person.
+西十四十四十四十四十四十四十四十四十四十四十四十四十
+十四不是十四,十四不是十四
+Yeah.
+That's awesome.
+Mandarin has this incredible set of fricatives that can be very difficult for English speakers
+to hear apart but are very straightforward for Mandarin speakers, which is great.
+And languages also differ not just in the sounds themselves, but in how they put those
+sounds together.
+So for instance, in English, we have really long words.
+Words like strengths is a single syllable, that is the longest single syllable word in
+English.
+So if you're ever out at a bar or something and somebody says, hey, what's the longest
+single syllable word in English?
+You got them now.
+By the way, that was a lateral click.
+So strengths is a very, very long word.
+But then you also get other languages that go even longer, that have longer consonant
+clusters.
+So the word glance in Russian is vzgliat, vzgliat.
+And by the way, my apologies for Russian mispronunciations.
+It's been many years.
+It's starting to fall off at this point.
+Straitelstv, meaning of construction.
+Here you get this elstv thing, lstv, is something that English speakers are not generally prepared
+for.
+So Russian can do us one better in terms of consonant clusters.
+And then in the Czech language, you don't actually need, although in English too, but
+there are words that don't actually have a vowel in them.
+In Czech, you can make an entire sentence.
+Sadly, that sentence is stick your finger down your throat.
+But unfortunately, in Czech, you can say, strcht, prst, skrskrk, strcht, prst, skrskrk.
+Stick your finger down your throat, and there you go.
+So thanks, Czech.
+But that's really cool, right?
+This is an entire sentence that doesn't have any vowels, which is great.
+One other thing that this means is that roosters say different things in different languages.
+There is, in fact, an entire page on rooster dialectology that you can check out there
+that talks about the fact that every language writes down and even says what a rooster says
+differently, which is weird.
+I mean, we have cock-a-doodle-doo, really?
+I don't...
+Yeah, no.
+Anyways, so roosters say different things in different languages, which is odd.
+Languages also differ in how they work with words.
+English tends to have words that are made of monolithic chunks, like three.
+You can't break three apart into separate areas, or the doesn't come apart into separate
+chunks.
+But cats does.
+You have two chunks there.
+Or robbed has the two chunks, rob and id.
+Shopping is shop plus ing, right?
+Two chunks.
+But other languages, yeah, they have more chunks.
+Here's an example of Wichita.
+I cannot pronounce this word.
+I would not be doing the language justice, so I'm not going to bother.
+But this means until there was just a little trickle of water left.
+It's two words, but yeah.
+Or there was the big buffalo lying there.
+This is a single word in Wichita.
+We're going to hopefully have a recorded lecture from somebody who specializes in this field
+later on in the quarter, but this is really, really amazing, in the field that is of exceptionally
+long words, and languages that are what are called polysynthetic, that string a bunch
+of things together, but this is really awesome.
+And it should surprise any buffaloes in your life.
+Get it?
+The big buffalo?
+Surprised?
+No?
+Yeah, I know.
+That's not an American bison, but still, okay, true.
+I'm trying over here, right?
+So okay.
+Another thing that's important is that languages have unique terms and structures in which
+they can discuss the world, right?
+So in Finnish, there is this word.
+If we have any Finnish people in the audience, you will immediately understand, oh wow, yeah,
+this is fun.
+There is an entire Wikipedia page on the word sisu that is absolutely amazing, and I highly
+encourage you, you just go ahead and do it, because it is not, it's one of those things
+that's probably not a word, but a whole culture, right?
+This language, Yamana here, has this word, which means roughly this, a look shared by
+two people, each wishing that the other will offer something that they both desire, but
+are unwilling to suggest or offer it for themselves.
+Another way to put this is, this is my wife and I looking at each other across the dinner
+table and saying, but not saying, I really want to go for churros and ice cream.
+We're both feeling that, but it's not quite, we both, yeah, so anyways, that's a nice example
+of this.
+Unfortunately, the language, this language has one speaker left, and she's 85, and that's
+as of a couple of years ago.
+So this is why language documentation is important.
+This is a really cool concept.
+This is a thing that we don't generally have in English, and boy, it would be nice if we
+had it, right?
+And if we have more knowledge of the world, we have things like this.
+Turkish actually has a really cool example of this, and pardon my Turkish, but by switching
+these two things out, by changing from the D to the Mish here, you end up with the difference
+between saying, oh yeah, he came to the party, or saying, he came to the best of my knowledge.
+I wasn't there, but I'm pretty sure that he came.
+This is what's called an evidential marker.
+So in Turkish, it is obligatory to say, when you make any statement, yes, I saw it, I know
+this, or I'm pretty sure, to the best of my knowledge, it's true, but I don't really think
+so.
+This is huge, right?
+I mean, imagine what this would do for language to just know at any given moment the exact
+provenance of knowledge alongside knowing the knowledge itself.
+That's really cool.
+So linguists study all language, though, and that's one thing that's worth noting here.
+I mean, we've talked about different languages around the world, but I want to, again, reinforce
+to you all that linguists are interested in every bit of language in the world, not just
+the proper language, not just the language that's in the Oxford English Dictionary.
+We are interested in language, however it is used, by whoever's using it, and we acknowledge
+that there are different groups of people who use language differently.
+So for instance, new language, words that are relatively new have studyable meaning,
+too.
+For instance, one common word that a lot of kids are using today is the word lit.
+So for instance, you could say, Jen lit the party when she arrived.
+See, that's great.
+Or for instance, yeet is another common piece of new language.
+So this would be something like, oh my god, that movie was so yeet.
+Or for instance, to spill tea is another common one here, which means you could say something
+like Matt has a lot of spilled tea and sadness in his life.
+Oowoo, of course, you could say I am completely oowoo about her.
+And then simp is really commonly used right now.
+That test was simp.
+I was done in ten minutes.
+So I know what you're all thinking, yeah, all of those things were wrong.
+Now the reason I did that is not just to make you cringe, although I will freely admit,
+yeah, I enjoy that too, it's sad, I can't see you as you cringe as I could in a normal
+classroom setting.
+But more importantly, there's a reason I'm making you all cringe.
+You have intuitions about how those words should work, about what they should mean,
+how they should be used.
+And all of those words that I had on that last slide were used incorrectly.
+So if you have an intuition about the correct use of words, that's language use, right?
+That's language.
+That means that the word yeet is not just some stupid thing that the kids say.
+This is a valid and important part of language.
+If you believe that I used it wrong, that means there's a right way to use it.
+And if there's a right way to use it, there's a grammar.
+And that means that yeet is useful, it's grammatically interesting.
+And that's awesome, right?
+So we can talk about any words, even brand new words, being grammatically used or not.
+And we can know when any language we use, whether it's OED, quality language, whatever
+that means, or not, we can talk about it being used properly.
+And words can have legitimate and correct meanings, as well as incorrect ones, even
+if they're not in the dictionary.
+So we could try that again, and use the words in a sense that I believe they're actually
+grammatical this time.
+That in-class phonological analysis assignment was so lit.
+Even if you don't believe that yet, and you'll get there, oh my God, you'll get there.
+When you get that Russian data set, it's lit, I'm telling you guys.
+But that's maybe a better usage of that.
+Yeet, of course, is a verb, right?
+Will is ready to yeet 2020 out the window.
+I think we all are.
+Or, you know, I yeeted the empty bottle down the hallway.
+All of these things, the empty bottle was yachting down the hallway.
+No?
+Hmm?
+Okay.
+Either way.
+Yeet is a verb, not an adjective there.
+To spill tea is, again, it's verbal.
+Will will not spill the tea on departmental drama.
+No matter whether you ask or not, I will not.
+Although I will actually spill tea in a very different sense down myself in the middle
+of filming a video lecture.
+Damn, I'm good.
+Oo is not really an adjective, but an adjective, but an attitude, that is.
+This is yet another one of those things that, um, it's kind of hard to describe exactly
+what it is, but it's a thing.
+We'll just put it that way.
+And then, of course, a simp is something very different.
+So you could say something like, don't be a simp, Chomsky will never cite your crazy
+work, even if you mention him 500 times.
+So simping has this entire different meaning.
+It has a verbal form, too, which is entertaining.
+Stop simping.
+Anyways, so all of those words have legitimate and real meanings.
+All of these things are parts of the reasons why we care.
+Languages are very different in a bunch of different ways, in their sounds, in their
+structures, in their words, and even language that is not necessarily a different language,
+but is language that is used in the world.
+All of that matters.
+And all of that is different.
+All of that is really fascinating.
+But I have a secret goal for this course.
+I have a secret desire for how this course is going to go and what's going to happen
+to you all in the process here.
+Language is amazing, but it's amazing at every different level.
+One day, I'd like for you, my goal for this course is that you sit down, for instance,
+in maybe an airport or someplace where you're just, you're bored.
+You're not doing anything else, you know, between Instagrammings and so to speak.
+That's not a verb.
+God, I'm old.
+I'm back at the ranch.
+You sit down and you're listening to two people having a conversation.
+Just listening to them chatting, going back and forth, back and forth.
+And just for a moment, I want you to see language in the way that I do.
+I want you to understand that right now, one of these two people is sitting there vibrating
+bits of meat around inside their head as they are blowing out air.
+This in turn is creating little tiny air pressure variations that are bouncing off of all the
+structures in the room and bouncing off of your ears and eventually going into a little
+hole in the side of your head right here.
+And then that hole is connected to the ear, which turns this into electrical signals,
+which go into your brain.
+And then your brain is then able to reconstruct what's going on with that person's tongue
+and then turn those tongue reconstructions back into first a sequence of sounds and then
+a sequence of chunks of words and then a sequence of words.
+And those words are then strung into individual little chunks of sentences and then into larger
+groups and larger groups and larger groups.
+And then suddenly we understand that, oh, wow, when you put those words together in
+that order, they carry meaning.
+Combining those words together like that changes what those words mean.
+And then we're able to situate all of that in the context of the world right now.
+And then suddenly, by vibrating little bits of meat around in my head, you understand
+my thoughts.
+Seriously.
+Oh, my God.
+Language is not just cool.
+It is the coolest thing.
+It is the greatest thing.
+It is the most complicated thing that you have ever done, that you will ever do, and
+that we as a species will ever accomplish.
+I'm sorry, particle physicists.
+No, language wins.
+There is nothing that humans do that is more interesting, more complex, and more fascinating
+than language.
+more fascinating than language.
+And so my goal for this course is to help you understand,
+even for just a moment, the complexity of language
+and to come to appreciate it and get little tiny chunks of,
+yeah, I know how that little chunk works.
+And eventually, as you become linguists,
+you'll learn how the rest works too,
+or at least everything that we know about.
+So thank you all very, very much for joining me here today,
+and I will see you in class session.
+Have a wonderful rest of your day.

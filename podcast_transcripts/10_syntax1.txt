@@ -1,0 +1,894 @@
+Okay.
+Hi, everybody.
+Today, we're going to start down the path of syntax, and we're going to do that, actually,
+in three parts.
+Today, we're going to focus a little bit on the kind of intuitions that underlie syntax.
+We'll break sentences down into trees later on, but why?
+Why would we even bother with this?
+Why is syntax a field, generally speaking?
+What does this win us?
+Why should this exist?
+Then next time, we'll get into actually building a syntactic grammar, or at least a very basic
+syntactic grammar for English that lets us account for the reason why sentences look
+like they do.
+And then on the following day, we'll talk a little bit more about some of the syntax
+stuff that goes a little bit above and beyond what we're going to be able to cover in 101.
+So first off, old meme, but a good meme.
+So let's go on ahead and jump into syntax, how sentences are built.
+So our plan for today is grammatical relations.
+First, just what does this concept mean?
+We'll talk about why we need syntax.
+We'll talk about constituency and constituency testing, and why this leads us to think about
+sentences as having a hierarchy rather than just being linearly ordered, as we might expect.
+And then that'll bring us into syntax trees generally.
+So okay, we've got a sentence like this.
+We have Joanie, who is here, and then we have Dieter down here.
+These are both Bolivian rams.
+They were wonderful little fish.
+But Joanie chased Dieter.
+It's a good sentence.
+It happened all the time.
+Joanie was chasing Dieter left and right.
+And so the question, if I give you a sentence like that, Joanie chased Dieter, you know
+instinctively that Joanie here is chasing Dieter around.
+The question is, how did you know that?
+How do you know who did what to whom in a sentence?
+And so this is grammatical relations.
+The way that a language chooses to mark who did what to whom is grammatical relations,
+fundamentally.
+That's the main question you ask.
+If I give you a sentence, how do you identify what roles people have in that sentence?
+And it's really important, right?
+If you don't know who did what to whom in a sentence, you've got major problems.
+And languages have different strategies for this.
+Sometimes you can kind of guess, right?
+I could give you the sentence or the sequence of words, ate, will, and veggie burger.
+Independently, you would be able to make a pretty good guess that I am the person who
+ate, which is a verb, a veggie burger.
+Because ate can never be not a verb.
+There's not a thing that's an ate or something like that.
+Will is considerably more sentient than your average veggie burger.
+And therefore, I've got a much better chance of eating the veggie burger than the veggie
+burger has of eating me.
+So you can guess from that.
+Some languages use inflectional morphology.
+We talked about this already, where you use a morpheme that marks the subject, the doer,
+in this case, and the object, the thing that's being affected, and that way you can do that.
+We already talked about this in Russian with case marking.
+But often, as is the case in English, this is accomplished using word order.
+And English uses word order to mark grammatical relations.
+If I say, Will ate the veggie burger, we know based on that word order there that I
+am the eater and the veggie burger is the thing being eaten, and the eating is the main
+verb here.
+Similarly, if I say, Joanie chased Dieter, we know that Joanie was the chaser and Dieter
+is the fish that was being pursued.
+If I say, Dieter chases Joanie, then everything changes, right?
+Because now Dieter is in the place in the sentence where we would expect the thing doing
+the chasing to live, and Joanie is in the place where the chased object and or fish
+goes.
+Andres waved to Katie.
+Again, this gives us information.
+We know that Andres was the one with his hand up, and Katie was the person being waved at,
+right?
+Or Will insulted Michael Bay.
+We know that I am the person doing the insulting because of the Transformers movies, and Michael
+Bay is the person, well, we know that intuitively, but Michael Bay is the person who is being
+insulted there.
+Sorry, Michael.
+So we know how this works, and we know that this word order is important.
+But the thing is, it's not just order, right?
+You know, you could picture a world in which you said, oh, okay, well, the thing that is
+first is the doer, the second word is the verb, and then the other words after that
+are the subject.
+But that doesn't happen.
+Because I can say, the veggie burger was eaten by Will.
+And that means the same thing, right?
+No one is confused.
+And it's not just on the basis of semantics that we know this.
+This could be a big, mean, evil veggie burger that's a mutant and eats humans, but we know
+that in this sentence, the veggie burger is the thing that I ate, right?
+And similarly, it was the veggie burgers that Will was eating.
+We've got that expletive it again, but it was the veggie burgers that Will was eating.
+Still, there's no ambiguity.
+These three sentences mean roughly the same thing.
+And what did Will consume on that dark, dark night?
+A veggie burger.
+In this case, again, it's a different verb and things like that, but the ordering is
+fundamentally different.
+So it's not just order in the sentence.
+It's not just about which thing comes first.
+Because here, the veggie burger is first, but it's still being eaten.
+And here, it's second.
+And so the big question is, okay, if it's not just word order, what could it be?
+You can change the ordering and it still makes some sense, but you can only change the ordering
+in some ways, because then it won't make sense.
+Word order matters.
+So if I say ate Will the veggie burger, that's weird, right?
+Unless Will the veggie burger is a particular veggie burger named Will, it doesn't make
+a whole lot of sense, right?
+Or similarly, if I say Joanie Dieter chased, then that doesn't make sense either.
+Unless Joanie Dieter is a person, it probably isn't, right?
+Will burger veggie ate.
+Again, this is not a sensical sentence.
+You might be able to intuit it, but it's not clear.
+And so that's kind of problematic, right?
+You can move the word order around and it still has the same meaning, except when you
+do and it doesn't, right?
+And then you can move things around further.
+So I can say Will ate the veggie burger, could say Will ate it, so I just disappear
+the veggie burger, I put a pronoun in its place.
+That still works, right?
+The ordering isn't that weird.
+Will ate what?
+Or what did Will eat?
+In this case, the pronoun, in this case interrogative, is in one position, and then I can switch
+it around and it still works, right?
+So this is a word order change.
+But I can't say what did Will eat it for some reason.
+That doesn't sound okay.
+And then things get ambiguous, right?
+I could have a sentence like Will likes ambiguity more than most people.
+And that's actually an ambiguous sentence.
+Think about it for a second.
+What are the two meanings that this sentence right here can have?
+One of the meanings is that I like ambiguity more than most people like ambiguity.
+The other meaning is that I like ambiguity more than I like most people.
+So I don't generally like people, but I like ambiguity.
+And so either way, there's an ambiguity there.
+So those are your two different meanings.
+So clearly then, this is complicated, right?
+It's not just word order, but words, orderings matter.
+There's some kind of a grammar here.
+And this is why we have syntax.
+We have syntax to describe how any of this still works, even though you can change the
+order, but you can't change the order sometimes.
+And the ambiguity is there, but it's not always there.
+It's a thing.
+Syntax, generally speaking, is the study of the structure of sentences and utterances.
+Syntax is the thing that lets us understand how any of this stuff works.
+It tells us what determines the order and the arrangement of the words and sentences.
+There's an N there.
+You just can't see it.
+It's hidden.
+But determines the order and arrangement of words in sentences.
+What orderings and arrangements are grammatical in a language, and how do we identify the
+meaning of words given their ordering?
+All of these questions are really, really important for being able to generate new sentences,
+for being able to, as a speaker, evaluate the grammaticality of sentences.
+You need to know, well, how does the ordering change when you have a different context?
+That's important.
+How do we identify the meanings of words?
+All of these things are really important.
+They're big linguistic questions.
+And syntax is huge within linguistics.
+It is a gigantic subfield.
+If you're at the LSA, Linguistic Society of America convention, the syntax parties are
+big, right?
+There are a lot of people doing this.
+It's very, very popular.
+It's very, very broad.
+It's very, very deep.
+People go way into syntax.
+And it is also very much not my area, right?
+When I do syntax, it's computational, and computational people don't do syntax in the
+way that most syntacticians do.
+So, you know, do keep that in mind.
+But still, it is gigantic.
+There are a lot of syntacticians out there in the world, and we have several of them
+in the department, actually.
+We have great syntacticians, and they will teach you in 121 all about syntax.
+But for the moment, my goal is just to get you basic exposure.
+And so let's start from the basics.
+The biggest concept within syntax, and sort of the thing that leads us to a feeling that
+there's something here, is constituency.
+So a syntactic constituent, simply put, is a group of words that seem to go together
+in the structure of a sentence, right?
+Constituents are always a continuous string of words.
+This is really important.
+A constituent has to be a group of things that are directly next to each other in a
+line.
+So it can be this chunk of three words here.
+It could be, well, actually, in that case, it wouldn't be a constituent, but it could
+be one single word, or it could be a larger chunk of words, et cetera.
+But there are no skipping of words.
+These have to be continuous chunks.
+But more importantly, these are chunks that when you split them off, make sense, right?
+So we have intuitions about how things can be split properly.
+We know what breaks in the world are good.
+And we know that even if other breaks are possible, they shouldn't always be done.
+So let's break off a piece of syntactic structure and check our intuitions, right?
+So which of the following is a complete constituent in the sentence, we'll track the wild veggie
+burgers through the forest?
+So in this case, you have a couple of different options here.
+One of these things is a piece that belongs together.
+And another of these things is not a piece that belongs together.
+So A would be burgers through the...
+Nope.
+Oh, dammit, I just gave you the answer.
+Burgers through the is one choice.
+Track the wild is another.
+C is the wild veggie.
+D is wild veggie burgers.
+And E is we'll track the...
+Listen to these.
+Repeat them to yourself and ask yourself, which one of these is a valid chunk?
+Which one of these goes together?
+So the correct answer is going to generally for most people be wild veggie burgers, right?
+We'll track the wild veggie burgers through this forest.
+This feels like a complete chunk.
+The other ones really don't.
+Which of the following is not a complete chunk in the sentence?
+Same sentence, actually.
+A is we'll B, track the wild veggie burgers through the forest.
+C the wild veggie burgers.
+D through the forest.
+And E veggie burgers through the forest.
+So for most people, the answer is going to feel like E. All of these other things.
+Feel is a complete chunk, right?
+Even though it's a chunk of one, it's a chunk.
+Track the wild veggie burgers through the forest.
+Yeah, that seems reasonable.
+The wild veggie burgers, that's a chunk.
+And through the forest.
+Yeah, that's a chunk.
+But veggie burgers through the forest doesn't make as much sense.
+That doesn't feel as good.
+So a lot of people have pretty good intuitions about these things.
+But I want to give you more formal methods for checking these things.
+And these are called constituency tests.
+These are grammatical tests.
+These are things that you can do to sentences, manipulations that determine whether something
+is a valid constituent.
+There are a lot of these out there.
+But can a syntactic operation apply to this particular chunk of text?
+Can it work on this chunk?
+So there are three tests we're going to teach you here today.
+The first one is substitution.
+Can you swap this chunk out for something else?
+The second is standalone answers.
+Could this be an answer to a question on its own?
+The third is movement.
+Can this chunk move on its own someplace else in the sentence using the grammar?
+So okay.
+Test number one is substitution.
+Can we replace the element of a sentence with a placeholder?
+If you have a chunk and you can swap it out for something else, then it is probably a
+constituent, right?
+Any time you can replace a chunk of sentence with something else, it is a constituent.
+So let's think about it this way.
+The indignant kitten eyed my veggie burger with disgust yesterday at dinner.
+So I can replace chunks of this sentence.
+We can look at, for instance, he eyed it, right?
+The indignant kitten gets replaced with he.
+So that whole thing must be a chunk.
+And then my veggie burger with disgust yesterday at dinner, you could just go it, right?
+That could work.
+The indignant kitten did so.
+This replaces everything after, well, including eyed.
+So eyed my veggie burger with disgust yesterday at dinner.
+That replaces that whole chunk, right?
+So that must be a chunk.
+The indignant kitten eyed what?
+So that would replace my veggie burger with disgust when would replace yesterday at dinner.
+So thus my veggie burger and yesterday at dinner, these must be constituents.
+The kitten eyed my veggie burger how yesterday at dinner will give us with disgust.
+So all of these things are giving us chunks, right?
+And all of these things are giving us legal chunks.
+These are actual things.
+And given you can do other kinds of replacement, the obligate carnivore replaces indignant
+kitten, accurately so, but eyed by dinner.
+And so I can replace veggie burger with dinner.
+So again, that's a chunk with disgust then.
+So at dinner gets replaced by then.
+All of these things are ways to do this.
+Can we do think for a second about, for instance, kitten eyed?
+Is there any way and try it work with it?
+Is there any possible way that you could get that you could replace just kitten eyed?
+And it is by the way, completely and totally cheating to replace it with something like
+feline looked at because that's not see what you're doing there.
+Yeah, chances are there is in fact, I pretty much guarantee you there's no way to replace
+these.
+And so you can't replace some chunks, but you can replace other ones.
+And that's a really good test for constituent.
+So here's another one.
+Your intrepid and phonology loving TA saw the great horned owl that will had mentioned
+in passing while they were standing in the hallway last week before class last night
+shortly before leaving campus to go to Red Robin to nerd out about the phonological processes
+and eat French fries.
+Okay, so what can we replace here?
+Large chunks of this actually could just say she saw it then.
+So she replaces your intrepid and phonological phonology loving TA it is would replace the
+great horned owl that will had mentioned in passing while they were standing in the hallway
+last week.
+Oh, I'm sorry, last week before class.
+And then then gives us last night shortly before giving a leaving campus to go to Red
+Robin nerd out about phonological process and eat French fries.
+All of those big old chunks I just replaced our constituents, all of those are valid holes,
+so to speak, that I can hold with a WH, right?
+These are our whole chunks that I can remove.
+She saw it last night before all that.
+So last night shortly before all that replaces leaving campus to go to Red Robin and nerd
+out about phonological processes and eat French fries.
+Again, that whole chunk must be a constituent here.
+She saw the great horned owl that will had mentioned then.
+So in this case, then would be in passing while they were standing in the hallway last
+week before class.
+So that whole chunk gets replaced with then shortly before that.
+So in that case, that would be that would literally replace leaving campus to go to
+Red Robin and nerd out about phonological process and eat French fries.
+As you see, this works right.
+And this can replace very large chunks.
+Constituents can be very small.
+They can be very large.
+But still, if they can be replaced like this, their constituents.
+So there are lots of really good words for testing this.
+Like WH words, interrogatives.
+So who saw the owl last night?
+Or who said the owl?
+So who is a good thing to replace what, where, when, how, why, et cetera.
+So you could say, for instance, she never climbed the tallest mountain in Africa in
+2018.
+So what could you put in there to replace tallest mountain in Africa to see if that
+would work?
+You would say she never climbed what in 2018?
+And then to get in 2018, she never climbed the tallest mountain in Africa when?
+So again, you can swap those things out.
+Pronouns are also useful here.
+So for instance, your desire will has no desire to meet the director of those awful modern
+Transformers movies.
+So in this case, you could replace he with well, your instructor will could be swapped
+out for him.
+And this could be swapped in for he.
+So there you go.
+Adverbs of place and time are really useful for these kinds of things.
+So for instance, I grew up just south of Denver, Colorado, in a boring suburb near
+a reservoir.
+So this gives me, I could just use I grew up then, I'm sorry, I grew up there.
+In this case, you would replace this with there.
+There's no temporal thing.
+But it was I grew up just south of Denver, Colorado, in a boring suburb near a reservoir
+starting in 1985.
+Then I could say then at the end to replace the starting in 1985.
+And then do so do so we'll grab a verb because in English, you can use do so to replace an
+entire verbal thing.
+If somebody says, you know, oh, I'm thinking about, I don't know, I'm thinking about going
+for a walk.
+Oh, you should do so that sounds fun.
+Do so replaces going for a walk.
+So in this case, Jessica ordered fried ice cream at the restaurant, and I did so too.
+In this case, you can say Jessica did so and replace that.
+And in this case, I did so is actually replacing ordered fried ice cream at the restaurant.
+Both of those things are there.
+So all of these things are really good ways to test substitution, to test for constituency
+using substitution put more closely.
+So if you can replace something with a placeholder, chances are it is a constituent.
+In fact, it is a constituent generally.
+And if you're unable to, it's not a constituent.
+So that's one of the tests.
+This works.
+And in many cases, that'll be all the tests you need.
+You'll try it and you'll be like, Oh, yeah, I can swap out a when easy constituent, yay.
+But there are other tests that we can use like standalone answers.
+So for instance, a string of words that could be an answer to a WH question is constituent
+or is a constituent.
+And another way to think about this, a very closely related test is actually surprise.
+If you wanted to be surprised at an isolated chunk of a sentence, you could repeat it back.
+So we'll work on both of these.
+So Robert the enchilada holic thoughtlessly purchased a $1,000 gift card to Chiquita's
+Mexican restaurant last week.
+Okay, there's a lot there.
+What can we do here to do this?
+To do these standalone answers, what I can do is I can replace chunks of it, or I can
+ask, I'm sorry, I'm going to ask questions that would pull out a chunk of it.
+So I could say who bought the gift card that would pull out a given chunk.
+For most people, Robert the enchilada holic would get pulled out of there.
+And similarly, using the surprise thing, you could say, wait, Robert the enchilada holic.
+So if you're trying to express that you're incredulity, that'll do the same thing.
+What did he buy?
+So in this case, that would pull out a $1,000 gift card for Chiquita's Mexican restaurant.
+Probably not last week, right?
+Where was the gift card to?
+Would give you Chiquita's Mexican restaurant.
+That would be the answer.
+So he bought a $1,000 gift card to Chiquita's Mexican restaurant?
+Or just Chiquita's Mexican restaurant?
+You'd pull that whole chunk out there if you're surprised, right?
+When did he buy it?
+Last week.
+Gives you that entire chunk.
+He bought one last week?
+Again, that chunk is something to ask questions about.
+What did Robert do?
+He thoughtlessly purchased a $1,000 gift card to Chiquita's Mexican restaurant last week
+and so forth.
+How did he buy it?
+This would actually pull out thoughtlessly, right?
+Interesting.
+So all of these things are constituents, right?
+If a chunk can serve as a standalone answer to a question, that's further good evidence
+that it's a constituent.
+Or put differently, what can a chunk that's a constituent do?
+Serve as a standalone answer to a question.
+Anyways, so that's the second test.
+The third test is when you move items together.
+There are lots of things that we can do to move things around in a sentence.
+Think of all of the various ways that you could say something like, Will yeeted the
+remote out the window.
+You could say something like, Out the window, Will yeeted the remote.
+Or the remote was yachting out the window by Will.
+Or it was the remote that Will yeeted out the window.
+All of those things are changing the order of the sentence.
+They're all grammatical sentences, at least as far as I'm concerned.
+You might agree or disagree with yachting, but you'll get there.
+Language change has got my back there, right?
+But anyways, all of those things are valid moves, and I've moved chunks.
+So if you can take a chunk of the sentence and move it as a single chunk, if you can
+move it together, that chunk is a constituent, right?
+The resulting sentence does need to be grammatical.
+Just saying, again, no cheating.
+So nice try.
+Eugene sold his watch collection to the Pine Thugs.
+So in this case, how do we deal with this?
+What could we move here?
+Well, one thing that you could do is something like, His watch collection is what Eugene
+sold to the Pine Thugs.
+So this would isolate the chunk, his watch collection, right?
+Or to the Pine Thugs, Eugene's watch collection was sold.
+So in this case, we've moved to the Pine Thugs out to the front of the sentence.
+This one is a little questionable for some folks now.
+It kind of comes across as very old-timey, but it's definitely, it has worked in the
+past.
+Sorry, voice is giving out, I've given, I've recorded too many of these today.
+But anyways, to the Pine Thugs, Eugene's watch collection was sold.
+Sold his watch collection to the Pine Thugs, Eugene did.
+That one's, that one's feeling real old-timey there, but still, we pulled out that entire
+big chunk, and there you go.
+Pine Thugs are who Eugene sold his watch collection to, or maybe the Pine Thugs, either way.
+Pine Thugs are who they sold the watch collection to.
+All of these things demonstrate that these chunks here at the front are actually constituents,
+right?
+And you can move them elsewhere in the sentence, but as long as you can move something syntactically
+from one place to another thing as a complete unit, that thing is a constituent.
+So if you can move a chunk together, it is a constituent.
+And this is how we evaluate constituency in syntax.
+So let's go ahead and test it out.
+Which one of these is not a constituent in Marla, uh, Michael and Carla, also known as
+Marla, founded an innovative new dermatology company last month?
+A, Michael and Carla, B, founded an innovative new dermatology company, C, an innovative
+new dermatology company, D, an innovative new, E, last month.
+Which one of these is not a constituent?
+So try each of our tests on each of them.
+Go ahead and do this on your own.
+Pause if you need to.
+All right.
+So, thinking about this, there are a couple of things we can do.
+So we can, let's see, Michael and Carla, let's test this one first.
+Can we move it?
+You could say something like, an innovative new dermatology company was founded last month
+by Michael and Carla.
+Single chunk, moved it, we're good, right?
+Okay, let's try founded new in, uh, founded a new innovative dermatology company.
+We can replace that whole thing with did so, right?
+Michael and Carla did so last month.
+Boom, replacement, constituent, an innovative new dermatology company.
+Could we do there?
+Well, let's try a question word.
+So for instance, what did Michael and Carla found last month?
+An innovative new dermatology company.
+Great.
+How about last month?
+This one's pretty easy.
+You've got a couple of options there because you could just move it to the front, right?
+Like last month, Michael and Carla founded, or you could do a question.
+When did they found it?
+Or you could replace it.
+You could say founded a new dermatology company then.
+All of those things could get last month alone, but an innovative new, that one doesn't fly.
+There's no way for us to make this one a constituent and that's not great, right?
+If you're trying to make that a constituent, so therefore this would not be a constituent
+in this sentence.
+So what do we call these constituents as we're working with them?
+We've now found good methods to actually identify constituents in the world, right?
+We can now go through and we can look at these constituents one by one and we can figure
+out, okay, this is one, this is one, this is one, but how do we label them?
+Because in linguistics, labeling things gives us power, right?
+It gives us understanding of the world.
+So what we do is we name these constituents after the head of their phrase.
+So what I mean by that is that there is a lexical category for every word, right?
+We can talk about that.
+We talked about that last time.
+We talk about the head of that phrase.
+So if we look at the sentence, the angry squirrel stole the mixed nuts from Walmart.
+The angry squirrel is headed by a noun.
+The most important part of that is the noun, right?
+The is modifying the squirrel.
+Angry is modifying the squirrel.
+The squirrel is kind of the root, right?
+It's the main part.
+So it is headed by a noun.
+So that is a noun phrase.
+It is a phrase that is headed by a noun.
+Stole the mixed nuts from Walmart.
+All of that is modifying the stealing, right?
+It's telling us the mixed nuts from Walmart are what were stolen.
+So that whole thing is headed by stole, the verb.
+So that would be a verb phrase.
+It's headed by the verb.
+A prepositional phrase is headed by a preposition.
+So a chunk like from Walmart, which we can move, by the way.
+We could say something like, um, you, uh, oh, uh, what did the angry squirrels or where
+did the angry squirrel steal the nuts from?
+You could say from Walmart.
+Or they stole the mixed nuts where?
+From Walmart, et cetera.
+So we can pull that prepositional phrase out there.
+And then the whole thing put together is a constituent, right?
+That is one valid chunk, and we call that the sentence, or S.
+So we have now NP, noun phrase, VP, verb phrase, prepositional phrase, or PP,
+and then the sentence, which we're going to label with S.
+So all of these are phrases.
+All of these little constituents that you're going to pull out are valid phrases.
+And so that's useful.
+Constituency, though, is very important for meaning.
+Meaning is crucial as we're doing constituency because it has a role.
+It means things about ambiguity.
+It means things about ambiguity.
+That was ambiguous.
+It has a role in determining what things mean that helps resolve ambiguity.
+There you go.
+That's English.
+So we need more honest politicians is a very easy way to, it's a nice sentence, right?
+So this could have two different meanings.
+This is ambiguous.
+This could mean we need more politicians who are honest.
+So there is a need for additional politicians, and I want them to be honest.
+As opposed to the other meaning, which is we need to exchange our existing politicians
+with ones that are more honest.
+So we don't need more politicians overall.
+We just need the politicians to be more honest.
+Or maybe we want the politicians we have to become more honest,
+but we don't need more politicians.
+The difference here is actually one of constituency.
+There are two ways to break this sentence up.
+One has more honest as a chunk.
+The other has more honest politicians as a chunk.
+So more honest as a constituent has the meaning of whatever politicians we have,
+we need their honesty to go up.
+And the second one has the meaning of we have a need of politicians
+and we want them to be honest.
+So by thinking about the constituency, we resolve the ambiguity here.
+And the meaning changes depending on how you break that sentence up.
+This is called a structural ambiguity.
+And we'll be doing this over and over and over again.
+So we can use our constituency test to help us here.
+If we used, for instance, substitution, we could see we need our politicians
+to be like that, right?
+We need our politicians to be more honest.
+That would pull out more honest.
+So if that's the read, then this constituency test would work.
+But if I were to do we need more of them,
+this allows us to have honest politicians as a constituent
+and works with the more politicians read.
+So the substitution tests actually help us to resolve that ambiguity.
+Or more specifically, depending on which test is accurate,
+it gives us a sense of which the actual structure is.
+We can use standalone answers too.
+What kind of politicians do we need?
+More honest.
+Versus what does Congress need more of?
+Honest politicians.
+So we can use these, again, to pick out the relevant constituents.
+And that would help to resolve the ambiguity
+if we know the actual meaning, right?
+And then movement, of course.
+We need politicians who are more honest.
+We've moved more honest as a chunk here, right?
+And then if there's one thing we need more of, it's honest politicians.
+In this case, honest politicians gets pulled out, right?
+So we can, again, use these constituency tests
+to get a sense of the underlying structure.
+And depending on the actual structure, we
+get a sense of what the actual meaning is here.
+Structure gives us meaning.
+This is a really important thing that we'll see in syntax,
+as well as in semantics later on.
+But the structure of language gives us the meaning of language.
+And constituency turns out to be really important.
+We do seem to understand constituency as language speakers, right?
+We understand what's going on in constituency.
+And syntactic rules make constant reference to constituents.
+That's all we're going to be.
+I mean, when I give you your list of syntactic phrase structure rules,
+oh, which is backwards, hey, OK, either way, webcam.
+When I give you that list of rules, it's
+going to have S, NP, VP, et cetera, all going down the side there.
+So not only is it intuitive, but it's useful,
+as we're making a grammar that deals with syntax.
+And no matter what syntax looks like, and there
+is a lot of debate as to what syntax actually looks like in the mind.
+What human syntax actually is is controversial.
+But no matter what, everybody agrees constituency is a thing.
+It is an important part of it.
+So thinking about constituency is going to be constant.
+It's going to be huge over and over again.
+OK, OK, we get it.
+We know, Will, constituency is a thing.
+But where is this coming from?
+Why do we have this intuition?
+Why on earth is constituency a thing?
+If these are just linear ordered words, then
+shouldn't any chunk be pulled out?
+Well, language is hierarchical.
+This is a big claim.
+It's a big theoretical claim.
+This is not something that we should just kind of let go completely,
+like, oh, yeah, I assume so.
+But we have really good evidence for it over and over again.
+And we've seen this already.
+We started off the quarter talking about phones, right?
+Talking about individual speech sounds in phonetics.
+Then we combine those together into units like syllables, for instance.
+And they are subject to rules at the phonological level.
+We combine those syllables into morphemes.
+No, well, not always.
+But the morphemes are made up of these syllables, by and large.
+And mind you, there are languages that don't have syllables.
+But still, we have small chunks of sound.
+And then we have larger chunks of sound.
+Those combine into morphemes.
+Those words, I'm sorry, those morphemes combine into words.
+And then words combine into phrases and constituents.
+This right here is hierarchical, right?
+And then phrases combine to form bigger phrases.
+And then phrases combine to form sentences.
+Bigger phrases combine to form sentences.
+And then we have rules that tell us how this works.
+We have rules that allow us to combine words together,
+that allow us to combine phrases together,
+and allow us to combine even bigger phrases together to make sentences.
+And in the end, we end up with actual sentences.
+So we are not able to do this.
+We're not able to say, this is a sentence.
+This is its structure.
+It's flat.
+We have these words.
+They're in this order.
+We are done here.
+That would make syntax tree drawing a lot easier, right?
+But it isn't accurate.
+Because we don't have any sense of constituency.
+If we look at this, squirrel stole the is just as possible a constituent
+as the angry squirrel.
+When in reality, we have these strong intuitions that, no, that doesn't work.
+We would never get squirrel stole the moving.
+We could never replace it in a sentence.
+No, that's not the feeling.
+But if we think about it hierarchically, we can start to get a better sense of it,
+right?
+We can pick out this stole the mix nuts from Walmart chunk.
+If we do just a little bit of hierarchy, we can get there.
+And we can actually get the fact that mix nuts is a separate constituent.
+Stole what from Walmart?
+The mix nuts.
+So we can grab that chunk.
+Stolen from where?
+From Walmart.
+We can get that pee pee chunk over there.
+But there's still more to it, right?
+Because the angry squirrel isn't the smallest chunk, right?
+We could move something around.
+For instance, we could get, how could we swap that out?
+The what stole the mix nuts from Walmart?
+Swap out angry squirrel.
+So we actually need to go a little deeper here.
+So we need to give us another level here.
+We need angry squirrel to be isolable.
+We want squirrel to be isolable.
+The angry what stole the mix nuts?
+There we go, squirrel.
+And so as a result, we end up building a bigger tree that looks like this,
+that has chunks at a bunch of different levels, that has a noun phrase,
+has this end bar.
+And we'll talk about this later on.
+Don't worry about it too much right now.
+But it has an intermediate level that lets us grab angry squirrel.
+The mix nuts from Walmart as a chunk here.
+We have from Walmart as a chunk.
+We have mix nuts here.
+We have stole the mix nuts from Walmart.
+All of those chunks are present for us to just reach up and grab one off.
+I can just say, I want the angry squirrel.
+Okay, grabbed it.
+That doesn't work well.
+My arm isn't transparent, it turns out.
+But anyways, so we can grab whatever chunk of this we want,
+as long as it is hanging off one node on the tree.
+Does that make sense?
+Actually, I can't see you, so I can't tell.
+Hopefully it makes sense.
+I believe in you.
+That makes sense.
+Okay, so we need to go deeper.
+But there's actually an ambiguity here,
+because it could be that the squirrel stole the mix nuts from Walmart.
+For instance, I was sitting in the park.
+Yesterday I went to Walmart and I bought a big old thing of mix nuts.
+And I was sitting in the park today, far, far away from a Walmart, and
+the squirrel just ran up to me and stole them mix nuts, just dragged them off.
+And so in that case, the squirrel stole the mix nuts from Walmart.
+That's one big chunk.
+What did the squirrel steal?
+The mix nuts from Walmart.
+But there's another read, right?
+Cuz it could be that the squirrel stole mix nuts from the Walmart.
+Like the squirrel walked into Walmart, went past the old person,
+to the mix nuts aisle, grabbed them, and then ran out the back door with the mix nuts.
+That could be the case as well.
+So in that case, we would have a different structure,
+where the squirrel stole what?
+The mix nuts.
+The squirrel stole from where?
+From Walmart.
+So in this case, we would have it isolated a little bit differently here.
+We would have stole the mix nuts as a single chunk, from Walmart as another
+chunk, and that whole thing as a chunk above that, right?
+And so now we have stole the mix nuts from Walmart.
+And the from Walmart modifies, it's affecting,
+it's describing this whole chunk here, the whole stole the mix nuts bit,
+rather than modifying just the mix nuts, right?
+And so we're able to see this ambiguity, this structural ambiguity,
+we're able to see in the sentence structure.
+We're able to see it from the syntax trees.
+And so these are, as I just mentioned, syntax trees.
+These are a representation of this hierarchical structure of sentences,
+of this structure that starts very small and grows bigger, that grows wider.
+And so these are trees.
+They're upside down, but they're trees, right?
+They start very low, and then they go, they branch out.
+And we draw them like this because it's a little easier, right?
+But there's no reason we couldn't go upwards.
+But a syntax tree just gives us a representation of that structure.
+It captures this idea of constituency, that I can break this chunk off,
+I can break this whole chunk off, but I can't just get, for instance,
+the angry without taking squirrel with it, right?
+So that's why we do syntax trees.
+And they can be very, very simple, like this one, I ate.
+So I is a noun phrase, it's also an end bar, we'll get there.
+And it's a noun, so I is the first part, that's the noun phrase.
+Then the verb phrase is just a verb, which is ate, simple sentence, I ate, great.
+I see you, actually I don't at the moment, but you see me.
+But I, noun phrase, verb phrase here contains see you,
+cuz that's a chunk.
+I could say I did so, that replaces this whole chunk here.
+So I see you, see is a verb, and then you is another noun phrase and bar noun, cool.
+The dog chased the cat, we know that the dog is a chunk,
+we know that chase the cat is a chunk, we also know that the cat is a chunk.
+The dog chased what?
+The cat, okay, great, that's a chunk.
+So we can then do this verb phrase here,
+which has a noun phrase down below it, right?
+So we're able to make these trees to capture these intuitions about
+constituency and show the structure.
+And you can go bigger, you can say,
+I saw the big sweet dogs from La Jolla with fleas.
+So, right here, there's actually an ambiguity, right?
+Actually, we'll go there later on, I think that's in the next video.
+But nonetheless, this gives us really big chunks, right?
+The big sweet dogs, that's a chunk.
+The big sweet dogs from La Jolla, that's a chunk.
+And with fleas is a separate chunk.
+And those modify, the fleas are on the big sweet dog from La Jolla,
+rather than from La Jolla with fleas,
+which is a different city from La Jolla, generally speaking.
+It's like La Jolla, but less expensive.
+I could afford to live in La Jolla with fleas, right?
+So nonetheless, that's a thing.
+So La Jolla with fleas is not a place, but
+the big sweet dogs from La Jolla is a thing, and they have fleas.
+So this gives us kind of intuitions about constituency, right?
+And the fun thing about these is that they represent structure
+independently of words.
+Although the formatting is a little bit different,
+if we look at these two sentences, they are exactly the same structurally.
+Here, S goes to NP, VP, good, S goes to NP, VP over there.
+NP goes to debt determiner, and then N bar N, debt determiner, N bar N.
+And then on the other side, you get the VP goes to a VNP, yep, that's the case.
+And then NP goes to debt N bar, N bar goes to N, perfect.
+So these have exactly the same sort of situation here.
+They are the same structure, even though the words of them are different.
+But in practice, they are very similar, too.
+Like, semantically speaking, it's the subject did something to the verb.
+Hey, cool, syntax and semantics are related, great.
+And different structures imply different meanings.
+Here's a good example of a structural ambiguity.
+In fact, this is kind of the example.
+I saw the man with the telescope.
+There are two meanings of this.
+One is I saw the man, and he had a telescope.
+I looked outside my window, and I saw the man with the telescope there.
+He was looking at the stars, or something like that.
+The other meaning is that I saw the man using the telescope.
+So I have a telescope.
+I'm looking out the window at the guy using my telescope here.
+I don't know, that's probably not how you telescope,
+unless it's like an old pirate scope, right?
+But I saw the man with the telescope.
+I used the telescope to do the seeing.
+And so let's look at this syntax tree here, and
+think about what is modifying what.
+I'm gonna show you, well, actually, in this case, I gave you the answer above.
+Whoops.
+But you can get a sense of why it is that these are parsed out this way.
+Because saw the man is a single chunk together, and
+then with the telescope is a separate chunk, and it's modifying the seeing of
+the man, as opposed to the other one, which is I saw the man with the telescope.
+Where the man with the telescope is a noun phrase, right?
+It's the whole thing.
+I saw who?
+The man with the telescope.
+As opposed to, I saw who?
+I saw the man.
+And then how did you see him?
+With the telescope.
+In this case, how did you see him?
+I don't know, probably with my eyes, right?
+So these are two different sentences in terms of meaning,
+even though they are written identically.
+And the syntactic phrase structure rules that we have here, I'm sorry,
+the syntactic phrase structure gives us a good sense
+of what these differences actually are.
+So all of these things are really cool.
+One thing to note, there are a bunch of ways to draw a syntax tree.
+This is one thing that we as a field absolutely will probably never agree on,
+right?
+If you just Google, draw a syntax tree, you will find a billion theories.
+Every different website is going to do it a little bit differently.
+And the best approach to doing this is a huge subject of theoretical debate.
+Like seriously, fistfights have happened over this in our field.
+This is a very, very real thing.
+We are teaching you a very small subset.
+The rules that I'm going to give you next time, in the next video, like this,
+this is a very small chunk of grammar for English.
+And in fact, you're going to find that it's woefully inadequate for
+a number of English sentences.
+But this is a set that's pretty uncontroversial.
+Everyone's like, yeah, I guess that mostly works, right?
+When you go deeper into syntax, when you take, for instance,
+Ling 121 for syntax, you will find out a great deal more about one particular
+theory, you will go deeper into it and you'll be able to handle a lot more of
+But for the moment, I'm just getting you the basic intuitions here.
+But you will not find consistency about how to draw a tree on the Internet.
+So if you just Google this, you're going to have a bad time.
+Because you can leave some things off.
+You can drop some of the nodes in there.
+You can specify more things or less things.
+You can put different things at the top.
+Please, please, please, as you are doing the homeworks,
+as you are doing the assignments, use only the materials we're giving you.
+Please, please, please, please, please.
+Use the rules that I give you.
+Use the things that you find on Canvas.
+And if you're having trouble, talk to us.
+Come to office hours.
+Seriously, come to the help sessions.
+We would love to work you through this.
+But you're going to get more confused if you start Googling,
+how do I draw a syntax tree?
+Because you're going to find 15 different syntactic traditions,
+all telling you how to draw their trees.
+And chances are, it's not going to be identical to what we're doing in this
+class.
+So please, please, please, we are here to help you.
+We want to help you.
+So to wrap up here, we know that languages use word order to code
+grammatical relations.
+We know that there is much more to that than just ordering.
+We know that constituents within sentences are a thing.
+And we know that they're derived from some kind of a hierarchy in the sentences.
+And we can use these tree diagrams to understand the nature of that hierarchy,
+to reconstruct what the sentence must look like in order to give us these
+intuitions about constituency.
+For next time, we're going to talk about how to make these syntax trees and
+what these rules actually look like.
+And that should be a lot of fun.
+So thank you all very much, and I will see you for the next video.

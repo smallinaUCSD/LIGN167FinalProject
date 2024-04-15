@@ -1,0 +1,1938 @@
+Okay. Hi, everybody. Before we get started, a quick public service announcement.
+It's getting to be later in the quarter now. That means everybody is getting busier.
+Not just you guys. We are, too, on the instructional team.
+And as a result, maybe our response times may end up going down a little bit.
+And so this is just a really good practice always to at least look over the homeworks before they are due.
+Look over them earlier in the week. Look over them before the class session, before the help session.
+That way we can all be on the same page, right? You can ask your questions early.
+Because I know there's the temptation to put it off until the last minute.
+And then we get these emails, and then the puppy is sad.
+And you don't want the puppy to be sad, do you? I know I sure don't.
+All right. Moving on. Let's think about semantics. Let's think about meaning here.
+So far in the quarter, we've been focused on structure at all different levels.
+We've been thinking about sound structure. Then we've been thinking about sound patterns.
+How sounds are put together. Then we turn them into morphemes and then to words.
+And then we've thought about word patternings, right? And syntax has its own structure.
+Now it's time to think about what it all actually means.
+So far we've been kind of treating meaning as self-evident.
+Like, oh yeah, we look at this sentence and we know what it means. But how do we know that?
+So that's what we're going to get into now, which is semantics, the study of meaning in language.
+This is different from, and there are two different fields.
+We're going to talk about semantics and pragmatics.
+And we're actually going to blend the two a little bit.
+But pragmatics is a different thing. This is the study of meaning in a conversational context.
+So semantics is the study of the inherent meaning of language.
+What does it mean to say, I am a linguist?
+What is that asserting about this thing that is I?
+What is that asserting about linguisticness, if anything?
+Semantics gets into the study of meaning versus pragmatics is meaning in context.
+It's meaning in the world.
+If I were to say, if somebody walks up to me and says,
+Hey, I've got this rash. Could you take a look at it?
+And I say, I'm a linguist. What does that mean?
+That means I'm not a good person to look at this rash.
+Why are you asking me this?
+Go find a real doctor.
+So, you know, meaning is different in absolute form versus in context.
+And so those are the difference.
+We're going to spend time with both of these guys.
+Today, we're going to focus on meaning in sort of a greater sense.
+What do words actually mean?
+And next time we'll go deeper into word meanings as well as a little bit more of pragmatic stuff.
+So today's plan is to talk about truth in sentences,
+to talk about ambiguity, to talk about entailment versus implicature,
+and then connotation, denotation.
+And then finally, we'll talk a little bit about prototypes,
+which are one way that we can think about meaning in the real world.
+So, OK, to start with truth in sentences, what does truth mean?
+I mean, it's something we all ask, but in practice,
+sentences at the sentence level can be true or false with reference to the actual state of the world.
+Since words each have meanings, right?
+And those meanings can be defined logically,
+we can actually evaluate the logical truth of a sentence.
+In some cases, this is super easy, right?
+A tautology.
+For instance, saying all linguists are linguists.
+Is that true?
+Yeah, that is super true.
+Because you're saying that all people who have this attribute,
+that is, they are linguists, have that attribute,
+that is, that they are linguists.
+This is true inherently.
+This is true in every possible universe.
+Unless you want to get into weird games about,
+oh, well, this is one sense of linguist and this is another,
+this is strictly true.
+A tautology is true.
+Every bachelor is unmarried.
+This is also a tautology, because every bachelor,
+a bachelor is a way to say an unmarried man,
+and saying that an inherent part,
+every unmarried man is unmarried, is a tautology.
+A circle is circular.
+Circular is, of course, the state of being like a circle.
+So if you are a circle, you are like a circle.
+This is a dumb sentence, but it is true.
+The long cat is long.
+You've said that the cat is long here,
+and so the cat is still long.
+Wow, tautologies.
+And all tautologies are true.
+They are inherently true.
+There is no situation in which they are not true.
+They are really boring in practice,
+not necessarily from a semantic point of view,
+but just as sentences.
+They're really boring, but they're really true.
+As opposed to contradictions, which are sort of the opposite.
+A circle is triangular.
+No, this can't be true.
+Unless you start playing with the meanings of the words
+and saying, oh, well, in this case,
+triangular means shaped a lot like a circle.
+This is inherently false.
+French people are not French.
+This is false.
+This is contradictory.
+It doesn't work.
+Will is tall and short.
+No.
+I can either be relatively tall,
+or I can be relatively short.
+But I can't be both of those things at the same time.
+But all contradictions are false.
+They are inherently false.
+There is no way to make these things true
+unless you start changing definitions of words.
+And then there are sentences that are meaningless.
+For instance, this one.
+This is the stereotypical meaningless sentence.
+This is the one everybody always trots out.
+Colorless green ideas sleep furiously.
+What does this even mean?
+It's hard to say,
+because there are weird things in this.
+You can't be both colorless and green.
+That doesn't make sense.
+It's not that it's true or it's false.
+It just doesn't work.
+Colorlessness and greenness are,
+no, they can't be the same thing.
+And ideas can't have colors to them anyways,
+and they can't be green either.
+And ideas, for that matter, don't sleep, right?
+They're not biological creatures requiring sleep.
+And if they do sleep, they don't sleep furiously.
+No one sleeps furiously.
+Well, okay, I've slept furiously.
+But still, you don't sleep furiously, right?
+That's not a thing.
+And ideas sure as heck will not do so.
+So nonetheless, hey, taboo avoidance.
+So ideas cannot sleep furiously,
+especially if they're colorless and green.
+And overall, this sentence is gibberish.
+It means nothing.
+It is completely meaningless.
+Then you get non-statement sentences.
+You get commands.
+This is not really a statement.
+It can't be evaluated for true or false.
+If I say, turn in your homework, is that true?
+Maybe? No? Yes? I don't know.
+All I'm asking you to do is to turn in your homework,
+but it's not like there's an evaluation you can make there.
+Similarly with a question.
+If I ask you, hey, have you turned in your homework?
+Is that true or false?
+That's not even a question you can ask about a question, right?
+Or a greetings.
+Welcome to UC San Diego.
+False.
+You might argue that I am not welcome,
+and that's false because you're welcome here.
+No matter who you are, you're welcome here at UCSD.
+But that said, this statement doesn't have a truth value.
+I am literally expressing to you, welcome.
+I'm just saying this aloud to you.
+There's no truth to it, right?
+And so these can't even be evaluated.
+They're not making a claim about the real world.
+They're making, they're trying to make an order.
+They're doing this kind of a commandee speech act-y thing.
+In this case, it's asking a question.
+In this case, it's just giving you greetings,
+but they're not false or true.
+They can't be evaluated.
+And then there are speech acts, performative languages,
+or bits of language, that is.
+Something like, I sentence you to three weeks of probation.
+This is a different thing,
+and we'll talk more about these, actually, a little bit later.
+But here, the thing that you're saying is itself an action.
+If a judge says this, you have then been sentenced, right?
+I now pronounce you married.
+Again, the act itself of saying this does work in the real world.
+It changes you from being unmarried to married.
+And we'll talk about these more in pragmatics,
+but again, those can't be true or false,
+because it's just a thing, right?
+You could say, well, you can't pronounce me married,
+because you're just a random person on the bus.
+That's true. That's accurate.
+But you wouldn't say that it is a false thing that they said there.
+It's just like, I don't recognize your authority,
+and I don't know this person, so why did you just marry me?
+Oh, that's right, because you're crazy.
+That works.
+But anyways, so these things can't be evaluated.
+But declarative sentences, like, for instance,
+Will is a nerd, can be shown to be true, in that case,
+or false, in the sense of, Will is really good at sports.
+Yeah, that's false.
+So, we can do this.
+And so, we can double-check this.
+If I give you a sentence like, Will waved,
+then what I'm saying here is that there is a set of people who waved, right?
+If Will is in that set, then the sentence is true.
+If I'm sitting here, waving at you,
+then that's accurate.
+There is a set of people who waved, but if I am not,
+if I'm standing here, like, glaring at you,
+and in reality, someone else is waving,
+then it is not true that Will waved.
+You can evaluate this.
+And this gives rise to the whole idea of compositional semantics.
+This is the idea that syntactic structure,
+like we've already been talking about,
+coupled with understanding of the meaning of individual phrases,
+allows the determination of meaning.
+And determination of meaning, as well as, in many cases,
+truth or falsehood, via rules.
+There are rules that you can apply to the syntax,
+coupled with understanding of the words,
+that can give you the truth of the sentence.
+This is really cool stuff.
+We do a great deal in 130 and then 230.
+But it is fundamentally not the same thing
+as what a lot of people mean by semantics.
+And mostly, I mean in the public sphere.
+Semantics, to most people, just means a meaning.
+But compositional semantics goes much deeper.
+It's looking at this meaning via determination,
+via these rules, via the structure,
+and via the meaning of the words themselves.
+So, compositional semantics is awesome.
+But this is more of a 130 and a 230 kind of thing.
+So, this gives you the sense that there is a level of meaning
+at which we can talk about things like truth and falseness.
+And there is a level of meaning that is derived,
+strictly speaking, from the words themselves
+and from the structures of the sentences involved.
+Therefore, if we can evaluate,
+OK, this is the true meaning of X,
+using compositional semantics,
+there might be cases where it's hard to evaluate
+what the meaning of something is.
+And this is ambiguity.
+I use this over and over again.
+But ambiguity, what happens in vagueness, stays in vagueness.
+Ambiguity is all about questioning.
+Like when you can't quite figure out what,
+which is a lot like what or which this thing means.
+Wow, it's been a long day.
+Anyways, ambiguity is where there's ambiguity,
+as you might expect, about what this means.
+It could go either way.
+And we're going to talk about three kinds of ambiguity in this class.
+Lexical ambiguity, we're going to talk about
+syntactic or structural ambiguity,
+and we'll talk about semantic ambiguity.
+So lexical ambiguity,
+many of you are probably already familiar with.
+In fact, you're familiar with all of these things,
+just maybe not by that name.
+Lexical ambiguity is, I'm not sure what sense
+of the word you're using.
+Words have many different senses.
+This is an important thing to kind of keep in mind.
+The same sequence of phonemes,
+or in some cases the same sequence of morphemes,
+can actually have multiple meanings.
+And so the sense of a word
+is the particular meaning of that word
+that's in use at that very moment.
+So spam.
+Spam is a word with multiple senses, right?
+There is the food sense, which I believe is spiced ham.
+And so spam occurs in little tins,
+and you can buy it at a grocery store.
+And then there is spam in the sense of junk email,
+like it went into my spam folder.
+And in fact, it would be very incongruous
+if you had a spam folder and it was a folder in your office
+with a bunch of spam in it, right?
+That would be very strange.
+So yeah, spam has two different senses.
+Lit has two different senses.
+One is, I lit a fire, or something like that,
+in my fireplace.
+The other is, wow, that party was lit.
+Broke. Broke can mean two different things.
+Broke can mean I smashed something.
+It is now broke.
+Or I broke my remote when I accidentally
+yeeted it out the window.
+Versus broke in the sense of,
+I really can't afford to buy anything new right now.
+I am completely broke.
+Those are two different things.
+Turn can have many, many meanings.
+It can have a meaning of, to turn,
+in the classical sense.
+And it can have a meaning of,
+like to turn somebody to the dark side.
+Like that.
+Or you can turn on somebody, right?
+Somebody that you previously cooperated with,
+suddenly, ha, ha, ha, ha,
+I've been working for the other side all along.
+You can turn on somebody.
+Or a lemon can be a fruit.
+Or you could have a really bad car,
+for instance, where it's a defective product.
+Both of those things are possible.
+But there are different senses of each of these things.
+And one of the questions you have to ask yourself
+any time you hear a sentence is,
+which sense of the word lit am I hearing?
+Which sense of the word broke am I hearing?
+Because this is really important for interpreting meaning.
+So a lexical ambiguity is where you have
+a sentence where you're not clear
+what's being said on the basis of
+which word sense is being heard.
+So, for instance, he sold her a lemon.
+This could mean one of two things.
+This could mean this person
+walked up to a person with a small citrus fruit
+and said, here, would you like this lemon?
+I'll give it to you for one dollar.
+And the lady said, sure!
+I'll take that lemon.
+He sold her a lemon.
+Or it could mean that he sold her a car
+that was terrible, right?
+They got off the lot and the wheels fell off.
+It was a train wreck, right?
+So this could mean one of two things.
+We're not sure which one it is,
+on the meaning of this word lemon here.
+Stop sending me spam.
+Could mean, hey, you keep
+signing me up for Viagra ads.
+Stop doing that.
+Or it could mean you keep
+using the postal service to mail me
+cartons of spiced ham.
+I'm a vegetarian. Stop.
+This could be...
+This is ambiguous.
+Ambiguous. Nice.
+The prosody was all wrong there. The prosody.
+Anyways, so this is actually
+ambiguous, although in practice
+it's more likely to be the commercial email version.
+But who knows, right?
+Will cut up the center of the paper.
+We talked about this already, actually. Remember the example of
+you have a piece of paper. You can cut up the center
+straight in a line, or you can cut up
+the center just by cutting on the center for a little while.
+That could be one or the other there.
+Here's another good ambiguity.
+I'm a huge metal fan. Me too.
+Although, interestingly, prosody helps us.
+I'm a huge metal fan for this guy.
+And I'm a huge metal fan
+for this guy. Interesting.
+So, anyways,
+this is an ambiguity. If you just see
+this sentence, you don't know whether somebody is a
+huge metal fan or a huge metal fan
+just based on the writing
+there. Or, here's another funny ambiguity.
+Which you can look at while I drink.
+One of my very favorite
+cartoonists, Liz Clemo. Great stuff.
+So, okay. Structural
+ambiguity. So that's lexical ambiguity.
+Lexical ambiguity is ambiguous on the
+basis of, I don't know what
+sense of that word you're using. And the
+meaning of that could be very different
+depending on the sense you're using.
+So, structural and syntactic
+ambiguity is that. The next question is
+well, okay. I'm sorry.
+Structural syntactic ambiguity is
+something we've dealt with before, actually.
+I don't know what syntactic structure
+it is that you're going for there.
+I understand all of the words in the sentence.
+All the words are fine. I don't have any
+issues in terms of what sense you mean.
+But, I don't know
+what structure you're wanting and
+therefore I can't interpret the sentence.
+So, a good, the classic example again is
+I saw the man with the telescope.
+In this case, this is I saw
+or, I'm sorry, I saw the man
+using the telescope.
+With the telescope is modifying the verb.
+So, here, I have a telescope.
+I am looking out at the guy and
+I see him. As opposed to
+this structure, which is I saw
+with my eyes, no,
+unaided, a dude with a telescope
+out there. There is a guy with a telescope
+out there and I see him or I saw him.
+So, these
+two sentences are ambiguous. It could either
+mean I saw a man using
+a telescope that I was looking through
+or I saw a man
+who was looking through a telescope outside.
+These two things, we don't know
+the answer unless we know the syntactic
+structure. So, these are structurally ambiguous.
+The angry squirrel stole
+the mixed nuts from Walmart. Again, we talked about
+this one already. It could be that he stole
+mixed nuts that were bought from Walmart
+or it could be that he stole
+mixed nuts from the Walmart store.
+The stealing occurred at Walmart.
+So, again, structurally ambiguous.
+We don't know which of those two meanings
+is true unless we know the syntactic
+structure here. Here, they were
+stolen from Walmart. Here, the
+mixed nuts are from Walmart, but the theft could have
+happened anywhere. Here's a really
+good structural ambiguity that came up
+actually not so long ago.
+Delta has banned the Navy SEAL
+who killed Osama bin Laden for refusing
+to wear a mask.
+Okay.
+So,
+Osama bin Laden was
+not killed for refusing to wear a mask.
+But
+reading this, you could actually go either way.
+Either Delta has banned
+the Navy SEAL who killed Osama bin Laden
+and they
+banned him for refusing to wear a mask
+or you would have Delta
+Delta SEAL has banned the Navy SEAL
+the Navy SEAL who killed
+Osama bin Laden for refusing
+to wear a mask. Either the killing
+was for not wearing a mask
+or the banning
+was for not wearing a mask. But we don't know
+which of those things is true without
+knowing the greater syntactic structure here.
+So, this is a great example of a structural
+ambiguity that was sent to me by a colleague of like
+oh, this needs to go in 101. It was like
+oh, yes it does. So, this is a
+very important ambiguity and it's not
+actually ambiguous. We know
+based on real world knowledge
+that this, which one of these reads is true
+but it is technically very
+very ambiguous. And that's
+a newspaper headline by the way. I mean
+you would think somebody might have caught this but again
+it's not ambiguous actually
+because of context but in
+reality it kind of is.
+So, that is structural ambiguity.
+The meaning of the sentence is unclear
+to me because I don't know the structure
+of the sentence and there are multiple
+guesses here.
+Then we get to semantic ambiguity.
+This is I know the structure of the sentence.
+I know all the senses
+involved here. But there are just
+multiple readings of this sentence here.
+So, take this
+for example. John kissed his
+wife and so did Alex.
+There are two meanings
+to this sentence here. Think about it
+for a second and come up with both meanings.
+So, John kissed
+his wife and so did Alex. Could
+mean that John kissed his
+wife named Linda.
+So, John kissed Linda
+and then Alex kissed his
+wife who is named Maria.
+So, Alex kissed
+Maria and John kissed Linda.
+There are four people involved here
+and John kissed one of
+them and Alex kissed another of them.
+The other meaning here
+is that John kissed his wife Linda
+and then Alex kissed
+John's wife Linda.
+This may seem a little bit less probable
+just based on how most people's relationship
+is structured, but it is very possible
+that that could be one
+wife, John kissed his wife
+and Alex also kissed
+John's wife. These are ambiguous.
+There are either two people kissing two wives
+or one wife kissing two people.
+If we rephrase this, we could say John
+kissed Amy and so did Alex.
+This is not ambiguous anymore.
+In this case, Alex is kissing Amy
+and John is kissing Amy.
+This so did gives
+us that verb phrase again. And similarly
+if I could say John kissed his wife
+and Alex kissed his own wife,
+then again, it's not ambiguous
+at all. But the way that this is phrased,
+it's not a structural ambiguity. It's not a
+sense ambiguity. We know what all the words
+mean. We know how the sentence should be parsed.
+We just don't know exactly what was
+meant by this. There are two options here.
+So this is a semantic ambiguity.
+Here's another one.
+Bob and Joe are married.
+Again, we know all of the words here.
+We have two names, two function words
+and married, an adjective.
+Bob and Joe are married. But
+it is ambiguous what this means.
+It could either mean that Bob and Joe are
+married to each other.
+Or it could mean that Bob and Joe
+are married, but John and Mike
+and Adam are single.
+This means that Bob and Joe are both
+people who are married.
+But John, Mike and Adam are not.
+So you're basically saying Bob and Joe
+are two men who are both married.
+Not to each other, but just generally speaking.
+Or you could say
+Bob and Joe are married. Bob is married to
+Susan and Joe is married to Ashwini.
+Either one of those things works.
+But you have this ambiguity. Are they married
+to each other? Or are they just people who are
+married, but not to each other?
+So this is very much an ambiguity.
+But again, it's not structural. It's just
+based on meaning here.
+Every student hates a professor.
+So this could mean every student
+hates at least one professor that they've
+had, whoever that may well be.
+I can visualize that person very, very
+clearly for me. But still,
+every student hates one professor,
+whoever that may be. And every student might
+hate a different professor. So that's
+possible. The other option is everybody
+hates one professor and his name is
+Will Styler. Every student at UCSD
+who's had me just hates me directly.
+So every student hates a
+professor versus every
+student hates a professor
+in their life. Right? So there are either
+many professors being hated,
+or it's just me. Not sure.
+Hopefully not this one, right? We'll see.
+Let me know at the end of the quarter
+in the course evaluations. So anyways,
+there are other types of ambiguity.
+Oh God.
+Anyways, moving on.
+I want tenure, please.
+There are other types of ambiguity, though,
+out there in the world, but these are the big three you want to know.
+Lexical ambiguity, where it hinges
+on word sense. Structural,
+or syntactic
+ambiguity, where you can't figure out
+what syntactic structure is intended,
+and that's why it's ambiguous. And then semantic
+ambiguity, where you can't figure out which
+interpretation is intended
+without additional context.
+All of these can be solved by context,
+but the difference is word sense,
+syntactic structure, and multiple
+interpretations, any of which could be
+right, given the lexical and syntactic
+structure. So let's try this.
+Let's work on this together.
+Let's look at this example sentence.
+I see Kim and Latasha eating ice cream.
+Wait, I think she dropped her spoon.
+Is this A, lexical ambiguity,
+B, syntactic ambiguity, or
+C, semantic ambiguity? Think about
+it for a second.
+Okay, so
+if this were lexical, there would
+have to be some kind of
+word sense distinction here, and
+there isn't, really. I see Kim and Latasha
+eating ice cream. All of those are
+pretty straightforward. Wait, I think she dropped her spoon.
+No, that's completely fine.
+Syntactic would have to be structural,
+right? There'd have to be some element of this
+where the tree would differ.
+Instead, what this is ambiguous
+on the basis of is, who is she?
+Is it Kim or is it Latasha?
+And we don't know that. This isn't something
+that's resolved through syntax or through the lexicon,
+so this is a semantic ambiguity.
+We're not sure which of these is which,
+but there's not a word sense
+or a structure thing that would help us.
+How about this one? The bear ate the hikers with ketchup.
+Is this A, lexical
+ambiguity, B, syntactic ambiguity,
+or C,
+semantic?
+So,
+first off, what's the ambiguity?
+Well, the question here is,
+there are two reads. The bear ate the hikers
+and the bear put ketchup
+on the hikers as he ate them.
+The other possibility is that
+there were three sets of hikers.
+One was carrying ketchup, one was carrying mustard,
+and one was carrying relish, and the bear ate the hikers
+with ketchup. Those are two
+different possibilities.
+This is a syntactic
+ambiguity. We don't know,
+we don't care about word sense here.
+We know what the bear did, we know what ketchup is,
+we know what hikers are, that's fine.
+The issue here
+is fundamentally structural.
+Is the prepositional phrase,
+the with ketchup, attaching to the eating
+or is it attaching to the hikers?
+Is it a part of the noun phrase? Is it the hikers
+with ketchup, or is it ate the hikers
+with ketchup?
+That's the big thing, and that's syntactic
+structural ambiguity.
+John loves his mother, and so do I.
+Lexical, A,
+syntactic, B, semantic,
+C.
+This one's pretty straightforward, because it's a lot
+like some of the examples we've seen before.
+Again, there's not a question of lexical ambiguity
+here, because we know
+what all these words mean. Syntactically speaking,
+it's not hard. This is actually very similar to
+the John kissed his wife and so did
+Mark thing. This is a semantic ambiguity.
+I don't know, based on this
+sentence, whether I love John's mother
+or whether I love my mother
+and John loves his mother, or maybe both.
+But either way, semantic ambiguity is a thing.
+How about this one? I saw this
+killer robot circling general
+dynamics. A, lexical,
+B, syntactic, C, semantic.
+So, general dynamics,
+for those of you who aren't familiar, is a
+company they're based not so far away from the campus,
+like a few blocks
+north of campus. They are folks who develop
+drones, among other
+things. So, in this
+case, there is a real ambiguity here.
+Either it is a lexical,
+a syntactic, or a semantic ambiguity.
+Syntactically speaking, nothing too fancy
+here, right? There's a
+N, or NP,
+VP, and then a big old
+NP over here.
+So, that's not the issue here.
+The big thing here is killer,
+right? This could be killer in the sense
+of, man, I saw this killer robot, it was
+awesome, and it just
+flies around and it hugs hummingbirds
+and then lets them go, and then they feel better
+and the robot feels good. It's sweet!
+That's a killer robot.
+Or there is a killer robot, meaning this
+robot hunts people down and kills them, and it was
+circling general dynamics. Either way,
+this is a lexical ambiguity.
+We don't know what killer means
+in this case, and therefore
+it is lexically ambiguous.
+There's not a syntactic or a semantic ambiguity
+there. So, ambiguity is
+when the meaning isn't clear, and it can be
+because the words themselves are unclear,
+it can be because the structure is unclear,
+or because we just need more information
+in order to be able to interpret the sentence
+independently of those two other things.
+So, let's talk about
+the opposite. Let's talk about really clear meaning.
+Okay, so entailment
+is when there is a necessary
+meaning relationship between
+two sentences. So, for instance,
+let's think about it this way.
+There is a relationship of entailment between
+two sentences when the use
+of a sentence involves logical
+and necessary conclusions that can be drawn
+from it. Saying, if
+this sentence is true, then necessarily
+this second sentence is true,
+that is an entailment relationship.
+If you cannot imagine a situation
+which X being true does
+not mean Y is true. So,
+okay, for instance, Sam broke the
+red toy and the blue toy.
+This is a sentence, right?
+What sentences might this entail?
+Given that this top sentence
+is true, what other sentences are
+necessarily also true?
+So, this sentence entails
+the red toy is broken.
+There is no way that you can say
+Sam broke the red toy and the blue toy
+and the red toy is
+not broken. You said up here
+Sam broke the red toy, so the red toy
+is thus broken. It is entailed. It is
+necessarily true. There is no universe
+in which the red toy
+here is not broken.
+Similarly, the blue toy is broken.
+Sam broke it too.
+So, this sentence up top entails
+this second sentence.
+It is a necessary thing.
+Sam broke two toys.
+This is also entailed by this pair
+of sentences, right?
+There are two toys here and both of them were
+broken, therefore Sam broke two toys.
+Sam is capable of
+breaking toys. If we are
+saying that Sam broke toys, then
+Sam is capable of breaking toys.
+This is necessarily true.
+There is no universe
+in which this is true and this isn't.
+However, there are lots of things that
+are not entailed by this sentence.
+So, for instance, you might look at this
+and you might think, wow, what a jerk.
+But it is not necessarily true that Sam broke the
+red toy and the blue toy. Maybe Sam
+was playing around and then fell
+over onto the red toy and blue toy
+and broke those toys.
+So, it is possible that it wasn't intentional.
+Therefore, this sentence is not
+necessarily true.
+We do not know the ordering here.
+It is not necessarily true that
+Sam broke the red toy first. Maybe the blue toy
+got broken first. We don't know
+whether Sam likes breaking toys. Maybe this made
+him very, very sad, right? Breaking
+the toy made Sam very sad.
+But, nonetheless,
+it happened, right?
+We also don't know that these were Sam's toys,
+right? It could have been somebody else's toys.
+Sam was at preschool and broke
+toys that belonged to the people,
+right? Sam broke
+the people's toys. Sad.
+So, all of these things are not necessarily
+entailed by this sentence.
+All of these things are.
+So, let's practice a little bit more.
+Mary passionately kissed Blake.
+This would entail that
+Mary kissed Blake. No way around that.
+There is no universe in which
+that is not true. Blake was
+kissed by Mary. Again, absolutely
+100% true. If Mary
+kissed Blake, then the passive version,
+Blake was kissed by Mary, is also true.
+It is also true that Blake was kissed.
+If Blake was kissed up here,
+Blake was kissed. This is true.
+And then Mary touched Blake with her lips.
+There is no way that you can kiss somebody
+without touching them with your lips,
+right? You can
+make weird arguments
+that redefine the nature of kissing,
+but fundamentally, kissing is about
+touching somebody with your lips, and therefore
+if Mary kissed Blake, then she
+touched him with her lips, right?
+But this doesn't entail
+this sentence.
+Think to yourself for a second.
+Why could this have happened
+without this being true?
+So, it's true that generally speaking,
+passionate kissing arises from love
+or some kind of romantic thing, but it
+could be that, for instance, Mary is
+a secret spy, and is
+trying to get nuclear secrets out of Blake,
+and so she passionately is seducing him
+to try and get him to talk about nuclear
+secrets. And so, Mary doesn't
+love Blake, but she's still passionately kissing him
+as a means to an end, right?
+It could be,
+or, okay, how about Mary married Blake?
+Yeah, no, not necessarily.
+You can be in love with somebody and not marry them,
+and you can passionately kiss somebody
+that you would never marry, right? That's a possibility,
+right? So, that's not necessarily
+true. This is not an entailment
+relationship. Blake kissed Mary.
+So, kissing is
+not necessarily symmetrical. Somebody
+could kiss you on the cheek, and it's true that
+they kissed you, but you didn't kiss them.
+So, this is not an entailment relationship.
+Mary kissed Blake
+many times. It could just be one
+passionate kiss before she
+gets on the plane to go back home,
+and they never kissed again.
+So, Mary kissed Blake
+many times is not entailed here. There is
+another universe in which that could be the case.
+And by the way, it also doesn't entail that
+Mary did not kiss Blake.
+This is contradictory, but it's not
+entailed, right? There's a bunch of things that
+are not entailed by this sentence. I mean, it
+is also not entailed by this sentence that
+Iceland is a very
+nice place to visit, right?
+It is true. That's
+not entailed. There are a lot of things
+that are not entailed by sentences, but we tend
+to list the ones that are
+most common, most likely, right?
+So, okay. One thing to note
+here is that there is not symmetry.
+Much like with kissing, there is not symmetry with
+entailment. Saying X entails
+Y is not the same thing as
+saying that Y entails X.
+You cannot swap these things around.
+So, Mary passionately
+kissed Blake entails that
+Mary kissed Blake. This is easy.
+There's no way around that. However,
+the opposite is not true.
+Saying Mary kissed Blake does not entail
+that she passionately kissed Blake.
+Maybe she gave Blake a very chaste peck on the
+cheek, right? That's not super
+passionate, but it's
+so we don't know. Or
+maybe she dispassionately kissed
+Blake. That'd be weird, right? Anyways,
+these two things
+entail each other. These two things
+do not. And so, the fact that one
+sentence entails the other does not
+imply the inverse. It does not mean
+that the other sentence will entail itself.
+So, entailment also
+does not depend on context
+or on situations. The only thing
+that entailment needs is the meanings
+of the words to stay the same.
+If you start changing the meaning of the word
+from the sentence to the thing it entails,
+then you're... that's a different
+game. You're not playing the game anymore.
+Entailment doesn't depend, though, on
+context. It doesn't depend on situation.
+Some of the things I was just giving you
+earlier here, like, oh, well, maybe
+Marie was a, you know, a Soviet spy.
+That's old reference. Anyways,
+maybe she was a spy.
+That's a context thing, right?
+That's something really weird in the
+actual world. That depends
+on situation. It depends on context.
+But entailment, for something to be
+truly entailed, there is no
+situation. There is no context in which
+it is not entailed. So, John left
+the room. It does not
+entail that the room is empty afterwards.
+Because maybe John left the room, but
+in practice, John could have left
+the room and there were 50 other people in there, right?
+So, that's important.
+Marie and John were in the room.
+John left the room. Therefore, it's not
+entailed that it was empty afterwards.
+If I say John was alone in the room
+and then John left the room,
+then that would mean, yes, it's true.
+The room would be empty afterwards.
+So, context can make this
+true or false, but at the
+same time, it's not entailment
+anymore. Entailment is true only
+if you cannot imagine any world in which
+it could be false.
+Like Mary kissed Blake
+can never not entail that Blake
+was kissed by Mary. There is no situation
+to make that false. If it depends on the
+context, it's something different.
+That different thing is called implicature.
+We'll talk more about implicature later
+on, but if something is suggested
+very strongly by a sentence,
+but there are situations in which it might not be true,
+it's not entailment. It's an implicature.
+Let's test this. Roberta
+hit Carlos using a rubber chicken.
+Which of the following is not
+entailed? A. Carlos
+was hit by a rubber chicken. B. Roberta
+had a rubber chicken. C. Roberta
+dislikes Carlos. D. Roberta
+was within rubber chicken
+hitting distance of Carlos.
+E. Roberta hit Carlos.
+Go ahead and pause. If you don't have an answer yet,
+then come back.
+Okay.
+So, Roberta hit Carlos
+using a rubber chicken.
+Carlos was hit by a rubber chicken.
+Yep. That's
+easy. That's entailed. We know that
+Carlos was hit. We know that a rubber chicken was
+used. Therefore, Carlos was hit by a rubber
+chicken. No other universe.
+Roberta had a rubber chicken.
+Now, depending on the meaning of had,
+but at the very, very least, I'm not saying
+she owned it. Maybe it was a borrowed rubber chicken,
+but at the very least she had a rubber chicken
+at the time that she hit Carlos with it.
+So, this one is entailed.
+She was able to use a rubber chicken to hit that.
+Roberta dislikes Carlos.
+Hmm. Interesting.
+So, in this case, can we think
+of a situation in which that could not
+be true? Sure.
+Maybe Roberta was flirting with Carlos
+and rubber chicken flirting is a
+very common thing in whatever culture they're
+working within.
+Or maybe Roberta and Carlos
+were in a play and in
+the biggest scene,
+Roberta rushes at Carlos with a
+rubber chicken and takes him out.
+In which case, she might not dislike Carlos
+at all. They're just actors, right?
+So, that one we have some
+counter examples for. Roberta was
+within rubber chicken hitting distance of Carlos.
+This is true. You could picture a
+weird world in which Roberta used
+some kind of an internet mediated rubber
+chickening service with a mechanical
+arm, but still, she was able to
+do so. She was able to use the rubber chicken
+to hit it. Okay with that.
+And then Roberta hit Carlos. Yeah.
+It says it right in the sentence. It's entailed, right?
+So, the correct answer here is
+C. That is not entailed.
+That is implied, perhaps.
+Generally speaking, you don't hit your friends with rubber chickens.
+Actually, generally speaking, you don't hit people
+with rubber chickens. Nonetheless,
+this is implied
+rather than entailed.
+So, Demetrius saw the kid
+who was walking down the street. Which of
+the following is entailed by this sentence?
+A.
+Demetrius was within line of sight
+of the kid. B. Demetrius
+saw a child.
+C. Demetrius was on
+the street. D.
+The kid was walking.
+E. Demetrius was
+older than the kid.
+Think about this for a second, pause, and be careful.
+Okay. So, A.
+Demetrius was within line sight
+of the kid. Is there a universe
+in which this could be false?
+Yes. Potentially.
+You've got a,
+um, let's say you've got a
+webcam, right? You're not within line of
+sight, necessarily, but you are able to
+see the kid. So, this one
+is not an entailment. B.
+Actually, here, let's go to E.
+Demetrius was older than the kid.
+Is this entailed? No.
+Because this could be, I mean, I can say
+something, I can call somebody a kid who's older than me.
+That works. So, you don't
+necessarily know those things. Maybe they were both
+the same age, but they were both kids.
+So, Demetrius saw the kid, right?
+The kid was walking.
+That one looks pretty
+good, right? The kid who was walking down the street.
+Yeah. The kid was walking.
+So, therefore, that one's
+an entailment, right? Why isn't
+Demetrius was on the street? Well, maybe Demetrius
+was in their house using a telescope.
+And then, finally, a lot of people get
+out of shape with, like, wait a second, Demetrius saw a child.
+Yeah, that one's entailed, too.
+Not necessarily.
+Because there's a syntax,
+I'm sorry, there's a lexical ambiguity here.
+Kid can
+either mean a child
+or a small goat.
+So, in this case, it could
+be that Demetrius saw a small goat
+walking down the street, and he didn't
+see a child. So, in this case, the only
+thing that is entailed guaranteed
+here is the kid was walking.
+So, yeah. Making
+assumptions is bad.
+Okay, that was mean.
+I'm sorry. But, anyways, understanding
+entailment is both
+kind of cool, right? It gets us a sense
+of true, true meaning
+of, like, security in meaning that
+we don't generally think about when we're dealing with language,
+right? But it requires
+you to understand meanings of the words very
+precisely. So, for instance, I
+talked to a buddy of mine. Folks who really, really
+love things like entailment
+and precision in meaning lawyers.
+Talked to a buddy of mine, and
+I asked him, you know, Nathan, tell me.
+I say, Nathan is a district attorney.
+Does this entail that Nathan is
+an attorney? Yes, that does.
+You cannot be a district attorney,
+meaning the prosecutor in an
+area, without being an attorney as well.
+That is an entailment.
+However, Nathan is a district attorney
+also entails that Nathan is a
+lawyer. That's fine. That one works.
+It does not entail,
+if I say Nathan is an attorney, it doesn't entail
+that he's a district attorney. There are lots of
+attorneys who are not district attorneys.
+Also, interestingly,
+and this one shocked me,
+Nathan is an attorney does not entail
+that Nathan is a lawyer. Because
+apparently, and actually we
+know this, you can get power of attorney
+for a person. If somebody is incapacitated
+or unable to conduct their financial
+affairs on their own, you can get power
+of attorney for that person.
+This allows you to act in their stead,
+to be an attorney for them,
+although you are not a lawyer.
+You are not their legal attorney.
+Saying that Nathan is an attorney does not
+imply that Nathan is a lawyer.
+This is really specific.
+This is getting into the legal definitions
+of attorney versus lawyer.
+This is getting into the definitions of district
+attorney versus attorney, and lawyer
+and attorney. This requires
+very firm
+understanding of specific terms.
+Part of the reason why entailment
+is very difficult is because it requires
+these really, really fine-grained
+knowledge of the meanings of words.
+This is part of the reason why legalese is difficult.
+They spend all this time defining individual
+words exactly for this reason,
+so that things can be entailed.
+Entailment is cool, but it requires
+detailed understanding of what you are talking about here.
+In a different legal system, these things
+might be defined differently. Maybe in another country,
+power of attorney does not exist, so
+all attorneys are lawyers. In some cases,
+you get barristers who might not be lawyers.
+I don't know.
+This is very system-specific, and it requires
+you to understand the meanings of these words
+in the system you are in.
+Meaning is really complicated.
+So far, we have been talking about meaning
+in terms of the dictionary meaning.
+We have been talking about meaning in terms of
+what this thing means
+at its very core.
+The raw meaning of this word.
+But there is a different kind of meaning
+that we have, and this is connotation and denotation.
+In fact, there are a lot of ways
+of saying the same thing.
+We will talk more about this a little bit later on,
+but words that mean exactly the same thing
+are referred to generally as synonyms.
+There are words like sofa
+and couch, which for most people
+are synonyms. I had a furniture designer
+in 101 at one point
+inform me that no, they are not exactly the same thing,
+but for most people in common parlance,
+sofa and couch
+mean the same thing. I can say,
+hey, nice sofa, and I can say,
+hey, nice couch, and they mean the same.
+Similarly, run and dash
+are synonyms for most people.
+I dashed out in the rain,
+I ran out in the rain. They are not different.
+Again, I have had runners say, no, no, no,
+these things mean different things in
+Olympic context, but for most people,
+these are synonyms. Sick and
+ill, in the classical senses,
+both mean
+to be unwell, to be unhealthy.
+And they are synonyms.
+I was very sick. I was very ill.
+Those mean roughly the same thing.
+Police officer and cop generally
+are viewed to mean exactly the same thing.
+There is not differences there.
+Synonyms can be tested.
+You can say something like, all sofas are
+couches, and all couches are sofas.
+To me, this is accurate. This is perfectly fine.
+Maybe not to an interior designer, but it is for me.
+John purchased a car,
+therefore he bought a car.
+I'm okay with this. This seems perfectly
+reasonable. Saying purchasing
+is the same thing as buying, those are synonyms
+for me. All sick people
+are ill, and all ill people
+are sick. Yeah, this works.
+Absolutely, 100%.
+All police officers are cops, and all cops are
+police officers. Again, these are
+just saying the same thing.
+There is almost a tautology here
+going on. Now, let's
+look at another set of words that are not
+strictly speaking synonyms, or they might
+be in a wider sense, but
+that also mean the same thing.
+Cheap and inexpensive.
+Do these mean
+exactly the same thing?
+Probably not,
+right? Cheap has a different
+feeling. If somebody goes out and
+they say, oh, did you get a
+broom? Yeah, I got a pretty inexpensive
+one. What does that mean?
+It means they didn't pay a lot of money. There's not a strong
+value judgment on it.
+If somebody says, did you get a broom? Yeah, I got a
+cheap one. What does that mean?
+Generally, there's
+this feeling of, like, it's not a very
+good one. Cheap generally means, like,
+eh, the quality isn't quite there.
+So, cheap generally means
+poor quality. Inexpensive doesn't
+have that meaning. It could be poor quality,
+or it could be great quality. But cheap carries
+that connotation. It has that
+secondary meaning. Same thing with
+strong-willed, stubborn, and pig-headed.
+You would describe somebody you like
+as being very strong-willed, right?
+You might describe somebody that, you know,
+okay, they got their ups and their downs, as being
+stubborn. And you might describe somebody that
+you really dislike as being pig-headed.
+All of these things mean
+the same thing. They're reluctant to change their
+decisions. They have very strong
+feelings, and they will push through them
+with them, but you would call it different things
+depending on your feeling. And it would
+be very weird to say, you know, oh,
+I love my wife. She can be so pig-headed
+when she knows what she wants.
+Like, eh, that
+sounds really wrong, right?
+But if I said she can be very strong-willed when she
+wants, that can be a nice thing, right?
+Those are two different things.
+Study versus scrutinize.
+These mean functionally very similar things.
+Like, I studied somebody's homework.
+I looked very carefully at it. Yeah.
+I scrutinized somebody's homework. I looked very carefully
+at it. But scrutinize generally means
+I'm looking for something wrong, right?
+There's a secondary meaning of like, eh,
+I don't like this. Scrutinizing, you're
+trying to find a problem. So these
+mean roughly the same thing, but this one has a different
+connotation. Curious
+versus nosy. My curious
+neighbor looked in the window. Okay.
+That's fine. Whatever. My nosy neighbor
+looked in the window. Not so fine.
+Not so good. So curious
+versus nosy are very different.
+Vintage versus outdated
+versus antique. Apparently,
+and I didn't know this, but in the
+in the antiquing
+world, vintage has a different time period
+than antique. But for most people,
+I could say, for instance, oh, I love
+vintage clothing. I don't...
+Sure, I love vintage clothing.
+But that's different from saying I love outdated
+clothing. Outdated might
+mean like this is...
+I don't even know what clothing is
+outdated. I am not the most
+fashionable human you'll ever meet. Just...
+Yeah. So, bad metaphor.
+But still, outdated generally is not
+the same thing as vintage. Vintage is usually
+fashionable, right? And antique
+generally means like I'm dressing up at
+one of those photo booths at a state
+fair to look like I'm in the 1800s
+or something like that. So all
+of these things mean old, right? All of these
+things mean no longer popular.
+But antique and vintage and outdated
+carry different connotations.
+So all of these words
+share a denotation. All of these
+mean the same thing.
+These both mean not much money.
+All three of these mean unlikely
+to change their opinion. These both
+mean looked carefully at. These both
+mean very interested in
+things that are going on outside of
+their normal realm. And all three of these
+things mean old, but they share
+different connotations. They have different
+things that they kind of mean.
+So, very interesting.
+These are really
+cool because they're shades
+of meaning that can be very difficult to
+work with in things like translation and life
+generally speaking. And so
+we have to think about connotation
+and denotation as we're making choices.
+And so we can differentiate
+these things. Denotation
+is the dictionary definition.
+The connotation describes the non-definitional
+stuff, the emotional stuff, the associated
+facts about how a word is often used.
+These are usually value judgments.
+These are things like, this is not okay,
+this is okay. Or they're links to
+related concepts.
+Facts about usage. How this word
+is generally used, more than facts about
+definition. Cheap implies
+not great. Inexpensive does not.
+So if we look at these three things, the denotation
+is unlikely to change
+their path. Strong-willed might have
+a connotation of like good leader.
+Like unable to be pushed out of their way
+by life circumstance.
+Pig-headed might have the connotation of, you know,
+God, this person is super stubborn to a
+fault. Like they're so
+stubborn that it's dumb. They will hurt
+themselves just to be right. And stubborn
+just means like this is a person who
+really resists changing
+their viewpoint or their opinion.
+So let's try a couple of sets on our own
+here. Think about all
+of these words. All of these
+words are terms that can be used for
+a person who is very, very thin.
+So you could say something like, that person
+is thin, that person is gaunt, lanky,
+skinny, or slender.
+All of those technically mean
+thin. But which of these
+have a negative connotation? Look at it for a
+second and think.
+Generally
+speaking, at least in a fashion
+world, and again, this
+is problematic in a bunch of different
+ways, but generally speaking,
+saying somebody is very slender
+is a positive thing
+that you might say about them if you are,
+you know, if you appreciate that body type.
+And maybe skinny is also fine.
+And lanky can also have positive
+connotations. But saying that somebody
+is super thin is a
+little less so. It's a little bit more
+neutral. And saying somebody is gaunt is like,
+ooh, you know, you look sick.
+Do you need help? So you
+would generally use different ones of these
+depending on what you're talking about. If you're
+in the fashion industry where that is viewed
+as an ideal for body for whatever
+reason, you might say, oh, wow, this person
+looks very slender. But if you're in the
+medical industry and somebody walks in
+and you're like, oh, wow, how are you standing? You might
+say this person is gaunt. And so
+those are very different things. And you would use
+a different word depending on the connotation.
+How about this set? Aggressive, assertive,
+domineering, dynamic, forceful, and
+pushy. Each of these guys
+can be used in different contexts.
+It's roughly the same thing, although
+given with slightly different shades, but
+still, which ones of these would you use
+positively? You might say,
+oh, she's a dynamic leader.
+Or, oh, he's very forceful when he
+knows what he wants. Or he's very assertive.
+He's able to push, you know,
+for what he's after there.
+Whereas domineering, saying, oh, he's
+a really domineering boss, that's not a good
+thing. You wouldn't say that about somebody
+you particularly like, necessarily.
+Or, oh, he's very pushy.
+Never is really a great thing.
+You wouldn't say, oh, this person's
+a great boss. They're so pushy.
+That feels really off.
+Or, this person's a great boss. They're very aggressive.
+Maybe. Aggressive
+can kind of be in the middle area, right?
+Because that can be a very positive thing, for instance,
+for an athlete, or for
+somebody in an industry that's
+very, well, aggressive. Whereas
+for an academic, maybe it's not as much.
+This is going to vary, again, based on usage.
+You're more likely to see assertive
+in the workplace than aggressive.
+And those, by the way, aren't exactly the same thing.
+The dictionary definition, maybe this is
+defending boundaries, this is attacking.
+But still, they can be used interchangeably
+in some situations. And you're likely
+to see one of these in a workplace, whereas
+you might not see it in another one.
+Unattractive, homely,
+plain, frumpy, ugly, and unsightly.
+All of these things are ways of calling
+somebody not super hot, right?
+And so, each one of these are going to
+be a little bit different. Homely is probably,
+I don't know if that's nicer,
+or unattractive, or frumpy,
+or plain. I don't know, but you might
+use these in different contexts, right?
+You have an unsightly
+scar. That could be a possibility.
+But you
+probably wouldn't say, oh, that's a homely
+scar. That doesn't make sense.
+And similarly, that shirt is unattractive.
+You know,
+oh, it's purple and
+orange flannel.
+That's unattractive. I don't know, maybe that's in
+fashion these days. But you
+wouldn't say, oh, that shirt is very frumpy.
+These have their own facts
+about usage. And some words
+have connotations associating them with very
+specific contexts, whether those contexts
+are social, cultural, or
+just linguistic, even.
+So, for instance, thug, here in the US, has
+a very specific racial connotation
+here in general use. If you call somebody
+a thug, well, okay,
+let's put it this way. In the news, for instance,
+when somebody is referred to as a thug, very often
+there is a specific race involved.
+It's usually a person of color.
+Let's just be real here.
+So thug has gotten a racial connotation
+in general use. Similarly,
+if you call somebody a lib,
+here in the US, this is
+often used as a shortening for liberal.
+Generally speaking, you don't call
+somebody a lib who you
+respect. You would use this term
+if you are not liberal and you dislike people
+who are liberal. You would call somebody that
+and it wouldn't make sense for a newspaper to print
+Bernie Sanders is a well-known lib
+politician. It is true that he is a
+relatively liberal politician,
+but it would be weird to say that he is a lib
+politician. This is different.
+This has a very different connotation there.
+And sometimes we even take steps to
+avoid negative connotations. This is
+a euphemism, an indirect and
+very pretty way to refer to something that is
+unpleasant or embarrassing that has
+a negative connotation.
+So, a euphemism is another
+way of saying something negative
+that doesn't have that
+connotation, that doesn't have as much negativity
+to it. So, for instance, in the military
+you might see, we neutralized three
+enemies rather than we killed three
+soldiers or we killed three people.
+This is a euphemism for
+to kill. Although in some cases it
+could be, you know, there are other approaches, but still
+generally speaking, this is going to mean
+we killed three people. We expect
+another round of downsizing
+rather than you all are going to get
+fired, right? These
+are effectively meaning the same
+thing, but this
+here is a much prettier way to say it.
+Could you point me to the powder room?
+It's a very nice way of saying
+I've got to pee, right?
+A recent one, actually,
+the Linguistic Society of America's
+Word of the Year, just in
+terms of noteworthiness, was
+Tender Age Shelter, which
+is a detention camp for small
+children. This was coined here in the U.S.
+And actually a word that we've seen over and over
+again in 2020 is unprecedented,
+which everybody knows is
+a euphemism for really fucked up,
+right? And so all of these things
+are a thing. So a euphemism
+is a way to make something sound
+prettier than it actually is.
+And so these kinds
+of things are very real, and the
+connotations can actually change over time.
+So for instance, let's take this sequence
+of words. Originally,
+so there was a class of people who we would now refer
+to as mentally or developmentally
+disabled. Originally,
+the term that was used in the medical
+community, the unmarked, completely
+neutral term for these people,
+the term that we would use in the same sense that we say
+mentally or developmentally disabled,
+the term that was originally used was imbecile.
+Now, that has
+a very strong negative connotation.
+It would be very, very cruel to call somebody who
+is mentally disabled an imbecile.
+Then the term became idiot,
+because imbecile itself became,
+it got a negative connotation. People were like,
+oh, well, you're calling those people that.
+I'm going to call other people who aren't of that
+type that, and it'll become a
+negative thing. And so then people realized, oh,
+that word now is bad. Let's switch
+to a new one. We'll use idiot. And so
+for a while, that was the term. And in fact,
+Dostoevsky has a book that's often translated
+The Idiot. And
+in many ways, that's a reflection.
+At that time, idiot was the
+proper term, right, for
+that. So we have imbecile
+then became idiot
+after imbecile got a negative connotation. Then, as we
+all know, idiot has gotten that connotation. Now, you can
+call anybody an idiot, and it would be very cruel
+to call somebody who is actually developmentally
+disabled an idiot. And so then they
+moved to slow. And then that got a
+negative connotation, and they moved to retarded.
+And now retarded has a negative connotation,
+so you went to mentally handicapped. And then
+handicapped got a negative connotation, so now it's
+developmentally or mentally disabled.
+And guess what? There's going to be another one.
+By the end of my career, hopefully I'll have two
+more on this slide. It's going to be amazing.
+But every time somebody starts
+using a word in a negative sense, it will
+start picking up a negative connotation.
+So this phenomenon of euphemism
+turning into a negative term
+and then being replaced is called the
+euphemism treadmill, because we are
+constantly creating new euphemisms
+over and over and over again. Another
+euphemism, another euphemism, another euphemism.
+Over and over again
+until eventually
+we have to come up with a new one, right? And so
+it's never ending. It never stops.
+It's a treadmill. And so
+we have these other intuitions here. Synonyms
+are weird because if you invite someone to your cottage
+in the forest, it's nice and cozy, but
+if you invite them to a cabin in the woods, you're going to
+die, right? I don't even know
+how this got this. I think there's maybe a movie
+Cabin in the Woods, but this is just
+a very good knowledge of synonyms
+and connotations.
+Here's a really good one.
+Today I asked my class to come up with
+a pair of terms that share a denotative meaning
+but whose connotative meanings differ, and
+one student offered butt dial, another
+offered booty call, and anyways
+that student's the professor now.
+By the way, the reason I read these things
+aloud is in case I have a student who's blind
+who can't necessarily see the slides.
+That's why I read all of these and the questions aloud
+too. So this is great
+because we have two words that mean
+exactly the same thing in terms
+of denotation. Butt and booty
+both refer to your backside, right?
+And dial and call
+have roughly the same meaning here
+but they very, very
+much differ in terms of connotation. A butt dial
+at least in my language
+is when somebody accidentally calls you
+because their phone turned on and then
+dialed you from their pocket. So that would be
+a butt dial versus a booty call is when you
+call somebody who is
+well, who you're interested in having
+an encounter with. Usually late at night
+that would be a booty call. How's that for a
+euphemism? Interested in having an encounter
+with. Which of course we know means
+you want to have sex with. So anyways
+nonetheless these two things have
+very different connotative meanings but very
+similar denotative meanings and now that's not
+funny anymore. Sorry.
+So the lines here can be very, very
+blurry because you could actually consider
+butt dial and booty call to be compounds
+right? They are two chunks of their
+words that are stuck together as
+compounds. Evidence for this
+would be can you booty text somebody?
+Yeah, generally speaking when I've asked this
+in class people agree yes booty text is okay
+but text is a little weirder
+but you can kind of get around that right? You could
+butt message somebody on
+Instagram or like I was in my
+discord channel with my phone in my pocket
+so I butt emojied the server
+that's kind of weird
+or are they adjective and noun
+pairs right? Is that what's going
+on here? And how flexible is
+this by the way? Can you booty telegram somebody?
+Is that a thing?
+Yeah, I mean all of
+these things we have to ask are these specific
+compounds or are these pairs? Either
+way it's blurry but
+this is definitely a case where there are big connotation
+differences. Similarly ambulance
+chaser versus personal injury lawyer
+People who dislike
+these groups of people will call them ambulance
+chasers. People in the field will call
+them personal injury lawyers. Well actually I've got a friend
+who's a personal injury lawyer who calls himself an
+ambulance chaser. So you know what? It works.
+When does idiot stop
+meaning an intellectually disabled person
+and start just meaning a stupid person?
+Like at what point does that lose
+its original meaning? Does it lose its original
+connotation or later
+on its denotation? Because right now if I call
+somebody an idiot I'm not implying anything
+about their cognitive
+status. I'm just saying they're acting
+dumbly right? I'm an idiot all the time
+right? And so that's
+a thing. So at what point did that
+happen? So it's very
+hard on occasion to figure out which of the many
+options carries the best meaning
+carries the best choice of meaning for you
+But the thing is this is
+this gets at a bigger question right?
+That even a single word can be very
+hard to define. And so as
+we're thinking about this I'd like to bring up one last
+kind of idea here.
+That is the idea of a prototype.
+What is a given
+what does the true meaning of
+a word look like?
+We have these ideas about what words mean
+right? If I say the word bird
+you can think of something right?
+Maybe yeah maybe you're
+thinking of a specific bird. Maybe you're thinking
+of a bird that you had when you were a kid. Who knows?
+If I say chair you're probably thinking of a specific
+chair. Maybe the one you're in right now
+or at the very least a specific type of
+chair. You have a chair kind of in your mind.
+Is it one chair? Maybe.
+Or it could be something more generic but it's not
+necessarily clear. We also
+have these really strong intuitions about
+whether a word describes an object or
+not. But these intuitions are not
+necessarily binary. So what I'd like
+you to go on ahead and do is just to
+work with me here and
+we're going to think about what a bird is.
+And I'd like you to kind of think to yourself
+how birdy, on a scale from
+1 to 5 or A to E if you'd
+like, how birdy is this thing right here?
+Is this a bird?
+Is this a really good bird?
+Is this like a 1 out of
+5, well I guess it'd be 5 out of 5
+high end bird versus a
+1 out of 5, that's hardly birdy.
+Most people, this little guy
+is pretty damn birdy. Little owl sparrow here
+birdy as heck, right? How about this guy?
+How's that on the birdy scale?
+For a lot of people, that feels
+pretty damn birdy too, right?
+That's birdtastic.
+How about this guy?
+Most people are like, ooh
+yeah
+two legs
+feathers
+beak
+bird?
+So that's not a super convincing
+bird for a lot of people, although most people will admit
+that's still a bird, right?
+How about this little dude? Cute
+eh, moderately birdy. Doesn't fly
+but still has wings, still has
+feathers, still on two legs
+it's birdish, maybe a 3 out of 5
+something like that. How birdy is this thing?
+You'd be like, well, that's a
+koala. That's a 0.
+For most people, this is not a bird. You feel
+very strongly that this is not birdy.
+Even if the emu back there was
+an ostrich, this might be an ostrich.
+Even if this ostrich is not a
+this is a bird, this absolutely
+is not. Like, that could be a weird bird
+but this is not a bird. This is a non-bird.
+How about this little dude right here? This is a kiwi.
+Um, that's right, it's not just a
+fruit. Um, and that's not
+the nature of the fruit, by the way.
+You don't cut that open and see green and seeds.
+You just see bird.
+Um, so anyways, yeah, this is a kiwi
+flightless, damn near wingless
+What are we looking at here?
+Probably not a super
+high-rated bird, but it's still birdy to
+most people, right? How about this dude?
+Yeah, it's pretty damn birdy, right? It's 2 out of 5
+1 out of 5, er, I'm sorry, 5 out of 5 sort of bird.
+Swans are birds
+flat out. Um, and so we
+have these really strong intuitions about
+for instance, birds. Like, this is a
+bird, absolutely, but it's not a
+really good bird.
+Versus this is the birdiest damn bird I can
+imagine. Uh, we have these strong feelings
+and it's not just birds. We think about chairs, right?
+So, is this a chair?
+Yeah, for most people, this is like a 5
+out of 5 chair. Like, yeah, that is
+chair-y as heck. Maybe you'd give it a more specific
+term. You'd call it an armchair.
+Or a recliner. Actually, it doesn't look like it reclines.
+I don't know. Either way,
+this is a chair. 100%, this would
+feel like a chair. How about this?
+It's a
+chair. You could sit in it, right?
+You put your butt in the middle right here
+and then it supports you, so
+that's a chair, but it's not a
+super chair-y chair. That's like a 2 out of
+5, 1 out of 5 chair.
+How about this guy?
+Most people are going to be like, well,
+that's a throne. And, true,
+true, this is a throne, but a throne is a type
+of chair, right? So, it's not a
+great chair, but it's chair-ish, right?
+Not in the sense that you cherish it,
+but it's chair-ish.
+It's chair-y. How about this guy?
+Yeah, that's all
+cardboard, but it is
+technically speaking a chair.
+It works as a chair, so
+that's chair-ish, right? But it's
+not a great chair, either. This guy.
+Sit in the middle of it. Probably
+a bunch of you have it in a dorm.
+Yeah, it's a chair. Not the
+most chair-y chair, but it's there. This is a
+chair, oddly enough. According to a website,
+this is a chair. You put an
+exercise ball in this thing and then lean
+against the back. That's a chair.
+Ish. 1 out of 5?
+How about a series of pizza
+boxes duct-taped together to a suitable height?
+No?
+Speaking of
+things that might be in your dorm,
+for most people, this doesn't count as a chair.
+Even though you could sit on it.
+Even though it absolutely works to support your
+weight while you're at a table, this is not
+a chair to most people.
+How about this? Oh, yeah. 5 out of 5,
+that's a chair. 1000% chair.
+So what this gives us is the sense of
+a prototype. An example of a given
+word or a given meaning that is really central
+to the category. Like that last
+chair, this is a chair.
+You don't get that much chair-ier
+than that. Like, if you
+ask anybody to point to chair,
+this is what the dictionary will
+have in it, right? This is the prototype
+of chair. It is a great example
+of chair-dom, and you're going to be
+hard-pressed to find a chair-ier chair than
+that. And so this is the semantic
+prototype, you could argue, or it's pretty close
+to it. You have this thing that is right
+in the middle of the category, as opposed
+to these things that are further out from the
+edge of the category. They're still chairs, but
+they're not great examples of it.
+This gets a bunch of different intuitions
+for us. If we think about words as
+having prototypes and then having things that are
+further away, we can acknowledge that
+yeah, it's true, but it's not
+quite. So the Pope, for instance,
+is pretty far from the prototype
+for bachelor. Technically, the Pope
+is a married... I'm sorry, he's an
+unmarried man.
+So technically, the Pope would be a bachelor.
+But the Pope is
+not particularly eligible, as he's usually...
+So there are many reasons why
+we would not consider the Pope to be a
+prototypical bachelor, even if
+technically the word kind of does apply.
+Right? An emu is
+pretty far away from the prototype for bird,
+even though technically it is
+a bird. And a stack of pizza boxes
+is very far away from the prototype
+for chair, even if we can acknowledge
+that right now it's acting as a chair.
+And this gets us into these kinds of debates.
+For instance, are sandwiches
+dumplings? Are ravioli sandwiches?
+Like, okay, is a Pop-Tart a sandwich?
+This is a Venn diagram that's been
+made simply to anger people. If you'd like,
+we can recapitulate this during the discussion
+section, just to make people angry.
+But absolutely, hot dogs are
+sandwiches, raviolis are a type of dumpling.
+You know, we can go deep
+into this, right?
+This whole area
+of combat that has developed in the
+last few years is based simply on the
+idea of prototype. This is a
+prototypical sandwich. This is
+much less so, and
+Pop-Tarts for many people might even fall outside
+that category, even though I maintain there is
+bread on both sides. If you had a ham and cheese
+Pop-Tart, that's a sandwich, right?
+Or maybe a calzone. I don't know.
+Calzones are just unfried ravioli. Anyways,
+I digress. So,
+sandwiches can be dumplings, and in which case
+that's weird.
+So, even within a word, meaning
+can be very gradient, right? We can say
+this is a bird, but not a great
+bird, versus this is a bird that's super birdy.
+Right? And a single word can variably
+refer to many things. What I hope
+this gets across to you is that, although there
+are things that we can say for sure, there are things
+like tautologies that are just
+true, and contradictions that are just false.
+And there are things that we can know
+are entailed by something else. You know,
+these kinds of entailments, John broke the
+truck, the truck is broken, that is
+pretty clear, right? The meaning
+there is not... is very
+abundantly clear. Due to things like
+ambiguity, and due to things like prototype
+effects, meaning is
+complicated. We can determine
+meaning using fancy semantic
+footwork, but even still it's very, very difficult.
+We can tell when meaning is unclear
+or ambiguous, due to structural, lexical
+or just general semantic reasons.
+We can tell when entailment happens,
+and we know that there's more to a word than its
+dictionary definition, but even those
+definitions can feel very gradient.
+So, that's meaning, at least for the moment.
+For next time, we're going to focus on individual
+word meanings, and we'll start talking a little bit more
+about meaning in context.
+I hope next time brings some meaning, and I will
+see you for the next video. Thank you very much.

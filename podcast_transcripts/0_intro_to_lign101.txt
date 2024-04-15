@@ -1,0 +1,569 @@
+Hi everybody, I'm Will Styler and I'm going to be your instructor this quarter for Linguistics 101, Introduction to the Study of Language.
+I'm really excited about this. Not just because I like teaching and because I like language, but because Ling 101 is the time when you realize that,
+oh my god, linguistics is cool! Right? Because it is. It truly, deeply is. And you might not believe that yet.
+You may not even know that you're a linguistics major yet, but trust and believe. We'll get you there.
+And Ling 101 is how we're going to do it. This course is designed to just teach you about how we study language as linguists.
+More specifically, how we look at capital L language rather than just languages, rather than Spanish or Russian or something like that.
+So, that's what we're going to do this quarter and it's going to be a lot of fun.
+But today, actually, what I want to do is talk to you a little bit about how this course will work.
+The class is online this quarter. You will not need to be in San Diego to complete this course.
+There's no in-person component to it. Everything will be done by Zoom and using activities on your own time.
+And so, as a result, this will be a little bit different than you may be used to. And as a result, I want to walk you through that.
+In terms of the course itself, it will meet only once a week. When you signed up, it had two time slots a week,
+but we're only going to use one of them for a required class. And that's Thursday, 12 to 1.20 p.m.
+It'll be held in Zoom. The link will be posted in Canvas and all time zones that I give you throughout the quarter are going to be in U.S. Pacific time, which makes sense, right?
+So, you will only be responsible for showing up on the Thursday time slot, 12 to 1.20, and there we'll actually do activities.
+We'll do material. It's going to be awesome.
+But on Tuesdays, the other scheduled course time will be a help session.
+Myself, as well as some of the other members of the instructional team will be on hand to answer questions,
+to offer assistance, both one-on-one and sort of in a greater room sort of thing.
+Think of it as like a mega office hours.
+And we will also, each member of the instructional team will have office hours independently in which we can work with you one-on-one.
+Or if you have something that is maybe a little bit more private in nature, you know, you need an exception because something going on in your life,
+you can come to my office hours independently and work on things there.
+So, who are we? What is the teaching team?
+Well, I'm Will Styler. I am a phonetician in the department.
+And I specialize, and what that means is I study speech.
+I'm interested in what it is that you're doing right now, well, that I'm doing right now,
+as I'm making little vibrations that you're understanding.
+And then I'm also interested in how you're understanding them.
+Speech perception is probably my area of biggest interest.
+But I also have a strong computational background and have done a fair amount of computational linguistic work.
+And mostly, I love language and I love teaching.
+And so, one-on-one is, I'm super excited to be teaching this class.
+So, that's me. Here's the IPA pronunciation of my name here, in case you want that later on.
+You can also see my pronouns, my office, although I won't be in it this quarter,
+as well as my Zoom office hours, Fridays 11 to 1.
+I believe they're going to be the final time. This may change.
+The syllabus, by the way, is a website.
+You can see up at the top there, there's a link, wstyler.ucsd.edu.
+Or just, if you want to make it easier to remember, savethevowels.org.
+But the syllabus will always be there and it will always be up to date.
+If I make any changes, they'll show up there.
+So, anyways. But this is where you can find my Zoom link.
+You can find my office hours. You can find my email.
+Although, if you're going to ask course questions, use the Canvas discussion boards
+or come to office hours or the help session, rather than sending emails.
+It's just better. That way, more people can benefit from your questions.
+I will fill in the graduate instructional assistant stuff off to the side there.
+But at the moment, actually, I don't know exactly who they're going to be.
+That hasn't been decided yet. I wanted to get the ball rolling on filming things.
+We'll also have two undergraduate instructional assistants,
+Gloria and Allison, who are both excellent.
+And will both be helping us, well, to learn more.
+And I'm yet to collect some of their information as well.
+So, sorry about that.
+So, the course website is savethevowels.org. You can get that.
+We'll be using Canvas for discussions.
+I'll be posting some of the videos on Canvas,
+although I'll probably be putting them on YouTube more often than that,
+as well as to give you files, as well as to manage grades.
+You can get there using Course Finder there.
+We'll be using Gradescope for homework. This is a free thing.
+You won't have to spend any additional money to complete this course.
+So, it is completely free.
+You'll just log in and you can submit homeworks and quizzes and things like that there.
+You'll get information about that probably the first week of class, maybe week zero.
+We'll be using Zoom this quarter for all class sessions, all office hours.
+And I have some guidelines for online classes right here.
+You should click that link and it'll be awesome.
+Because it'll tell you what my expectations are for an online class.
+And although they're not super unusual, I think it's useful for you to know.
+And I do have a study guide for this class.
+And the study guide will hopefully be helpful for you as you're going through
+and trying to figure out what's important, what's relevant here.
+Course materials. There is a textbook that I can recommend.
+Look, I'm going to level with you.
+I don't like any of the textbooks available for Ling 101.
+Each of them have their own good, bad, and really unfortunate.
+But the one that I like most is this Introduction to Language by Frumpkin, Rodman, and Hyams.
+It's probably the best one I like now.
+But that said, it's really expensive.
+And right now, I feel bad about doing that to you.
+So, the book is optional.
+All of the readings, and they're just going to be like we're reading about syntax,
+or we're learning about syntax.
+Good. Read the syntax chapter.
+They're recommended, but they're not required.
+You're welcome to read from the textbook.
+You'll get something from reading it, but I'm not requiring you to have it.
+I'm not using any exercises.
+You don't need to purchase it.
+And if you do purchase it, please, just buy the book.
+Or you can probably get it online someplace.
+Either way, I'll have a couple of copies on reserve,
+but don't plan on buying the textbook thinking it's going to be needed for this class.
+That's not how I'm running things.
+Course schedule.
+Okay.
+Weeks are listed by the Monday they start on.
+So, if I say, oh, this is due Sunday, that means a full, well, damn near seven days to the following Sunday here.
+With the exception of week zero, which actually is a weird thing that we've got this quarter,
+which is just the day, September 28th, each week starts then.
+All of the due dates are fixed.
+I'm going to switch things around from time to time.
+I may change, oh, I'm going to do this lecture on this day, this lecture on this day.
+I'm going to just try and, or this activity, that is.
+I'll try and be flexible, but I will never change your due dates on things.
+And the due dates are actually very easy in this class.
+You will have something due every Sunday at 1159 p.m.
+This will either be like a Canvas discussion.
+It will be maybe something on Gradescope.
+It may be a full-on homework.
+But you will have something due every single Sunday.
+You will also, every week, have a check-in due Thursday at noon.
+So, this is immediately before the class session, basically.
+So, you will have a quiz on Gradescope every Thursday before the class session,
+just to make sure that you've been watching the video.
+Make sure that you're checking things up.
+So, yeah, that's what's going on.
+The idea, though, with this class is that you'll come to class on Thursday for the class session.
+So, the first week, we'll be talking about what Ling 101 is
+and how to succeed as an online student more generally.
+Like, how is it that we can adapt to this weird new world?
+And so, we'll talk about that the next week.
+We'll do some introduction stuff, and we'll do some data analysis, which will be fun, et cetera.
+But during the rest of the week, you have freedom.
+You can work on the assignment due on Sunday.
+You can work on the quiz.
+You can watch the lectures.
+And I'd really encourage you to watch the lectures early.
+Watch them ahead of time.
+They're not short, necessarily, but it's a good way for you to kind of get familiar with things.
+You can do reading, et cetera.
+So, each week, we'll have listed the videos that you need to watch.
+In this case, there's going to be introduction to Ling 101,
+and these will all be posted on the YouTube or on Canvas, but you'll have videos there.
+And each one of these links here is actually a link to the slides.
+So, if you're curious about, oh, I want to copy this part out of the slides,
+you can just go there and do that.
+So, that's available.
+So, that'll show you what videos you need to watch.
+Then you'll see the class session, which is what we'll be doing in class that week.
+We'll talk about the due date for whatever is due this week.
+So, the first week, week one, you have a discussion due, a graded Canvas discussion.
+Second week, you've got a second discussion.
+Third week, another discussion.
+And then as we scroll down, we'll start seeing actual homeworks.
+So, this day, during week four, that Sunday, you have homework one.
+Yeah, homework one phonetics is due.
+And then every week, you have the content check-ins.
+So, this will show you kind of what we're planning each week.
+And each week kind of has a theme and a topic.
+You know, introduction to linguistics, introduction to language, what sounds are there,
+what sound patterns, structures of words, et cetera.
+So, we'll go deeper into all of these things each week.
+And so, there are the total of ten weeks.
+And then there will be the finals week.
+During the finals week, there is not a final exam scheduled.
+Instead, you will have a final homework.
+Homework six is effectively a take-home final exam.
+I'm just grading it similarly to other homework, so I'm calling it a homework.
+But anyways, that will be due during your final exam period.
+But everything else will be asynchronous that week.
+So, and by the way, just so you know what I mean by that,
+if I say synchronous, that means we're all together in the same place at the same time.
+So, like the Thursday class sessions are synchronous.
+Every other work is asynchronous.
+You can do that whenever you would like.
+You can do it at 2 a.m. I really don't care.
+I'm not judging.
+Right?
+So, yeah, that's the schedule.
+That's how you read it.
+This area right here, the student support and learning interaction, it's really important.
+And I have a whole listing of resources that you as a student, oh, come on,
+that you as a student can use.
+I'm still getting all this set up and ready here.
+But a list of resources, there we go.
+And these resources include things like my online course guidelines,
+letters of recommendation, discussion post rubrics,
+and then a bunch of self-help and support resources,
+things like mental health resources through CAPS,
+the Caret, SARC, OSD, just a bunch of places that you should be familiar with
+because they can actually help you out.
+So I encourage you to check out that area of the website
+if you're curious about how any of this sort of will work.
+So there's that.
+In terms of the course itself, like I said, we're talking about what makes language work.
+How does language work?
+It's one of the most important things we do as humans, but how does it work?
+And so I talk a little bit about how to succeed, but it's pretty straightforward, right?
+Watch the videos.
+Learn the content.
+Pay attention.
+Don't get distracted.
+Attend the sessions on Thursday.
+Come to office hours when you need to.
+Think carefully about how you learn because that's really important, right?
+And that's a different question.
+How do you learn is sort of different from, you know, and especially online,
+you might have to ask that question all over again.
+And then starting things early.
+Don't procrastinate on homework, et cetera.
+And effective self-care is maybe more important now than ever in this world.
+So make sure to do those kinds of things,
+and that will make sure you have a good experience in the class.
+But remember that this class is collaborative, right?
+We all have the same goal.
+I want you to learn linguistics and get a good grade.
+Really.
+Seriously, I do.
+I would be very happy if all of you earned great grades in this class,
+and you want to learn linguistics and get a great grade.
+Hey, we're on the same team, right?
+So I very, very much want us to kind of keep that in mind.
+In terms of the grade, the grade is made up of four categories of things.
+You've got 55% of your grade comes from homeworks,
+15% comes from the weekly check-in quizzes,
+15% comes from participation in the class,
+and 15% from graded discussions.
+Standard UCSD scale.
+This is boring.
+Homeworks are submitted through grade scope.
+We drop your lowest homework.
+That means if you bomb homework one, that's okay.
+You'll get points for the next homework, basically.
+What this does mean, though,
+is I really don't want to hear about late homework.
+Unless you've got a doctor's note, unless you've got prior arrangements,
+something like that.
+I'm not doing makeups.
+I'm not doing, oh, my God, can I?
+I'm not accepting any late work.
+You drop the lowest homework assignment, and that can be a zero.
+So as a result, if you have a problem with homework,
+drop it like it's hot, right?
+No problem there.
+You're also welcome to work in groups for this class,
+especially online.
+That makes more sense than ever.
+That said, you need to turn in your own version of the homework.
+Every assignment that you submit needs to be unique.
+It needs to be your own.
+But you can definitely collaborate.
+You can definitely talk about it.
+You'll just have to disclose who you work with,
+who you collaborated with, et cetera.
+So there's that.
+And then scanning your work doesn't actually mean scanning.
+I mean, look, you can use your cell phone to do it, right?
+But you have to do it a little bit better than just, like,
+taking a picture of a piece of paper bent over your knee.
+Then I'll cry and not grade it,
+and those two things don't work well together.
+So read that link about scanning your work properly.
+And then the final homework is a take-home exam.
+We mentioned that already.
+The weekly quizzes are easy.
+They're 10-question quizzes.
+I don't expect, or I'm sorry,
+I fully expect that most of you will get 100% on these every week.
+But it's just there to make sure that you're doing the lectures,
+that you're not, like, falling behind.
+Like, oh, well, you know, I'll catch up with those in two weeks.
+It's just once a week, low stakes, short.
+Try to get them, make sure you're doing that.
+Course participation.
+So, look, linguistics is analysis, right?
+We are studying language.
+And the way that you study language
+is by picking at it in different ways,
+whether you're looking at the sounds that make up a word,
+whether you're looking at the patterns that make sounds move,
+what parts make up words or sentences, etc.
+We are doing things to language.
+And this is an applied skill.
+It's not just like, oh, well, language was discovered at the...
+Well, it's not even a thing, right?
+You're not just learning dates.
+You're not just memorizing terms.
+We need you to be able to do things.
+And as a result,
+you are going to need to come to class and do them.
+Every week in our synchronous section,
+we're going to be doing analysis.
+We're going to be doing meaningful discussion
+that makes you think about parts of language.
+And so you will be awarded one point per session
+that you're present and participating in class.
+Oh, by the way, we dropped the lowest quiz as well.
+I thought I should mention that too.
+And we dropped the lowest participation grade.
+But anyways, so we will give you one point
+for showing up each week in class.
+The way that you get this point is to attend the session,
+to arrive on time, leave only when you're dismissed,
+show up awake, clear-headed.
+Please don't just like log on
+and then immediately zonk back out.
+I'm like, no, please don't do that.
+You'll want to stay on camera.
+You'll want to stay ready to mic up if you need to.
+I mean, certainly I get it.
+Many of you live in chaotic circumstances.
+And maybe someone's vacuuming as you're trying to talk.
+But by and large, be ready to turn on your mic
+if we need to have a discussion, right?
+And make sure that you're actually participating.
+It's real, real easy to pull up Animal Crossing
+on another screen, right?
+But let's try not to do that.
+If I can't play Breath of the Wild during this,
+you can't play that.
+Anyways, I digress.
+And then ask questions, follow course policies, et cetera.
+Again, we're dropping a day,
+so that shouldn't be a problem.
+And if you miss a session,
+and if you miss more than one,
+just go ahead and fill out this missed session assignment.
+If you go on Canvas, under files,
+you will be able to basically complete
+the same activity asynchronously.
+And it'll be a little bit of extra work, absolutely.
+But it can get you that point back.
+That said, I understand that many of you
+are dealing with, well,
+pretty exceptional circumstances right now.
+Some of you might not be in San Diego.
+Some of you might not be in the Pacific time zone.
+And so if coming to class regularly
+presents an exceptional burden to you,
+do email me.
+Do let me know.
+And we can try and figure out a way
+to make things sort of equitable and whatnot for you.
+And similarly, if you end up getting sick for a few weeks,
+we can certainly play with things.
+But if you miss a session, though, generally speaking,
+you should try to be at every session.
+And if you miss one, you'll just complete that assignment
+within a week of the missed session,
+and everything will be fine.
+So that's the participation grade.
+It's very easy to get.
+I expect everybody to get 100% on this.
+But nonetheless, there it is.
+And then finally, the graded discussions,
+where you'll write a post responding to a question,
+and then you'll make two posts
+responding to your colleagues' opinions and questions.
+So it should be pretty easy, right?
+So you'll do three posts.
+And for that, you'll get four points,
+and everything will work out.
+And we're going to automatically drop
+the lowest discussion grade.
+The extra credit, there are two approaches you can do.
+One is you can come to my office hours
+sometime before week seven.
+And this can be for course-related reasons,
+just like, oh, I don't know how the course works.
+Or, oh, hey, Will, I'm lost about this homework assignment.
+That'll count.
+Or you just come in, introduce yourself.
+Tell me, hey, I love linguistics because X.
+Or, hey, I'm not sure that I love linguistics yet because X.
+And I'll talk to you about it.
+And we can just have a grand old time.
+But you'll just fill out a quiz on Gradescope about that,
+and it'll be awesome.
+But that gives you a half a percentage
+point of extra credit.
+The other thing you can do is to participate
+in a SONA experiment.
+This is the online subject pool.
+And you can, in fact, do this online.
+And if you can't find that, or if you'd rather not
+participate in one, there is a way
+to basically summarize a study.
+Email me to get more information about this
+if you decide you'd like to go that route.
+But the experimental thing is actually kind of cool, right?
+Kind of fun.
+A couple of other course policies
+I want to talk to you about while we're here.
+One of them is class session recording.
+We're going to be recording the synchronous sessions.
+This is going to be useful for students
+who miss the session so they can hear answers
+to questions and things like that.
+And by the way, we're going to start
+every single session with a question and answer period.
+So feel free to bring questions to that.
+But anyways, so we will be recording that
+by entering the sessions.
+You know that.
+Asking questions.
+Please, please ask questions.
+We want to help you.
+Genuinely, we all want to help you.
+And so if you're having trouble understanding something,
+ask us.
+We'll help.
+But do that in office hours.
+You can do that on Canvas discussion boards.
+You can do that during the help sessions.
+There are lots of venues to do this.
+But again, don't email us course content questions
+or homework questions.
+If you've got questions, throw them on Canvas.
+Regrades.
+So by and large, well, one of the big things
+to keep in mind is that any grade that is older
+than a week is fixed, right?
+There's not going to be anything changing after a week.
+So what that means is that after you get
+an assignment back, whether that's a quiz,
+whether that's a homework, et cetera,
+if you read through it and if you think
+there's been an error, then you can use
+the Gradescope interface to submit a request
+for a regrade there.
+But you must do this, again, within seven days.
+After seven days, it's all final.
+And so just keep that in mind.
+And that means, and the other thing is
+it's a good idea to look back at your assignments
+anyways because you learn more
+if you're paying attention to your assignments
+to your work.
+Academic integrity, I mean, look,
+don't be a cheater, right?
+I mean, easy.
+But you can, I've already given you an opportunity
+to collaborate on some of these things,
+but you should be the only person working
+on your copy, and every answer should reflect
+your own work and your own learning.
+And there's the full policy down below.
+Respectful discussion is really important here.
+We're gonna be talking about language.
+And you can't untangle language and culture.
+You can't untangle language and the situation
+in which the language is spoken.
+So this will lead to discussions of things
+like gender, of race, sexual orientation,
+religion, politics, nationality.
+You're welcome to share opinions,
+but be mindful and respectful to other people
+in the class.
+And more specifically, as you're kind of thinking,
+as you're planning responses, et cetera,
+think about being kind.
+Think about being respectful.
+Use the same kinds of language with them
+and the same tone with them that you would want
+them to use with you.
+And focus your discussion on ideas
+rather than individuals.
+You're welcome to say that you don't think
+somebody's analysis is right, but you say,
+hey, I don't think your analysis is quite right,
+rather than saying, you're an idiot.
+Because, well, then you're a jerk, right?
+So you wanna make sure that you're doing that.
+And as we're thinking about this,
+as we're evaluating conversations,
+we're gonna be focused on the impact
+that your words have on the individuals in question
+rather than your intention or your motivation.
+So please, please, please be careful and be kind.
+Above all else, be kind.
+The world is messed up enough right now,
+the best thing we can do for each other
+is to be kind to each other.
+In terms of accommodations, just let me know
+in the first two weeks of class.
+There really shouldn't be that much that comes up,
+just because it is all mostly asynchronous,
+mostly online, but something,
+let me know as quickly as you can,
+especially with due dates and things like that.
+But there's that.
+If you add them class late,
+I've got some policies here,
+but basically we wanna make sure
+that even people who show up late
+do the same amount of work, right?
+So that's where that comes from.
+Email me if you've got questions there.
+Other course policies, seriously,
+it's important to me that you are proactive.
+If something's going on in your life, let me know.
+Because what that does is it kinda gives me the heads up.
+And that way, if you come to me a week later and say,
+hey, I need to skip town suddenly,
+and I can't continue completing obligations,
+that way I kinda have it in my head already.
+And it's like, okay, great.
+I'm sorry to hear that.
+We can work on this.
+I'm much, much more likely to give permission
+for something ahead of time
+than to forgive it later on, you know,
+if it's already happened, right?
+So please, please contact me as soon as you can
+if you know something's going on.
+And I don't necessarily need details,
+but that's something to consider.
+It doesn't really, talking to yourselves in lecture,
+it's a little weird in the Zoom world, but yeah.
+I will use whatever name or pronoun you'd like.
+The best way for you to do this for me
+is to change your name and pronoun in Zoom.
+So you can do something like Will Styler, he, him,
+or something like that.
+It doesn't really matter,
+but please, please forgive us if we forget.
+And especially if one of the systems
+keeps updating things otherwise.
+We'll do our best, though.
+You will be hearing a lot of puns in this course.
+I'm gonna flat out tell you,
+this is a problem that I have.
+I can't turn it off.
+There's no hope.
+So if you have trouble with puns,
+this is not a class you wanna be in,
+then finally all this can change.
+And I've got some acknowledgements here
+and then some generalized academic policies
+that you might be dealing with elsewhere in your life
+for accessibility, academic integrity,
+classroom behavior,
+which I think is also Zoom room behavior,
+religious accommodations,
+and then discrimination and harassment.
+So anyways, this is the syllabus.
+The answer to all things is in the syllabus.
+Seriously, there's a reason that college professors
+show up to conferences with T-shirts that say,
+read the syllabus,
+because we all go,
+ah, they never do.
+And we all wish they do,
+so read the syllabus.
+But we just kind of did already,
+so now you know.
+And there you go.
+So that's what we've got for week zero.
+For next week, you'll be reading,
+and you can check this out by the course schedule,
+which is right here.
+So this week, you'll watch this video.
+Next week, you'll watch Intro to Linguistics,
+and we'll move on from there.
+So anyways, thank you all so much
+for registering for Ling 101.
+Tell your friends.
+Sounds like we've got some room.
+And most of all,
+I hope that you have a really wonderful day,
+and I hope that we have a great quarter together.
+We're going to do our absolute best
+to make this online class
+an awesome class in whatever format it is.
+So have a wonderful day, everybody.
+Goodbye.

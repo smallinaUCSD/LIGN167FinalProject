@@ -1,0 +1,678 @@
+Okay. Hi, everybody. Today we're going to talk about what a language is, not just what
+capital L language is, but how can we tell one language from another. But before we go
+further, for those of you who do actually want to print out slides to take notes, you
+can add that little chunk to the end of the URL and get a printable version of it in Chrome.
+And then also this is just amazing. I love linguistics memes. It's just, it's a thing.
+Feel free to send me good linguistics memes. So yeah, there's that. So let's go ahead and
+talk about, uh, today, what is languages? You know, what are, what are individual languages?
+How can we tell the difference? So our plan today is to talk about what languages are,
+uh, how we can tell what they are and talk about the fact that language is fractal. We'll
+talk about what's right and what's wrong in language. We'll talk about prescriptive versus
+descriptive grammar, and we'll talk a little bit about what that means for our society.
+So what are languages? What are individual languages? Well, there were 7,097 living languages
+in the world. Those last two numbers, I wouldn't really trust them. It's very hard to say this
+is a language, this one isn't, et cetera. So there's some variation there, but ballparky
+around 7,000 living languages in the world. That number is plummeting very, very quickly,
+which is part of the reason why language documentation is so important, but that's roughly how many
+we've got of those 23, only 23 of those languages are spoken by more than 50 million people
+given that's a lot of people. But of the 23 languages of the world spoken by more than
+50 million, many of you will recognize some of them. For instance, Chinese certainly is
+up there, Spanish, English, Arabic, Hindi. Most people have heard of these languages,
+but some of the other languages maybe not. Landa, Javanese, Telugu, Urdu. Are you familiar
+with Malay? No, probably not. And so a lot of these languages are huge. They're massively
+widely spoken languages, but a lot of Americans haven't even heard of them. So it's important
+to remember that there are a lot of languages out there and some of them we're familiar
+with and some of them maybe not as much. So anyways, there are a lot of languages out
+there and many of them are spoken by a lot of people. Chinese is the most spoken language
+in the world with around 1.3 billion people. But the question is, wait, hold on. 1.3 billion
+people all speak the same language? Not quite, no. As linguists, we would take issue with
+that statement and here's the reason why. Language, as you might imagine, is complicated
+for linguists, right? So this is the earth. That's a sweet earth, you might say. But this
+is not exactly, this is not going to be tractable, so let's schematize. That's what we do as
+linguists, right? We generalize to survive. Bam, that's the earth. On the earth, we've
+got different people and those people speak different languages. And I've just populated
+the world with some languages here. Whatever, seven, close enough. These are different languages
+and how do we know they're different? We're going to get at that actually another day.
+That's sort of a different question there. But it's a little tricky to tell the difference
+sometimes, but for the moment, we'll just focus on one of them. Let's just pick, oh,
+a language, language A, fun. And for the purposes of this class, we're just going to use English.
+By the way, I'm aware that we do a lot of English in this class and I'm actually self-conscious
+about that, right? I kind of wish that we didn't do as much English as we did in this
+class. The problem is we all speak English, right? And if I use an example from English,
+you all understand it a lot more quickly than if I have to teach you a little bit of
+something about Telugu before we can even start thinking about the example. So for reasons
+of being in a quarter system, we do a lot of English here. But yeah, so there's that.
+So we're going to start by talking about English. English is luckily just one monolithic thing,
+right? Everybody who speaks English does it the same, right? Right? Wrong. In fact, there
+are many different varieties of English spoken around the world. English is spoken very,
+very widely, and in some cases more widely than people expect. Most people know we speak
+English in the U.S. here. We speak English among many languages here in the U.S., but
+also Canada, also India. There are many people in India for whom English is their first and
+only language. Usually not only language, but it is a first language for many people
+there. The U.K., Singapore is an area with a very large population of native English
+speakers, and there are many places in Africa where people grow up speaking English, and
+their English is its own kind of English. And in fact, if you look at different places
+around the world, every English has its own hallmarks. There are things that go on in
+Singaporean English or Singlish that don't go on in mainstream U.S. English. But nonetheless,
+we can subdivide a little bit, and by and large, they share a lot more than they don't
+share, right? All of these things are kind of Englishy. But if you look at, for instance,
+New Zealand English versus African English versus British or Australian English, they're
+different, but they're not so different, right? There are some similarities there.
+So English itself is kind of fraud, right? If you've got all of these things that sound
+a little bit different, what's English? Okay. Just let's try and put some of that complexity
+aside here. Let's focus on American English. Once we're in America, though, everything's
+the same, right? No, absolutely not. Even here in the U.S., English is spoken in many
+different ways. Just thinking regionally speaking, the West, people from, say, Colorado, where
+I'm originally from, speak English in a certain way. People from the upper Midwest, you know,
+you've got the northern cities. So, for instance, Chicago, Wisconsin, you know, that kind of
+area has a dialect thing going on. Southern English is, of course, a thing, right? Southern
+speakers have a different flavor of English. California English is also 100% a thing.
+There are features of California English. We're going to play a little bit with this
+in one of our upcoming activities. But you can figure out where somebody is from on the
+basis of, well, tests. You can figure out by asking them questions, maybe where they're
+from, and you can see how their English varies a little bit.
+So if we think about syntax, then a sentence like the gate needs fixed, is this an acceptable
+sentence to you? The gate needs fixed. My headphones need recharged. My computer needs
+defragmented. Is that fine? For many people, it will be, but I think probably for more
+people in a Californian classroom, yeah, that's probably not going to be okay for a lot of
+you. It's perfectly fine for me, but I also grew up around some folks from Oklahoma, right,
+where that's very common. How about this sentence? I might could have some lunch. You might should
+go to the park next weekend. This is called a double modal construction. Super common.
+I've got a good friend from Kentucky who has this every day, and it's amazing, right? But
+for many people, that's going to be perfectly fine. For other people, that's not so much
+going to be fine. How about pronunciation? These two words here, the pointy one is a
+pin for me, and the writing instrument is a pen. So you have pin and pen, pin, pen.
+For me, there are two different vowels there. We would write them using two different IPA
+characters. For other people, I've got a good friend who's from Louisiana, actually, originally,
+and if you talk to him, he has a pin and he has a pin. These are two completely different
+objects, but they are pronounced identically. He has what's called the pin-pen merger, and
+it's the case that all words with those vowels are going to be there. So for instance, kin
+in the sense of I have family, kin in that area, and the name Ken, K-E-N, are going to
+be identical for him. How about these three words? Say them aloud for a second. Are they
+the same for you? Do you have the same vowel in all of these words? One thing to note,
+by the way, I know you're watching these online, but it is really genuinely helpful for you
+to pronounce things, especially when we get to phonetics. You want to make these sounds.
+It will make it easier. It's a form of proprioceptive learning, learning how your mouth works, focusing
+on that, really important. So make the sounds, do the activities I request, just because
+it's going to make it easier for you. I'm not just trying to make you make weird noises
+at home, right? So okay, you've got Mary, you've got Mary, and you've got Merry. For
+me, I've got eh, eh, so Mary, Mary, Merry. Eh, eh, eh. Those are slightly different vowels.
+But there are people around the country who have all three being independent, all three
+are different. There are people who have all three merged, or just one of them is separate.
+So either way, this is yet another thing that tells us about regional dialect.
+Then how about this word right here? So this word is dude, dude, dude. So let's try it.
+This is a really important word here in California, right? So I could walk up to somebody and
+I could say, hey dude. And how does that sound? Hey dude. Dude, that's a nice car. Is that
+weird? Yeah, it's a little weird, right? In fact, a lot of people in California will extend
+that vowel a little bit. So you'll get dude, dude, dude, dude. That's a nice surfboard.
+Dude, great car. Dude, I was just there last week. This doesn't sound right. This is tripping
+your boomer alarm, right? Like wait, something's wrong here. He's not that old. Something's,
+the problem that, the thing that I'm doing wrong here is actually I'm not pronouncing
+the word correctly. I have the IPA up here. So it's duh, ooh, and then here it's extra
+long. Ooh, and then duh. But I should make that ooh fronted. Uh, what I should do is
+move my tongue a little bit farther forward in the mouth. This is a very common thing
+in California. Most Californians have oohs that are a little more front in their mouth.
+So it goes from being dude to dude, dude, dude. And so if I say dude, that's a nice
+surfboard. That's much better. It's still awkward for me to say that, but dude, nice
+car. That fronting is really important. So the difference between dude and dude is that
+fronting there. And that's a key part of the California dialect.
+Here's another fun piece of dialect work. This little warehouse right here, sell your
+iron to Walter Zion. I was driving around at one point in time in a part of the country
+that will currently remain nameless. And I drove by this warehouse and I looked down
+and I said, that's dumb. Sell your iron to Walter Zion. Why would I put that on the side
+of a warehouse? That's a stupid slogan. And so I kept driving and I kept driving and then
+suddenly I turned around because, oh my God, that's an amazing slogan because I remembered
+where I was. Say these words aloud. Is this an awesome slogan or not? For me, sell your
+iron to Walter Zion is not an awesome slogan. But in that area, which was near Acushnet,
+Massachusetts, so Southern Massachusetts, it really, really was a good slogan because
+this is sell your iron to Walter Zion. A local person would have sell your iron to Walter
+Zion. This rhymes beautifully, but sell your iron to Walter Zion doesn't fly in San Diego.
+Sell your iron to Walter Zion. Great, great, great slogan. So, regional. You also get differences
+in vocabulary from where you're at. The word for this creature right here. Any thoughts?
+I know, you're talking to your computer screen. This is way better with an audience. Anyways,
+for many people this is a dragonfly, right? For other people, this can have other terms.
+Mosquito hawk is relatively common. Darning needle is common. Weirdly enough, in Breath
+of the Wild, this is the Zelda game for the Nintendo Switch, they have the term darner.
+Darner for this kind of creature, which is really weird. This is a game created by Japanese
+people and yet we have darner as the term for a dragonfly. Super unusual. It really
+caught me off guard, but it's actually attested in American English in some regions. Here's
+one that's going to start a fight. What is the generic word for a fizzy sweet beverage?
+We have A, pop. B, soda. C, soda pop. D, coke. E, cool drink. So, I'm sure you've already
+made your decision. You've probably dug in. You're thinking, oh God, everything else is
+wrong. Stop, Will. So, the correct answer is B, soda. No, that's complete bias. Turns
+out that this is a super important dialect test. So, there is a huge debate about pop
+versus soda in the United States. What we see here is that actually it really varies.
+If we look in this central region here, in the Midwest, we see a whole bunch of pop going
+on, right? This whole region is pop country. When I moved from Colorado, and more specifically
+from near Denver, which was soda country, to Michigan, which was pop country, it messed
+with me. Somebody said, I was buying a 12 pack of soda, and the lady at the checkout
+said, do you want your pop in a bag? I said, why the hell? I didn't say this, but I thought
+it was like, why the hell would you pop a bag? That doesn't even make sense. Then it
+was like, I moved. I'm in Michigan now. So, I entered pop country. If you go down south,
+you end up with Coke, as the generic term. So, the sentence, would you like a Coke?
+Yes. Which kind? Sprite. Completely logical, right? So, there is a whole map about this.
+In California, this is so firmly soda country, it's not even funny, as in Massachusetts,
+or frankly, the New England generally, all soda country. So, pop and soda turns out to
+be a really big debate. How about this thing right here? So, different terms are available
+for this. What's your term? If you had to point somebody to this thing, what would you
+call it? Chances are, you have one of three things. You either have water fountain, you
+have drinking fountain, or you have bubbler. How many of you have bubbler? Bubbler is interesting,
+because bubbler is something that only shows up in a couple of places. By and large, California,
+or drinking fountain territory. Water fountain is also an option. But then, there's bubbler.
+Bubbler shows up in a couple of places. It shows up in Massachusetts. It shows up in
+Wisconsin, which is entertainingly the place where the Kohler Corporation is based, who
+first marketed these things under the name bubbler. So, that's why it's stuck out there.
+And then in Portland. Residents of Portland have the term bubbler. And that's because
+one rich person, and I actually saw one when I went to Portland. I was excited, because
+God, I'm a nerd. Some person's last name, like the Benson Bubblers, is an installation
+of free public drinking fountains in Portland. And that was enough to shape or change language
+in that area. So, bubbler is available in three parts of the country. A lot of the people
+who raised me, so to speak, were from Massachusetts. As a result, I grew up with bubbler. I went
+to school, kindergarten, and I was doing it wrong. People were looking at me, so funny.
+What the? What's a bubbler, Will? Like, I go, Mommy, Mommy, I don't know the words
+for things. It was traumatic, but that's okay. We all have our trauma, right? So, not everybody
+from a region, it's important to highlight, will have all of the dialect features. This
+is as much a function of attitude as location. Somebody can grow up in the deep south, so
+to speak, and not really have much of that accent. Or they can have parts of it. A good
+friend of mine is, like I said, from Louisiana, but his accent is, by and large, not that
+southern. He doesn't have the strong Louisiana accent that a lot of members of his family
+and a lot of his friends have. He has elements of it. He's got the pin-pen merger, but most
+of it is not. If you listen to him, by and large, you're not going to hear too much of
+the southerness in there. And this comes down to rootedness. This is an idea actually put
+forth by an academic friend of mine, Paul Reed, basically asking, how rooted are you
+to this area? Do you want to come back if you leave? Do you want to leave as quickly
+as you can? And so, if you really feel a strong connection to an area, you'll have your accent.
+You'll have the accent more strongly, and you'll probably keep the accent if you move
+away, as opposed to somebody who really has no connection to the area or wants out, they'll
+probably lose that accent quickly or might not develop it at all. But there are a lot
+of regions and regional features that we really haven't covered yet. We can't go all the way
+into it. But okay, cool. So we've hit the level of maximum complexity, right? We have
+the west, we've got northern cities, upper midwest, and even California. It can't get
+that much more complicated than that, can it? Yeah, not that simple. Because even within
+California, you have young speakers, you have old speakers. And they're going to speak differently,
+right? Young speakers will say things like, yeet, or simp. And old people are going to
+be like, no, you stop saying, you stop saying simple in the middle of it. Finish your words,
+young man. Anyways, so that's going to be a major difference. You'll get men speaking
+differently from women, from non-binary speakers to trans speakers. All different people will
+have different elements of their speech. And part of this can be physiological, based on
+things like vocal fold visiology. And part of it is just in terms of presentation. How
+it is that you want to portray yourself in the gender continuum. So all different categories
+of folks and different identities will have different speech factors. Folks who are gay,
+lesbian, bi, queer, and so forth. There are many, many factors that can make somebody
+sound gay, so to speak, as a part of their speech. This is sort of a well-known phenomenon.
+And actually looking into what those are is really interesting. This is the domain of
+sociophonetics, if you're thinking about sound, strictly speaking.
+Speakers of AV, African American Vernacular English, or Black English. AV is a, this is
+by the way, also previously known as Ebonics. We're not going to use that term because it's
+very loaded. It's gotten, a lot of people have used it. It's basically become a slur.
+So we're going to stick with AV. But speakers of African American Vernacular English will
+have variations in their languages, right? As will Latina, Latinx, or Chicana, Chicanx
+speakers. That should be an X over there. But you know, folks who, and this can fall
+into the umbrella of Spanglish, right? There are people who grew up speaking both English
+and Spanish and mixing the two all the time, right? We'll talk about that later.
+Educated speakers will talk differently than uneducated speakers. And again, that's not
+a value judgment. It's just some people have spent way too much damn time in school and
+other people haven't. Then people from urban areas will speak differently from people in
+rural areas. All of these things turn out to be very important. Then nerds have their
+own sorts of things and so on and so on forever. And all of us are a mix of these identities.
+I am someplace between young and old, except when it comes to memes, in which case, old.
+I identify as male. I am not a speaker of AV or I'm not Latino or Chicano in any way.
+I'm way too educated for my own damn good. Relatively urban. I'm a gigantic nerd. And
+all of this kind of comes together to create my own, my own self.
+But this is the idea of a sociolect. These are social dialects, a dialect that is shared
+among members of a certain social group. And people can have influence from many of these
+sociolects at the exact same time. And we often switch around a little bit when we're
+in different social situations. Right now, I am in my professor voice, flat out, full
+on professor voice. I am being educated. I am trying my best to be. And I hate these
+terms, but I'm being very clear in my speech. I'm hyper articulating. This is a term I'm
+fine with. I'm making a lot of effort to make sure that I'm articulating clearly and cleanly.
+Kind of thing. I'm also using relatively high register. That is, I'm using words that are
+a little bit fancier. I'm using words like sociolect. And so as a result, right now I'm
+in my nerd voice. But I can definitely turn that off. Can I? Yeah, if I'm just talking
+like I might in my everyday life, I'm going to be sounding a little bit different than
+I really am right now. Damn it, it's coming back. But still, yeah, we have all of these
+different things going on. And the fact is, using my sociolect is a certain affiliation
+with a certain identity. For instance, there might be times in which, for whatever reason,
+and this is kind of a natural part of how humans work, where I really want to feel masculine.
+And so I might do things like lower my voice a little bit. I might articulate a little
+bit less. This is funny. You see this. If you stand outside an auto parts store and
+you listen to people going in on either side of the door, it's different. The pitch drops
+down a little bit. The articulation, yeah, I'm looking for a part for a Mercury Grand
+Marquis or something like that. As I'm looking for a part for a Mercury Grand Marquis. A
+little different. So sociolect is a thing. And there are many kinds of it. There are
+many varieties of it. And some of these have prestige and other ones don't. What I want
+to be very careful with is people saying, well, yeah, you're speaking a low-class sociolect
+or something like that. I mean, yes, in society, some forms have prestige. This is a very newscaster-y
+English that I use right here. It's something that's very similar to what you might hear
+on a news program here in the U.S. But that doesn't mean it's more correct or more right.
+It just has more prestige. And this varies depending on context. Because if I were to
+speak in this way at, for instance, dinner with a bunch of family members, it would be
+really pretentious. Right? It would be really weird. Or if I, you know, again, if I walk
+into the auto parts store and I'm talking like this, it'd be kind of a little bit out
+of place. But in a courtroom, absolutely. So it's important to think about this in terms
+of prestige and context. Right? There are correct places to use any given dialect. And
+it's just in the same way that it's not necessarily a great idea to be using, for instance, a
+lesser-known dialect in a courtroom setting. It might be a really bad idea to use courtroom
+English in a social gathering. Right? This kind of stuff is the bread and butter of sociolinguists.
+These are people at the intersection of sociology, that is, and linguistics, who look at how
+language and identity interact and how people in groups interact when it comes to language.
+And, of course, people are able to switch among dialects and sociolects. This is a thing
+that happens all the time. And people are called out on it usually as a form of attacking
+them separately. But recently, Alexandra Ocasio-Cortez was accused of verbal blackface.
+The idea here is, this is a linguistic thing. This is code switching. This is very, very
+well known and it's something that happens all the time. People can switch back and forth
+between dialects. They can be multi-dialectal. And it's perfectly natural that it's something
+that they, and all of you can probably do this. Yet, so it's not fair to call somebody
+out on this when it's one of their native dialects. Right? Because people can have many.
+So, okay, within California, we have all kinds of things going on. And people from San Diego
+are different. It's a thing. Right? And there are infinitely more groups. They all overlap.
+And we are all influenced by many of these different things at the same time. But in
+the middle there, we have this one little area, this one separate little dot. And that
+dot is you. You are, and I mean this in the very best of ways, a unique snowflake. You
+are unlike any other human in terms of your dialect. This is a beautiful thing about you
+as a human. You have your own idiolect. Your idiolect is the way that you specifically
+use language. This is your idiolect. These are your esoteric pronunciations. Maybe you
+say the word, there is, the stuff that you buy, that you get at a, at a gas station,
+you might say gasoline. Right? This isn't something that a lot of people do, but you
+do. Or Vaseline is a similar thing that for some reason I say Vaseline. It's the petroleum
+jelly personal care product. That's kind of esoteric. Maybe you have expressions and catch
+phrases that you use more often. For me, but I digress. Or back at the ranch. These are
+things that I use too damn much. Right? They're things that I use. They're things that I prefer.
+Back when I was in middle school, I said zesty a lot. I'm judging too. It's okay. And then
+you have specific meanings for words or phrases. If I say the word dog, think about what dog
+is. I bet a lot of you are thinking about a specific dog, right? Maybe you're thinking
+about a childhood dog. Maybe you're thinking about a friend's dog. Maybe you're thinking
+about your current dog, or maybe if you don't have a dog, you're thinking about something
+more generic. Maybe if you're scared of dogs, you're thinking of something big and scary
+and mean, right? But dog has a specific meaning to each and every one of you. Meaning is a
+part of your idiolect as well. And you also get all of the features that you've inherited
+from your region. So growing up in Colorado, I have certain features, not many, but I do.
+And I have certain features and words and phrases for my sociolect. Pardon me, I'm a
+gigantic nerd. So I have Dungeons and Dragons players sociolectal features, right? You know,
+it's a thing. I have twitch.tv features in my language, right? Feel free to drop the
+kappas in chat. Now that'd be more of a poggers moment. Anyways, I digress. There are going
+to be features that you have from all of these things. You have odd spellings and emojis.
+How many of you still write LOL? That's probably a little old, right? So you'll probably prefer
+the different emojis, but you'll have emojis you prefer. I like the discord colon joy colon.
+That's a thing. My wife writes thanks with an X. Okay, whatever. Sure thing, honey. And
+you have your writing style. You have a speech style. You have an individual set of speech
+organs, right? This whole thing here is different for all of you. And this is going to change
+the way that your speech sounds. You sound unique. You sound different from any other
+human on earth. And that's itself really fascinating. And so even within you though, there is variation,
+right? Because you sounded differently as a kid than you do now. You sound differently
+when you're at work, say giving a lecture than you do when you're at home talking with
+a friend, with a sweetie, with something like that. You sound different at 4 a.m. than
+you do when you're on a date than you do when with a cold, et cetera. All of these things
+make you sound different. If you call me at 4 a.m., I'm not going to bounce into full
+professor voice. Hi there. How are you doing today? Would you like to come to office hours?
+No, I'm not going to do that. In fact, I'm going to be like, what are you doing? Why
+are you calling me at 4 a.m.? And screw you. It's going to be different. So you have different
+parts at any given time. But the thing is, it goes worse, right? Because let's say you're
+on a date. If you're trying to be seductive, you're going to talk differently than if you're
+trying to act smart as you're trying to feel awkward at 4 a.m. with a cold. All of those
+things are going to make this harder. All of these things are going to make it more
+complex. And by the way, talking about speaking seductively, here's a fun one. Yeah, I'm going
+to go there. Why not? So one of the things that you can do to sound seductive is to move
+to a breathier voice. So right now I'm being a little bit more breathy. My voice is not
+fundamentally different, but I'm just adding a little bit more airflow as we're talking
+here. And so as a result, it can sound a little bit more seductive. It can sound a little
+bit more ASMR for that matter too. But why is that a thing? Why is that seductive? Well,
+partly it's social, right? We've decided that this is how you sound if you want to be a
+little bit seductive. But more importantly, it's physiological. When you are aroused,
+and I mean physically aroused, one of the things that happens is that mucus membranes
+start to overproduce mucus. Hey, I know this is romantic, right? And one of the consequences
+of this is that the vocal folds, which we'll talk about next time, which are the things
+that are actually vibrating here, get mucus on them and then you sound breathier. So when
+you do this thing, when you talk about, hey honey, how are you doing tonight? And you
+go a little breathier, you are simulating physical arousal. Yeah. So next time you hear
+that, just be like, oh, I know what you're doing. And it's effective. And it's become
+a social thing, right? So anyways, all of these things just keep going deeper and deeper
+because you can try and be seductive while having a cold. Oh, how are you doing tonight?
+And it's just, it's problematic. So this leads us to an interesting realization, which is
+that language is fractal. This is a fractal. It is a pattern that goes on and on and on
+and on and down and down and on and on and down forever and ever and ever and ever and
+ever. And as you keep going, you keep finding more detail, not less. The pattern doesn't
+get simpler. It just keeps going deeper and deeper and deeper. Language is fractal. First
+you see really large patterns like, wow, there are these language families, all of these
+families, all of these languages like Spanish and Italian and French. God, they do a lot
+of things similarly. I guess they all must be related. Then you go a little deeper. You
+say, wow, but this Spanish thing is working a little bit differently than all the rest
+of those. And so then you go a little bit deeper. Interesting. So Spanish from Mexico
+and Spain sounds a little bit different. And so does, here's Columbia. And so these words
+aren't present in this region. Okay, well let's think about Mexico. Oh God, within Mexico,
+there are words that happen here, but not here. And in Chihuahua, you get Chihuahua
+rather than Chihuahua. And so then you get deeper. Oh wow. Within this city, you see
+different people and the nerds are talking and you just keep going deeper and deeper.
+Language is fractal. You keep finding more detail as you go further down and down and
+down until the point when you get to a human and then even still you go deeper because
+humans are in contexts. So language is fractal and it's very, very hard to find clear lines
+between anything. It's hard to define what is a single language. You know, is Arabic
+one thing? That's actually really tough to say, right? Because different Arabics spoken
+around the world are very different. They will have different fundamental properties.
+Yet at the same time, they're all understandable, but only through the writing system. A speaker
+of Moroccan Arabic can't understand a speaker of Saudi Arabic necessarily unless they're
+familiar. So are those one language? I don't know, maybe. And the difference between language
+and dialect is very often a political difference. Saying these are all one language is because
+you want to unite these people and saying, well, I don't know, these are two different
+languages, that's very political. And so if you like them, they'll speak a dialect
+of your language, otherwise it's a whole different beast, right? And everybody speaks at least
+one dialect, at least one sociolect, and everyone has an idiolect, right? But people's dialects
+and sociolects, there are many of them, right? And especially for somebody who's grown up
+in many places, you will end up with features from many places and this will become a part
+of your idiolect. And all of these things overlap in complicated ways. And this is a
+reason why social elements of language have an entire subfield, right? Sociolinguistics
+is a thing for a very, very good reason. But yeah, so this is the socio world. And we try
+to divide this variation up a little bit. We talk about different languages as if that
+were a clear distinction. We talk about different dialects as if that were clear, as sociolects
+and idiolects, but we're generalizing to survive. And dialects are a form of language used by
+a certain social or geographical group. And a sociolect is socially specific. It's not
+necessarily geographic. And your idiolect is your unique way down kind of at the single
+person level. And all of this is variable situation to situation, word to word. And
+as you look closer and closer, you find more patterns, more complexity rather than less.
+So let's check your knowledge. I can tell Pat's really sent the text. She always uses
+the shrug emoji. Is this an example of a dialect, sociolect, idiolect, or emojiolect?
+One of the downsides of doing these videos as videos is that I don't get as many chances
+to drink. Usually any questions and then I drink. No. Okay, so Pat sent this text. Pat
+is an individual person in this case. And if you know that Pat always uses the shrug
+emoji, this would be an example of something that only Pat does or that Pat really does
+strongly. So it's one person, so it's an idiolect feature. So there you go. Thing is though,
+linguists are interested in how everybody talks. We talked about this a little bit on
+the first day. We're not just interested in one dialect, not just the prestige dialect,
+the dialect that has the most prestige in the culture. And we're not interested in a
+correct variety. There are linguists who believe these kinds of things, but by and large they're
+not, yeah. And we're not interested in just the academic dialect, because there is an
+absolute academic dialect. Enjoy it. But they're not interested in the mainstream, because
+mainstream U.S. English is a thing, right? If you watch a national broadcast, by and
+large people will be speaking a mainstreamish U.S. English. And by the way, I will be using
+muse, M-U-S-E, mainstream U.S. English, to refer to this over and over again. But nonetheless,
+we're not just interested in what's in textbooks, in what's in dictionaries. We are interested
+in everything. And as such, linguists, generally speaking, don't believe in a correct variety
+of language. We don't believe that there is one way of talking that is the correct answer,
+that is the right way to talk. It's very hard to pin down which one would be correct. And
+I encourage you to use this against these trolls. If somebody's saying, oh, that's not
+correct, you say, oh, okay, great, who's correct? Which region is correct? Oh, mine. Which dialect
+is correct? Uh, mine. Which sociolect? I don't even know what that word is, but mine. Which
+idiolect? Well, still me. Ultimately, they end up telling you that they're the only one
+who can be right. Anyways, I digress. Um, idiolect. The situationally correct or appropriate
+variety is all about social context. And by saying something like, that variety is not
+what we want here, it's not the same thing as saying that variety is bad. And this is
+actually really complicated, right? We don't talk about this when you're doing writing.
+For instance, if you're in an English class or a linguistics class and you're doing some
+writing, you might get docked points for saying, this is, don't use this word here. It might
+feel like that word is incorrect, but really the way we should be thinking about this is,
+in an academic setting, that word is not generally used. That variety is not generally used.
+And so, it's not great, but it's something that we do have to pay attention to, because
+like it or not, if you want to be taken seriously in academia, there are parts of the academic
+dialect you need to be familiar with. But remember that correct is a social judgment.
+Correct is about people, not about language. This is social. So as a result, we end up
+thinking about grammar differently than a lot of English professors do. Um, so let's
+think about grammar for a second. It's grammar time and this is a really old reference. Enjoy.
+So what is grammar? What are we talking about when we talk about grammar? Well, let's get
+there. Prescriptive and descriptive are two different types of grammar. What do those
+actually mean? Well, speakers of a language have intuitions about what grammar is, right?
+So we did this a little bit last time, but which one of these is a grammatical English
+sentence? So A is John went with Tina to the cat show. B is the boy flame take Watchingsley.
+C is correct horse battery staple. D is a store as you own noise English and E is you're
+not sure. So which one of these sentences is ungrammatical? I'm sorry, which of these
+sentences is grammatical? Only one of these chances are is going to be grammatical, although
+the last one is if you're not sure. Okay.
+For most people speaking English, this is going to be a pretty easy answer, right? A
+is probably going to be the correct answer. John went with Tina to the cat show. This
+gets at the idea of descriptive grammar. These are the rules of the language, dialect, and
+sociolect that are being spoken that describe how people actually talk or write. Um, if
+I look at the phrase, um, boy, the boy flame take Watchingsley, this is ungrammatical.
+There is no dialect in which that's okay. In fact, it doesn't even make any sense. Um,
+this is not in harmony with the local rules. Whereas a grammatical sentence is, there is
+no local set of rules that makes that okay. People will stumble over ungrammatical sentences.
+The boy flame take Watchingsley is not something that people are ready to say. It doesn't make
+sense. You would never say that when something is descriptively ungrammatical, it's often
+very hard to understand. Like, what does this mean? I have absolutely no idea what that
+sentence would even start to mean. So that is descriptively ungrammatical. Although it's
+worth saying that there are definitely hard to understand sentences that are perfectly
+grammatical, often found in academic writing. Let's be real here, but okay. Uh, one thing
+to note though, is that, uh, we as linguists and throughout the rest of the quarter, we're
+going to mark an ungrammatical sentence with a star. So this means this sentence is ungrammatical.
+I know it's ungrammatical. So there you go. And we will mark questionable sentences with
+a question mark. So which friends has Thomas painted a picture of them? For some people,
+that's going to be okay. It's probably not for most. This might be a star for everybody.
+This is called a resumptive pronoun at the end. Most people aren't cool with that, but
+nonetheless, um, yeah, the asterisk means ungrammatical. The question mark means this
+is kind of borderline, right? So, okay. We know that this thing here is ungrammatical.
+The boyflame takes Watchingsley, ungrammatical. Um, not okay. Um, the dialects and sociolects
+and idiolects are all going to have their own grammar and they're all going to follow
+it, right? This is a really important thing to consider because there are different dialects
+out there. So Av, African American Vernacular English, also, like I said, previously known
+as Ebonics, um, has something called negative concord. You can say something like, can't
+nobody say he don't work. And what this means is that if I were to translate this, this
+would be, uh, nobody can say he doesn't work. In my dialect, I would say, nobody can say
+he doesn't work. But in Av, you can tell which term I was raised with, unfortunately. Um,
+you can, uh, you say, can't nobody say he don't work. This is the correct version and
+saying this is marked. This is not okay in this dialect. So this is correct. This is
+the accurate version for this dialect. And this one is not. Nobody can say he doesn't
+work would be wrong. Habitual be is another feature of Av, right? He be driving all over
+the place is how I would say he often drives all over the place lately. Um, this is actually
+a fundamentally different kind of way of expressing a meaning than, than we've got here. He be
+driving all over the place means, you know, wow, very regularly. And in the recent history
+here, he's been driving everywhere. Um, and so saying he often drives all over the place
+lately would be ungrammatical in Av and then copula deletion. She mean this would be equivalent
+to my she's mean. And again, if I'm in that context, this would be incorrect. This would
+be ungrammatical. This would be incorrect. And this is the correct form in Av. So all
+of these grammatical rules that I've given you here are followed carefully by speakers
+of Av. Pardon me. If you speak this language, you will follow these rules. There will be
+negative concord. There will be habitual be, and there will be copula deletion. All
+of these things will be a factor, but this is followed carefully by these speakers, by
+speakers of Av. And so it is false. It is wrong. It is incorrect. And it is usually
+biased or motivated by other kinds of bias to say that speakers of Av or Chicano English
+or Southern English have no grammar. It is incorrect to say that they have no grammar
+or bad grammar. No, wrong. Damn it. That is incorrect. They use the grammar of their dialect
+as carefully as you use the grammar of yours. And so this is important to remember. The
+grammar of a dialect may be different from your own, but that doesn't mean it's wrong.
+It just means it's different. Let's try a different set of grammar judgments. Which
+of these sentences is grammatical English? So A, I never know what I should write with.
+B, I don't know who she photographed. C, Ron and Jerry stayed home last night. D, we
+hope to considerably advance machine learning technology. Or E, I'm not sure. Think about
+this one for a second.
+Okay, this one was probably harder, right? A, I never know what I should write with.
+This, well, let's just go this way. According to a lot of folks, C is the only right answer.
+We could go with this regularly, but C is the only right answer for some. This is because
+of prescriptive grammar, made up social rules that prescribe how people should, or prescribe
+how people should talk or write. Prescriptive grammar gives us rules that are being violated
+here. I never know what I should write with is supposed to be incorrect because never
+end a sentence with a preposition. Or put differently, a preposition is a terrible thing
+to end a sentence with. Next, I don't know who she photographed. Technically, we should
+be using whom there, because the who there refers to the direct object. So that should
+be whom. That should be an accusative case pronoun. There you go. D, we hope to stunningly
+advance machine learning technology. This bit here bothers a lot of people. How dare
+you split an infinitive? People give this Star Trek to boldly go where no one, yeah,
+dude. So these are the complaints that we get here. Now, here's another question. Do
+you know what this sentence means? Do you know what A means? Do you know what B means?
+Do you know what D means? Did you understand the sentence? Did you have any question at
+all as to what I was saying to you in these sentences? Any ambiguity? Little tiny bit?
+No. You understood. And so chances are, all of the sentences I gave you in this second
+clicker question were pretty straightforward for you to understand. And all of the ones
+that I gave you in the first one were tricky, except the one that was grammatical, right?
+All the other ones didn't make any damn sense. If I say correct horse battery staple, that's
+not English. That's an XKCD reference. It's not English. And so it's more difficult to
+talk about sentences that are descriptively ungrammatical and to understand them than
+sentences that are prescriptively ungrammatical. So these rules, the rules I was just talking
+about, never end a sentence with a preposition, or oh, you should use whom there, or oh, don't
+split an infinitive. These are social rules. These are things that people have made up.
+And given all grammar rules are made up to the extent that they're arbitrary, right?
+But these are ones that specific people have decided, I'm going to say this is a problem,
+when a bunch of people do them. They're not universally observed. If they were, no one
+would complain about them, right? Look, okay, all sentences should have verbs. This is not
+a rule that people yell at people about on the internet, right? Why? Because everybody
+puts verbs in sentences. This is a strong descriptive rule of English grammar. No one
+messes it up, so no one complains about it, right? But these things, people mess up all
+the time, which gives people on the internet, oh, it gives them the opportunity to do that
+kind of thing. These rules do not affect your ability to be understood, generally. There
+are very, very few cases in which these actually cause any ambiguity. And the ambiguity is
+generally very short. And they are often based in some kind of a written ambiguity.
+Like this trio, there, there, and there. Those are the same damn word in pronunciation, but
+we write them three different ways because the English writing system is a flaming dumpster
+of garbage and medical waste. So we use this written ambiguity, like, oh, you used the
+wrong there. No, it's the same damn word, quiet. Or maybe they're different damn words,
+but we can't tell. They're often quoted from one specific source. Strunk and white is the
+one that most people make fun of. I'm sorry, most people reference, I make fun of. Anytime
+someone says strunk and white, start laughing, right? This is one particular codification.
+This is one particular grumpy white guy, well, two actually, but still, that are codifying
+these rules and claiming that they are true, that they are actually a thing. And they're
+very often associated with a specific setting, right? If you were to do some weird avoidance
+to avoid splitting an infinitive, it would probably come off weird in many settings,
+right? So a lot of people think, oh, linguists, God, I better watch my grammar. No, don't.
+I'm watching it. That's fun. I'm here to describe things. I hate grammar Nazis. I really,
+truly, deeply do. They drive me crazy and I love messing with them because, yeah. So
+I, linguists are not the same thing as grammarians. We are very fundamentally different. And I'm
+sure you can all think of different prescriptive grammar rules that you're familiar with, right?
+You can think of something else that somebody on the internet has yelled at you for. You
+have to capitalize the first word of a sentence. No, you don't. Half of, anybody under 25 doesn't,
+right? It's, and in Germany, you have to capitalize every damn word. You just made this up. Let's,
+so these are social. So, okay, let's think about this rule a little bit more. Which of
+these rules is a descriptive rule? Oh, damn it. Well, let's see if he can figure it out, right?
+All right. So A is saying I'll make do rather than I'll make do with the, the, the spelling
+difference. B is all sentences must include a verb. C says always include punctuation inside
+the quote. D says in-text citations should be surrounded by parentheses. And E is emojis
+cannot be used in professional correspondence. Well, the answer was probably a little bit
+easier because I used this as an example early on, forgetting that this was a question I
+was going to ask you later on. But still, B is the answer. I'll make do with a D-U-E
+rather than D-O is a writing distinction, right? We have decided that we're going to
+write those two things differently. But again, that's because our, our writing system is
+just a toxic pit of sass and hatred. It's terrible. C, always include the punctuation
+inside the quote. This is completely arbitrary, right? There is absolutely no reason that
+the period should go inside or outside the quote, except that somebody decided that was
+going to be a thing. D, in-text citations should be surrounded by parentheses. No, it's
+not, academics can't even agree on this. If everybody used one system, then okay, maybe,
+but no. It's like, oh, we're using MLA or APA or Chicago. All of these damn things are,
+style guides drive me nuts. And then E, emojis cannot be used in professional correspondence.
+Watch me. I will do so. This is just somebody saying, well, I don't like emojis because
+I don't understand what the little eggplant thing that people keep using to make fun of
+me is. Sorry. Um, and so this is very much a social rule. How about this? Which of these
+sentences is descriptively ungrammatical? Me and Mark are going clubbing. I hate polar
+bears. Their paws are too big. Frank, Suzanne live Dallas. Herbert ain't gone to the store
+yet. Michael Bay loves to desecrate good cartoons. Think about it for a second. Okay, so the
+answer that I would say is correct here is C Frank, Suzanne live Dallas. So a would be
+considered ungrammatical by some because me and Mark should be Mark and I. Okay, sure.
+Case of the pronoun, whatever. Okay. Um, B I hate polar bears. Their paws are too big.
+That's the wrong usage. The wrong usage of there. Even though they're pronounced the
+same, we've decided they need to be written differently. So that's ungrammatical, but
+that's a prescriptive ungrammatical issue. D Herbert ain't gone to the store yet. People
+say ain't, ain't a word. It's a word. Sorry to say that. It's a thing. And then finally
+E does a whole bunch of things. Interestingly with spelling includes a two there instead
+of a two T O. Yeah, you can do it that way. You all understood exactly what I meant. Um,
+both in terms of his love and in terms of the sentence. Uh, and that's there. But then
+C Frank, Suzanne live Dallas. You're missing something there. Um, unless this is like
+a movie poster, Frank, Suzanne live Dallas. This doesn't fly right. This should be Frank
+and Suzanne. We're missing a conjunction in the middle there and we're missing a preposition.
+Maybe live in Dallas, live near Dallas or maybe Frank. Suzanne is a person and so it
+should be Frank. Suzanne lives in Dallas or Frank. Suzanne live in Dallas. There's something
+missing there. We don't understand what this means as speakers. It's impossible to say.
+You can kind of take some guesses, but it's impossible to say what this one means. All
+of these other ones are perfectly understandable. So this is descriptively ungrammatical. The
+other ones are prescriptively ungrammatical. Those are different. So linguists are interested
+in descriptive grammar. We don't believe there's a correct variety. I probably have gotten
+this across to you already. Um, and a rule that a large number of people don't follow
+isn't actually a rule, right? Uh, seriously, if you don't have a bunch of people following
+the law, it's not a law. Um, or it's not a rule in all of the dialects. It may be a rule
+that's present in your dialect, but it's probably not a rule that's present elsewhere. And if
+you speak a nonstandard variety of English, we as linguists think that's awesome. Absolutely
+100% never feel hesitant to speak your native variety with me. Uh, I, I, you know, I might
+struggle from time to time cause I'm a human, right? I might not understand elements of
+it, but please, your nonstandard variety is awesome. 100%. The other thing I want to highlight
+is that it's really fun to see when these prescriptive corrections are made. There are
+people in the world who truly believe that these rules are real. They have been raised
+by Strunk and White. They believe that the APA style guide was passed down from a mountain
+from the heavens and it was taken and they looked and they saw that URLs must be cited
+in this way and it was good. Um, there are the people out there who are true believers
+and in their case, very often they think, oh, well, if you want to be taken seriously,
+you need to speak English correctly and these rules help you be correct. And so maybe there's
+a, there can be a little bit of goodness in that. And just like I want you to have a good
+experience in the world and speaking good English could be helpful for that. And at
+some level that's adorable. Like, oh, it's sweet. You don't know. Um, oftentimes they
+are trying to help. Um, and this is the way that you can frame this. I'm not going to
+sit here and say that I'm never going to highlight an area where I, where there was a grammatical
+mistake or a typo in an essay. But the way you should think about that is if you need
+to be taken seriously in this context, you're going to need to talk like this. It is not
+the case that saying, for instance, okay, let's think about Av. A very, uh, the Trayvon
+Martin case, uh, the, without getting too deeply into it, um, there was a court case
+involved, uh, with this shooting. And, uh, one of the, uh, witnesses was given all kinds
+of terrible treatment because she was speaking Av in a courtroom, uh, and speaking, uh, very
+canonical Av. And as a result, a lot of people had trouble understanding her. So it's okay
+to say in that context, Av might not have been the best choice, but it's not okay to
+say that Av is bad or she was speaking incorrectly. You know, it's important to think about this
+as in terms of context, she had a little bit more trouble being understood by some people
+in the room because she was speaking Av, but that's different from saying she was wrong.
+She spoke bad English or you can hardly understand this woman. Context. Um, sometimes and most
+often people are trying to show their superiority. Oh my God, you bring an argument before me
+yet you cannot master even basic grammatical structure. You fool. Um, you know, if you
+watch the big bang theory, this is Sheldon, right? Uh, you're, you're just trying to put
+somebody down by showing intellectual superiority and they believe at some deep level in their,
+in their sad little hearts that telling somebody which version of there they should be using
+right there is, is crucial to that mission. Right? Um, and so that can definitely be a
+thing and frustratingly often people do these kinds of corrections because attacking people's
+language is used as a covert way of attacking people. This is a story older than time itself.
+So very, very often people will use attacks on language to disguise attacks on people,
+to attack, uh, to disguise attacks on a group, on a race, on a culture, and they will just
+talk about the language because that feels more acceptable for some reason in our society
+than saying it directly. Saying somebody needs to teach these inner city, inner city
+is a dog whistle by the way, we'll maybe talk about those a little bit later on, but teach
+these inner city kids, and a dog whistle by the way is a phrase that often portrays an
+opinion even though it's not made explicit. In this case it tends to be a pretty racist
+term against usually black people. Uh, when people say inner city, that's generally what
+you understand that to mean and very often the people who are using that have a negative
+opinion of black people. It's not universal of course, and you can talk about the inner
+city versus the outer city, but very often that's used in that way. But you can say something
+like somebody needs to teach these inner city kids to be more articulate. Be more articulate
+is another one of those words that's used all the time. Oh, you know, they said I'm
+not very articulate is just like a way of saying they said they don't talk, or I don't
+talk like they do. But this is just an attack on a group of people that's disguised as an
+attack on language. You'll hear, you're in America, learn to speak English right. We
+all know why somebody's saying this. It's not at all about English, right? And very
+often this comes about after somebody has said a perfectly cogent English sentence to
+them. You're so shrill, you should be more ladylike in your speech. Somebody is not saying
+this because they're having trouble understanding. They're not saying this because anything.
+They're saying this because this is code for shut up woman. Let's be real here. This
+is really unfortunate. So when you see things like this, that's an attack on the person
+rather than attack on the language. I heard this from a relative. He's a nice boy with
+reference to another relative. He's a nice boy, but why does he have to talk so Mexican?
+And then of course there's the trope. Damn millennial girls, although actually you can
+put Gen Z here and it's still true. Damn millennial girls filling their speech with
+whatever everyone's already doing. You know, you get like creaky voice, for instance, is
+a, you know, this is canonically people make fun of it with like, Oh, let's go to the mall
+where you go to the, ah, at the bottom there. But I do it too. You're hearing creaky voice
+in my language all the time. I right there. That's Creek. We all do creaky voice, but
+everyone yelled at millennials about that for a while, right? Or we all use emoji. We
+have, everybody's use it, but then, Oh, these damn kids communicate only with their emojis.
+And it's just, it's just angry people yelling at people for things that they do too. So
+of course, you know, this is a thing. Attacking people's language is often used as a covert
+way of attacking people. And when you see somebody attacking language, ask yourself,
+what's really going on here? It's not all like that. And I think a lot of people do
+mean well, a lot of people were just raised believing that there is one correct English.
+There is one correct dialect and that somebody doing otherwise is incorrect. But very, very
+often when you see these things, it's for a reason. So this is why long story short,
+why linguists don't like being called grammarians. We are fundamentally different. It's why we
+spend so much time, an entire lecture, basically talking about the difference between descriptive
+and prescriptive grammar in Ling 101. And it's why we're going to spend the rest of
+the quarter talking about descriptive grammar rather than talking about prescriptive grammar.
+This is the last time we're going to mention, you know, splitting infinitives or ending
+a sentence with a preposition. That's not a thing anymore. We're going to be talking
+about the elements of language or the mistakes, for instance, made in language that make something
+difficult to understand, that make it sound not like English, that make people unable
+to understand what's going on rather than the things that people, the social judgments
+that people make about other people's language.
+So to wrap up here, language is fractal. It's got huge amounts of variation across every
+different level, from the highest level of language families all the way down to individual
+peoples during the course of their day. We subdivide that variation into dialects, into
+sociolects and idiolects. Wow, that was a weird pronunciation. Idiolects. There we go.
+It's hard to identify a correct variety. That's a social thing, more or less. Descriptive
+rules describe what's actually being said. A descriptive rule talks about how African
+American vernacular English actually works rather than saying this is how it should work.
+Prescriptive rules are saying what somebody thinks should be said. That is the fundamental
+difference there. Linguists care about descriptive grammars and don't tend to buy into prescriptive
+rules. And that's all really important and something to keep in mind and that we will
+carry through throughout the rest of the quarter.
+So as you're looking at this, as you're looking at language variations, you're looking at
+language differences, ask yourself what are we seeing here? Is this a prescriptive rule,
+a descriptive rule, or maybe something's a little ambiguous there. For next time, if
+you're reading the book, go ahead and read the chapter on phonetics and we will dive
+into speech and how that works. Thank you all very much and have an absolutely wonderful
+rest of your day.

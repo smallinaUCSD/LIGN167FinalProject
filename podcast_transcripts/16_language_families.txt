@@ -1,0 +1,1231 @@
+Okay, hi everybody. Today we're going to talk a little bit about languages sort of at a little bit of a broader level.
+How are languages related to each other? What differentiates languages? Those kinds of questions.
+And to do that we're going to also take a look at typology as sort of a subfield within linguistics.
+So our plan for today is to talk about languages versus dialects.
+Because we kind of glossed over that earlier on in the quarter.
+We'll talk about language families generally. We'll talk about language relationships.
+How can languages be related? How can we tell?
+And we'll talk about some of the major families that are out there and whether all languages are actually related.
+So to start with, let's talk about the idea of language versus dialect, right?
+How can we tell if people are speaking two dialects of the same language or two different languages?
+So this one is actually surprisingly difficult.
+You would think that, you know, with our biggest level categories, right, we've got Russian and Ukrainian.
+Can we actually tell things? This is tricky.
+One of the common ideas that people come up with is, well, okay,
+if speakers of one language can understand people speaking the other language,
+then that must be that they're the same language, right? That's easy.
+And so the linguistic term for this is mutual intelligibility.
+When two people can understand each other when talking, there is mutual intelligibility.
+Whether these people are speaking what is nominally the same language or different languages,
+mutual intelligibility means that they get it, they understand each other.
+And this is cool, right? This is very common because obviously English speakers understand English speakers.
+By and large, this is true.
+It's possible that there are some dialects of English that are so divergent that if you were to put, you know,
+somebody from one very particular area in the room with somebody from another very particular area,
+there would be some difficulty. But by and large, there would be mutual intelligibility.
+Similarly, Russian speakers, by and large, understand Russian speakers.
+And by and large, Russian speakers don't understand English speakers when we are speaking to each other.
+You know, there are parts that will get through, no doubt, but there is a language barrier, right?
+And so the presence of this language barrier would imply that Russian and English are fundamentally different languages.
+This feels promising. This feels like, oh, wow, okay, great, we've got a definition.
+But the problem comes when you get things like this.
+A dialect continuum is a geographical continuum of speakers where people nearby to one another might understand each other,
+but more distant speakers might not.
+A really good example of this is actually Arabic, right?
+Arabic is a large dialect continuum.
+Many, many people around the world speak Arabic.
+And in fact, there are people not even shown in this map here.
+But people who speak Arabic from different regions won't necessarily all understand each other, right?
+If you have somebody who is a speaker of Saudi Arabic, they might not understand a speaker of Moroccan Arabic well.
+Because fundamentally, Moroccan Arabic and Saudi are very different, both linguistically speaking and in terms of distance, right?
+So in Arabic, you can have two people that both speak Arabic, but don't anymore quite understand each other, which is really fascinating.
+And so here you have a case where two things that are both one language and that share a writing system,
+that share a written language even, they don't understand each other.
+So this gets a little weird, right?
+So if Moroccan Arabic speakers don't understand Egyptian Arabic speakers, that is a little strange for using this as the criterion, right?
+But if they write it down in written Arabic, then they both understand that, because in practice, they're bilingual.
+They have the written Arabic, and they also have their spoken version.
+And they happen to share this language.
+So this is tricky. Does that count? Is that enough to make these the same language?
+Ukrainian speakers understand Russian speakers, and vice versa.
+By and large, you can get by, I'm told.
+Swedish, Danish, and Norwegian speakers, by and large, understand each other, for the most part.
+Again, there are some areas where it's a little bit funky, but by and large, there is good mutual intelligibility here,
+although we would clearly consider them to be very different languages, right?
+And Brazilian Portuguese speakers understand Spanish speakers way better than the other way around.
+This one was fun. I actually spent some time in Brazil, and I'm a speaker of Spanish.
+And so I remember speaking to people in Spanish, and they just got it, right?
+And then they would speak back to me in Portuguese, and I would just stare.
+Because, oh my God. And so this is really frustrating.
+This is called asymmetrical mutual intelligibility.
+It's a thing. It's an amazing thing.
+But here we have a situation where there's not even that symmetry anymore.
+So, if we use mutual intelligibility as a criterion, then maybe Arabic isn't one language.
+Maybe Russian and Ukrainian are one language, and Swedish and Danish and Norwegian are pretty damn close.
+And then, weirdly enough, Brazilian Portuguese and Spanish are one language to Brazilians, but they're not.
+They're also fundamentally different. This is tricky.
+And by the way, would speakers of Amish English necessarily understand rural New Zealanders?
+There are questions here.
+So, mutual intelligibility probably isn't the thing that's going to save us here.
+That's not going to be the thing that allows us to tell languages apart,
+that allows us to draw a clean line between different languages rather than different dialects.
+What else? Same writing system. Here's a good one.
+Shared writing systems are very, very common.
+Literate English speakers, who are, I guess, literish as well, use the same...
+Although, actually, the fact that I said literish means that they're not fully literate by virtue of scalar implicature.
+Anyways, literate English speakers would use the same writing system by and large.
+And so, this means that any English speaker around the world will more or less be able to understand each other in writing-ish,
+assuming that there aren't too many dialectal, dialectal, socio-electal things going on there.
+And this is, by the way, the same writing system as Tagalog, Romanian, and Vietnamese,
+which... that's awkward.
+Russian and Mongolian both use Cyrillic, which these languages are not remotely mutually intelligible,
+not really remotely related, right?
+Moroccan and Yemeni Arabic have a writing system in common, but they have very, very little else, right?
+And that's just because the writing system is standardized to one particular text, the Quran.
+And so, in this case, we get weird things if we say shared writing system means shared language,
+because all English speakers are speaking the same languages, Tagalog, Romanian, Vietnamese, etc.
+That one's dangerous, right?
+So, okay.
+Maybe mutual intelligibility, maybe not great.
+Shared writing system, probably not great.
+How about just if speakers agree that they're speaking the same language?
+Let's look at Serbo-Croatian as an example here.
+And some of you with background in that area might be going,
+oh, Will, that's an old term, that's not the right term.
+So, yes, it is.
+Unfortunately, to linguists, very often this language will be spoken of as Serbo-Croatian or BCS,
+Bosnian, Croatian, Serbian.
+But what happened here is that this language was spoken in Bosnia and Herzegovina,
+Serbia, Montenegro, and Croatia.
+All of those countries spoke Serbo-Croatian.
+Up until the 1990s, there were four dialects of this language,
+one for Bosnia, one for Serbia, one for Croatia, one for Montenegro.
+These were considered to be dialects of the same language.
+But then Yugoslavia, the country that formerly encompassed those, broke apart,
+and a war started, and there were a lot of really, really unpleasant things that went on here,
+massacres and things like that.
+This was a massive conflict with a great deal of human pain and toll.
+And as a result of this conflict now, people believe very firmly that there are four different languages,
+and they are spoken by four different people, and they are in four different countries.
+It seems to be considered one language because of this war,
+and I'm not judging in any way, shape, or form here,
+but because of this, frankly, animosity that has come up here,
+people are no longer willing to say, I speak the same language as that group.
+And that's quite understandable, right?
+But as a result, we now have four different languages,
+when in practice, a lot of the criteria for these are the same language are met.
+And what's funny is, if we look at where these languages are spoken,
+in yellow here is Serbian, in blue here is Montenegrin, which is spoken entirely in Montenegro,
+in Bosnia and Herzegovina, that's where Bosnian is spoken,
+and in Croatia, Croatian is spoken.
+So this is very much feeling political, right?
+This is very much feeling, and not necessarily political.
+That makes it sound, I don't want to diminish the suffering involved here,
+but it makes it feel very much social.
+And people saying, I don't speak the same language as those people.
+And again, that's a perfectly reasonable thing to do socially,
+but it's not exactly a linguistic change.
+So now we have different dialects that could be languages,
+but are actually considered dialects, like Arabic.
+Or, well, a whole bunch of other things, right?
+Moroccan and Egyptian Arabic being a nice example.
+We have languages that could very easily be dialects of each other,
+like Bosnian, Croatian, Serbian, Montenegrin.
+Or, for instance, Hindi and Urdu is another good example of this.
+The fact that Hindi and Urdu are considered to be independent linguistically
+is largely a political choice.
+And then different languages where speakers can understand each other,
+like, for instance, Swedish, Norwegian, and Danish.
+All of those things are interesting, right?
+We have all of these situations.
+And so the relationship between languages and dialects is clearly complicated.
+You can have different dialects that could be languages,
+different languages that could be dialects.
+There's no clear line here.
+And so what really makes a language different from a dialect?
+Generally speaking, linguists come down with this quote, right?
+A language is a dialect with an army and a navy.
+It sounds trite, it sounds silly, but actually it holds pretty well, right?
+If you have one country and two peoples,
+and those peoples are at peace, by and large, they're speaking two dialects.
+But that is, and there are, there are, of course, areas where this is gradient, right?
+Spanish is spoken in the U.S., but no one considers Spanish to be a dialect of English.
+But still, by and large, when you have to make these divisions,
+oftentimes it is a political decision, or it is a social decision,
+or it is a national decision, rather than being one of linguistics.
+Linguistics very often isn't sort of the force,
+or even isn't able to describe exactly why
+languages are considered to be one, either one language with dialects,
+or one dialect, I'm sorry, many languages independently.
+So calling something a language or a dialect is a political choice and not a linguistic choice, usually.
+And if you want to unite yourself with a group, they're speaking a dialect of your language,
+as opposed to if you want to distance yourself from a group, they're speaking another language.
+It's worth saying that this shows up here in the U.S. all the time, right?
+So a lot of the pushback...
+That's stupid.
+Okay, when people first started talking about Ebonics, right?
+Using that term, the idea of African American vernacular English,
+Ebonics was a term that was very often used to other this population.
+It was to say, those people speak a whole different language.
+It's not English, it's what they speak over there.
+And so distancing yourself by giving it a whole new name.
+Same thing you get, by the way, with Spanglish.
+Oh, those people are speaking Spanglish.
+No, they're speaking English and they're throwing in bits of Spanish,
+or they're speaking in Spanish and throwing in bits of English.
+But again, the idea that these are different, those people are...
+This is a political choice.
+This is a social choice, not necessarily linguistic.
+So we do, though, have to still describe linguistic relationships between language, though.
+Whether we call them languages, whether we call them dialects,
+the fact is there are groups of people,
+and this group of people over here is speaking in one way,
+this group of people over here is speaking in a different way.
+How are those ways that they're speaking similar?
+And so as linguists, rather than directly engaging with,
+these are languages, these are dialects, etc.,
+by and large what we'll do instead is use, sort of just for handy reference,
+the general phrasing, right?
+We'll talk about Russian versus Ukrainian,
+because that's how people generally...
+And we believe, at least many linguists believe very firmly,
+that people have a right to self-determination.
+If you believe that you speak a dialect of this language,
+then we'll respect that, right?
+You are allowed to describe your own language.
+But nonetheless, we will talk about these languages
+in terms of their relationships to one another
+and in terms of their language families.
+So a language family is all about patterns, right?
+So let's take a look at these languages right over here.
+So we have English, German, Dutch, Swedish, and Turkish.
+So, which of these languages are related to each other?
+Which of these languages have something in common?
+If you're looking at this, you might see a pattern here.
+So if we look across the row here,
+the English word father, German Vater,
+and then we see very similar phonologically speaking words here.
+Here we've lost the intermediate consonant,
+but it's still f-a-r going on there.
+Here we have fish, fish, fis, fisk.
+All of these cases, again, we have the same general pattern.
+Same vowel.
+Oh, Swedish is a little bit different here,
+but not all that different, right?
+You have a vowel followed by a T followed by another vowel.
+And then here, again, all of these are similar.
+And then there's Turkish over there doing its own thing, right?
+Baba, entirely different.
+Balik, entirely different.
+Yemek.
+And again, pardon my Turkish here.
+And far could very easily be a cognate for father,
+but it isn't. It's have, right?
+And so all of these things show cognates.
+These are words that are very similar across two languages.
+And so we can look at this and ask,
+are these languages related?
+And we can get a pretty good sense that,
+well, based on these data,
+English, German, Dutch, and Swedish
+sure seem like they're related.
+And if when we say they're related,
+one of the most plausible way for this to happen,
+or the most common way for this to happen,
+is for there have been a mother language.
+For there had to have been a language from which
+English and German and Swedish and,
+what's the other one I used there?
+Dutch, all came from, right?
+For them to have had a shared ancestor.
+You find a mother language,
+and we use female terms, by the way, for languages for,
+I think it's pretty arbitrary, right?
+But we'll talk about a mother language.
+We'll talk about sister languages.
+There's not a mother and a father language.
+It's just mother languages, right?
+And then you get sister languages
+are languages that share a single mother, right?
+Are languages that are directly descended
+from the same language.
+So we see here, looking at these,
+that English, German, Dutch, and Swedish
+are all probably sister languages of some variety,
+and Turkish probably isn't.
+It's very, very different from the rest.
+And so the mother language of all of these sisters
+is a language called proto-Germanic,
+a very early Germanic language
+from which all of the other Germanic languages,
+these guys as well as several more,
+have all descended.
+So how do we figure this out?
+Well, this is basically how our baby language is made, right?
+You're asking this question again.
+Well, when speakers love a language very much,
+speakers of that language can inhabit a wide area.
+And then groups of speakers
+might become geographically or culturally isolated.
+What I mean by this is maybe they move into the next valley,
+and they don't go over the mountain as often,
+and so they don't have as much contact
+with people speaking the language
+that they originally spoke.
+And after a few generations, or perhaps even sooner,
+they will start to innovate.
+The language will start to change on its own.
+This can also be due to cultural isolation, right?
+If you have a group of people who live in a walled kingdom,
+even if they're very, very close
+to people who speak other languages,
+there's a pretty good chance
+that things are going to change inside the wall, so to speak.
+And then the language changes naturally.
+This is an important thing to remember.
+I mean, certainly there are cases
+where people will forcibly change language,
+where new words are kind of given into the language
+for political reasons, for social reasons, etc.
+I mean, languages can be changed artificially,
+but by and large, what happens is
+if you have two groups of people living in the same valley,
+and then one of those groups of people
+goes over the mountains into the next valley,
+both of these languages are just going to shift, right?
+Things are going to change over time.
+New words will arise.
+Changes will come to the grammar, etc.
+And because there's not much communication
+between these two groups, they might diverge.
+They will change differently.
+This language over here might develop yit.
+This one might develop lit.
+And then when they meet each other
+at the top of the mountain, they're like,
+yit, lit, what?
+You guys are crazy.
+Let's start a war.
+And so you get differences in those changes.
+And once you get a few hundred years to pass,
+bam, you can end up with two very different languages.
+A good case of this is Latin, right?
+Step one for Latin was to conquer a vast empire.
+This is the Roman Empire here.
+And you make everybody in that area speak Latin,
+because, you know, you're imperialist, right?
+Why not spread your language too?
+Then you screw that empire up,
+and then you end up with daughter languages.
+You end up with languages that are related
+very strongly to Latin,
+but are no longer exactly Latin.
+You end up with people speaking
+one daughter language in this region,
+and then another one in this region,
+then another one in this region,
+then this one, then over there.
+All of these daughter languages all come from Latin.
+But because they're all a little bit isolated,
+whether it's culturally, whether it's geographically,
+and otherwise, you'll get shifts.
+You end up with Spanish being different from French,
+being different from Portuguese,
+from Italian, from Romanian,
+and from all of the other smaller
+romance languages out there.
+And so the romance languages,
+and by the way, this comes from Roman,
+not like, ooh, romantic, candlelit dinner.
+No, this is based on Roman.
+These are all the daughters and granddaughters of Latin.
+And so if we look at the tree here,
+you see Latin is at the very top,
+and then you have classical Latin that kind of died off,
+then vulgar Latin.
+That just means of the people, right?
+Then you get Sardinian,
+and then from there, you can go over here to Dalmatian,
+a Romanian, Romanian,
+you get Italian, French, Occitan, Catalan,
+Spanish, and Portuguese.
+All of those languages have all sort of,
+actually, it's not true the classical Latin has died off.
+The Vatican's keeping that one alive.
+But anyways, I digress.
+And even then, there have been some shifts.
+But all of these languages are directly descended from Latin.
+But what's interesting is they're not all
+at the same level, right?
+It's not the case that there is Latin up here,
+and then Spanish, Romanian, Occitan, Catalan, et cetera.
+No, in fact, you see that there are areas,
+there are groups within this.
+There's the whole eastern branch here,
+which is separated.
+And so Romanian is a little bit different,
+and a little bit more different, by and large,
+than, actually, a good deal more different,
+than Italian, French, Spanish, Catalan, et cetera,
+because it's often its own branch there.
+And, you know, Catalan and Occitan are very, very similar.
+Not identical, but similar.
+And Portuguese and Spanish, again, are very similar,
+especially Iberian Portuguese.
+That is, Portuguese spoken in Portugal,
+rather than Brazil, very, very similar.
+As a Spanish speaker, I have a way better time
+with Iberian Portuguese than Brazilian,
+because it's a little less divergent, right?
+So anyways, we see here how a language family can develop.
+So this gives us a sense that, okay, cool,
+we can have this situation where people who speak
+one language are separated or isolated
+in some way, shape, or form,
+and then they end up speaking other languages after time, right?
+But how do you go back and reconstruct this?
+This is easy in the case of Latin, right?
+Because we have written records.
+We know what the Roman Empire looked like, right?
+We know how these languages have evolved, et cetera.
+So we have a really good sense of how romance has evolved.
+But what are signs that languages
+where we might not have that kind of a record are related?
+How can we find this?
+So there are a bunch of things that could give us
+good evidence about relation.
+Geography is pretty low-hanging fruit, right?
+If you have groups of people who live near each other,
+there's a better chance than not
+that they speak a related language.
+This is not universally true.
+Absolutely, there are lots of people
+who live near people who speak an entirely different language.
+But geography is a very good piece of evidence, right?
+For instance, if I am making a claim
+about a language family relation,
+and I'm saying that an indigenous language of the Americas
+is related to an indigenous language of Japan,
+that's tough.
+You have to come up with a really good explanation for that
+that doesn't start with,
+so first they got a canoe.
+Because that does happen, but it's, yeah.
+So geography is definitely a piece of evidence,
+even though it's not the whole thing.
+And so, you know, for instance,
+if we look at the romance languages,
+they are very, very similar in location, right?
+They're all within Europe.
+Although, again, Romanian is a little bit more isolated there.
+And so if we look at all of these romance languages,
+we can see other things
+that make them very similar here.
+For instance, if we look at this same declaration
+in English versus French versus Breton.
+Interesting.
+French and Breton are both spoken
+in this area right up here,
+but these feel very different, right?
+Everything's very different.
+We're not really seeing anything at all here
+that is similar between French and Breton.
+Very, very, very little.
+And in fact, we see some borrowings,
+politiquelle, et cetera,
+but by and large,
+these are different, right?
+So geography isn't the whole story.
+Even though these languages are both spoken,
+Breton and French are both spoken
+in this area,
+very, very, very different.
+So there we go.
+The genetics actually can be useful here.
+Genetic studies can be used
+to support hypotheses
+about cultural and linguistic connections.
+So if you have, for instance,
+a diaspora,
+and especially if it's a historical one
+where you have groups, a group of people
+who speak a language
+and who left for whatever reason,
+whether due to war, due to famine,
+or just due to, you know what,
+we're going to go off exploring.
+We're going to find a new place.
+Very often, especially if this is
+sort of lost to the sands of time,
+but you believe that people speaking
+this language in this very isolated area,
+or perhaps in a very populated area
+but relatively far away from the original language,
+if you believe that there's a relationship there,
+you might find genetic relationships there.
+This is something that has been done
+and provides really cool evidence, right?
+If you're able to show that the people
+from this particular area who speak this particular language
+have a genetic similarity
+to people who speak the language
+you believe they're related to,
+that provides some nice evidence, right?
+But the bigger method that we generally use are cognates, right?
+Words that are sounding similar across languages.
+So we looked at a table of these already.
+All of these words in English,
+German, Dutch, and Swedish are cognate.
+In fact, I picked them out exactly because of that.
+I tried to find words
+that are going to be cognate across all of those languages.
+If we look at Romance,
+we can say another cognate set.
+Zero? Yep, cognates.
+One? Yep, cognates.
+Two? Yep, cognates.
+And so you can go through
+and see that whereas
+four has absolutely nothing to do with this,
+all of the Romance languages
+I've chosen here,
+these have these strong cognates.
+So you should look at this and go,
+Related! All of these guys!
+Related! Related! Oh my god, related!
+So that's useful.
+Another thing that you can use are
+sound correspondences.
+This is when a sound in a language systematically
+corresponds to another sound in another language.
+So for instance, we could look at this
+and we could say, okay, interesting.
+In Swedish,
+the F
+corresponds to the English F.
+Okay, that's easy. But in Dutch,
+actually, the F
+in English turns into a V here.
+And every F seems to turn
+into a V, at least in this data set.
+Again. And similarly, the V here
+seems to turn into a B here.
+Or perhaps, more likely,
+the B here turned into a V
+in English. Right? And so we can get
+a sense of these relationships
+by looking at sound correspondences.
+F and V have correspondences
+in these languages. V and B
+have correspondences.
+So sound correspondences are patterns of
+correspondence, where you see every
+word that has this sound in this language
+has this other sound in this
+language. That's a pretty strong
+correlation, right? And if you can keep lining
+that up, you will see this.
+This is really common. And sounds will
+change, often based on how they're produced
+in the mouth. A lot of this comes back to phonetics.
+You are very likely to get a
+change, for instance, from a B to a P
+or a B to an M, but you're
+very unlikely to get a change from a B
+to a glottal stop, because
+B is made at the lips. Glottal stop
+is made all the way down here. That's a big jump,
+right? It can happen,
+certainly, but it's very likely that they're
+related articulatorily.
+So D, N, and L are languages
+that will very often change around,
+which, by the way, is why we have
+Dakota, Lakota, and Nakota.
+All of these are languages
+of the Great Plains here in the U.S.,
+indigenous languages, and they are very closely
+related. They are all related
+to Proto-Suan.
+The big difference is that I believe
+it to be the case that Ds in
+Proto-Suan became Ls in Lakota
+and Ns in Nakota.
+This is fundamentally the same word, it's just there's a
+sound correspondence there.
+If you are able to find
+two languages that have some cognates
+and a good number of cognates, not just like one
+and not just like computer,
+because a lot of borrowing happens,
+and you're able to find sound correspondences,
+that's a good case.
+That's a really good case. Then if you
+throw in other information like, and they're right
+next door to each other. That helps.
+And they're all genetically related.
+That helps too. Wow.
+Amazing. So you can definitely make
+a solid case for these things on sound
+alone, but with other evidence it gets even stronger.
+You can also get things like
+shared linguistic features. If a bunch
+of languages do something in a certain way,
+they might be related. So if you have
+five languages nearby with a vocative
+case, this is a morpheme that you add to the
+end of a name as you're calling somebody's
+name out. So if my name is Will,
+which it happens to be, and somebody
+wants to call my name,
+they might add on Willa
+to make sure that they're talking to me,
+that they're addressing Will.
+Or if it's John, it would be
+Jonna. That would be a vocative case.
+So if you have five languages
+right near each other with a vocative case,
+which is kind of uncommon, they're probably
+related, right?
+If you have eight languages in the same
+area that have tone,
+and they are surrounded by languages
+that don't have tone,
+that's going to be a pretty solid bet
+for relation, right? Because you have
+something that's, I don't want to say unusual.
+A large number of the world's languages
+are tonal, but if you have something that's
+regionally unusual in a cluster,
+there's a pretty good chance of relationship there.
+So if you have a few of these things
+shared among some languages, you probably
+have a language family, a group
+of languages that share a common
+ancestor, that share a common mother language.
+And we can go very
+small, or we can go very big. If we
+look at this little diagram here, we've already been
+talking about the Romance languages, right?
+These are the Romance languages. The Italic
+family all come down from Latin.
+But within Proto-European, which is the
+bigger language family to which
+the Romance languages, as well as
+English in the Germanic languages,
+as well as the Indo-Iranian
+languages, so Iranian or Persian,
+Kurdish, Hindi, as well
+as the Celtic languages and the Hellenic languages.
+So Greek, Scottish, as well as the Slavic
+languages, like Russian, Polish,
+Serbo-Croatian, all of those
+things are related by virtue
+of having this big common ancestor
+at the top, Proto-Indo-European.
+So, at this point,
+we know some of these things,
+right? Like Latin, that's a slam-dunk
+case. We know that all of these are Romance
+languages, that they're related to Latin.
+We got a pretty good sense of Germanic as well,
+because of all of the various, well,
+all of the various correspondences
+and things like that make me feel like, yeah,
+these are probably related.
+But how do we go deeper? How do we find deeper
+language ancestry? So the start
+is finding related languages. We've already been doing
+that. Then the next step would be
+to reconstruct what
+the mother tongue might look like.
+In some cases, we have written records. Latin
+made it real easy, right? Like, oh, here's
+the mother tongue. Cool. Let's read.
+That one's straightforward.
+But in some cases, you don't have that, right?
+If you get into an area, for instance, and
+you are the first person to work in this
+language family, and this isn't a
+set of languages that have a strong written
+record, there might not be any
+records of what the language that spawned
+all of the languages in that area sounds
+like, right? And so what you would
+have to do is language reconstruction,
+where you look at a bunch of the daughter
+languages, and then you guess what
+structures and sounds and words the mother
+language might have had. This is very much
+an art, not as much of a science.
+And the thing is, we do this all the time
+as humans, right? Look at this family
+here. What do
+all of these people likely...
+I mean, what do they have in common?
+They are...
+gingers. They have red hair.
+They have very fair skin, right?
+Chances are, what do the parents
+have as a feature?
+They're probably
+redheads, right? So we know this.
+We know that there is this relationship.
+These people are all wizards.
+This is the Weasley family from Harry Potter.
+And their parents? Probably wizards.
+So we can do this. This is not
+too difficult, right?
+But we do it with words in a slightly
+different way. We find a bunch of words that are
+cognate, right? And then we try to reverse
+the sound changes. If we see, okay,
+10 out of the 15 languages in this
+family have this particular
+form here, and then 5 of them
+don't. 5 of them have this other thing.
+Chances are, these 5 did the innovation.
+So we're just going to assume that's the mother
+language here. And then you do this at a wider
+scale, right? And then you find borrowings.
+So, for instance, a lot of languages have a
+related to English term for computer.
+Because, you know, the idea
+of computers
+by and large has been spread by
+at the very least Indo-European languages,
+but many languages, Russian, for instance,
+has computer as the word for computer.
+Right? So you're going
+to have a lot of borrowings, especially modern
+technologies. So you'll kind of note those and put them aside.
+But, and then
+when all else fails, you just look at all the
+daughter languages and you go, hmm.
+Okay.
+8 out of 10 of these languages have
+tone. These 2 don't.
+And you can use other evidence.
+So chances are the mother language have
+tone. And you can use other evidence. Like,
+okay, 8 out of 10 have tone. These
+2 don't. And these 2 have been
+hanging out a lot with this language, which
+doesn't have tone. Ah,
+okay, that's probably what went on there.
+And so you can do that. And you can reconstruct
+grammar as well. Look at grammatical patterns
+and structures present in the data.
+And you find the ones that are shared among all of
+the various languages out there.
+And then you pick a shared pattern. You pick
+a shared structure. And then you figure out
+why the ones that don't have that
+or do have some new pattern,
+you figure out why that might have been.
+Maybe it's influence from a nearby language.
+This is super duper common.
+Languages will pick up things from other languages.
+Or maybe there's a conflicting pattern.
+Maybe it's the case that, for instance, this
+language has, ah,
+what's a nice example of this?
+This language has lost their case system entirely.
+And so it had to change
+the word order. Because if you can no
+longer use case to mark who did
+what to whom, to mark grammatical relations,
+you might need to use word order more strongly.
+And so a syntactic feature that's present
+in all the other languages that have the case system,
+maybe the ability to reorient
+words in a certain way, in that case
+that might disappear. Because you no longer
+have the ability to move the words around in the same way.
+So that conflict could be a good
+reason why that language has
+innovated, has done something a little bit differently.
+And so then you would assume that
+the structures present in the majority of the daughter
+languages are also present in the mother language.
+And this, again, makes a lot of sense,
+right? It's probably most
+likely. So what do these look like? If we look at
+Proto-Indo-European,
+you can get things like this.
+These are reconstructed forms. And you
+get things like vem or
+kweg, I think, to vomit.
+To blow, you end up with
+these things. Pnu, to breathe.
+This one kind of looks
+reasonable-ish. We see this in pneumonia,
+right, which comes to us via Greek,
+I believe. But still,
+and pneumothorax,
+you know, that one seems familiar-ish,
+right? Sme, to
+laugh.
+Gasto, gazdo,
+stick, I guess.
+All of these things are reconstructions,
+not just from English, but from
+every Indo-European language. And that's
+a lot of them, trying to go up
+the chain. And so, it doesn't
+look particularly familiar to speakers of
+English, even assuming that these are accurate.
+And by the way, I'm not knocking on reconstruction.
+It's a very hard task, and even
+reconstructors sort of will
+argue that, well,
+we're not sure either, right?
+But these don't necessarily
+look familiar to speakers of any of the daughter
+languages, but they do look familiar
+at the language family level, right?
+And so, this is
+really cool. We have some understanding
+of what Indo-European might look like
+on the basis of this reconstruction process.
+So, what's the catch?
+The biggest catch is that reconstruction assumes
+regularity. It assumes that changes
+are predictable. It assumes that they
+happen regularly, and kind of in certain orders.
+But reconstruction will fail
+if something changed unpredictably.
+If there was something that
+suddenly caused the sounds to change,
+and it doesn't work in the way that
+phonology usually does, that will cause a major
+trouble. So, this could be as simple as,
+you know, languages, you know, move
+into a new valley, and they hear the
+sound from somebody, and they say, oh, that's
+fun. We should use that. And so,
+and again, there's not like the city meeting, but
+influence can happen like that. Or
+there's the stereotypical case
+of, you know, oh, the king has a lisp.
+So, they don't want us to use words with
+the S sound. So, they change all of those
+to L's or something. That'd be a little
+weird, right? Probably to F's
+or something like that. Anyways, I
+digress. You get unpredictable
+changes can cause reconstructions to go
+off the rails. You know,
+for instance, we got rid of a Michael
+Bay.
+Too late.
+We got rid of the verb form because it sounds too much
+like Michael Bay. By the way, I wish him no harm.
+I just really wish he wouldn't have done this movie
+franchise.
+So, you can taboo things out of
+the language, and that's really hard to predict,
+right? You know, for instance,
+we're about to have that with
+Corona, right? The beer company,
+God help them at the moment, but I just saw
+the other day, somebody had
+a truck that was
+Corona trucking, and it had a little,
+the logo was Corona with a little crown on
+top of it. I kind of
+suspect that for the next, say,
+80 years or so, that's not going to happen.
+So, things like that can
+happen. They're not predictable. They're
+very easy to explain at the moment,
+but very hard to explain looking back into
+the opacity of the past. And sometimes
+it's just coincidence, right? If more languages
+got rid of an earlier structure than kept it,
+then we're going to pretend it's a new thing.
+Put differently, if you have
+12 languages in a family,
+and 10 of them got rid
+of a feature, and 2
+of them kept it, it's going
+to seem like those 2 languages are the innovators,
+right? It's going to seem like those 2 languages
+came up with that feature,
+rather than all 10 of those
+languages got rid of them. This is
+purely coincidental, but it's
+something that can cause major trouble for reconstruction.
+And the thing is, we may never know if it
+failed, right? I mean, the joke is
+if you hand a linguist a time machine, the very
+first thing they're going to do is start looking,
+checking reconstructed languages, right?
+Find the homeland of the
+Indo-European people, and immediately
+okay, hold on, back up, how do you say
+vomit? Okay, oh,
+we were way off!
+Yeah, that's a thing.
+And we won't know this, because the sands
+of time wash away all things, right?
+But it's still our best shot. So as we're
+looking into relationships between languages,
+we want to think about finding that language
+ancestry. You find related
+languages, reconstruct the mother tongue,
+and compare that to other mother
+tongues, because you can keep going, right?
+You've gotten, you know, in this case
+we knew what Latin looks like, but let's say that you have
+a language family that you don't have a strong
+written record for, you might compare your
+reconstruction to reconstructions of other
+nearby greater language families,
+and see, well, wait a second, these actually seem
+similar, and then you go up further and further.
+And then the mothers' mothers, and if they have
+features in common,
+maybe you've got a much bigger macro family.
+So, okay,
+which of the following things here
+is not helpful for finding
+language relations?
+A, geography,
+B, sound correspondence, C,
+shared writing system, D,
+cognates, and E, DNA and genetic
+testing.
+I would argue
+that C is the best answer here,
+because remember that writing systems are very
+often not, well, they are not
+an inherent part of most languages.
+There are relatively few languages that
+have sort of come about primarily in writing.
+Right? And so,
+right? By and large,
+they're not going to provide great evidence,
+and very often writing systems have been borrowed,
+and very often writing systems have been borrowed for
+completely unrelated languages, whereas
+geography often provides great clues
+for this. Sound correspondences
+are great clues. Cognates are
+the biggest clues, and DNA and
+genetic testing can provide really good
+compelling evidence, whereas this
+is definitely not the best answer.
+So, this may
+make you wonder, okay, so we've talked about
+Indo-European, what are some of the other major
+language families? What other languages are related?
+So, Indo-European, in terms of
+the number of speakers, is the
+largest language family.
+It has the most speakers, generally speaking.
+Not that the individual languages
+may have the most, but that combined
+all together, Indo-European
+wins at this point. And it has lots of
+languages within it. Indo-Iranian,
+we've already talked about, the Slavic
+languages, Armenian,
+Greek, Albanian, Celtic, Italic,
+and this is, again, all your romance,
+as well as English and Faroese
+they threw on there. Great. So, we've got
+about 3.2 billion speakers, and
+classically speaking, the range of Indo-European
+was roughly like this, right?
+However,
+there are definitely, there's been some
+spread. Let's be real here.
+But all of these, and then the different colorations
+represent the major different sub-families, with red
+here being Germanic, and then
+Slavic, etc.
+Indo-Iranian. So, that's
+Indo-European. Big ol' family.
+Sino-Tibetan is, in terms of number of speakers,
+the next biggest family.
+And Sino-Tibetan is, as you might imagine,
+Chinese and Tibetan. It includes
+Chinese Burmese, as well,
+spoken in Burma or Myanmar.
+Not sure what it is at the moment.
+But either way, in this country,
+those three languages are the
+biggest languages within Sino-Tibetan.
+And Chinese is very, very widely
+spoken. And so, yeah.
+Sino-Tibetan's a great
+language family. Niger-Congo is the
+next biggest in terms of number of speakers.
+And it is big. Niger-Congo
+is also quite large.
+You get, in the Niger-Congo family,
+Bantu languages. Bantu languages
+are very... This is one
+of the other very, very well-studied language
+families in the world. There's a lot
+that's been said about Bantu. But there are lots
+of other language families that
+are not as well-studied here.
+And, in fact, we have people working on
+Niger-Congo languages in our department
+as we speak, which is great.
+And so, these include languages like
+Swahili, Igbo, Fula,
+Zulu, and Zarma.
+All of these are languages spoken
+within these. Swahili, you've probably heard of.
+Zulu as well. But, yeah.
+Lots of cool Niger-Congo languages.
+Afro-Asiatic languages are another
+really big language family. And these include
+the Semitic languages. So,
+these are languages like Hebrew,
+Arabic, as well as Hausa.
+Romo-Amharic is another
+Semitic language.
+As well as all of the various
+Berber languages.
+What else?
+The Chadic language family is in there as well.
+There are a bunch of really fun languages
+spoken there. So, about 500 million
+people speak those. Austronesian
+languages is a big family geographically,
+even though there aren't as many speakers
+as some. But this includes languages
+like Malay, Tagalog, Malagasy
+that's spoken in Madagascar, by the way.
+For some reason,
+this is a trivia question that comes up
+over and over again. Where is Malagasy
+spoken? So, Madagascar.
+Cham-Hawaiian
+as well as Maori
+are all spoken, are all
+Austronesian languages. And that's just
+the top five. There are lots, lots more
+language families out there. Within the
+indigenous Americas, oh my god
+are there language families everywhere.
+Each one of these colors is not a language
+but a family. Remember we were just
+talking about Lakota,
+Nakota, Dakota? Yeah, that's purple
+right here.
+That whole region are the Siouan
+languages, right? And then down here
+in San Diego, you get
+a bunch of Uto-Aztecan languages
+but you get a bunch of other things as well.
+And so you get different languages
+just all over.
+These are not languages, these are language families.
+Within every family, there are a bunch
+more languages as well as, yeah
+there are so many language families
+in the indigenous Americas and unfortunately so many
+of these languages are gravely endangered.
+So that's unfortunate.
+The Amazonas area, that is the Amazon
+Basin, this is the very top of South America here
+is amazingly
+amazingly diverse
+in language families.
+Holy cow!
+Yeah, so
+really, really strong
+strong linguistic diversity in this area.
+And in the Caucasus, actually
+is another area where you get very, very strong
+linguistic diversity, right? This is
+the south of Russia, Georgia, Azerbaijan
+Iran, just to give you a sense
+Turkey is in this area down here.
+Caspian Sea over here.
+This is another very, very diverse
+area with a bunch of really interesting languages.
+Really cool
+languages, not just Russian.
+Or Iranian
+or Georgian even. All of these languages
+are, there's so much
+fun in the Caucasus, right?
+And so this is a lot of language families.
+There are a ton of language families.
+So this might make you ask yourself, well
+okay, cool. Are all
+languages related? Do all languages have relatives?
+Well, that's
+probably yes, right?
+Unless we are making the argument that
+speakers of one language in the world
+actually came up with language independently.
+Like this group of humans innovated
+the idea of language entirely
+on their own, isolated from
+these folks. Assuming that there is
+sort of one group of humans that
+innovated language and then spread
+we would assume they're all related
+to each other. But we don't always know
+what languages those are.
+I'm sorry, we don't know what relations they have.
+And these are what are called isolates.
+These are languages where we have found
+no contemporary relatives or ancestors.
+So a good example
+and kind of the example everyone uses
+is Basque. Basque is a language
+that is spoken in the north of Spain, in the Basque
+country within Spain.
+And it is sort of its own area.
+There are a great deal of politics involved
+in this, but the Basque region
+of Spain is the only place in the
+world where Basque is spoken.
+And Basque is entirely
+different from Spanish. Basque is
+a cool language.
+Like all languages are cool. Basque got some stuff
+going on, right? And I'd love to
+get more into it. So Basque
+is isolated. We have no idea
+what Basque is related to. Some people
+have floated ideas, but none of it is convincing
+enough for us to really feel like, oh yeah,
+Basque, that's... no.
+And so other well-known-ish isolates
+are Ainu, spoken in Japan.
+Kerok, spoken in
+California. Korean, which
+is probably the most well-known.
+Put that at the top of the list, right?
+But we're not entirely sure what Korean is related
+to. Natchez, which is spoken
+in, originally, Mississippi
+and Louisiana. Then
+we're moved, under a great deal of
+force, to Oklahoma, to reservations
+there. But that's an isolate
+language. Azuni is spoken in New Mexico.
+We don't know who
+these languages are related to. Again, there
+are always theories, but none of them are really
+good enough that the linguistic community has been like,
+yeah, that works. I'm in.
+So there are isolates around the world.
+We just don't know where they came from, right?
+Including not so far from us, right?
+So, um, this
+then leads us to say, well, but
+hold on, aren't all languages related?
+Shouldn't there be one big language at the top
+of all this? If we keep going, you know,
+okay, cool, Indo-European, and then Sino-Tibetan.
+What's above them?
+This brings us, eventually, to the idea
+of proto-human, or proto-world.
+This is the postulated human
+mother tongue. This comes from the idea
+that surely, at some point in time, there was a group
+of humans who started grunting
+in a systematic way, and sooner or later
+they were like, huh, cool,
+this is language. We should do this more often.
+And then those people then
+migrated and grew and moved forth, and
+all humans are developed, or descended
+from that group. Again, we don't necessarily
+know that language wasn't come up,
+wasn't innovated more than once in the world.
+That's tough for us to say.
+But there is this assumption
+that maybe there is a proto-world thing.
+The problem with proto-world is
+that it is mostly the domain of
+crackpots, and there's a reason for that.
+So, remember we were just talking about reconstruction,
+right? The idea that you're
+taking the daughter languages that
+we know exist, and then postulating a mother,
+and then looking at the mother
+languages that you've reconstructed,
+and then postulating mother languages
+above those, and then above those.
+Each level of this is a lot of
+reconstruction. Each level of this
+has all of those problems we talked about
+with reconstruction. And again, I'm not
+meaning to knock on reconstructionists.
+No shade being thrown here. It's an amazing
+field, and they do great work, but there are
+lots of levels of uncertainty. And every
+time you go up another level,
+you increase the uncertainty
+more. And so by the time
+you get to what is
+comparing reconstructions
+of proto-Indo-European to
+reconstructions of proto-Afro-Asiatic,
+you are
+way deep in uncertainty,
+right? And so it's
+no longer all that useful
+to talk about proto-world.
+This is also so far back
+in time, like we don't even have a good sense
+of where the Indo-European homeland
+would have been, right? There are a bunch
+of competing hypotheses, but
+this is a really tough question.
+And so going further back than
+that, there is so much
+uncertainty. That doesn't stop people.
+You will very often, and this is a
+weird thing, but every so often, linguists
+will get email from just random people
+in the world saying, hey,
+I've come up with a new theory that's going
+to unite Basque, and it's always
+there's always something with, like, Basque.
+Like, oh, we're going to unite Basque
+and Korean and Japanese
+and then all of those things together
+combine to be this proto-
+blah, blah, blah, blah. And then that
+combined with proto-Indo-European
+then becomes proto-blah, blah, blah, and it's always
+named after them at the top. So then that
+brings us eventually to proto-world,
+which I believe started in
+and then whatever zip code they're
+in, right? There is
+always the craziness out there, but
+as far as kind of the linguistic
+world that we populate,
+it just, it's not a
+thing. We acknowledge that there
+might have been a proto-world language, but
+it's so far back that we can't understand
+it yet. Give me a time machine, yes.
+Yes. Yes, I will find out
+about proto-world, but without that
+we don't know. So to wrap up,
+there are a bunch of key points here.
+Language versus dialect is very
+often a political or social choice, rather
+than a linguistic one. The dialects of
+a mother language that grow apart become
+daughter languages. This begets language
+families, and we find these relations by
+looking for sound correspondences, by
+finding shared features, and by doing
+reconstruction, and we can't
+always find relatives for all languages.
+Thank you very much.

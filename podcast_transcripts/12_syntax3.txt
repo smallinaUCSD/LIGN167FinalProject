@@ -1,0 +1,767 @@
+Okay. Hi, everybody. Today, I'd like to talk with you about some of the elements of syntax we're going to leave behind.
+But just a reminder, if you feel like you're still having a little bit of trouble with this, or frankly, you just want more practice, which won't hurt you, go ahead and check out this presentation right here.
+This is a presentation, but what it'll have is step by step, a bunch more examples, well, a few more examples of big old sentences that you can try and work through on your own.
+So really good resource right there, as will be the class, as will be office hours.
+Remember, you can always come into office hours. We will give you problems to work on and then walk you through them step by step and work through to make sure you've got the solution together.
+If this is something that's scaring you in any way, shape or form, help, or I'm sorry, let us help you. We will help you. That is our goal. That is our job. That is our duty.
+Okay, so I've been talking a little bit about syntax and already in class, we've probably brought up, oh, you know, we're not going there.
+That's a dragon that's big and scary and is going to eat us, syntactically speaking.
+So what I'd like to talk to you about today is a little bit more syntax stuff that we're not covering.
+Because in a 101 class, especially in a quarter system, it's very, very hard to kind of get too deep into any one of these subjects.
+I've had to leave interesting things behind in every subject we've covered so far, and syntax is no exception.
+But what I'd like to do is at least tell you a little bit more about what to look forward to for 121.
+And so today, we'll talk about all that we're leaving behind in syntax.
+One thing that's very important to kind of talk about here is we're doing a lot of trees, right?
+We're spending a lot of time focusing on this particular task.
+The fact is, though, knowing how to make the trees is actually really useful for knowing how syntax, generally speaking, works.
+The problem with 101 is that there's too much awesomeness for us to cover in three classes,
+and we really need to get you those basic notions of constituency, of hierarchy, and of nested phrasing, recursion, that kind of thing.
+So we're going to have to focus on what's crucial in the majority of the class and at the expense of what is awesome in the world.
+So things like cross-linguistic patterns or advanced syntactic questions.
+And a lot of what we've dismissed, I'll say things like, oh, don't go there. There's dragons. They'll eat you.
+And so today, I'd like to introduce some dragons to you, because English syntax is way, way, way more complicated than we've made it out to be, right?
+I'm giving you a set of phrase structure rules that will work for very simple sentences.
+You know, my cat and my, or actually, I can't even do an, right?
+My cat saw the cute dog, that kind of thing.
+It may not feel like we're looking at simple sentences, but structurally speaking, we kind of are.
+We're not getting too deep into some of the reads.
+But if you see a sentence like this, truly my dismay that three dragons were slain by the fame-craving knight couldn't be greater.
+There's a lot of pain going on there, because there's a bunch.
+For instance, this right here, my dismay that the three dragons were slain.
+My dismay is, that is a noun phrase, right?
+And then that three dragons were slain by the fame-craving knight, that's a complementizer inside a noun phrase, right?
+And then that couldn't is a modal verb, and then there's the be.
+There's a bunch of stuff that we really haven't touched.
+Your phrase structure rules don't have rules in there that can handle these things.
+We could add them, absolutely 100%.
+I could add in a bunch more phrase structure rules that would get you things like couldn't be,
+or that could get you a complementizer within a noun phrase.
+But the problem is, every time we do that, we add more complexity, and we add more options,
+and, you know, paths that you might not want to go down, but that you might try to go down, right?
+So this kind of sentence, you're simply not going to be able to handle with the phrase structure rules we've given you.
+Not because they're bad or broken, but because they're just not sufficient.
+There's not enough of them.
+Similarly, Robert who came last weekend when you threw that party where Marvin saw Bob is kind of a jerk.
+So that's three different sentences within a single noun phrase.
+Robert who came last weekend when you threw that party where Marvin saw Bob,
+that whole thing is a constituent, right?
+It can be replaced with he is kind of a jerk.
+But then there are these chunks within it.
+Who came last weekend, and then a complementizer, when you threw that party where Marvin saw Bob,
+all of those things are separate sentences.
+So that is a noun phrase with three sentences in it.
+Completely legal, though.
+Absolutely 100%.
+Then what's kind of?
+How do we deal with that, right?
+That's interesting.
+We don't have a rule for that.
+So we've got two sentences, actually three sentences inside a noun phrase there technically.
+And then sentences will do weird things.
+Weird things will be done by sentences.
+Weird things will be things that sentences do.
+What will sentences do?
+Will sentences do weird things?
+Yes.
+The answer is yes, they will.
+You can rephrase sentences in many, many ways that maintain the same meaning,
+but completely change the order.
+And the orderings we've given you don't really account for all of that.
+Passive voice is really important.
+So I can say John threw Sally the ball.
+That's a perfectly reasonable sentence.
+And, in fact, although we're not quite able to handle what's going on here,
+because you have what's called a ditransitive construction,
+where you have John threw and then two noun phrases, Sally the ball.
+That's itself a fun little thing.
+But we can actually change this sentence a little bit to remove the actor.
+Let's say we don't want to talk about John,
+or we don't necessarily know who did the throwing.
+We could just say Sally was thrown the ball, right?
+So suddenly Sally, which is the object of this sentence,
+is moved to a position that's historically for the subject, right?
+The passive voice turns the object of a sentence into the syntactic sort of
+into the subject position in the sentence.
+This right here is a 200-foot pole.
+We will not be touching the passive voice with it.
+Or, put differently, the passive voice will not be touched with it.
+The passive voice is really cool.
+Passivization is a fascinating area of syntax,
+but it's not one that we can go into today.
+All of this then makes us think about, well, wait a second.
+If we have, you know, John threw the ball to Sally, easy.
+Or how about just John threw the ball?
+We can change that then to the ball was thrown.
+But that sure feels like a change, right?
+That sure feels like movement.
+It feels like we had one structure and then we swapped it around.
+Or in that case, we moved something and dropped something else.
+This makes us think about moving and transforming sentences.
+And this gets into a big fundamental area of syntax that we're not really touching.
+Our phrase structure rules handle static sentences.
+Here is a sentence. Let's describe its structure.
+But then you can get things that feel like movement, that change.
+So, for instance, let's look at this sentence.
+Margaret should go see Maria.
+We can change that.
+We can ask a question.
+Should Margaret go see Maria?
+Now, this is interesting, right?
+Because in English we have a way to do this without changing order, right?
+We can say, Margaret should go see Maria?
+I incress, wow.
+I express some incredulity.
+And that turns it into kind of a question.
+But better still, we can do this.
+We can say, should Margaret go see Maria?
+And by doing this, by doing this movement where I pull the verb out from here to here,
+suddenly it becomes a question in a different way.
+And you can also change other things around.
+You can say, who should Margaret go see?
+Where who is the thing that stands in for Maria, basically,
+and that should be at the end of the sentence, but now it's at the front of the sentence.
+But you could also say, Margaret should go see who?
+So both of those things are possible, but there's this movement, right?
+Maria was replaced and then moved to the front of this.
+And, in fact, these movements, we've been talking about them all throughout our syntax area
+in terms of our movement criterion for constituency.
+If I can move a chunk together, then it's a constituent, right?
+So this movement idea is big. It's crucial.
+And then you can do, who should go see Maria?
+This, in this case, doesn't really have much in the way of movement, but it has this replacement.
+Similarly, we can take, Jessica can buy Cheerios.
+Yes, indeed she can.
+Can Jessica buy Cheerios?
+Suddenly things have changed.
+The can has moved from here to here to make it a question.
+Again, who can buy Cheerios?
+Again, here there's no movement.
+But if it were, what can Jessica buy?
+You could do that, or you could say, Jessica can buy what?
+Both of these things are options, and they mean the same thing, practically speaking.
+Maybe there are slight pragmatic differences,
+meaning maybe there are slight differences in terms of, like, emphasis and things like that,
+but by and large, these two things mean the same thing, even though they are different,
+even though there is this movement.
+Similarly, we take, Tamika saw Raj.
+Did Tamika see Raj?
+Okay, so in this case, we've added something at the start of it,
+but, and we change tense here,
+but there's no other movement here.
+But then who did Tamika see? Who saw Raj?
+All of these things are movement, right?
+Or it sure feels that way.
+And that movement is everywhere.
+And the book gets deeper into this than we have the time to.
+If you have reading the book, it goes into some movement, which is really fun.
+And you can read more about this, and you'll get much more of this in 121,
+but it is just cool.
+Movement is really awesome,
+and it takes all of the complexity we've been looking at already,
+and then adds in moving parts.
+And then when you move something, what goes where it was, etc.
+These are really fun things.
+So movement is something that is huge in syntax.
+It's fundamental.
+The idea of movement and transformation was a big part of the syntactic revolution
+that Chomsky brought about,
+but now we don't really have time for it in 101, which is sad, right?
+But, so, movement is great.
+Here's another fun dragon.
+These are garden path sentences.
+Sentences which are very easy to incorrectly parse at first.
+So parsing is a term that we use both in computational linguistics
+for, I'm going to read this sentence in and get its meaning,
+or in some other cases, get its structure,
+because structure and meaning are related.
+But sentences that are very easy to incorrectly parse at first
+are garden path sentences.
+So I'll give you a garden path sentence here.
+Read this to yourself first.
+Chances are you crashed a little bit,
+because your brain went,
+the old man, okay, great, the boat,
+your brain just broke in half over that,
+because it was expecting the old man to be a noun phrase.
+But, instead, there's a different read.
+You can say, the old man the boat.
+So the people who are old are able to man,
+that is, to run and occupy the boat.
+So if you read it as the old man the boat,
+there's no verb.
+But if you read it as the old noun phrase,
+man, verb, the boat noun phrase,
+then there's a sentence there.
+There's a structure.
+Here's another good one.
+I'll let you read it first.
+This one's going to cause pain for a different reason.
+So you could say, the complex houses,
+so here you've got a noun phrase,
+married, oh God, that's a verb.
+So the complex houses married single soldiers
+and their families.
+So now you're picturing a series of houses
+that are a little bit more complex than your normal house
+that are falling in love with and marrying single soldiers
+as well as their families, aw.
+But in reality, what we have here is the complex,
+so meaning an apartment complex or something like that,
+which houses, as a verb,
+married single soldiers and their families.
+So, interesting, right?
+The girl, I'm not going to read it first.
+You read it first.
+This one's brutal, right?
+Because the girl told the story, okay, cried.
+So suddenly you thought the girl told the story
+was the sentence itself,
+and then you add in that cried and you're like,
+oh crap, that wasn't the sentence at all.
+Instead, that whole thing was a noun phrase.
+You have to go back through and say,
+the girl who was told the story cried.
+Then it makes sense.
+So you misparse it first.
+But we want the man who whistles tunes,
+ah, there's a noun phrase here, I'm broken, pianos.
+So the man who whistles tunes pianos is fine,
+but the man who whistles tunes pianos doesn't work.
+Here's a really fun one.
+This is kind of the classic Garden Path sentence.
+This is the example that you see over and over again.
+The horse raced past the barn, fell.
+So let's look at a schematic view of this.
+This is taken from this link here.
+But this is a view, and again,
+this is using a different version of syntactic phrase structure,
+so don't worry about the fact that you've got S bars
+and things like that involved here.
+But there is a good read of this
+that involves all of this whole chunk here,
+the horse raced past the barn is a noun phrase,
+and then the verb phrase is just fell.
+But there's a misparse,
+and this is represented here on the bottom.
+And this is just a stylistic thing,
+you'll never grow trees upwards,
+this is just to show that there are two parses.
+In one case, you can read this whole chunk
+as the horse raced past the barn,
+where this is an NP, and then VP, PP, NP, etc.,
+as opposed to, and then you get to the V here,
+you've already got a complete sentence,
+and then you need some other level that doesn't exist
+that links a sentence to a verb.
+That's not a thing.
+So this parse on top works,
+this parse on the bottom doesn't work.
+And so you get this, ah, ah,
+which I think really adequately sums up the feelings
+of these kind of garden path sentences.
+So garden path sentences are a really useful thing,
+both to kind of test our syntactic intuitions,
+about, oh, well, look,
+we're trying to parse these things out
+as a part of understanding,
+as well as to see, you know,
+just cool examples of syntax performing
+in ways that we might not expect.
+And actually, that's a nice segue,
+seeing things like S bar there is a segue
+to other syntax.
+You'll get things like V bar,
+you'll get things like S bar,
+you'll get IP at the very top of things,
+you'll get TP at the very top of things.
+Each one of these are different theories,
+they're different approaches,
+with different pros and cons.
+This is absolutely the case in anything in linguistics.
+Within phonetics, there are many,
+actually we can't even agree necessarily
+on the way that we're doing speech perception,
+whether we're hearing sounds or gestures.
+I'm happy to talk with you about that
+but there are many different competing approaches to things.
+Some people use rules,
+some people use a completely different framework.
+In morphology, we didn't really get too much
+into morphological theory,
+but there are big, interesting, competing debates.
+And in syntax, too.
+There are people who do syntax in ways
+very similar to what we do,
+and there are people who do it entirely differently.
+So especially in syntax,
+there are many, many different approaches
+to doing syntax that use different kinds of trees
+or in some cases that don't do treeing at all.
+This is interesting, but I'm teaching you a version
+that I think will really adequately prepare you
+for 121 here,
+and also for the greater syntactic world in linguistics.
+So, there are a bunch more theories out there.
+And then the other thing is, of course,
+we've been doing all this in English, right?
+But other languages exist,
+and different languages do sentences differently.
+Not all subjects do what English does,
+where we put the subject,
+the person who's doing the thing,
+before the verb, followed by the verb,
+followed by the object,
+and then affected.
+We would call this, in linguistics, SVO.
+So subject, verb, object.
+The man saw the dog.
+The man is the subject,
+the seeing is the verb,
+and the dog is the object.
+So English is an SVO language,
+typologically speaking, that is.
+Compared to other languages around the world,
+English mostly does SVO.
+Lakota, which is an indigenous language of the U.S.,
+spoken mostly on the Great Plains,
+is SOV.
+Instead of prepositions, it uses postpositions,
+which is a part of,
+that comes into the headedness rules, right?
+In our phrase structure rules,
+a prepositional phrase has a preposition
+followed by a noun phrase.
+There you would have a noun phrase followed by a postposition,
+which is awesome!
+It would be a postpositional phrase.
+But anyways, Lakota is an SOV language,
+which means that all of their phrase structure rules
+are going to look different.
+The set of rules that I've given you that work for English,
+that are now on the floor, so I just pointed at them.
+But you would need a different set of phrase structure rules
+that would allow you to handle this.
+ASL, American Sign Language,
+is OSV.
+And this should, by the way, reiterate to you
+that not only are sign languages languages,
+but ASL is not particularly English.
+Right?
+I mean, certainly there are borrowed words,
+there are a lot of similarities in some particular ways
+with English,
+but ASL is fundamentally its own language.
+And it's its own language to the extent
+that it has an entirely different word order
+than English does.
+And that's awesome.
+And then Spanish adjectives actually come after the noun,
+by and large.
+Which is cool.
+And so that would make the n-bar rule entirely different.
+And Russian, we already talked about a little bit.
+Actually, no, we haven't talked about this.
+But in Russian, you can actually move the arguments around.
+In Russian, word order isn't as important.
+It's what's called a non-configurational language.
+Meaning you can swap words around
+without a whole lot of problem, right?
+And so that's very interesting
+and very different.
+And so our rules are very much language-specific, too.
+And in fact, in this class,
+we're going to play with some Japanese data
+and make some Japanese phrase structure rules
+just to get a sense of this.
+So in this class, we are really just trying
+to understand the basics.
+What syntax is.
+How sentences are composed hierarchically.
+And how grammar works for sentences.
+But for everything else,
+for the really deeper understanding of syntax,
+in the same way that for deeper understanding of phonology,
+111, you'll want 121.
+And so if you're loving the syntax portion,
+make sure to put 121
+on your schedule as soon as you can get it in there.
+Because it's going to be an amazing class.
+Then I want to introduce you to one more
+oddity that we haven't really talked yet
+about in syntax.
+Our rules can act a little weirdly.
+Let's look at a very simple rule here.
+We've got rule 8 gives us VP to V.
+And rule 9 gives us VP
+goes to VNP.
+So a good example of rule 8 was
+something like I sleep.
+That's easy.
+There's a sentence above it, NP.
+And then a rule 9 example would be
+something like I saw her.
+Easy. There's a verb phrase
+and then there's a noun phrase.
+So sleep is a nice example
+of a verb.
+It's perfectly reasonable.
+So I can do VP goes to V.
+I can say Will slept. No problem.
+I can't, however, say
+Will slept Jessica.
+That doesn't work.
+I can't say I slept the bed.
+I slept the pillow.
+There is no word that I can put after
+sleep in this sentence.
+I am not allowed to use
+this structure with the verb sleep.
+I can say, I can add a prepositional
+phrase. So I could do Will slept
+with Jessica. That's a different thing.
+But I can't just say
+Will slept Jessica.
+Doesn't work that way.
+So this verb doesn't allow this particular
+even though it's a rule.
+Same thing with dream, actually. I can say Will dreamed.
+Easy. No problem.
+Will dreamed Jessica?
+No. Again, that doesn't work.
+The only thing that you can have here is
+I dreamed a dream or Will dreamed a dream
+but that's mostly because
+of Les Mis, I think.
+So that's a different thing. To walk.
+I can say Will walked.
+Easy. Will walked. No problems.
+Will walked Jessica.
+That doesn't sound right.
+Unless Jessica is a dog, that doesn't
+quite make sense because that
+makes it sound like I'm
+taking my wife out for a recreational
+walk. I wouldn't say I walked
+her, though. So this has a weird meaning
+if I use it in this particular way. I can say I
+walked with Jessica. Easy. No problem.
+But Will walked Jessica feels very
+different unless Jessica is a pet
+of some variety.
+These are all called intransitive verbs.
+These
+are verbs that only take a
+single argument, generally. They take
+a subject. And if you try and add another
+noun phrase in there, it either doesn't work
+like with sleep or dream, or
+it has a very specific meaning.
+Like, for instance, Will walked Jessica.
+And one could actually make a pretty good
+argument that these are two different verbs.
+If I were to have Will walked,
+that just means to amble.
+To walk around.
+Walking in place here. As opposed to this
+which means something more akin to
+take an animal
+out for exercise.
+You wouldn't ever
+walk an inanimate object.
+I can't think of a situation in which you would walk
+a person. So I would say
+in this case, yeah. These are
+intransitive verbs, by and large.
+So, to hit. This is a transitive
+verb. So I could say something like
+Will hit the dragon. Easy peasy.
+Will hit
+the dragon is a very straightforward sentence.
+Could I say
+Will hit?
+Just generally? Does that work?
+You might be able to
+think of certain situations in which it
+could kind of be coerced, right? You could say
+Will was playing slot machines, and
+then Will hit. And that
+kind of works, but that's short for hit the jackpot.
+Maybe it's a different verb altogether.
+But Will hit is very weird.
+You could maybe say Will hits as a habitual
+thing. Like, whenever
+students commit academic integrity
+violations, Will hits.
+Not them, of course, because that would be really cruel.
+I don't know. I hit
+my heart with sadness, or something
+like that. But you could say so-and-so
+hits, but that's just sort of a generalization.
+It's weird. It doesn't work very well
+to use this rule with this particular verb.
+With move. I could say Will moved.
+Easily. See? I moved.
+Yay! That's easy.
+I can also say I moved Jessica.
+For instance, she was in an apartment
+and now she
+is elsewhere. So I moved her.
+I helped her move her house.
+Again, is this exactly the same verb?
+I don't know, but it sure feels like both of these
+are okay. Will moved is
+perfectly acceptable. Willed moved Jessica, perfectly
+acceptable as well. To see.
+Now, here's Will saw.
+This
+kind of works. It works in a specific context.
+Will saw works great
+if it was like, and then the doctor
+took off the bandages, and Will
+saw! Oh, wow! Amazing!
+Heartwarming.
+Share it on Facebook.
+That could work.
+But it has to be in a context.
+Will saw Jessica? Easy.
+Unmarked. No questions there.
+This is a super basic sentence.
+These things are called transitive verbs.
+Things like see, hit, and move
+are things that you can very often do
+where a subject does it
+to an object.
+Now, here's bake.
+Bake is fun. Will baked.
+Easy. I baked. It would probably go poorly.
+I'm not much of a baker.
+But Will baked,
+and that just means, generally speaking,
+oh, well, we were having a bake sale,
+so, you know,
+Savi handled the money
+and Will baked.
+So, that works. No problem. Will baked a cake.
+Again, easy peasy.
+Bad cake, but it would absolutely
+work. Good sentence.
+I could also do something like this.
+Will baked Jessica a cake.
+This
+should scare you a little bit.
+This chunk right here.
+VP goes to VNPNP.
+This is a rule you don't have.
+And, in fact, this is a rule that violates
+one of the main constraints
+I gave you, which is that there is no
+ternary branching.
+There are no three-way branches.
+But, boy, does it look like that's what's going on here.
+Because I have Will baked
+Jessica.
+So, in this case, I didn't bake Jessica,
+the human, right?
+Jessica has remained outside the oven the entire time.
+I baked a cake, but by using this
+construction, you understand that I baked the cake
+for Jessica's benefit.
+It was her birthday, so I baked Jessica
+a cake. Usually, I would just
+buy one, because that would be a better cake, but still.
+So, this is a three-way branch.
+And, I can
+do this, but
+it gets weird, right? If I say, Will baked
+a cake Jessica.
+Will baked a cake means I baked the cake, but
+if I add in the Jessica, then suddenly the meaning
+is weird, right? This makes it sound like
+I have a cake, and I baked my wife
+on its behalf, and that isn't a thing.
+Right? That's wrong in 15 different
+ways. You can't really do something
+for a cake anyways.
+Will...
+How would you do that?
+Will iced
+a cake itself?
+No, that doesn't even work. See, you can't
+really do something for the benefit of the cake.
+So, clearly, there is meaning associated with
+which one of these NPs goes where.
+So, this is more complicated
+still, because it has to be a specific
+NP and a specific role in a given
+situation. Now, you can see why we wouldn't have put
+that in there. But, this is an example that sure makes
+it feel like a three-way
+branch. Or, here, find.
+I can't just say Will found,
+right? I mean, you can
+do it in some weird, like,
+you know, Will had been seeking answers
+for many years, and then one day
+Will found. Like,
+I guess, sure. But, that's
+mostly wrong, right? You have to coerce
+it. Will found a cake? Easy.
+Will found Jessica a cake? Again, this works
+perfectly well. I found
+for Jessica a cake. I was
+out walking around, and I
+walked by a window, and I saw a cake,
+and I knew that that would be the perfect cake for her,
+because she likes dark red cakes,
+and it was a dark red cake, and it was
+Kismet, and so I found Jessica
+a cake. That one works.
+Again, I couldn't do Will found a cake
+Jessica. Like, my cake has been at home
+wishing for all these years for
+a lovely wife, and I went out, and I found
+Jessica for my cake. I mean, that's
+yeah. Anyways, moving
+on. So that doesn't work. But I could do this!
+I could say, Will found a cake,
+some candles.
+This works, right?
+Because what I did is,
+we have this desire to put
+candles on cakes, at least in the US
+for birthdays, and so
+Will found, for the benefit of the cake,
+some candles. That one actually
+works. So the meaning actually dictates
+whether or not something can work
+in this case, which is going to be terrifying
+you. So these are what are called
+ditransitive verbs. These are verbs that take
+a subject as well as two
+different objects, and the ordering
+of those objects matters.
+Usually, in these constructions in English,
+the first thing, the first noun phrase
+is something that is getting
+benefit from the situation, and
+the second noun phrase is
+something that is getting, or that is
+the subject, or is the object
+originally. These are, by the way,
+equivalent. We can do this without the ditransitive.
+I can say, Will found a cake for
+Jessica. And in that case, that becomes a
+prepositional phrase. That's easy enough.
+But doing it in this way, which is perfectly
+legal English, is different. And so those are
+ditransitives. And so, here's another
+good example. To see,
+Will saw, again, kind of weird, saw
+a cake. Can you say, I saw
+Jessica a cake?
+Maybe? It's
+not great. Like, this would have to be,
+I was walking down the street, I looked in the window,
+I saw a perfect cake, and then I
+immediately called Jessica and said,
+honey, honey, I found a cake. It looks great.
+And she'd be like, oh, wow, you saw me a
+cake. That's weird. And again,
+Will saw a cake. Jessica absolutely doesn't
+work. So this is crazy.
+It's a phrase structure rule with three
+branches. It happens occasionally,
+but usually there are other ways to handle it.
+Let's look at make, by the way. Will
+made.
+This generally doesn't
+work. And
+when it does work, that usually means
+to have a bowel movement,
+right?
+So, this
+is not generally a good sentence, and it's
+certainly not the form of make that we usually mean,
+which is to create something.
+Will made a judge.
+That doesn't really work, either.
+Unless I had, like, modeling clay,
+and I made a little judge
+for my little courtroom play
+set that I'm building
+work with me here. That doesn't work.
+But I can say I made Jessica a judge
+pretty easily, right?
+If I were the
+governor?
+Who makes judges? The governor?
+If I were the governor, I could make Jessica a judge.
+No problem. That would work.
+I'd need the authority, but I can do that.
+So, I can't make a judge, but I
+can make somebody a judge, which is
+interesting. But I couldn't do this.
+Will made a judge Jessica.
+Like, unless I took an existing judge
+and then dressed them up like
+my wife.
+I don't think that'll work.
+Or I could make
+a figurine that is
+Judge Jessica. I don't know.
+Will made a judge with his
+modeling clay. That can work. But Will
+made Jessica a robot.
+That would be very strange. Like, maybe I could dress her
+up like a robot, and I could
+make a robot Jessica.
+That's okay, because this comma
+here makes a lot of difference. And again, this is
+TNP. But this is just, I made a robot
+and I named that robot
+Jessica in honor of my wife.
+Or I could make a robot Jessica,
+which would be to create a
+robotic version of my wife,
+I guess.
+And so, this is getting
+weird, right? Because not
+only do the phrase structure rules that we have
+not universally apply.
+We talked about this class of intransitive
+verbs that can't take
+uh...
+If you look at the rules here, these intransitive
+verbs are not able to use Rule 9.
+They can only use Rule 8
+here. And so, that's
+interesting. Then you get verbs that don't work
+with Rule 9, but do
+work... I'm sorry, that don't
+work with Rule 8, but do work with Rule 9.
+And then you get these ditransitives.
+There is something about these phrase structure rules
+that don't always work.
+And that's cool. That's really cool.
+A valid rule for one verb might
+not work for another. And this seems to be
+what's called lexically specific.
+It seems to be based on the word
+itself. The verb make
+works differently than the verb dream,
+works differently than the verb hit, works
+differently than the verb see.
+All of these have their own
+specifications as
+to what kinds of argument
+structure, that is, what kinds of things
+can follow it. And that's really
+really cool. It depends on the
+particular word. So, I know what you're thinking.
+Oh God, Will, we have all these
+rules, but they don't work for every verb.
+Oh no! Is there no hope?
+Nah, it's cool. We got semantics.
+And that's what we're going to be doing next time. So, I will see you next
+time, and we will talk about semantics, and it will
+be awesome. Have a good day.

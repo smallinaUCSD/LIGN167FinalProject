@@ -1,0 +1,747 @@
+Okay, hi everybody. Today we are going to talk about phonetics and in order to do
+this you're going to want to get an IPA chart from Canvas. It's going to be
+useful for you and it'll be helpful for you to be able to follow along with the
+chart as we're going here. So today we're going to start into my area of maybe
+primary interest which is phonetics, the sounds of language. How do sounds work in
+language? What are we doing with our mouths, with our faces, generally speaking,
+as we're talking? How does all of this stuff work? And so today my plan is to
+start off by talking about how speech works generally. We'll talk about how we
+can write down speech which is different from writing down words. We'll talk about
+how we describe consonants, how we describe vowels, and then next time we'll
+get a little bit more into some of the IPA pitfalls as well as speech
+perception stuff. So okay, how does speech work? Basically what happens is that you
+flap bits of meat around inside your head while blowing out air. This creates
+little tiny vibrations in the air that you're expelling. The ear then picks
+these up and interprets these as speech. This whole process, ranging from the
+articulation, that is the flapping bits of meat, to the vibrations in the air, the
+acoustics of it, to this process of the ear picking these up and then
+interpreting them somehow or another as speech, all three of those things are
+valid parts of phonetics. Articulatory phonetics, acoustic phonetics, and then
+speech perception, generally speaking. So phonetics covers all three of these
+things. We start off of course with the lungs because the lungs are very
+important. If your lungs aren't working, you're not talking for a
+variety of reasons, but at the very least they provide a bellows for you as
+you're working, as you're talking. And then you flap bits of meat around
+inside your head, and there are many bits of meat. This is what we call a sagittal
+section, and the way to interpret this is if you were looking at somebody from the
+side like this, and then you just made a cut right down the middle like this, you
+would then see their head split open in this way. So you'd see a gap around the
+nasal passage in this area here, you'd see teeth, etc. So this is just a cut down
+the side of the head effectively, and it lets us look at the various structures
+inside the mouth. So we see the lips, the gap behind the lips, the teeth, and then
+moving up and then backwards and so forth and so forth. So this is the sagittal
+section of the head, and so we think about articulation generally in terms of
+this plane, right? Because where the tongue is moving up towards the roof of
+the mouth, down away from the roof of the mouth, what the lips are doing, opening
+and closed, what the velum in the back is doing there, a little further this way,
+there we go, yeah, what the velum is doing, that's useful. So we can simplify
+that diagram a little bit, and this is a nice labeled set of articulators, and
+one that you can refer back to later. You're not going to need to remember all
+of these items, but it's going to be useful for you to have some sense of
+them. And so all of these are labeled here, and these are all good terms that
+you can use for these things. So we're not going to give you any anatomical
+terms on exams. In fact, in the final exam, well, yeah, it's gonna be a whole
+different world this quarter anyways, but nonetheless, um, anatomical terms are not
+a big part of this class. They will be once you get to 110 and 112, but for the
+moment, what I need you to know are the terms required to understand
+transcription. The terms like alveolar or velar, or things like that, that are
+useful for us understanding how speech works, those you'll need to know, but
+other terms, not so much. So we can think about the tongue actually in a little
+bit more of a nuanced way, right? We've got the tongue, right? Tongue has many
+parts to it, and usually people don't think about it as having those parts, but
+they do. The tongue has the tip. The little tiny tip of the tongue is quite
+literally the tip there. Then there's the blade. The blade is the part of the tongue
+that hangs out. The blade of the tongue is that area in the front. Then the front is
+still, there is all tongue below it, so the blade of the tongue kind of hangs
+out a little bit. The front of the tongue, there is tongue root down below it, so
+this would be the front of the tongue, and then center, then back, and then the
+root of the tongue is the vertical wall of the tongue in the back. We never
+really think about the root of the tongue as English speakers, or frankly as
+humans, but it's definitely there, and it's definitely useful. And so the root
+of the tongue actually plays a role in a lot of languages around the world, but
+not as much in English. So here's a nice example of an, this is an MRI video,
+showing the tongue in the mouth moving.
+You can see the lips here. So what we can see from watching this is that the tongue
+is moving around pretty fluidly, and it's touching a bunch of different places. We
+can see the tongue touching up here, toward the alveolar ridge. We can see the tongue repeatedly touching over here in the velar region, especially once we get to the boogity, boogity, boogity part. Yeah, right there, some nice velar touching. But we see the tongue moving around a great deal, along with the lips, along with the rest of the articulators. Here's another example of this. It's a little early, I know, but nonetheless, we can listen to some singing.
+Look at the fa-la-la-la-la in the tip of the tongue.
+You can watch this if you ever need to, for instance, clear out a party or something. But
+for the meantime, this gives you a sense of what we're looking at inside of the head
+there. I know what you're thinking. Well, that's really creepy. Why would you do any
+of that? Well, actually, phoneticians do creepy things all the time. It's kind of what we
+do. Ooh, that came out wrong. We do creepy things to monitor speech all the time. You
+know, anything that gets us a better sense of what's going on inside the head, what's
+doing those movements there, whether that's the EMMA thing I discussed on our first video,
+where you glue the little sensors to the tongue itself, letting you track the position of the
+tongue, whether it's MRI in that case, whether it's ultrasound, there are lots of things
+that we do to get a sense of what's going on inside the head and mouth, because it gives
+us better information about how things are articulated, how, well, language works there.
+So yeah, anyways, let's do a quick little experiment here. What I'd like you to do on
+your own, and by the way, I'm going to repeatedly, during the next couple of lectures, ask you
+to say something, ask you to do something. I'm going to give you instructions. And even
+if you're at home, even if you're alone, even if you're completely, you know, it's
+a quiet room, I would like you to do these things. The reason I say that is not just
+because I like, you know, not just because I like you doing what I ask of you as a teacher.
+This is instead actually for your own good. When I ask you to read something aloud, the
+reason I'm doing that is because I think it'll help you learn. And in speech, and phonetics
+specifically, it's really helpful to get that proprioceptive sense. Proprioception, by the
+way, is the sense that allows us to, for instance, I'm going to close my eyes here,
+and then I'll move my arm around, and then I'm going to bring my other arm around and
+try and touch my index finger. And I'm pretty close. Oh, it was off screen, anyways. But
+nonetheless, I mean, this is kind of a hard task, right? But proprioception is the knowledge
+of where you are in the world, and where your various limbs are and such. Using that proprioceptive
+feeling is a very effective way of memorizing and learning phonetic patterns. That way,
+you can go back, and you can say, oh, okay, hold on just a second. I feel my tongue at
+this area. That must be an alveolar sound. So please, please, please, when I ask you
+to do something, go on ahead and do it. So what I want you to do is to read this sentence
+aloud. Go for it.
+Okay. Now what I want you to do is to read that same sentence aloud, but focus on your
+tongue as you're doing it. So try doing it now.
+Kind of weird, right? We never actually think about our tongues, right? We never actually
+think about what it is that we're doing with our mouth as we're talking. Yet it's a really
+intricate dance. And one thing you probably notice if you read a couple of those words
+again is that you don't have any sort of sense of gaps between the things. It's kind
+of a constant movement, right? The north wind and the sun, there's not really any moment
+in there. It's not the north wind and the. There's no gaps. There's no pauses, which
+is actually really interesting. So one of the things I hope you take away immediately,
+but certainly from this class in the longer term, is that speech, simply put, it's crazy.
+Speech is crazy at every different level. It is a series of fluid and overlapping gestures
+like you're doing right. Well, like I'm doing right now. And like you were just doing a
+moment ago, it's really, really complex and it is absolutely nothing like we think it
+is. Speech is not, it doesn't work the way that we have been raised to think it works
+because a lot of our biases come from our writing system. So the big question becomes,
+okay, you've got these fluid overlapping gestures here. You've got all of this craziness. How
+do we deal with this? How do we make heads or tails of it? Well, in linguistics, the
+way that we start off doing this is by breaking speech into smaller components. And this is
+something you're going to see over and over again this quarter, right? Anytime you see
+something that is big and complex, we break it up into smaller chunks and deal with those.
+So we start off by breaking it into smaller segments, which we call phones. Then we figure
+out how to describe those phones and how to describe their properties, which is really
+important. And then this lets us transcribe what was said rather than talking about the
+words that were said. Rather than saying, oh, they said a how, we say, okay, there were
+three sounds there. There was an ha, there was an ah, and there was an oh, or how, ow,
+or maybe that was two sounds. We'll get there. Either way, it lets us transcribe what was
+said rather than writing down what words were said, because those are very different questions.
+But in order to do any of this, you need to realize one very important fact about life,
+which is that your writing system is a train wreck. Seriously, I say that with all the
+love. I grew up with this writing system. There's writing system on this very slide,
+but it sucks. It is terrible. And it hides phonetic facts from you all day long. Your
+writing system is lying to you. It's lying to you every minute of every day. Because
+you get things like this. They thoroughly and roughly rot the bows in the burrow through
+and through. They thoroughly, so in this case, O-U-G-H is an a sound. And then in the next
+one, O-U-G-H is an uh sound. And then in the next one, it's just an ah sound. And then
+in the next one, it's an oh sound. And in the next one, it's an oh again. In this case,
+it's an ooh sound. And then, yeah. Not your finest hour, English. Similarly, letter C
+doesn't exist. Flat out doesn't. Every instance of C is either a K, as in Celtic, or an S,
+as in Cicero. Or in some cases, in a CH sound, it's a T followed by an SH. We'll get there
+in a second. TH, the TH sound, is neither a T nor an H, and it represents two different
+sounds in English. The and the. And the thing is, though, throughout this class, if you
+think about letters, if you're thinking about what is written here, oh, oh, there are two
+T's in letters, so therefore, you're going to hurt. That is just, it is a direct train
+to pain if you start going that way. So remember, at every stage of this class, your writing
+system is lying to you. Your writing system is a bucket of deception, and you shouldn't
+trust it at all. So, okay, for this class, then, consider your writing system with the
+same skepticism you would normally reserve for a guy with a broken bottle walking towards
+you in a dark alley. It is about that much of a threat. By the way, I know some of you
+are probably curious, this is the back of my chair that is holding up my green screen.
+Oh, yeah. So, anyways, sorry about that. Low budget over here, right? So, okay, speech.
+Super, super complicated. Our writing system is lying to us all the time. How do we deal
+with this fact? How do we deal with this new reality of the world? Because many languages
+don't actually even have a writing system. In many cases, writing systems don't exist
+or haven't been created for that language yet. Yet, we still need to be able to write
+down what was said in them. If you work with a language that doesn't have a writing system,
+by God, you still have to make something work. And so this may be leading you to ask, is
+there no hope? Yeah, no, it's okay. There's hope. We got the IPA. The International Phonetic
+Alphabet is amazing. This is a system for transcribing what was said that's based on
+describing individual phones, individual speech segments, individual sounds. The IPA
+is really, really useful. We're going to use a smaller set of the IPA for this class. The
+IPA is international. It's meant to capture all of the languages of the world. And, in
+fact, if a language is found that uses a speech sound contrastively, we'll talk about more
+what that means next week. But if a new language is found that uses a sound contrastively that
+isn't in the IPA, we will add it to the IPA, right? Well, the International Phonetic Association
+will. But we're going to focus on English again during this quarter because we want
+you to get a basic chunk of the IPA, and then you can get fancier later on. But we won't
+be talking about the sounds that are grayed out in your Ling 101 IPA chart. So on this
+chart, for instance, this whole area here is grayed out, except for this guy, W, which
+we need for words like word or will. This whole area, not going to pay too much attention
+to it. We'll see a couple of these little guys in there. The, um, where's aspiration?
+Aspiration, yeah, we'll use that one a little bit. But by and large, we're not going to
+focus too much there. The vowel chart has a lot of things missing. The consonant chart
+has entire rows missing, like retroflex. But this is why. We're just trying to limit things
+to English for this class for the purposes of our approach. But anyways, the IPA should
+be able to transcribe speech in any human language or dialect, meaning no matter who
+you are, no matter where in the world in whatever language you're speaking, the IPA should be
+up to the task. But the thing is, in order to understand how to use the IPA, we need
+to know how speech works. So one thing is really important for me to tell you. There
+is a website called IPA chart dot com. This is really good search engine optimization,
+but a really bad website. IPA chart dot com is a bad, bad, bad website. Um, what I mean
+by that is not that they've got the chart wrong, but the pronunciations they give are
+wrong. Um, as a linguist, absolutely not. Whoever's making that has got a little bit
+of trouble there. So this is the version you should be using. This link right here is the
+international Fennec associations version of the IPA chart. Super important that you
+use the right one. So anyways, if you're going to use a, an audible IPA chart, use this one
+IPA chart dot com. Nope, absolutely not. Nope, nope, nope, nope, nope. Okay. So the IPA actually
+allows us to transcribe speech. Trying to get my screen realign there. It's a game.
+Anyways, there we go. The IPA allows us to transcribe speech. You throw away the writing
+system completely and you write down the sequence of sounds that is being produced. So for instance,
+if we have the phrase black lives matter in my dialect, I would say black, b, l, a, k,
+lives, l, i, v, z, matter, m, a, r, e, r. So matter, we can capture the fact that that's
+said in that particular way. And there were a couple of things there that might surprise
+you a little bit. It's not lives with an S, lives, lives, not a thing. Instead it's
+lives. And similarly in matter, it's not matter. It's matter. And similarly, there's no C in
+black, right? Because C is a lie. It doesn't exist. So anyways, there you go. This is an
+example of transcription. We've turned something that is in the English writing system here,
+or more specifically that's in the English language, into a transcription that shows
+us details about how the sound is produced. So, okay, how do we describe how speech sounds
+are made? In order to use the IPA, we need to be able to describe how speech sounds work.
+And so let's do that. To start with, we break the world into two different kinds of speech
+sounds. And this is really important. We start off with consonants, which construct, obstruct,
+I'm sorry, constrict or obstruct or divert air inside the vocal tract. The vocal tract
+being this area basically between the lungs and the outside world. But they constrict
+and divert air in the vocal tract when they're being produced. As opposed to vowels, which
+are shaping the unobstructed vocal tract to change the sound that's being emitted. These
+are two different things entirely. And we describe consonants using three different
+steps. The first one is to figure out the place of articulation of the sound. Where
+in the mouth is that sound being made? Then we'll talk about the manner. What are we doing
+at that place of articulation? What are we doing with the articulators? And then we'll
+talk about voicing. Are we making voicing or not at that place? So we'll start off by
+thinking about place here. Place of articulation is, well, big, right? Where is the sound being
+made? Because as you do your north wind in the sun, if you read this sentence aloud,
+where is the sound being made? Is your tongue staying in one place or is it moving around
+a little bit? Do that while I take a drink.
+So what you probably noticed is that your tongue is actually moving around a fair amount.
+It's going back and forth. So w-w-w for where has one position, but the r-r has the tongue
+in a very different place. Is-z-z has the tongue moving around. Your tongue is moving
+around all the time throughout this vocal cavity. And other parts of your mouth are
+used too. For instance, the lips are involved, uh, for instance. So the tongue might go
+from here further back to the front, et cetera. Might even come between your teeth for something
+like th-th. So place is important. And again, we've got a bunch of different diagrams here
+because one of them might be more interesting to you. Um, but the different places of articulation
+we're going to talk about in this class are bilabial. Bilabial uses the lips. So b-b-b-b-b-boy,
+boy, boy. So when I do that, boy, I'm using my lips. It's bilabial. Two lips. Labiodental
+are sounds as in vote, vote, vote. See my teeth, v-v-v are coming up over my lip. Vote.
+Interdental sounds have my teeth between, I'm sorry, my tongue between my teeth. Fit,
+those, those. That's not even a word. Those. There you go. Thistle, thick, thin, that,
+that. So interdental has your tongue between the teeth. It's trapped in there. Alveolar
+sounds as in totes, totes, totes. You can see t-t-t-t-t. But the problem is now my teeth
+are blocking the view so you can't really see that well anymore. But it's a little further
+back. If you scrape your tongue up along the roof of your mouth, starting at your teeth,
+you'll feel that there's a flat area, then kind of a slope, and then you get into an
+area with all kinds of awkward ridges, and then eventually if you can curl your tongue
+far back enough, you get a soft area. So the alveolar ridge is that flat region there.
+For many of you, actually, these sounds, t-t-n-n-d-d, may actually be produced right behind your
+teeth. This is interesting. We'll talk about that a little bit later on. But your alveolar
+sounds might be dental. This is more likely to be the case if you are bilingual, if you
+speak a language other than English, or perhaps if you're parents, if you grew up around another
+language that wasn't English and were raised by people, sometimes this will happen anyways.
+It's not a problem. People can't notice it generally, but it is interesting and very
+different. Post-alveolar sounds, as in j-j-j, as in judge, those are post-alveolar sounds.
+They're made with the tongue a little bit further back than the alveolar ridge, post-alveolar.
+You will also see palatal alveolar, which is completely fine. Your textbook calls them
+palatal. No, because there are real palatal sounds in the world, like a-ka, a-ka, a-ka,
+a-ka, and that's not it, right? No, bad textbook, bad. Okay, but we will accept either one of
+those just knowing that the textbook is there. Then you get velar sounds, k-k-k, as in taco
+cat, taco cat, which by the way is a palindrome. Reads the same forward and backwards. And
+then glottal sounds. Everybody say uh-oh, uh-oh, uh-oh, m-in, m-in, uh-oh, uh-oh, uh-oh,
+m-in. Some people don't have that, m-in, m-in, I have a m-in. But either way, those
+are glottal sounds. So you're basically catching the sound in your throat, deep in here, uh-oh,
+using the vocal folds. We'll talk about those in a bit. So let's practice. Proprioception
+here. The first sound in king is a, a bilabial as in boy, b, labiodental as in vote, c, alveolar
+as in totes, d, postalveolar as in judge, or e, velar as in taco cat. Which one of these
+is the first sound in king? K-k-k-k-k. So many of you may be thinking, well Will, I
+don't know yet, I'm not sure. One of the very best ways to learn the IPA and to learn these
+sounds is actually to take some time to memorize words that pertain to each of these categories.
+So if you can remember that bilabial is the sound in bob, bob, bob, then later on you
+can go back and if someone gives you a new word like bingo, bingo, bingo, bob, oh yeah,
+that's the same place of articulation, that must be bilabial. So doing it exactly like
+this, as in boy, as in vote, as in totes, can be really helpful. And it can help you
+get a sense of these things even before you got that proprioceptive, t-t-t-t, yeah that
+feels alveolar thing exactly down. So the answer here is e. This is a velar sound. K
+as in taco, king, cat. King, cat. All of those sounds are, well, okay, k and k are both velar
+sounds. There are some other places of articulation that English doesn't use. Uvular sounds involve
+the uvula. The uvula is that little dangly bit, ah, at the back of your throat right
+there. That's the uvula. And this is, as Cardi B says, that little dangly thing that's swaying
+in the back of my throat, that is, that's the uvula she's referring to there. Although
+I've got to admit, this has much, much better flow. Anyways, the French R, for some reason
+R didn't register there, but either way, the French r, r, r, r is a uvular sound. We don't
+use uvular sounds in English, but, you know, we could. That'd be fun, right? But anyways,
+those are uvulars. And then retroflex sounds curl the tongue up and back. R, r, r, r, r.
+So Hindi and Urdu are both using these sounds. And I've included a couple of reference diagrams
+here that show you where in the mouth these things are being made. So bilabial, dental,
+you can see is right behind the teeth here, versus alveolar, which is a little further
+back. So the tongue moves back and forth. Dental, alveolar. Going further back, curled
+is retroflex. Palatal sounds are in the middle. These are true palatal sounds rather than
+post-alveolar or alveolar palatals. Then velar sounds and then all the way back, uvular sounds.
+So that's a place of articulation. Where is the tongue doing things in your mouth? Or
+more specifically, where are the articulators doing things in your mouth? For manner, the
+question becomes, what are we doing with the articulators there? Right? And so a stop
+is a sound that will stop the airflow. It puts a complete stop to the flow. So a-ta,
+a-ta, a-da, a-da, a-ga, a-ga. You can see that it's very visible with a-pa, a-pa. There's
+nothing going on. There's nothing coming out of my face during the P in a-pa. And so
+that's a stop. So cat docket has a bunch of stops in it. Taps. Throw your tongue against
+the roof of your mouth. A-da, a-da, a-da. Saying ladder, ladder, ladder, ladder is not
+the same thing as saying ladder, ladder, ladder. So later ladder winners, all of those things
+are taps. What you're doing there is you're just taking, if this is the roof of your mouth,
+you're just taking your tongue and just doing like a thump, thump, thump, thump, as opposed
+to a stop, which is a fully articulated up, down, up, down. This is thump. So later ladder
+winners. So there you go. Fricatives constrict the airflow in your mouth to make sounds.
+So instead of having a-ta, if you pull the tongue just a little bit lower, you get a-sa,
+a-sa, a-sa. So there's just a little tiny gap there for the airflow to come through
+rather than a full stop, which closes that gap. So this means that you have ssss, air
+that's fricated. You have air where there is friction that's causing sound. So a fricative
+constricts the airflow to make sounds. And so fricatives would be, for instance, flashy
+soviet shifters. All those are interesting. Nasal sounds, channel air out of the nose,
+as in wingman, wingman. Those are all nasal sounds. So OK, good. Next up, here are a nice,
+this is a nice example of what a fricative actually looks like. So, I'm sorry, this is
+not a good example of what a fricative looks like. My apologies. This is a nasal, a fricative
+looks like just a little bit further down there. I forgot how I modified this slide
+this morning before recording this. Anyways, this is a good example of what a nasal looks
+like. For a nasal stop, or I'm sorry, for an oral stop like T, everybody say A-TA, A-TA,
+you have a stop here and you have closure all the way back here in the velar area. You
+also don't have any voicing, but we'll talk about that in a bit. When we go to a nasal
+sound, the mouth actually isn't changing. If you say TA-TA, TA-TA, NA-NA-NA, say CAN-T,
+CAN-T, CAN-T, CAN-T. The difference between the N and the T-T-T is very, very small. The
+difference is the velum in the back of the mouth here. We're changing this to represent
+voicing here, but the velum here is open. It's allowing air to flow out through your
+nose. There is a valve back there. The velum moves up and down. If this is your velum hanging
+down and this is the uvula down here dangling around, if this is the velum, what it will
+do is for a T, it's locked up against here, but for a NA, it lowers down. It hangs down
+more limply, so you get airflow coming through out the nose. So TA, or I'm sorry, TA-NA,
+TA-NA, TA-NA. And so you get that difference there. So that's the difference between oral
+and nasal. Approximants are bringing the tongue towards someplace, but they're not
+quite getting there. So if this is a stop and this is a fricative, an approximant might
+be a little bit lower. There's a bigger gap between the articulators here, and so it drops
+down a little bit lower. So this would be something like Y-Y-Y-Y. It's not a fricative.
+It's not H-H-H, but it's Y-Y-Y. Just the tongue Y-Y-Y. Or W-W-W. And actually W's interesting
+because you have two articulations, right? You've got a lip articulation, a W-W-W, and
+you've got a tongue articulation in the back. But you will, both of those things are approximants.
+Then you get laterals, where you're channeling air around the tongue. This is the only sound
+where we need to think in three dimensions, so to speak. So far we've been able to get
+away just fine using sagittal section views like this. But actually, an L looks a lot
+like this, if you were to look at it in this view. The difference is, imagine that you're
+looking straight into my mouth. What you would see for a T is that the entire blade of the
+tongue is up against the roof of the mouth, but for an L you would see that the sides
+of it have dropped down. We're going to prove that to you through a very, very awkward experiment.
+These are sounds as in the L sound, lateral. So, what I'd like you to do is to say, just
+hold an L. Now what I want you to do is to not move your tongue, but breathe back in.
+So, you're going to feel that the sides of your tongue get cold because the air is blowing
+by it, but the tip of your tongue doesn't. That's because the tongue is not up fixed
+against the roof of your mouth. Instead, it is curled down around the sides. So, lateral
+sounds channel air around the tongue. Really cool stuff. Grumpy Cat's preferred manner
+of articulation, of course, is stop. Just saying. So, okay, the initial sounds in Taco
+Bell, T, B, are A, stops, B, fricatives, C, nasals, D, approximants, and E, laterals.
+I'll give you a drink of tea to figure that out.
+Okay, so if these were laterals, you would expect to feel the tongue down at the sides.
+So, that's not the case. Now, the tongue is actually touching the roof of the mouth, so
+that rules out, actually, approximants and fricatives. Approximants and fricatives aren't
+quite touching. Nasals, T, T, T. One way to tell a nasal is to put your hand just
+right here, and then say, for instance, M. You're going to feel the top of your finger
+there getting hot from the air coming out of your nose. M. Now try T, T, T, T, B, B,
+B, B. Nothing. So, it's not nasal. That leaves behind stop. These are stops. They stop the
+airflow. How about feline show? F, SH. Stops, A, fricatives, B, nasals, C, approximants,
+D, laterals, E. SH. SH. Okay. Lateral. Could they be lateral? No, because, see, there's
+nothing lateral about that. It's not like the sides of the lips are down. We're not
+Oh, God, that's a, I think I just discovered a cursed fricative. Anyways, it'd be a labiodental
+lateral fricative. Okay, moving on. That's not a thing. So, this isn't lateral. We know
+that much. F, SH. The sound coming out of that, the source of the sound is the F. It's
+the turbulence, right? The frication. SH, F, SH, F. So, it can't be an approximant because
+there's not that in something like Y, W, Y, W, Y, W. That's not there. Okay. SH. No,
+no heat on the top of my hand when I do that. Not a nasal. And is it a stop? No, it cannot
+be a stop because there is continued airflow. So, that leaves us with B, fricatives, is
+the correct answer here. So, we could go through and study that. In fact, I give you that as
+something to do on your own. Figure out what sounds are at the start of grumpy cat hates
+humans. Alright. So, then finally, let's move on to voicing. What is voicing? Voicing is
+asking a very simple question. Is the larynx buzzing or is it not? Do you have vibration
+going on inside your voice box or no? Okay. So, to check this, let's do something a little
+strange here. And actually, I'm going to give a quick content warning. I'm about to show
+you a video in which a camera is passed down the person's nose looking down into their
+vocal folds, which is just fun. Right? So, what we're going to see here is an anatomical
+tutorial here produced by this particular group of ENT folks and put on YouTube. But
+what we see here is the camera being inserted into the nose. And here, we see the internal
+structure of the nose. So, this is what you see as the camera pushes through. We're sliding
+in, in, in, in, in, further down. Okay. Right there, that's what we call the velopharyngeal
+port. We are at the point in this where we are at the top of the nose. So, if we're kind
+of, if this is the velum hanging down here, we've gone through this area and now we're
+coming down. Now, we are going to loop down and plunge through the velopharyngeal port.
+And we're seeing the movement of the velum as they're making oral and nasal sounds. So,
+in this case, we'll start sliding down. And beautiful. All right. So, now, what we're
+seeing are a couple of different structures here. Down beneath here, we see the larynx.
+We see the two sides of the larynx right there. Then, we see this bigger structure beneath
+it, which is the epiglottis. The epiglottis is a really cool structure and it exists for
+really one purpose. And that is to keep food from going into your lungs. Because there
+is a Y-shaped intersection down in there. On one side, you go down to your esophagus.
+You go down into the stomach. The other side, you go down into the lungs. And in many ways,
+it would make sense for us to have two sets of holes, right? We could have a mouth for
+food and then an air hole that goes to the lungs, but we didn't go that route. So, we
+have a fundamental problem. If I drink a bottle of water, for instance, probably not a whole
+bottle, but who knows, if I drink water, you want it to go into the stomach rather
+than going into the lungs. And so, the epiglottis exists simply to, nope, closing the lung hole.
+I detect food. We're closing that. And when you choke, actually, it's just a failure of
+the epiglottis to be there in time. If you swallow, it needs to come down there. And
+if you swallow wrong and it goes into your lungs, that means that this wasn't a complete
+seal and some of the fluid went down towards your lungs. The epiglottis is a thing that
+is keeping you alive in a very, very real way, but we never even give it credit for
+it. It's sad. So, okay. As we look here, we're going to see there's the epiglottis, that
+little crescent there. There, vocal folds. These little structures right here on either
+side, those are the vocal folds. And so, what we see here is as this person, and I'll turn
+up the volume. As this person voices, you see them come together. The vocal folds have
+come together and they're vibrating very, very quickly back and forth like this. This
+looks like something out of an alien's movie, right? Okay. Now, we've turned on a strobe
+light and this is going to allow us to see the vocal folds moving in something that's
+actually visible. Because normally this is happening 150 to 300 times per second, depending
+on the pitch of your voice. And that's the view, by the way, down into the lungs. And
+by the way, here, this will make you creeped out. Did you see, here, I'll scroll back a
+little bit. Hey, this will make you creeped out. Good, let's do it. If you look inside
+this little area here, you can see little rings here. Little cartilaginous rings. These
+rings actually turn out to be really important because, have you ever tried to... Why are
+straws stiff? Let's put it that way. Like a drinking straw, why are they stiff rather
+than just a rubber tube? Well, because if it's just a tube and you suck through it,
+it'll just kind of clap shut, right? These little rings here are what prevent our trachea
+from shutting. When we suck in air, it'll be easy for it just like, okay, we're shut.
+And then you die. And you don't want to die. So these little rings here are helpful. And
+you can feel them, by the way. If you go, if you find your voice box, talk, say, ah,
+find the point where you feel the most vibration. And then if you kind of move down a little
+bit and then press in, you'll actually feel those rings there in your own body in all
+likelihood. I mean, your anatomy may vary, but still, for many people, those are tactile.
+But we can see here the vocal folds moving back and forth, coming together and apart,
+together and apart, together and apart, together and apart, to produce voicing just like that.
+Isn't that creepy? Yeah, that's inside you right now. The world is horrifying. All right.
+So those of you who are not okay with that tutorial can come back to the slides now.
+And let's pretend that we're snakes eating bees. Yeah, I know. This is just going off
+the rails, isn't it? But work with me here. Work with me here. So the very best way to
+detect voicing is to feel both sides of it, right? So we're going to start off by being
+snakes. And what do snakes go? Sss, sss, sss, right? So every day say sssss. Okay. Put your
+hand here. Sssss. Do you feel anything? No. Now let's pretend we're bees. Zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz.
+feel anything? Zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+Yeah, that's weird, isn't it?
+But what you're doing when you switch from snake to bee is you're turning on voicing.
+When you switch from bee to snake, you're turning it off.
+And we do this all the time.
+Many of the sounds we use are voiceless.
+Some of the sounds we use are voiced.
+And we go back and forth switching all the time, and it never even occurs to us that
+we're doing something that's really amazing.
+So okay, the word, the kuh, the start of cats, is that voiced or voiceless?
+Try it.
+And it might help to put your hand here, kuh, kuh, kuh, kuh, kuh, kuh, kuh, kuh, kuh, kuh.
+Voiceless.
+Okay.
+Bob, buh, buh, buh, buh, buh.
+Chances are you're feeling a little bit of voicing here.
+You're feeling that vibration.
+How about month, mm, month, mm, month?
+Ff, mm, voiced.
+How about the ff at the end, ff, ff?
+That one's voiceless.
+How about those, those, those?
+The th at the start is voiced.
+Now let's try a different, well, actually, no, let's not try a different thing yet.
+I rearranged the slides.
+And I'll leave these other ones for you to figure out on your own.
+But still, let's think about the initial sounds in phonetics, winds, popularity.
+Ff, wh, puh.
+Are these A, all voiced, B, all voiceless, C, voiceless, then voiced, then voiceless,
+D, voiced, then voiceless, then voiced, or E, none of the above.
+Okay.
+So the correct answer here is th, th, th is voiceless, w, w is voiced, p, p, p is voiceless.
+So c is the correct answer here.
+So this gives us our three steps for describing consonants.
+We need to know three things.
+We need to know the place of the sound, we need to know the manner of the sound, and
+we need to know whether it's voiced or not.
+So if you want to describe a consonant to me, the things that you need to tell me are
+its place, manner, and voicing.
+If I know those three things, by and large, certainly for English, I'm all set.
+I mean, all consonants can be described this way, and in fact, we will do this over and
+over again.
+So an M is a voiced, mm, bilabial, mm, mm, mm, nasal, mm, yeah, there's nasal airflow
+there.
+T is a voiceless, t, t, t, alveolar, you can feel it right behind the teeth there, or on
+that ridge further back, and then a stop, because it's stopping the air, the air explodes
+out afterwards, t.
+A G is a voiced, velar stop, g, g, g, g.
+An F is a voiceless, labiodental fricative.
+And so all of those sounds are describable in that way.
+All of these sounds that we have in any language can be broken down in this way.
+There's some weird ones in English.
+For instance, the English R, r, r, r, is a voiced, alveolar, approximant.
+Thing is, though, for some of you, that's not going to be alveolar, really, at all.
+Read read the wrong resolution.
+Everybody say, r, r, r, r, r, r, hold that, r, okay.
+Now what I want you to do is tell me, well, you can't tell me, because I'm recording a
+video, mm, mm, mm, okay, sorry, I'm bitter.
+But nonetheless, for many of you, the tip of your tongue is going to be curled up in
+the front of your mouth.
+So r, r, r, for many of you, the back of your tongue will be bunched up in your mouth.
+And for some of you, both of those things may be present.
+But the fact is, different people make the English R differently, which is why it's super
+weird, right?
+And so this is why so many kids have trouble with it, that is, is because different people
+do it fundamentally differently.
+W is a voiced labiovelar approximant, w, w.
+So you have both a labial gesture, a w, a w, as well as a velar gesture, w.
+The back of your tongue is doing something as well.
+So if you have a sense like Will would wisely watch the wind, well, lots of w in there.
+And by the way, this has a voiceless version.
+This is voiced, but w, w, w, as in cool whip.
+If you've ever watched Family Guy, they make fun of this a lot for some reason, which I'm
+grateful for.
+But cool whip, which, which, versus which, which, which, which, which, interesting, right?
+An affricate is a different thing.
+It's a different manner of articulation, but kind of.
+It's actually a fricative that is immediately after a stop.
+So if I have, for instance, something like, let's see, everybody say chocolate, chocolate,
+chocolate.
+Okay.
+Now say, ta, chocolate, ta, chocolate.
+Little faster, ta, chocolate, ta, chocolate, ta, chocolate.
+Little faster, chocolate, chocolate, ta, chocolate, chocolate, ta, chocolate.
+Now faster still, chocolate, chocolate, chocolate.
+Ah, chocolate.
+Yeah, that's right, chocolate.
+So this is how an affricate works.
+You get a fricative, I'm sorry, a stop immediately followed by a fricative at the same place
+of articulation.
+So judge is an affricate of d, followed by a j sound.
+So an alveolar fricative followed by a post-alveolar fricative, d, j, d, j, d, j, j, j.
+The sound in cheese is a t followed by a sh sound, t, sh, t, sh.
+Cats, cats, ts, ts, t, s, ts, ts, t followed by an s.
+So this is affricates.
+But thing is, once we've organized our sounds by place, manner, and voicing, then we end
+up actually with the IPA chart, right?
+We end up with the English consonants in the IPA chart.
+Because the IPA chart has places along this axis here.
+So bilabial, labiodental, dental, alveolar, post-alveolar, and so forth.
+And it has different manners of articulation along the top here, starting with plosive,
+which is the tightest closure, then nasal, next tightest, trill, which is a series of
+taps, a tap or a flap, a fricative, a lateral fricative, we don't have those in English,
+an approximant or a lateral approximant like a-la, a-la, that kind of thing, the L sound.
+But if we organize the IPA chart in this way, we see English.
+And in fact, the chart is organized just like that.
+You have most closed at the top, most open at the bottom, front of the mouth at the front
+of the chart, back of the mouth at the back of the chart.
+And then within each little cell here, you have the voiceless one, and then you have
+the voiced one.
+Neat, right?
+So the IPA chart is a way not only of representing things, but it's a way of schematizing what's
+out there, schematizing the sounds of the world in a way that's much more learnable
+and much more usable.
+If you have something that's, oh, god, that sure feels like a tuh, but it's a little further
+back and my tongue is curled, tuh, tuh, oh, retroflex, neat.
+So yeah, that's how this works.
+That gives us the International Phonetic Alphabet, and again, there are plenty of sounds that
+aren't present in English.
+Like for instance, a-shah, shah, shah, shah, isn't present in English, a-shah, shah, shah,
+palatal fricative, a-ra, ra, ra, ra, ra, uvular trill.
+But all of those things are around, we just don't use them here.
+If you can't figure out where in the mouth something is, there's an interactive sagittal
+section tool.
+I actually used it to produce some of the graphics in this presentation already, but
+it's a great little tool and fun thing to play around with for certain values of fun.
+So those are consonants.
+That's how consonants work, and this is a great time for you to ask yourself, okay,
+cool, do I have any questions?
+So before we go on, I get tea, you get questions.
+Write them down for the next session.
+Okay, so vowels.
+Vowels are the next thing to think about.
+Vowels are created by shaping your vocal tract in a certain way.
+A vowel is voicing that passes through and resonates in an unobstructed vocal tract.
+So unlike with a consonant, where there is an obstruction, there is a stop, there is
+a fricative or something like that, a vowel just has ee.
+The voicing is just going out, oo, ah, ah.
+Just works that way.
+And if we change the position of the tongue then, we're able to change those resonances.
+We're able to change the sound of that, basically of our face, by changing the position of the
+tongue.
+So different vowels will have different tongue shapes.
+So for instance, the red line at the top there is ee, then blue, green for eh, and
+then purple is ah.
+So ee, eh, eh, ah, and I bet if you do that, ee, eh, eh, ah, you can feel your tongue moving
+a little bit.
+Give it a try.
+So vowels are very, very different from consonants in a bunch of different ways.
+To start with, they are always for English voice.
+There are languages that use voiceless vowels.
+We're not covering those this quarter.
+But nonetheless, vowels can occur on their own, and they do occur on their own.
+For instance, I is a word as well as a vowel, ah, another vowel, ee, oo, nice, vowels are
+awesome.
+We describe vowels using fundamentally different characteristics because they don't have things
+like a place of articulation so much.
+You've got a tongue shape, it's not quite the same thing.
+You don't have a manner, they're all doing the same thing, and they're all voiced.
+So we talk about vowels differently.
+But first, let me ask you a question.
+How many vowels are present in mainstream US English?
+Five is A, five, sometimes six is B, C is 12, D is 17, E is 21.
+Think carefully.
+Remember when I told you about your writing system?
+Yeah, it's a liar, it's a dirty, dirty liar.
+Correct answer is 17.
+Let's introduce you to those.
+Remember, writing system sucks.
+Because you have been taught all your life A, E, I, O, U, and sometimes Y, never Y.
+Instead, these are the monophthongal vowels we have in English.
+These are the vowels that are only one gesture in English.
+So we have E as in beat, that's that first symbol there, I as in bit, A as in, I'm sorry,
+E as in bet, A as in bat, A as in sofa, bird, butter, A again, we'll talk about the difference
+between the sound in sofa and but a little bit later on, A as in bought, O as in bought
+for some people, O as in book, and O as in boot.
+So here's a nice list of words that you can memorize.
+Here is a beautiful, beautiful list of words that you can memorize.
+And in fact, I would highly encourage you to do so.
+So just for E, if you remember a couple of these vowels, that'll let you know what that
+vowel is, right?
+If you think E, if I show you E as an IPA symbol, and you think beat, see, seen, seer,
+seal, then you'll be able to match whatever vowel you're hearing to that.
+Or IH is bit, sin, tin, or bit, sit, tin, sill, ET, okay, or EH is bet, set, sent, fair,
+sell.
+Memorizing these words will give you a really good sampling of what these vowels sound like
+in a variety of contexts.
+And this is the very best way to memorize the vowels.
+For IPA, just memorize these words and you'll be good to go.
+I'm also giving you a handy sheet, by the way, a little handout that gives you information
+about various and gives you examples of all of the IPA characters.
+So that's going to be useful.
+But one of the things we should talk about is this pair right here, AH and AW, AH, AW.
+So for most people, these sound different in, for instance, so corn uses this vowel.
+We'll call this open O, call this back A. But a question that is worth asking is, do
+you pronounce these two words differently, C-O-T and C-A-U-G-H-T?
+Are these different or the same for you?
+A is yes, they're different.
+B is no, they're the same.
+Try it.
+So for me, I have for the first one caught and for the second one caught, caught, caught,
+caught, caught.
+For me, they are exactly the same vowel.
+But there are people around the world who have this as a distinction.
+Usually there's someone in the classroom I can ask to do it natively.
+But for many people, you get caught, caught, caught, caught, caught, caught.
+So C-O-T is caught and then caught, something like that.
+But it's going to vary from dialect to dialect.
+Many people around the world have different sounds here.
+So ah, aw, ah.
+These can be two different vowels for some people.
+But for many people, myself included, these emerged in all but a few of these cases.
+But even for me, and even for you, chances are, as a Californian, horse and corn will
+still have the aw sound, aw.
+So it's not the case that the open O is completely disappeared.
+It's just only found in a few places.
+Also in the word boy, by the way, or soy, or soy boy for that matter.
+So yeah.
+Next question becomes, what's the difference between sofa, that sound, that uh at the end
+there, and but?
+They sound alike.
+And how about bird and Twitter?
+What's the difference?
+Well, the difference between these things is that we use, this is actually more of a
+phonological distinction.
+It's a little tricky.
+But we use this in unstressed positions in words, as opposed to where you have something
+where there's just one vowel in the word, or that vowel is in a stressed position.
+So for instance, in sofa, we're just looking to be done with that uh sound at the end there.
+It doesn't really matter to us.
+Sofa, it's just kind of, it's reduced.
+We don't care.
+As opposed to a word like butter, butter, butter, that uh sound is very important, butter.
+So in that case, it would be the wedge looking one.
+So we can talk about schwa up at the top here, and then wedge is this vowel, this vowel over
+here.
+I wish I could reach all the way across the screen.
+Anyways, this is by the way, the same difference between the er sound and the other er sound.
+And for this class, you can write this as just schwa followed by an upside down R for
+both of those sounds.
+I'm not making you do that difference.
+But I have a lot more details here at this link, and you should read that because it'll
+be really helpful for understanding this difference.
+So okay, to describe vowels, we're going to talk about three different dimensions.
+We're going to talk about where the tongue is in the mouth relative to height, high,
+low, or medium, or closed, open, or mid.
+You'll see both on the IPA chart.
+We'll talk about where the tongue is in terms of horizontal space.
+So front to back, and you have central in the middle there.
+And then we'll talk about whether the lips are rounded or not.
+So this gives us the vowel sandcrawler, nerds.
+But nonetheless, we get this kind of shaped vowel chart that looks like this in this particular
+way.
+And let's think about why it's shaped this way.
+So when I really say, ooo, aah, ooo, aah, where's your tongue going?
+It's falling, right?
+So we start up at ooo here, ooo, aah.
+Now say ooo to ee, so ooo, ee, your tongue's moving forward, ooo, ee, yeah, this is the
+part where your roommate looks at you like you're crazy.
+Now, everybody go from ee to aah, ee, aah.
+Is your tongue going straight down?
+Ee, aah, no, it's actually, it has to go backwards because your tongue can't go straight down
+from ee because your jaw doesn't work like that, you don't have room.
+So ee is far forward above aah, ee, aah, so that's why it's shaped in this way.
+So that's the IPA vowel chart.
+And where you get things on both sides, like for instance here, one of these is rounded,
+one of these is unrounded.
+That's the big difference there.
+And the IPA vowel chart fits in the mouth like this, where the front is, the ee is at
+the front of your mouth-ish, the high is low, I mean, kind of intuitive, right?
+Front, back, et cetera.
+But if we look at this, it kind of makes sense, right?
+The IPA chart is capturing parts of where your tongue actually is.
+So if we look at ee here, we see that it is much higher and fronter in the mouth than
+oo.
+And aah is much lower and backer, pardon me, than ee.
+And aah is lower and backer than anything else.
+Cool.
+Makes sense, right?
+So okay, diphthongs are a slightly different thing.
+All the vowels we've been talking about, for instance ee, ee, you can hold an ee forever,
+like ee, ee, ee, and so forth.
+You can keep an ee going for a long time.
+But a diphthong is different.
+A diphthong is a vowel where it has inherent movement.
+The vowel starts in one place and moves to another one.
+You start at one, move to another.
+So these are words like boy, oi, oi.
+You can't hold an oi, right?
+You could say it very slowly, oi, but you can't hold on to it.
+Or I as in buy, a as in bay, o as in boat, and cow as in ow.
+All of these things, or ow as in cow, I suppose the other way around, all of these vowels
+have movement in them inherently.
+I starts as an ah and becomes an ee.
+A starts as an eh and becomes an ee.
+O starts as an oh and becomes a wuh.
+And so these are diphthongs.
+They have two chunks, as opposed to monophthongs, which are the other ones.
+And so here's another listing of diphthongs for you, and again, we've got that quick reference
+sheet for speech that you can check out as well.
+But you've got boy, soy, toy, join, oil, Roy, et cetera.
+All of these are American diphthongs, or mainstream U.S. English diphthongs.
+So we have a bunch of vowels.
+We have 12 monophthongs.
+We have five diphthongs.
+So we can describe these vowels in terms of high to low, front to back, and rounded or
+not.
+And all of this is how we describe consonants and vowels.
+We use place, manner, and voicing to describe consonants, and then we use height, frontness,
+backness, and rounding to describe vowels.
+Actually, one thing I didn't go too deep into was rounding.
+And rounding is maybe something I should touch on just in a little bit more detail.
+So you've probably noticed this already, but if I say ee, ee, ee, my lips are pretty wide
+open.
+Ee, ee, ee, as opposed to oo, oo, oo, where my lips are much more, well, pursed together.
+Oo.
+That's the difference between rounding, by the way.
+I think I touched on that, but just in case.
+So this is how we describe consonants and vowels.
+This is how we understand these segments and these sounds to work in our mouths, inside
+of our heads.
+And so by knowing this information, we can then start transcribing them.
+We can start using the IPA to write down the sounds as they are actually there.
+And so to wrap all of this up today, speech is crazy complicated.
+The English writing system is a large lagoon of lies.
+We describe consonants by talking about place, manner, and voicing.
+The English writing system is a festival of falsehoods.
+We describe vowels by talking about height, frontness, and backness, and rounding.
+The English writing system is a dumpster of deception.
+And the IPA can save us.
+So next time, we're going to talk a little bit more about transcription and get into
+some more phonetic fun.
+So thank you all very much, and I will see you for the next video.

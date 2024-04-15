@@ -1,0 +1,741 @@
+Hello, everybody. Today, we're going to talk a little bit more about what is language,
+generally speaking. This is linguistics class, right? We're looking at language. Well, what
+is that thing? What are the lines? What makes something language and something else not
+language? Today, we're going to get into that a little bit and talk about what's language.
+So today's plan, we'll start off talking about, well, what is language? Wow, what a shock.
+Then we'll talk about some characteristics that language has. We'll talk about how universal
+language is. We'll talk about things that aren't language, but maybe are on the borderline.
+And we'll talk about a really sticky question, which is, does language shape our thoughts?
+This is, yeah. So anyways, let's go into what is language.
+To start with, sort of as good a generic definition as we've got is that language is a system
+for linking expressions, and expression can be many things. It can be spoken, it can be
+signed, it can be written, but some way of linking expression to meaning. But the thing
+is, that's really generic, right? There's not that much of interest there. We're probably
+better off not thinking about it in terms of that, but thinking about what makes language
+language-like, because that turns out to be a really interesting question.
+So what characteristics are always present in language? So there are three big characteristics
+we're going to talk about over and over and over again this quarter. First off is arbitrariness.
+There are arbitrary relationships between the signs, that is the things that we use
+to make language, whether those are words, written areas, or signs in a signed language,
+and the things that they signify, things out in the world, like for instance, phone. That
+is a thing that can be signified. These languages are always fully productive and very creative.
+And then finally, speakers have some knowledge of grammar and rules in language where they
+don't have knowledge and grammar of rules of other things.
+So okay, to start with, there are arbitrary relationships between the signs and the things
+that they signify. What does this mean? Language, like I said, has signs and signified things.
+A sign is anything that a human does. This is very, very broad, right? Smoke signals
+could be considered a sign, even though they're not language, strictly speaking. We'll talk
+about that later on. But there are many things that could be considered a sign.
+The signified, though, is usually something in the world. That's a very vague definition.
+In the world could mean something that's very concrete. Hey, present a remote. Or it
+could mean something that's very abstract. Dignity. Whatever that is. Respect. You can't
+point to it necessarily, but it does exist. It's something there.
+So the link between these two things is important for us to think about. There are non-arbitrary
+signs out there in the world where the sign is linked to the signified. So smoke is a
+sign of fire. Sorry, a little too soon. But still, when there is smoke, you look outside,
+you see smoke, you're like, oh, something's on fire. This is not arbitrary. The relationship
+between these two things is, in fact, causal. By and large, fires cause smoke. Yes, chemists,
+I'm aware, but still. Similarly, bleeding is very often a sign of injury. There are
+cases where you bleed without injury, but still, it is a, it's usually the case that
+if you are bleeding, there is injury going on. If you, you know, touch your face and
+you suddenly realize there's blood, then chances are you've been injured in some way, shape,
+or form. Similarly, if I'm in a room, this signifies that there will be bad puns, and
+this is not arbitrary. Anytime I'm in a room, there are bad puns. I cause the puns to enter
+the room. So these are non-arbitrary signs. There is something inherent about these things.
+Generally speaking, injury causes bleeding, I cause puns, smoke, I'm sorry, fire causes
+smoke. Then there are iconic or representational signs out there in the world where there is
+an abstraction. What I mean by that is it's not exactly the same thing as the thing that's
+being signified, but it still is a very clear reference to that thing. So emoji are a really
+good example of this. If we look at this first little emoji up here, that looks a whole lot
+like an umbrella, right? And although if you're from Southern California, you might not know
+what that thing is. It's used for rain. Sorry, I came from Michigan. Most recently, I'm bitter.
+So there's that. And then you've got a snowman wearing a hat, where the snowman is very clearly
+signified, as is the hat. You have a glyph of the sun, and this is very abstract, right?
+If you look up at the sun, you never see those little lines, and for that matter, it won't
+show up black, by and large. And so it's very abstract, but it is still definitely representing
+a sun. Of course, the poop emoji, by and large, you don't see the eyes and mouth. Talk to
+your doctor. But anyways, the poop emoji is definitely an abstraction, and the face palm
+is very much, I mean, there is an abstraction there, but it's very clear what's going on.
+If I send you that emoji, it's very clear what I feel about the thing that you just
+sent me. There are also hand gestures that are very iconic, that are representational.
+So for instance, in spoken English, you can do the, oh wow, I taught them about speech
+perception. This whole thing is iconic, right? It's meant to mean your head exploded, right?
+Or somebody angers you, how do you feel about that? That's kind of a, and I'm not saying
+hit the person, I'm saying you can do that gesture. And there are other kinds of hand
+gestures out there that are very much iconic, that represent the thing that they're meant
+to represent. Some sounds that we make, with the mind blown thing, is very much iconic.
+Or for instance, you know, oh, I dropped a bomb. This is purely iconic. It doesn't exactly
+sound like what a bomb being dropped sounds like, but it certainly has elements of it
+that are reminiscent there. There are signs in the world that are very much iconic. For
+instance, this one here tells us that there is a bend. Do bends in the road look like
+that? No. But it tells us that there is one coming, that it is a sharp bend, rather than
+a very shallow bend, and then the part below it is purely arbitrary. Ten MPH doesn't mean
+anything about speed at all, but we understand it. But this is very much an iconic sign.
+Something to consider. We can contrast this with something that is fully arbitrary. These
+things are referential only because we agree that they are referential. Only because there
+is widespread knowledge of their meaning. So these can be non-representational symbols
+or uses of symbols. So for instance, the first symbol over there, this little guy right here,
+is an alchemical symbol. I believe it means Saturn. Does this look like the planet Saturn
+in any way, shape, or form? No, not particularly. But it does mean that to people who are well-versed
+in, oftentimes astrologers know this symbol too, but people who know alchemy will be familiar
+with this symbol. The symbol next to it here, this eggplant, as many of you may be aware,
+this has two meanings now. One of them is strictly iconic. It is an eggplant. The other
+one is a little bit more arbitrary. Now, many of you may be thinking, Will, the use of the
+eggplant to signal a part of the anatomy is kind of iconic though, isn't it? Well, yes
+and no. It is, but there are many emoji that are shaped roughly like that, right? But we've
+chosen this one arbitrarily. The peach, one could also argue, having another second anatomical
+meaning independent of the fruit, there's some element of iconicity there, but the fact
+that we've chosen to use peach to mean certain things, or a certain part of the anatomy,
+is arbitrary. So there's that. There are also non-iconic gestures. For instance, thumbs
+up. There's nothing at all about this in our culture which means, hey, this is good. Okay,
+rock on. In fact, in other cultures around the world, this can be a very offensive gesture.
+We've seen, and you see shifts in this. For instance, the okay gesture at one point in
+time was simply okay. Now it's taken on other secondary meanings, which are maybe not so
+desirable these days. So anyways, there are different gestures here that are completely
+abstract. They're not iconic. They're just arbitrary. You know, one could even argue
+that waving, we do it all the time. It feels very much, but there's nothing necessarily,
+there's no reason you couldn't say goodbye to somebody by going, or you know, or even
+just, I mean, there's no reason not to have those things. Here's a really good arbitrary
+sign. Many of you probably don't know what this sign means. This is a Scottish road sign.
+My wife and I, when we went on our honeymoon, saw this sign on the side of a lot of the
+roads there, and we couldn't for the life of us figure out what it meant, because there
+is literally nothing that it means, right? You could look at it like there is a road
+here, because there's kind of the white area up in the corner here, and then there's the
+dark in the middle. Maybe that's the case. Could that be it? Maybe there's nothing really
+meaningful about it itself. Then we looked it up, and by the way, googling this is like
+Scottish sign with white on either side of black, not straightforward. It turns out that
+what this means is go the legal speed. There is a designated speed for certain types of
+road. You should go that speed here. This is not only the dumbest sign ever, because
+it relies on two levels of arbitrary knowledge, knowing what this sign means and then knowing
+what the legal speed is. This is a bad sign. Not like if you see this, it's a bad sign
+for your life, but it is a sign that is really ineffective. It doesn't show us much of anything
+and requires many levels of arbitrariness to understand. So go whatever speed is legal
+here is not straightforward there. Let's think about a question real quick. We have the flame
+emoji here. In the sentence, oh my God, he started A in his trash can. Is this non-arbitrary?
+And iconic, or is this purely arbitrary? Think about it for a second. Okay, the best answer
+for this is going to be non-arbitrary, because in this case, this flame emoji refers directly
+to fire. This flame emoji refers directly to that thing that we see there. It's not
+complete. There's no abstraction really here. It doesn't look exactly like a fire, but we're
+talking about the concept fire by picturing a fire. Compare it to this, the fire emoji
+in oh my God, that party was, is this iconic and non-arbitrary, or is this arbitrary? Think
+about it for a second. I'll stand here awkwardly. So in this case, this is going to be non-arbitrary.
+Luckily, I mean, we hope that that party did not involve fire, like literal fire. If you
+text somebody that, they're not going to assume, oh God, what happened? Was anybody burned?
+That's not what this means. Instead, what this means is, oh my God, that party was lit,
+is generally how this would be read. And you can use the fire emoji, because fires are
+lit and there's a train there, but you have to know that what this means is actually the
+party was really enjoyable, or however you'd like to translate lit into boomer, however
+you want. But anyways, that's completely arbitrary. And so there's the difference.
+So in terms of arbitrary signifiers, the most important ones for us in this class are going
+to be words, right? The connection between words and meanings in language is mostly arbitrary.
+I say mostly, we'll touch on that in a second here, but for the most part, it doesn't really,
+there's no strong link. This thing in my hand is a remote. It's a presenter remote,
+works just fine. But why is it remote? What part of this object here has any link to remote?
+Remote? None, really. So the connection between sound and meaning is mostly arbitrary in spoken
+language. Koala sounds like this if we look at the acoustics of it, but there's no reason
+it needs to, right? It's an independent concept. So koala and koala, the sound are different.
+Signed languages, a lot of, one common mistake people make who don't know much about signed
+languages is that they think, oh, well, signed languages are just iconic gestures, right?
+All you're doing is sort of pantomiming what's going on. Oh, so sleepy must be, or something
+like that. But even that's, by the way, iconic because it's like you're putting your head
+down, but you can sleep in many ways, right? This can't mean sleepy even if you're a back
+sleeper. So anyways, this is an example of a pretty arbitrary sign in ASL. You can make
+an argument that the facial expression, which is a component of the sign itself, by the
+way, in American Sign Language, as in other signed languages, the face itself provides
+useful information. But in this case, tapping, and I believe I'm doing this correctly, tapping
+with that shape gives you lazy. We can look at another one here. Lawyer. Is there anything
+related to the practice of law in this? You might be able to break the sign apart into
+other components that are shared, but in terms of iconicity, there's nothing, if you didn't
+see the word lawyer off to the side there, you probably wouldn't know what this meant,
+right? And similarly, you're welcome. Not, this is arbitrary. The only way that you would
+know this means you're welcome is through established context. But there are iconicity
+elements. If this means horse, then that kind of makes sense, right? Because horses have
+ears that kind of do these kinds of things on occasion, right? So if this is horse, then
+there's some iconicity there. You kind of look a little horsey for a moment when you
+make that sign. Similarly, otters. This whole thing, and again, I'm sorry, my ASL is not
+really existent. But nonetheless, you see the iconicity there of that looks a little
+bit like a cute little otter cleaning his nose and then rubbing his belly or something
+like that. This is plausibly ottery, right? So there is iconicity there. Or dead. This
+is fun because there's kind of a metaphor, right? And I'm, if you, there's kind of the
+idea of to turn over, to die. Again, facial expression. There were other elements mattering
+here. Don't, watch him, not me. It's the ASL speaker. But nonetheless, there is an element
+of like, Oh, fall over dead, uh, involved with it. And so there's some, that's kind
+of on that borderline. But even in signed languages, there are elements of iconicity
+and iconicity is very strong in sign languages, certainly. Um, but there are elements that
+are arbitrary. So you can't just say, Oh, it's all gesture. It's all pantomime or something
+like that. Um, but the thing is, this isn't unique to sign because spoken language has
+moments of iconicity too. Um, one example, uh, is onomatopoeia. These are words that
+when you speak them sound kind of like the things that they represent. So the one, another
+way to think about this is the idea of like the idiophone. This is a similar approach.
+Um, and that's a whole link that is a lot of fun. But in English, we've got some onomatopoeia
+going on. We have, uh, words like boom, boom, boom starts with a, with an explosion with
+a plosive sound and then goes and echoes further out. Sounds a little bit like what we're talking
+about. Gurgle, gurgle, gurgle, gurgle, gurgle. Kind of has a little bit of sound symbolism
+there to it. Woof, woof, woof, woof. Say that louder. My wife is in the other room and probably
+wondering why I'm barking at the screen. Either way, a woof is, is a thing. Um, and it's very
+much, it sounds a little doggy, right? Snip, snip, snip, snip. Yeah, kind of a little bit
+of iconicity there. Woosh. Yeah. Sounds like something just went by you there. Uh, tweet.
+I guess maybe birds sound like the word tweet. I don't know. Either way, onomatopoeia is
+a case where you have sounds or words that is, that sound a little bit like the things
+that they represent. Um, it's definitely around. It's not super common, at least in English,
+but it's there. Um, and like I mentioned last time, actually, roosters say different things.
+Uh, they say cock-a-doodle-doo in English, but in Finnish, there's a different onomatopoeia
+used for them. Uh, and in Italian and in Urdu and in Hungarian, um, there is a whole website
+that you should check out, uh, just talking about the onomatopoeias used for roosters
+crowing. And what's worth recalling here is that roosters don't sound different in other
+languages. It's not the case that a Hungarian rooster is going to sound remarkably, remarkably
+different. Um, you can play the same clip of a rooster crowing for people around the
+world and they will produce different things from it. Cool, right? So, um, this gives us
+further evidence of this, that different languages can't even map a sound onto a sound uniformly.
+It's not the way we work. But the thing is, the very best evidence for arbitrariness is
+that words differ across languages. If the link between the signifier and the signified
+were not arbitrary, then everybody should have the same word for a concept. Put differently,
+if there is some element of remote here that maps onto what I'm doing with my mouth or
+in a sign language, what I'm doing with my hands and the other articulators, then all
+of the languages should have something very similar for it, right? If there is something
+inherent about the word remote and this object here, all the languages should sound kind
+of similar, right? But this is not the case. Um, if you speak a language other than English,
+this is going to have probably a different word. Um, this is a fish, but in other languages,
+in Spanish it's pace, et cetera. And so you can find every language is going to have a
+different word for these things. And although there are related languages that have similar
+words, and in fact there are accidents too, sometimes where multiple languages will have
+similar words for something. By and large, the word for fish is very different around
+the world. So this is characteristic number one. There was an arbitrary relationship in
+language between the signs, uh, the things that we're using to express and the signified,
+the concepts in the world we're talking about. Characteristic number two is that languages
+are fully productive and creative. So what does this mean? Um, here's a, uh, an image
+here. I'm going to drink some water while I do describe this image to yourself or to
+your cat, to your roommate, whoever's around. Describe this image. Think about how you
+might do that. Weird, right? This is probably not an image you've seen before. Um, in fact,
+it's probably not a thing you've seen before. I kind of hope it's some kind of a robot with
+a 48 on his chest, uh, and a slightly nervous smile pointing forward towards what appears
+to be maybe a setting sun, uh, in the clouds, maybe on top of a mountain surrounded by very
+large fish of an unknown species, which are flying, one of whom appears to be screaming,
+and the robot has relatively small non-functional wings. This is not a situation that's come
+up before, right, in your life. I, I, I, again, I sort of hope. Maybe you've lived a creative
+life. I don't know. But this, yet you, you had the vocabulary, and in fact, if you're
+bilingual or multilingual, you have the vocabulary to describe this image in any of those languages.
+You are able to take any new concept, any new idea, and talk your way around it, to
+circumlocute it. Even if you don't have a word for what this thing here is, a small
+winged robot, you can describe it as something. You don't have a word for this species of
+fish. You know what? You can still describe what it looks like, right? So language is
+able to describe anything eventually, right? It might take time. It might take something
+to be circumlocuted, to invent a new word. If I call this fish a, a sprang, then I can
+say, oh yeah, and there are a bunch of sprangs behind the robot. Um, there you go. You've
+just invented something, but that's a part of language, right? Um, and so that's a possibility,
+and it might require incredible skill, right? There, there's the feeling of they should
+have sent a poet. Um, you know, like, wow, this sunrise is so amazing that I don't even
+have words, but still, if you have enough time, you could probably come up with some.
+And so this is creativity. Um, language will get the job done. Any human language is capable
+of describing any scenario, given time, given effort, and given perhaps a little bit of
+skill. Languages are also capable of producing an infinite number of unique sentences. This
+may sound unintuitive at first, but it's absolutely true. Here, um, I'll give you an
+example. Um, there, it is very easy to create a sentence that no one has ever spoken before.
+So I plan to buy a half empty barrel of Doritos as soon as my penguin gets home with the crown
+jewels. I doubt that aside from me in Ling 101, I don't think anyone's ever said this
+sentence before. Um, Doritos don't come in barrels. Uh, half empty barrel of Doritos
+implies that you should be mostly orange at this point. Um, penguins don't generally
+just get home on their own, and when they do, they don't generally have the crown jewels.
+This is new. Uh, right? Uh, this is unique and probably hasn't been uttered before. Or
+here's one that definitely hasn't. I sure am glad that Michael Bay has agreed to direct
+a movie adaptation of my favorite childhood cartoon. Nobody has ever said this. Period.
+I'm really bitter and a Transformers fan. You're going to see me knock on Michael Bay
+a bunch of times. But still, um, nonetheless, no one's ever said that before. And sentences
+beyond that, you may be thinking, okay, well, sure, you can come up with weird, improbable
+things, but any sentence can be grown, right? So I saw Anna. Perfectly reasonable sentence,
+right? Um, perfectly fine. But I can add something else. I can say I saw Anna yesterday. I saw
+Anna yesterday before I refilled the hummingbird feeder. Okay. I saw Anna yesterday afternoon
+right after writing a bad pun, but before I refilled the hummingbird feeder, I just,
+I'm inserting new elements in here. I inserted the right after writing a bad pun, but before
+I, um, et cetera, you can do this and I can keep going. I saw my neighbor Anna who likes
+to hug polar bears yesterday afternoon, right after writing a bad pun, but before I refilled
+the hummingbird feeder and so on and so on. This particular property of language is called
+recursion. The ability to keep adding new things and keep adding things of similar complexity
+within that. A sentence can be made to contain elements from other sentences and in fact
+whole other sentences infinitely. We'll talk about this a lot more once we get into the
+syntax part of it, but this is just a fact. My cat saw the guy who went with Katie, Vincent
+and Victoria to the park where the New York Knicks talked to Mary and you keep going over
+and over and over again and you can make a sentence that is infinitely long. This can
+go on literally forever. I encourage you to try it. Find a friend, a family member, a
+roommate or perhaps a stranger that you're staying away from. But still, and then talk,
+just try an infinite recursive sentence and see how long it takes for them to stop you.
+It's going to be a while. Anyways, so recursion, here's another fun example of recursion, where
+the property of the same structure occurring over and over again is a property of language
+and makes it very productive. Languages, all human languages, are creative. They are productive.
+We are yet to discover a language that is communicatively primitive or unable to describe
+reality. Let me just one more time hit on this. There are no languages that anyone has
+discovered anywhere in the world that are spoken by a group of people that is unable
+to describe some element of reality. It may take a while longer, right? They may not have
+words for certain things. If you deal with a language that is relatively pre-contact
+and you land a helicopter in the middle, they're probably not going to have terms for a lot
+of these things, but you can still talk about the spinning thing on the top, right? Any
+group of people is going to be able to describe the world. It is a thing. There are no primitive
+languages that lack modern words for concepts and can't even express ... This is all racist
+BS. I'm just going to be real with you here. If a language lacks an element of, let's say,
+suddenly, oh, okay, I've never seen a laptop before. They'd say, foldy glow thing with
+buttons. There we go. There's your new word. Foldy glow thing with buttons. You can also
+still have a lot of differences among languages. You can have words that exist in one language
+and don't exist in another, where you don't have that nice small unit to grab onto. We
+talked about some of these in our first lecture. Still, this is ... There are cultural differences,
+of course, but languages are all creative. They are all productive. Any human language
+that we found is able to express a very rich set of meanings. This is really important.
+Languages are fully productive and fully creative. We need to keep that in mind.
+The next characteristic is that speakers have knowledge of grammar. They have knowledge
+of the rules of language. Grammaticality judgments are something we've done a little bit already,
+but some things sound like English. I can give you an English sentence that sounds like
+it should be an English sentence. It's comprehensible, but there are other things that are absolutely
+not English. For instance, let's do some grammaticality judgments right now. Think about it on your
+own for a second. John went to the park with Tamara. Is this English? Is it good English?
+Is it English that if somebody just walked up to you and said it, you'd be like, yeah,
+no problem? Chances are, yeah, you think this is probably grammatical, right? Walk Rick
+gate Johnny between. Is this English? The words are recognizable to English speakers,
+but is this an English sentence? Is this grammatical? No, probably not. Um, there's
+not really a way to parse this as a grammatical sentence. The moose fiendishly decalcified
+the hieroglyphics between the Dagestani drafts. Is this a grammatical sentence? I think most
+of you will agree that yes, it is. It's a weird sentence. It's probably not a sentence
+you've ever heard before, but you're still able to make a judgment that, well, okay,
+the moose fiendishly decalcified. So he's decalcifying. That's a verb. And fiendishly
+here's your adverb. Okay. The hieroglyphics, that's what's being decalcified. And then
+where's it happening? Oh, that's right between. Okay. So that means there are two things that,
+Oh, the Dagestani giraffes. So those are giraffes from Dagestan. All right. Um, it checks out
+a weird sentence, but it checks out. So that's a grammatical sentence, even though it's weird.
+Somebody set up us the bomb. All your base are belonged to us. Is this correct? It's
+a meme. It's an old meme. Real old name. Proto meme. But still, um, it's not really grammatical.
+Somebody set up us the bomb. No, if you were to do this differently, you could say somebody
+has set up a bomb on our ship or we have been bombed. Um, all your base are belong to us.
+You could say all of your bases now belong to us or something like that. But no, this
+is not grammatical. It's not good English and not good in the sense of like, Ooh, this
+is the King's English, whatever that means. That's not even a, it's yeah, we'll get there
+next time. Trust and believe. Um, but in the sense of just like, this isn't a well-formed
+English sentence. So one thing to note though, is that grammaticality judgments are about
+language, not about individual words. So I'm going to give you some made up words here.
+A gleeble is a small type of fish, a garflavel, or I'm sorry to garflavel is to perform a
+very elaborate mating display. And a flundubble is a large octopus like creature. I'm going
+to now give you a new sentence here and I'm going to ask you, is the sentence 12 flundubble
+garflaveling gleeble grammatical? You have those three new words. Is this a grammatical
+sentence? Think about it for a moment. I suspect that most of you said no. Um, because
+well, it's missing something, right? It's missing a plural. It should be 12 flundubble
+garflaveling gleebles. And even then it's not a sentence. It needs something to, it
+needs a verb in there to really be a good sentence. So this is probably not. Let's look
+at this one. A gleebles garflavel for flundubbles all the time. Is this grammatical? So I would
+argue that yes, this is, because what you're saying here is that gleebles, a small fish,
+perform an elaborate mating display for large octopus like creatures all the time. Gleebles
+garflavel for flundubbles all the time is a perfectly grammatical sentence. These words
+are ridiculous, right? They're not English words, but if you know these words, it works.
+It's fine. So, and by the way, you know the plural of gleebles to be gleebles, not gleebles
+or gleebles. That's weird. We'll, we'll, we'll get there. Um, magic or phonology either way.
+So let me give you a, another example. Um, I'd like you to tell me whether this sequence
+is grammatical. So was it? Come on. Was it? Chances are you're looking at me like, wait,
+was that the Macarena? Um, and many of you are going, what's the Macarena? Because I'm
+old. But anyways, um, many of you are thinking, I have no way of telling. Was that a dance?
+Was it supposed to be a dance? Did you have a seizure? What's going on here, Will? Um,
+and so the, the, the question is pretty hard to answer, right? There's no grammar in your
+mind for whatever the heck that thing just was. Um, and so similarly, you know, you can
+do this for anything. Yeah. I can give you a chunk of another language and you're still
+not going to be able to understand what it is or judge whether it's grammatical because
+you don't speak that language. So in the first case, those gestures were not linguistic.
+That wasn't a signed language. That wasn't anything. That was me literally making that
+up as I'm filming this thing. Um, and if I give you another chunk of language, um, you
+won't be able to make those judgments either, but that's because we speak languages. Um,
+and those weren't languages that you spoke, right? We as speakers have very strong feelings
+about correctness and rules of language. If something is a language, we're going to have
+intuitions. Like that's okay. That's not. But if there's something that isn't language,
+like my weird little dance thing, you're not going to have that intuition. You're not going
+to have that feeling, but it's not so much for other kinds of basic communicative gestures.
+Even for something like, you know, let's say that you are, uh, here's a fun example. Let's
+say that you walk up to a store and it is after 6 p.m. and they've just closed. It's
+like 601 and you need to drop off a package or something like that. And you see the person
+inside the store, uh, and the door is locked. And so you might do something like, and then
+you might hold up a package, right? Like, and you might try like, it's okay. I'm not
+sketchy or something like that. And then they would probably do something like this, you
+know, like, no dude, it's six o'clock. It's past six o'clock. I'm not getting paid enough
+for this, but you'd be like, please, please. But there's no grammar here. This is just
+kind of a basic communication. There's no reason that I couldn't have done hold up the
+package first and then say, you know, please, uh, or something like that, you know? Oh,
+there's no way there's no grammar there. So that's the big difference here. This is another
+element of language. This correctness, this knowledge of rules and grammar is important.
+So this is yet another important element of knowledge of language. That is knowledge of
+those rules, knowledge of the grammar. So there are other elements that are important
+too. For instance, symmetry, I can talk and you can listen, right? And generally speaking,
+two speakers of a language can do both sides of things. Certainly there are cases for instance,
+where you have a deaf speaker who is able to, uh, who is able to speak spoken English,
+but he's not able to hear English in return. But that's a different situation here. Generally
+speaking, if you are a speaker of a language, you are able to produce that language, uh,
+and you are able to receive it as well. Um, language can talk about situations not in
+the here and now, meaning that with language, I can talk about something that happened last
+weekend. You know, last weekend I saw this puppy as I was out walking in the park. It
+was the coolest puppy ever. Is the puppy here? No. Um, you've never met this puppy.
+Maybe you have. I hope you have. It was awesome. But nonetheless, um, that's not here, that's
+not now, but I can still talk about it. Uh, language is made of discrete units, uh, chunks
+of sound, chunks of word. Um, what those chunks look like and sound like turns out to be a
+really interesting problem, but this is generally held to be true. Language has slang. Language
+has taboo words. Um, by slang, I mean words that are not generally acceptable, but are
+very often used. Um, this can be new language like heat. Um, this can be, and you can have
+taboo words. These are swear words. Um, you know, foul language like ass, for example,
+is a taboo word. It is a, and there are other forms of words that are taboo in other languages.
+There are languages in which it is, is taboo to talk about certain subjects where names
+get tabooed after the person dies, et cetera. There were lots of kinds of taboo, and this
+is something that's pretty universal. Um, language also accomplishes functions, right?
+Um, when I use language, I'm doing things. I'm asking questions. I'm issuing commands.
+There are many things I can do with language, right? And any language can be translated
+into any other, not necessarily by one person. It may be the case that, you know, there's
+not one person who speaks both, um, I don't know, Kumeyaay and, uh, Hawaiian, but you
+might be able to translate eventually that way. Um, but still, um, but the three we're
+going to focus on of these characteristics, again, are arbitrary relationships, are productivity
+and creativity, and knowledge of grammar, knowledge of rules within the language. So
+all human languages share these properties. So this is interesting though, because we
+might start asking ourselves, okay, so we've got these things, and in fact, a bunch of
+different properties that I just listed that all human languages seem to share, but those
+things don't really show up very often in things that aren't human languages. And to
+the best of our knowledge, there aren't any other creatures on the earth that are doing
+exactly those things. And more importantly, we have not yet found a group of humans working
+together in a community of some kind that don't have language, that don't have a language.
+Every group of humans that we, as a, well, sort of, I suppose, as a greater connected
+species, as a scholarly community, we have never found a group of people without language.
+So some theorists have argued that this is evidence for what's called universal grammar.
+So universal grammar is an idea that was initially given to us by Noam Chomsky. And actually,
+we should talk about Chomsky for a second. Noam Chomsky is a really, really well-known
+scholar, both in, frankly, sociology and the dynamics of society. A lot of what Chomsky's
+work is nowadays is more political, is more social. But Chomsky, there is absolutely no
+doubt, revolutionized the field of linguistics. He changed the field of linguistics in many,
+many ways. And the people who've come after him in those traditions continue to have a
+very strong influence on linguistics. It's the case, certainly, that not everything that
+Chomsky has put forth remains in modern linguistics. And there are many people who don't necessarily
+agree with his views generally about linguistics, but it's very hard to overstate the effect
+that Chomsky and his ideas had on the field of linguistics.
+So anyways, Chomsky is a very, very well-known scholar, and he came up with this idea, or
+at least he formalized and coined the term universal grammar. And UG, universal grammar,
+holds that there is some genetic basis to human language. There is some biological basis
+that makes human language a thing. Put differently, there are some properties of human language
+that are innate, that are baked in someplace inside of my head, that are a part of how
+I work as a human. These are not just things to do with physical structures. I mean, all
+humans, again, barring injury of some variety or perhaps a developmental issue, all humans
+have mouths. So as a result, there are going to be similar things that we can all do with
+our mouths. And again, we have roughly similarly working sets of articulators. We have similar
+sets of hands with similar dexterity. But this isn't what this is about. This is about
+deeper grammatical facts. In fact, the argument here is that there is a set of constraints
+governing language that are built in someplace to our physiology, not just physical in the
+sense of the articulators, but into our mind, so to speak.
+One thing to note, though, is that Yuji is not saying that your individual language is
+the way it is because of X. That doesn't make a lot of sense. Because, for instance, let's
+say that you have a child that is genetically speaking, we'll say the daughter of two Mandarin
+Chinese speakers. These people both grew up speaking Mandarin, etc. But if you take that
+child at a reasonably young age and that child is raised by English speakers, that child
+will speak perfectly fine English, so to speak. There probably won't even be a detectable
+accent or anything like that. It's just the case that this will be an English speaker.
+And so it's not something about English. It's not something about Mandarin. And the other
+reason we know this is that every language is not the same. And in fact, linguistic grammars
+vary substantially. Language to language, grammar looks very, very different. But Yuji
+is telling us not facts about individual grammars, but that there is a biological predisposition
+to language, to capital L language, not just to a language, not to any language generally
+speaking. And there are some pieces of evidence for Yuji. Like I said, no cultures, people,
+or societies have been found that have no language at all. No other species has been
+found with human-like language. We'll talk about that a little bit later. Children do
+learn language quite well, actually. It's really impressive. Kids are great at picking
+up language. And this is the case even in cultures where people don't speak to children.
+And this is a thing. There are cultures in which it is considered just why would you
+talk to somebody who is under a certain age? They can hardly understand you. Why bother?
+And so children still learn languages in that culture. Similarly, signed languages show
+very similar properties to spoken languages. Certainly there are major differences, the
+big one being how exactly you're creating, how you're doing the signing, basically, whether
+you're doing it with your mouth, with your nose, your throat, etc., or whether you're
+doing it with hands, with facial expression. But there are very similar properties in terms
+of syntax, in terms of words, in terms of how these things work between signed and spoken
+language. And this actually, here's one of the cool ones. There are groups of people,
+there are places in the world where a large number of people, due to whatever genetic
+anomaly, are born deaf. As a result, in those areas, generally speaking, even if there's
+no contact with any other signed language that's come up in the world, a signed language
+will develop. This is a group of deaf people who do not have access to a spoken language.
+They may have access to some written language, but nonetheless, even that's not universal.
+Generally speaking, a community of people will develop a language, even in cases where
+they're completely isolated from other signed languages. And those languages that are developed
+show similar properties to other spoken languages. This is cool.
+And then there are some things that appear to be universal. The big one is that recursion
+thing I was talking about, where you can put a sentence inside a sentence inside a sentence
+inside a sentence. That's recursion. Of course, there's some evidence against UG too. Namely,
+there doesn't seem to be really good biological evidence for it. No one has yet found where
+it should live or a part of the genetic code, et cetera. So this, we're not seeing the biology
+that we might expect from this. There is a lot of variability in language. In fact, even
+that claim about recursion being found in every language, that could be a little sketchy
+depending on who you talk to too. I mean, it's very hard to falsify this. Oh, there's
+an innate reason why all humans in communities end up with language. Well, they're in communities,
+right? That could be part of it. So it's hard to falsify this. And the other thing
+is a lot of these properties are derived from facts about communication. A lot of the things
+that we're doing come from both physical constraints as well as from like, okay, turn taking, stopping
+when the next person starts talking and going back and forth. Yeah, that kind of comes about
+pretty naturally if you're communicating with somebody, right? That's a thing.
+So, yeah. And then, like I said, recursion might not be universal. Dan Everett is another
+linguist, very, very well known, who claims that speakers of Pinhá, which is a very interesting
+language, spoken in Brazil, do not have recursion. There are arguments on either side, but it
+sure seems like if there is recursion, it's much, much weaker than in a lot of other places.
+And that's a very neat language, generally speaking. It does a lot of things that are
+typologically, that is when compared to all the other languages in the world, kind of
+fascinating. So we'll talk about that. And then the other big thing is that Chomsky himself
+is not a hundred percent sure on UG anymore either. So, you know, there is definitely
+some strong evidence against it, but it is an interesting idea. And it's one you should
+definitely think about. We're not going to come down hard on either side of this. I have
+personal beliefs about how language works, but it's not really my place to share those
+strictly speaking here. UG is a very interesting idea. It's something you should be aware is
+an idea, is a concept, is a theory. Whether it turns out to be real or not, whether it
+turns out to actually be true, we may find out, we may never find out, but it's still
+an interesting idea to think about. So some elements of linguistic structure may be innate,
+but we're not a hundred percent sure about that. And there are very, very smart people
+on either side of the field. And in fact, the textbook that I've given to you, the Frumpkin
+textbook, in the ninth edition is very, very pro-UG. It's like, yeah, UG is a thing. And
+then in the 11th edition is very like, oh, well, there is UG. That's, that's definitely
+a theory. It's an interesting thing. So we've seen shifts in this. The debate on this is
+very much alive and well. And there are a bunch of smart folks who've lined up on both
+sides of this argument. You know, one of the people, I know, I know lots of good UG believers
+and it's true. People who know a lot about language and still see the world in that way,
+and that's completely fine. I'm not going to wade into that. I just wanted you to know
+the idea behind UG so that when it comes up, you don't hear universal grammar. That means
+all languages are the same. No, wrong, incorrect. Speaking of arbitrary gestures, there's no
+reason this means no, just saying. Anyways, so now we've got a pretty good handle on what
+language is, right? So what isn't language? What are things that aren't languagey? So
+one of these things is alternative means for coding languages. A good example of this is
+semaphore, flag code. For those of you in the boating world, this, this is a thing or
+Morse code. The dot, dot, dot, dot. Morse code is a way to encode English. You are turning
+English letters into specific sequences of dits and dots, basically. So that's Englishy.
+Did I just turn off my, I think I just broke my remote. That's stellar. Wow. All right.
+Hopefully it'll work again. Okay. Anyways, so Morse code is just recoding an existing
+language. Wow. Note to self, this remote doesn't like enough Morse code. So other things that
+are not absolutely languages or that are absolutely not languages. One of them is writing systems.
+Writing systems are very closely associated with other languages. Oh, sure. Now my remote
+works. Oh, great. One of the buttons. Okay. Back at the ranch. So writing systems are
+very closely associated with an existing spoken or sign language. If we're looking at a language's
+writing system, it is usually pretty, it's tracking pretty close with a version of the
+language. There are example languages around the world where the writing system is very
+old and the language has continued evolving. So Tibetan is an example of a language that
+has a writing system that is capturing a very old version of the language. So if you
+look at the writing system next to the language, they've got a lot of diversion, but they're
+still based on the same thing, right? Or Arabic. Modern written Arabic is very different from
+modern standard Arabic and certainly different from all the various dialects out there. So
+writing systems are not languages in and of themselves. They're related to a language
+which they are used to encode. Computer programming languages are also not really linguistic.
+They're not languages in the classical sense. These are languages and we call them languages.
+It's right there, but they're not in the human sense like COBOL or C++, Java, Python, Rust,
+et cetera. This is not human language here. It is sort of readable, but it's got some
+troubles. Let's think about why they might not be languages. So arbitrary relationships
+between signed and signified. Does that work? Well, yeah. Because why does if or then, why
+does that matter? So there's no reason why a programming language has to be designed
+in the way that it is in terms of the names of functions of constructs, et cetera. Arbitrary.
+That's fine. What about fully productive and creative? Can you use, for instance, Rust
+to mark a sunset? Can you really describe a sunset in Rust? Probably not. You might
+be able to generate a picture that looks like the sunset and that's pretty good, but that's
+not the same thing as language. Can you send a love letter to somebody in Python? Actually,
+I bet somebody has. I should do that. Anyways. But no. There's not really you can't talk
+about certain domains of human existence. Can you describe how something hurt your dignity
+in Python? No, you'd probably have to do something else like create a program that shows how
+that might have felt or something like that. I don't know. But emotions are an area, for
+instance, where programming languages are not great. And then speakers having knowledge
+of grammar and rules? Yeah, that's a thing. Absolutely 100%. You can look at my Python
+code and go, oh, well, that's bad. And I'll be like, no, I'm a researcher. It only has
+to run once. Anyways. So programming languages, not languages. Nope. Not at all. Maybe someday
+there will be true natural language programming. This is different, by the way, from natural
+language processing. Natural language processing is using computers to analyze spoken human
+or well, to analyze human language. Whereas natural language programming is using human
+language to program a computer. That that's not a thing yet. So sorry, Hal, but computing
+languages are not language. How about non-human animals? You know, by the way, whether or
+not humans or animals is kind of interesting linguistically speaking. Right. Anyways, lots
+of animals communicate. Right. You have mating calls, which for the most part is what birds
+are saying. They're either saying, you know, hey, come over here. I'm feeling amorous.
+Or hey, there's a predator up there. Or perhaps, hey, no, no, no. This is my tree. Get away.
+And so that's there's a lot of communication out there. If you look at the hummingbirds
+out on your porch, they're going to be communicating. But it's usually going to be one of those
+three things. I'm horny. I'm scared. Or you're on my turf. But that's not the same thing
+necessarily as human language. I've thrown a couple of videos in here that you can link
+to in the slides there that are quite excellent. But non-human language is is difficult. One
+person actually, well, what group of people set out to see basically, OK, yeah, we're
+not seeing any non-humans that have language and that have anything like human language.
+But no one's teaching birds language either. Right. No one's teaching chimps to speak English
+or to speak a language. Why? Why not? Maybe we should try this. And the result of this
+experiment was, well, it was done to Nim Chimpsky. Yeah, the name's pretty clever.
+The story is ultimately kind of sad. The idea with Nim Chimpsky, which is this particular
+ape right here, was a chimpanzee that was raised by a human family to learn American
+Sign Language. They use sign language because completely independently of anything cognitive,
+the chimpanzee tongue and such is not well suited for English. Right. So ASL is much
+more plausible. And so there was Herbert Terrace was raised in a... I'm sorry. Yes,
+I'm sure Herbert Terrace was raised in a human family as well. But Nim Chimpsky was in this
+study by Herbert Terrace. Nim learned about 125 signs. There's some debate as to exactly
+what constitutes its own sign. That's difficult anyways. And combined those signs to produce
+utterances that were maybe two to four words. But the problem is that there there's no evidence
+that he ever developed, he being Nim Chimpsky, ever developed full on language because never
+got past two to four sign utterances. It was all sort of constrained there, whereas humans
+will go on for a while. Right. You get things like Nim, banana, me, eat. Not super human
+languagey and very here and now. Only seven percent of the utterances actually advanced
+a conversation. Right. If you were talking with a fellow human and you're interested
+in continuing that, there's kind of a back and forth. Right. Your words integrate in
+some way with their words and then you kind of move forward together. You're going through
+this communicative alley. So that's different. Thirty nine percent of those utterances were
+repetitions of what was just signed. Right. So if I sign one thing to you when you sign
+the exact same thing back, does that count? Probably not. And it was all pragmatic. This
+is the big thing. All of the language that was used by Nim was very pragmatic. Things
+like Nim, banana, me, eat. I'm hungry or I'm sleepy. Or where is mom? These are not
+things that are really abstract. It was never like, wow, you never really look at trees,
+but there sure are a lot of leaves on those. That's kind of cool. Right. That's a very
+non-pragmatic utterance. Or I wonder why is this water bottle black? That's non-pragmatic.
+It doesn't serve to do anything except give me a reason to pick up the water bottle because
+I am thirsty. Anyways, terrorists argued that Nim Chimsky never actually learned much of
+anything linguistic. But there were also a lot of methodological troubles with this.
+In practice, this is actually a really sad story because as male chimps do, became really
+strong, really violent, and ended up really injuring one of his keepers. And then later
+on they gave the chimp to a research facility and used him for medical research. He still
+did use signs from time to time and died at an animal rescue ranch of a heart attack many,
+many years later. There is a very sad documentary, but very accurate one called Project Nim that
+goes deep into this. And I don't know that I would recommend it for the class because
+frankly for the study of language you sort of know the high points here. But it's a very
+interesting documentary, if nothing else, on sort of the ethics of this kind of research
+and what these things actually mean in practice. So that's the Nim Chimsky story. But what
+it does tell us, linguistically speaking, is that here's a non-human animal, and one
+that we believe to be substantially intelligent, one that we believe to have a pretty good
+shot at this, and articulatorily had all the ability to make signs, and was given a
+strong chance, maybe not a perfect chance, like I said there were some methodological
+issues here, but was given a pretty good chance at learning human language, and Nim didn't.
+So this tends to make us think, well maybe that's not a possibility. There are lots of
+other cool language-y things that go on in the world. These are brown-headed cowbirds.
+You'll see them very rarely around these parts, but they're out there a little bit more as
+you go east. But still, brown-headed cowbirds are birds that are what are called brood
+parasites. This is a really, it's a dick move, let's be real here. What these birds do is
+they will see a songbird nest, and they'll go, huh, looks like a nice nest, and they'll
+just run over and lay an egg in it. And then the songbird will come back and go, huh, I
+don't remember that many eggs, eh, whatever, and then raise that egg. And then they will
+raise that baby, and that baby will grow much bigger than the other babies in the
+nest, and eventually usually push those other babies out, and so this bird will have unwittingly
+raised a brown-headed cowbird. This is questionable, but the bigger question is why do brown-headed
+cowbirds sound like brown-headed cowbirds rather than like the bird that raised them?
+Right? Because this is the exact opposite in some ways of the Mandarin-speaking parents
+giving birth to a child raised by English speakers will grow up speaking English. Here,
+brown-headed cowbird is raised by, say, a goldfinch, and then speaks brown-headed cowbird.
+Interesting. This is really kind of cool, and what's interesting is that there's some
+evidence of these innately recognized passphrase calls. Actually, a really good friend from
+middle school of mine does his work on brown-headed cowbirds now. He's an ornithologist,
+and so we have some interesting conversations about that, but it turns out that there are
+these innately recognized calls that kind of serve as passwords. These are my people.
+And then finally, another video that might be fun to watch is the waggle dance.
+Honeybees are able to express by basically waggling, by dancing in their hive, things like
+the distance, the direction, etc. towards a source of food. This is a way that honeybees can share
+with other honeybees information about all those kinds of things. So the waggle dance is really
+interesting, and it kind of feels like this could be nearly language. Bat vocalizations are a thing.
+Bat vocalizations have good information about the speaker, about the behavior context, like,
+I'm feeding, or mating, or perching, or sleeping, and they can even address a listener. So you could
+get in a bat vocalization, hey, Herbie, let's mate, or something like that. Prairie dogs also
+have really strong... there's one particular person who's done most of this work, but he argues that
+prairie dogs have not only different alarm calls, and if you've ever walked by a prairie dog colony,
+you will see that they will... out of their little thing as soon as you start walking by.
+And once you move past, they'll stop doing that, but you get these little barks,
+right, from all the prairie dogs. And so the prairie dog language is... these different calls
+are marking the presence of different, well, different predators. And these calls... hey,
+my remote's working again. Okay, cool. But the different calls show different species of
+predators. That's a human, that's a coyote, that's an eagle, and they give information about location,
+size, shape, and even color of predators, to the extent where he was able to determine that, oh,
+this person's wearing a red shirt, based on the prairie dog calls, and showing abstract shapes,
+like taking, you know, big triangles and moving them past prairie dog colonies in a very awkward
+set of experiments, they were able to detect differences between triangles and squares,
+and things like that. Interesting. And so prairie dogs are actually judging your outfit,
+which is interesting, and so this feels kind of languagy. But it's still missing some information.
+Again, here's a great video you should check out. Is it language, though? Well, the thing is,
+we've only really seen one domain of their language. This is a rich vocabulary of, oh crap,
+hide, right? There's no sign of non-pragmatic language use. That said, we might not be
+equipped to do that. Maybe once they're in their little ovals at night, they're like, wow, dude,
+have you ever really looked at your hand? Or something like that. Maybe that's going on,
+but we haven't seen any evidence of it. We also don't see anything temporarily removed,
+you know, leave a microphone out there and you're not going to see like, remember that one predator
+that had like the big red triangle looking thing? That was really weird, right? Why have we never
+seen one of those again? We don't see that. And so that's a thing. We would need a lot more data
+to call this language, but it sure smells languagy. The question, though, I have to come
+down somewhere, right? Do non-human languages have, I'm sorry, do non-human animals have language?
+Right now, based on the state of our knowledge, nobody has human language yet. There's evidence
+of really complex info out there. I mean, animals are doing things that feel very complex, feel very
+linguistic-y, but we're going to need evidence before this is language. One thing to note though
+is that I probably, well, I expect that this is going to change. You know, it'll be awkward to
+reuse this video for a long time just because I'm pretty rapidly balding, that'll be apparent,
+but nonetheless, I expect that I'm going to be singing a different tune at the end of my career
+here. We keep finding new interesting studies about this. We keep seeing more instances of
+animal language, and we're getting a little bit further away from the idea of UG. Universal
+grammar holds because we're saying language is an innate part of humans. Suddenly that makes it
+sound like, well, if you're not human, you can't have language. So there's a little bit of a bias
+associated with that. We're also getting better at understanding means by which animals can
+communicate. So for instance, if you have an alien walk into this room right now, or walk into a
+conversation, and they don't see visible light, and they don't hear frequencies between 20 hertz
+and 20,000 hertz, they would think that we're telepaths, right? Because they can't see me doing
+anything, and they can't hear me doing anything. All that they're going to see is like microwave
+transmissions, and I'm sure not making those. So they're just thinking, wow, it's weird. How do
+these people get things across? That's funky. And so as we get better at instrumentally being able
+to talk about prairie dogs, as we get better at these kinds of things, we're probably going to
+discover more. And then the other thing to remember is, of course, we're kind of interested in not
+discovering animal language. There are going to be a lot of awkward things when we figure out,
+you know, we may not be the only people with language, and we don't want to know the bovine
+word for mourning at some fundamental level, or at least I sure don't, but I'm vegetarian, whatever,
+right? So we know what language is now. We know it's universal, although there's some variation,
+and we know that animals don't seem to do any of it yet. Now for a really potentially scary part
+of language, right? Here's the thing. You're thinking. Right now, do some thinking. Think.
+Go while I drink. Good think? How'd you do it? Yep, using language. So here's the awkward thing.
+If you think in language, if we use linguistic concepts to categorize the world, if you have
+remote as a word for this, but you might not have a term for this little device that is on my shirt
+here. If you don't know the term lavalier microphone, it's going to be a little harder to think about
+this little concept, right? So we use these concepts to organize the world. We discuss the
+world using our available set of terms, right? And we do lack terms for more abstract feelings.
+For instance, imposter syndrome is a term that a lot of people are not familiar with, but everybody
+should be. This is an aside, but this is the feeling that you don't belong in a certain
+context, that you're a fraud. You're not good enough to be, for instance, in a university,
+to be a university professor, et cetera, and that somebody is going to find out and kick you out
+shortly. This is, I think basically every academic does this, and the ones who don't are,
+well, they've got their own things going on. But anyways, this is super common. It's a feeling
+that I think a lot of people get as they're in school, pardon me, and as they teach in school.
+But once you have a word for it, it's a little easier to think about it. It's a little easier
+to talk about it, right? So we're thinking in language as we're doing these things. And so
+language is a part of our thinking process, which is fascinating. And this leads a bunch of people
+to ask, well, okay, if we think in language, does the language we speak determine how we think?
+And this gets at the idea of the Sapir-Whorf hypothesis. This is also known as linguistic
+relativity, the idea that, again, any time that you're thinking, you're thinking in language,
+so then your language must affect your ability to think. The language you speak influences how
+you think about the world. This is fascinating, and it's terrifying, because at some level,
+wow, this reveals whole things about how humans might work depending on their language.
+But it's also terrifying, because am I, as an English speaker, less able to think than somebody
+who is a speaker of Hindi or Kumeyaay or is this? So there are many ways that this could look,
+right? One thing, there could be no effect. The language that we speak has no effect on
+our cognition. That's a possibility, right? It could be a very weak effect. The language that
+we speak has some effect on our thought and cognition, but there's not too much there.
+It could be something very strong. The language that we speak guides our thoughts. It guides our
+cognition. And it could be deterministic. The language we speak binds or bounds or determines
+our thought and cognition. We cannot think in such a way outside of being an English speaker
+as an English speaker. At this point in time, there are a bunch of these different options,
+ranging from complete determinism to complete nothingness. It really feels like we're somewhere
+in the middle. At this point in time, there's some pretty good evidence that there is an effect of
+your language on how you think. These come from a whole bunch of different options, but ranging
+from like color chip studies. For instance, different languages have different color,
+ways of breaking up the world in terms of color, and even different people within a language.
+We recently repainted our home, and by God, walking into a paint store, there were some
+color differences there, right? I think this is web gray around me as opposed to,
+oh God, what was the other one? Web gray and then newsprint gray. Yeah, very monochromatic. But still,
+the fact that you have different terms to categorize color might make you categorize
+a bunch of color chips laid out at a table, which is a physical act differently. A good example of
+this is in Russian. There are actually two different color terms for what English speakers
+would refer to as blue. You have something that is, which is a dark blue, something closer to
+this kind of a color. Dirty textbook reveal, but this is a dark Navy style blue, as opposed to
+which is, do I have something around? Yes, this hand sanitizer label. This would be a
+a very light blue or something like that. And as a result, you end up with two different color terms
+that both mean what we would call blue. And if you give Russian speakers a bunch of blue chips
+and you ask them, sort them into piles, you'll get two piles. Whereas for most English speakers,
+you'll get one. So that's an effect, right? But what other effects this has? It's about effect
+size. It's clear that there's something. And in fact, you're going to watch a YouTube video by
+Dr. Boroditsky here at UCSD. But it's also clear that it's not deterministic. It's also
+clear that we are not limited by our use of, we're not limited in our thoughts by the language that
+we use. We can still recognize objects and events and colors that we don't have words for.
+If you've never seen this object right here, you have no idea what this is. You don't have
+a word for it, but we can still discuss it. We can still describe it, et cetera,
+the way it's a privacy cover for a webcam. Anyways, we can still get away from that. We can
+still do it. So the debate is now mostly focused on the size of the effect, on the nature of the
+effect. What does this actually look like and how much it actually matters in our lives?
+This is a really cool area of research. In fact, as I was just getting started as a linguist,
+I was really interested in this. I was really obsessed with it. I ultimately kind of came to
+the conclusion that the effects of it are cool. It's fascinating. It's something I'd love to play
+with, but A, vowels are way cooler, and B, the effect isn't going to be so big that it's going
+to change my life either way. I wish we could spend more time here. I wish we could think about
+this a little bit more, but we're limited by our language and our ability to think about it
+anyways. So that's the other thing. Anyways, so that's language and thought, and it's a cool
+subject, and I encourage you to do more reading about it if it's something that interests you,
+but that's what we're going to do with it this quarter. So next time, we're going to make sure
+you do watch this TED Talk. It's actually quite good, and I've got a link to it both in the
+syllabus as well as right here in the slides. Thank you very, very much, and have an absolutely
+wonderful rest of your day. Bye, everybody.

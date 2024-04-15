@@ -1,0 +1,697 @@
+Hi, everybody. Today we are going to finish up semantics and then transition into pragmatics,
+start thinking about meaning in the world itself. But to start with just a cute little
+meme, remember, machine translation is really hard, and we don't cover that really at all
+in 101, but in Link 6, we start to get there. So yeah, there's that. So let's go ahead and
+jump into semantics today. Let's think about how words work in worlds and how they work
+generally speaking. So last time we talked very broadly about meaning, right? We talked
+about truth in sentences. We talked about ambiguity as a property that some sentences
+have and constructions as well. We talked about entailment. When a sentence means something,
+what other sentences are also necessarily true? We talked a little bit about shades
+of meaning in connotation and denotation, and we also talked about gradients in meaning.
+That meaning that some things are birds, but they're not that birdy relative to other ones.
+And this is going to be a factor just everywhere in life, right? All of these things, though,
+are inherent. Today, we're going to start off, though, by drilling a little bit more
+into the meaning of individual words, and then we're going to move our way into conversation,
+and more specifically into the elements of conversation that allow our words to have
+meaning above and beyond their inherent meaning, the parts of them that are sort of always
+true, right? So today's plan is to start off thinking about word-meaning relationships
+because that's important. Then we'll go into word sense a little bit more, get deeper
+into that question. We'll talk a little bit about lexical semantics, that is the frames
+that individual words have. And then we'll talk about pragmatics and the cooperative
+principle and introduce the idea of Gricey and Maxims. So word-meaning relationships
+are really important, and many of you have probably heard these before. But words have
+meanings. Each individual word has something that it means. Whatever that meaning actually
+looks like, whatever the words actually... But different words can have very related
+meanings, right? Not every word is entirely independent of every other one. And sometimes
+it's helpful for us as linguists to think about those relationships more directly, and
+to do that by classifying those relationships. And so in 101, we're going to talk about a
+few different kinds of relationships that words can have to one another. One of them
+is the relationship between synonyms, so words that mean the same thing, and antonyms, words
+that are exact opposites. We'll talk about the difference between homonyms and homophones
+and what both of those things mean. We'll talk about hyponyms versus hypernyms, and
+then we'll talk about metonymy. So a synonym we've already talked about in this class.
+These are words that share the same denotational meaning, but have a different spoken form.
+So these are things like cop and police officer, sick and ill, sofa and couch. All of those
+things are pretty much the same word, right? They may have slight differences in connotation,
+and they may have slight differences in actual meaning if you are a super specialist. If
+you are an interior designer, maybe sofa and couch are different, but by and large, they
+mean the same thing. So those are synonyms. A nice example of a synonym in daily life
+is an opportunity drawing. So UCSD, among other organizations, bans a raffle, a raffle
+being where you buy a ticket and have a chance to win a prize, right? They are legally complicated
+under California law, and in fact, under many, many laws, even online on forums and things
+like that, like PayPal will ban you if you try and create raffles. That's not legal advice.
+That's just something I've seen to happen. And so people have gotten around this. They've
+said, well, of course I wouldn't host a raffle. Those are legally complicated. We're going
+to have an opportunity drawing instead, which is similar. In fact, it's pretty much the
+same damn thing, but it is not a raffle. And so therefore at UCSD, we're not allowed to
+have raffles for organizations or otherwise, but we are allowed opportunity drawings. The
+more you know, of course, talk to your lawyer before you arrange any of these kinds of
+things, but still it's, this is a good synonym in everyday life because it's, and it's kind
+of a euphemism too. If raffle has a negative connotation, this would be a euphemism, a
+word that makes it a little bit prettier than the original word. So those are synonyms,
+things that mean the same. Antonyms are the opposite, right? It's actually an antonym.
+It is a word that has a nearly opposite or a completely opposite denotational meaning.
+The meanings of these words are as close as we can get to flipped. So up and down,
+this is a case where it is very clearly opposite, right? Up and down mean entirely different
+things. Similarly, sick and healthy. Assuming that you mean the sense of sick of like I
+am ill, you can not be sick and healthy at the same time. They are opposites. As you
+get less sick, you get more healthy. As you get less down, you get more up. Similarly
+with happy and sad. One could argue those are antonyms. As you become less happy, you're
+growing more sad, dead and alive. In that case, there's not really a less and more
+thing, but the opposite of being dead is being alive and vice versa. And then doing and undoing
+are exact opposites. I could do something, I can undo it. So antonyms are there. Exactly
+opposite can be very difficult, right? I mean, is undoing exactly the same thing as doing
+or is not having done at all? Look, I don't want to get too deep into that, but the question
+here is, are they pretty much opposite? Because that's good enough for us. So an antonym are
+words that are exactly or pretty nearly opposite in meaning. A hyponym and hypernym relationship.
+A hyponym is a word that is a very specific instance of a broader class of the hypernym.
+So for instance, a poodle is a hyponym of the hypernym dog. So a poodle is a type of
+dog. Therefore the hyponym is poodle. The hypernym is dog. A laptop is a kind of computer.
+There are many kinds of computers out there. Not all of them are laptops, but laptop is
+a hyponym of computer. iPads are a type of tablet. Therefore that is a hyponym of tablet.
+And skyscrapers are a type of building, but not all buildings are skyscrapers. So it's
+the case, for instance, that all laptops are computers, but it's not the case that all
+computers are laptops. So not all skyscrapers are buildings, etc. And so the greater class
+here is the hypernym. Think about hyperactive means you're super active. Hypernym means
+you have a bigger meaning, right? So hypernym is the greater group. The thing that is smaller
+is a hyponym. If I say X is a type of Y, then X is a hyponym, Y is the hypernym. So
+these things are pretty common in our daily lives. And we can make a lot of things, I
+mean, you know, presentation. This is a type of lecture, right? It's not exactly a lecture,
+but it is a hyponym of the broader class lecture. So all of these things are, these happen.
+They're common and they're very useful, especially in natural language processing, especially
+when we're working with computers, teaching a computer to understand that, oh yeah, laptop,
+that's a type of computer, turns out to be really useful knowledge about the world, right?
+And then metonymy is if you've got word X and it's related to word Y and you're using
+it to represent the same meaning as Y. So this is kind of a weird thing. But take, for
+example, this right here. Beijing has rejected the offer. In a, like a governmental context,
+what that generally means is that, you know, for instance, Iceland made an offer to China
+for something or another, and you would then say Beijing rejected the offer. This is because
+Beijing is widely known to be the seat of the Chinese government. You know, I don't
+know exactly whether, but you know, Beijing often stands in for the Chinese government
+in terms of these kinds of things. We can use the city to refer to a part of the city
+that is the people in the government there. Or for instance, we speak several tongues
+in this classroom. In this case, there is a lot more to a language than a tongue, right?
+And technically, by this definition, ASL would count, even though tongues aren't, I mean,
+tongues are involved, but it's not for speaking, so to speak. You can stick your tongue out,
+I imagine, in some signs. But nonetheless, a tongue is not exactly equivalent to language
+in practice, but it's being used that way in this particular example here. A great example
+of metonymy came in Lord of the Rings, when Gimli, everyone was saying, you've got my
+support, and Gimli said, and my axe. So this is his way of saying, he's not just saying,
+okay, Frodo, take my axe, go to Mordor. No, what he's actually saying is, you have me
+as well as my axe. My axe will stand in for me in this sentence. So which one of these
+things, let's practice this a little bit. Which one of these is a synonym of large?
+As in the sentence, most mountains are large. Synonym here would be A, small, B, big, C,
+large as in he was paid 200 large to switch companies, D, large as in a massive corporation
+and a small startup, we're both bidding for spectrum, large one as always, and then E,
+size. Which one of these is a synonym? Okay, so A, small, that is an antonym, that is the
+exact opposite. C, large, this is a different sense of large entirely, right? D, this is
+a metonymy use here. Large here is standing in for massive corporations. And then E, large
+is sort of a type of size measurement, but this isn't really related. So the answer here
+would be big. You could say most mountains are big, most mountains are large. Or you
+could do a synonym in test. You could say, all big things are large and all large things
+are big. That I think is pretty accurate, right? So these are going to be synonyms.
+The answer would be B here. Okay, let's think about sofas again. What is a hypernym of sofas?
+The hypernym of sofa would be A, sectional, B, loveseat, C, cushion, D, furniture, E,
+living room. Which of these words is a hypernym of the word sofa? So hypernyms are the greater
+class, right? A hyponym is a type of hypernym. So in this case, a sectional is a type of
+sofa. So that would be a hyponym of sofa. Same thing with a loveseat, I would probably
+argue. A cushion is a part of a sofa. And although we'll talk about part-whole relationships,
+for instance, in Ling 6, we're not going there for 101. A living room contains a sofa, but
+that's different. It's not a kind of sofa. So instead, the hypernym here would be D,
+furniture. A furniture, I'm sorry, a sofa is a type of furniture. So D would be the
+correct answer here. Okay, so which of the following would be an example of metonymy
+in use? So A would be France, in I spent last summer in France. B, the White House, in the
+White House has a large security perimeter. C, Susan said it's okay, so we'll use her
+place. So Susan there. D, the Dean, in we'll have to see if the Dean approves. And then
+E, Geisel, in provided that Geisel agrees, we'll finalize the new library policies next
+week. So this one's tricky. Think about it for a second. Pause if you need to. Okay,
+so the answer here, A, I spent last summer in France. Metonymy, remember, is where you
+use a related term to refer to something else. Here, I spent last summer in France. That
+means I was in France. Like France means France there. There is no related word there. The
+White House. So the White House is super commonly used for metonymy, right? You would say something
+like the White House has refused to discuss this proposal or something like that. And
+that actually means the president or the executive branch generally or something like that. But
+in this case, it actually refers to the House, right? So that's not metonymy. C, Susan said
+it's okay, so we'll use her place. This just means Susan, right? Susan equals Susan. In
+D, the Dean, we'll have to see if the Dean approves. Well, presumably we're talking about
+a human, right? We're talking about a Dean. We're talking about John Moore. We're talking
+about somebody else in the world who is a Dean. And as a result, this is not metonymy.
+But here, Geisel is metonymy. It's not the case that the library itself, that the building,
+the Geisel Library, has shifted one of its bookshelves to point to yes. This is more
+referring to the leadership of the Geisel Library as opposed to, say, the Health Sciences
+Library. So in this case, the correct answer would be E. Geisel is a metonymy or is being
+used metonymically there. A couple of other forms that we should think about here. Homonyms
+are words that share the same spoken and written form but have a different meaning. So these
+would be examples of things that historically we've just said these are different senses.
+If I say there are two senses of a word, there are two homonyms there. Bank and bank mean
+the same thing. But in one case, I mean river. The next case, I mean banking, like a financial
+institution. Mug and mug, these are two words that are fundamentally different. They have
+different meanings, but they sound exactly the same and they're written the same as well.
+So in both of these cases, bank, bank, mug, mug, all written the same. So phone could
+either mean an iPhone or it could mean tuh or nuh. Both of those things are homonyms.
+They share the same written form and they have different meanings. And the same spoken
+form that is, and they have different meanings. A homophone is spelled differently. This is
+the important distinction here. Homonyms have the same spelling, different meanings, same
+spelling, same pronunciation, different meanings. Homophones have the same spelling, I'm sorry,
+have the same pronunciation, have different meanings and are spelled differently. So these
+would be things, and technically homonym is a hyponym of homophone, which we're not going
+to go there. But still, these are things like there and there. They're pronounced the
+same, but, and they have different meanings, but they are spelled differently. So they
+are homophones. But and but, in one case it's a conjunction, in one case it's, well, that.
+Band and band. Again, these have different meanings, they're spelled differently, but
+they are pronounced the same. And then to and to, different meanings spelled differently.
+So homophones and homonyms, it's a tricky little distinction, but it's one that's super
+important, particularly in computational linguistics, because these are much easier, right? Because
+you can see if somebody means but in the sense of backside, but you can't see if somebody
+means bank in the sense of river or financial institution. So homophones are very different
+than homonyms, but they're actually, there's a fair amount of similarity there. So, okay,
+the next thing that's important here, and the thing that this highlights, particularly
+the homonym discussion, is that the same words can have different meanings. You can have
+one word with many senses. We've talked about this already before, but this is called polysemy.
+The idea that one word can have multiple meanings is polysemy, flat out. And it's a useful term,
+it's a good idea to think about polysemy generally in the world. And it turns out to be a really
+big problem for a lot of applied uses of language, right? So if I have, for instance, this sentence
+right here, Roger busted the bank. This is a sentence that is ambiguous, and it's lexically
+ambiguous, because this could have two different meanings, right? This could mean that Roger
+was driving a really big ship and then busted the river bank in half in a place, right?
+So in that case, this would be bust in the sense of break and bank in the sense of river.
+It could be that Roger busted the bank in the sense of Roger works for the Securities
+and Exchange Commission. The bank was a financial institution that was being sketchy, right?
+And busted the bank could also mean I ran out of money, right? So all of these things,
+there are many different meanings here. And as a result of those different meanings, we
+end up with very different meanings for the sentence. And it could be a piggy bank too.
+That's right. I forgot about that meaning, even though I wrote these slides. Yeah, so
+you could break open a bank that would be busting it as well. The fireplace was lit.
+It's either a fireplace that's lighted or the best fireplace ever. We're not really
+sure. But this is polysemy, the idea that words can have different senses. And this
+again brings us back to word sense. We've talked about this before, but it's really
+important. Many words can have multiple senses out there in the world. So let's take the
+word fit. Fit is, think about at first, just think for a second, what does fit mean? Chances
+are you came up with one of the senses, but maybe not all of them. So fit the package
+into an overfull trunk. This is a good example of one meaning. And this is sort of the physical
+placement, like I was able to find a home for this package in another area. Fit the
+package into the trunk is one sense of this word. She's fit to work on your project, given
+the background. This means that this particular person has the skills you need and is capable
+and not just capable, but sort of, I determined that this person is acceptable to work on
+the project. She's having fits about the new deadline. This means somebody's kind of
+freaking out, something like that. She's quite fit for her age, could mean just physical
+fitness. She can run up four flights of stairs without getting winded. That will fit nicely
+into my schedule. In this case, this is a slightly different version of that first one,
+right? To fit into a schedule is another case of putting something into a constrained area,
+but it's metaphorical, right? It's a metaphorical extension. You're not fitting it like the
+schedule doesn't have mass or anything, but it fits, right? She fits in well in San Diego.
+This is one of those multi-word expression things we talked about earlier, right? To
+fit in means, oh, well, this person, you know, does all the right California things. They
+talk about, oh, the 405 rather than saying highway 405. That's fitting in well, I suppose.
+So fit has a bunch of different senses. Fire has a bunch of different senses too. Think
+about some senses of fire. What different things can fire mean? Pause, then unpause
+when you're ready. So different things that fire could mean are things like direct, like
+firing, like, okay, fired 10 rounds at the target. Like shooting a gun is firing, right?
+You can fire somebody after 10 years, right? This is the dismiss from a job sense. They
+fired the pot in the kiln. This is the pottery sense, the ceramic sense. The engine is fired,
+by a steady stream of coal. This means that the engine is given power. It's given heat
+in a steam engine. Firing the engine is a thing. The fire was started by lightning.
+In this case, this means a physical fire, like a collection of flames. In this case,
+a wildfire. The mixtape is straight fire. It means that somebody is absolutely dropping
+bars. And so all of these things, fire has lots of different meanings right here. Is
+it dropping bars? Spitting bars, spitting bars. Sorry, not my language. So yes, there
+we go. Hit has a bunch of different senses too. I hit the dragon with an arrow. Schwaco
+stock hit 500 a share. Rob loves to hit the golf course on Fridays. The mafia hit stunned
+the local government. Fingerprints had three hits on old records. I hit on the dragon at
+the sleazy bar. Each one of these is going to be a different meaning. In one case, physical
+striking. In another case, reaching a goal. In a third, hit the links is like just to
+go there and participate. Mafia hit is a murder. These kinds of hits are like a search engine
+hit is returning information. To hit on is to make sexual advances. To hit up. I hit
+the dragon up for gold means I'm going to request gold from the dragon. Each one of
+these senses is different. So at this point, you're probably a little bit terrified because,
+oh my God, all these words have different meanings. How do we handle this? How do we
+deal with this? Well, remember last time we talked about the fact that some verbs don't
+take an object. Um, for instance, dream, dream doesn't ever take an object. I can't say I
+dreamed a pile of gold and say I dreamed about, but he can't say you dreamed it. Um, some
+verbs always take an object like hit. It's very weird to say, oh, um, she hits, right?
+It needs to be coerced into a situation to say something like that. And then some verbs
+take to like I baked Jessica a cake, put differently. Different verbs demand different arguments.
+Now here's the scarier thing. We can talk about arguments here. That's not the scary
+thing. The scary thing is what I'll say after this slide. Um, an argument is an element
+of the sentence which helps to complete the meaning of that sentence. It helps us to give
+us more information about what that sentence means. So for instance, if we have the sentence,
+will hit the dragon. I am an argument. Will is an argument. And then the dragon is an
+argument as well. Um, Mary baked Sam a cake. We have Mary as an argument. Sam is an argument
+and a cake is also an argument. All three of those things are arguments. Maria fired
+six rounds. Maria is an argument. Six rounds are arguments. All of these things are arguments,
+but what's really scary is that different verb senses can demand different arguments.
+It's not just the case that different verbs like dream versus hit versus sleep can demand
+different argument structure. What are we called in syntax? Subcategorization frames.
+Don't worry too much about that word. You'll see it more in one 21, but different verb
+senses can demand different argument structure. So let's take this example, the strike meaning
+of hit. What arguments can this take? So this can take the thing doing the hitting, right?
+So in this case it would probably be me. I did the hitting the thing that's being hit
+in this case, the dragon and the instrument, right? So you could hit the dragon with an
+arrow. You could hit it with a sword. You could hit it with a rubber chicken. It doesn't
+matter. You can use something to hit, uh, to hit the dragon. Uh, but in this strike
+sense you kind of need these things, right? You can say I hit the dragon and in that case
+it usually just means I hit the dragon either with my fist or maybe with something else.
+You know, I was driving down the street the other day and I saw a dragon and I got so
+scared that I hit the dragon. That means with the car, but there's always those arguments
+are around who did the hitting, what was hit and how the hitting was done. Compare
+this to hit a value. In this case we have different things. We want the thing that's
+hitting the goal. So in this case, Schwaco stock, we want the goal 500 a share, but there's
+not really an instrument that we can use here. We couldn't say a Schwaco stock hit $500 a
+share using their great new earnings report or with a brand new product release. None
+of those things work. You can't use an instrument here. It just needs to be the thing hitting
+the goal and the goal itself. Um, you can give other kinds of arguments like a temporal
+argument like last weekend, but for the most part in terms of actual core arguments here,
+these are what you've got. You can't do an instrument. Um, go to an activity like Rob
+loves to hit the bowling alley with his friends. Again, this doesn't mean he's taking the bowling
+ball and whacking the bowling alley repeatedly. No, that's not it. Instead. Um, this takes
+different things. So the person going to the activity and that person has to be animate.
+By the way, you couldn't say for instance, the rock loves to hit the bowling alley with
+his friends or the bowling ball loves to hit the bowling alley. That doesn't really make
+sense, right? So this needs to be an animate thing. This needs to be alive. It needs an
+activity. So you can't just say Rob loves to hit with his friends. That's that doesn't
+work. You need that for this sense to work and that it doesn't take an instrument. Rob
+loves. So how about this? John hit the golf course with his new clubs. That kind of works.
+Uh, but that's just because you know, it's like a with meaning, right? It's an instrumental.
+I'm sorry. It's not an instrumental. It's a commitment. It is technically the linguistic
+term you would use. It is a meaning where he has gone with the clubs separately rather
+than instrumental where he is literally hitting the golf course, the turf beating the crap
+out of it with a golf club. And similarly, it won't take an inanimate object. Um, the
+balls love to hit the bowling alley. It doesn't work. So you need these very specific kind
+of arguments. Um, so hit on has a very different set, right? Sherry hit on Steve at the party.
+You usually get the person making the advances. Somebody hit on somebody else. You get the
+person being hit on. You can't really use an instrument. Although I guess it's kind
+of okay. I could say like, um, Sherry hit on Steve with a bad joke. Does that work right?
+Or Sherry hit on Steve with a compliment. That's, I don't know. That's questionable
+to me, but instruments are a little bit more difficult here. Uh, but both of these things
+need to be animate, right? You wouldn't ever have the statue hit on Steve. That doesn't
+work. That can't be a thing, right? So you need to have people making advances, people
+being hit on. Um, and yeah, so then hit up, hit up is really fun, right? I hit up the
+dragon for some gold. You need the person making the request. You can't just say something
+like hit up the dragon for gold. It doesn't work. You need a request. You can't just say
+I hit up the dragon. What that would actually usually mean is like I texted the dragon,
+like yo dragon, what's up? That would work, but it doesn't have the same sense anymore.
+It's not a request. So you need to make sure that you're saying I hit up the dragon for
+gold and then you need the thing that's being requested. Uh, I'm sorry, the person you're
+requesting from. So I can't just say I'll hit up for some gold like, Oh, I'm, I'm, I'm
+out of gold. My party is out of gold and I need to buy a enchanted sword. I'll hit up
+for some gold. It doesn't work that way. No, you need to actually hit up somebody, something
+and you need to specify who that is. You could say I'll hit up someone for some gold and
+that works, but that's cause we put an argument in there. We put in a placeholder. So all
+of these arguments are required. And again, you can't really do an instrument here. Like
+I hit up the dragon for some gold with guilt. That doesn't, and I mean guilt in the G U
+I sense rather than guilt is in the gold sense. It's kind of weirdly ambiguous there. Anyways,
+hit up requires all of these arguments. Um, so all of these things are difficult and you
+can't, by the way, use this die transitively. Even though there are two arguments here,
+you can't, or three that is, you can't say I hit up the dragon, some gold that doesn't
+work. Uh, you need to say the four, you need the preposition. So this is scary. And then
+we could do the same thing for fire. We could think about all of these different senses.
+And in fact, I encourage you if you're kind of, if you're interested in this, try doing
+this, try coming up with the required arguments for all of these things. So they fired, you
+need for that version, you need the shooter basically, and you need the thing being fired.
+So it could be a torpedo, could be a bullet. And usually there's a target, right? Um, it'd
+be weird to just say they fired 10 rounds. Generally speaking, there's an implied target.
+So usually you get all three things, but what about for this one or this just kind of, you
+can play with these. These are really actually can be kind of fun. And it's a really important
+part in computational linguistics, thinking about what these verb senses do and how they
+work. And so we can think about every verb sense, not just every verb, because remember
+there's polysemy here, but every single verb sense has a frame. Every single verb sense
+has information, uh, that we kind of know instinctively as, as speakers of a language
+about what arguments it should take. It has a set of arguments that it expects and those
+combined together to give the overall meaning of the sentence. This is in syntax called
+a subcategorization frame, generally speaking. Um, and in computational linguistics, we have
+other terms, but these are lexically specific. That means every individual verb and every
+individual verb sense more so has its own subcategorization frame. Very similar. I'm
+sorry. Very often they will be similar to another verb's frame. It's not the case for
+instance that every verb will be unique in this way, but very often, but it's not predictable.
+You have to figure out which sense is workable for that verb. And this information is actually
+a part of the verb's meaning, right? If you have to know this information to understand
+how the verb works, think about hit up, like fundamentally the meaning of hitting up involves
+somebody asking somebody else for something that's inherent to it. And so these frames
+are actually a part of the meaning of those words. And so this is actually just fun, right?
+And so every verb has a frame and computationally speaking, like I said, this is really useful
+because if you come across a sense or a word like fired, like the company fired 20 people,
+you want to know what version, what sense is being used there. Is this the employment
+sense? Is this the, does the company have a large cannon that shoots employees? What,
+how does this work? And so the prop bank project both has been working to basically write,
+make these frames. They've been working to go through and give every verb a frame to
+tell us what arguments every verb expects. And this is really, really big. This is a
+huge project here and here's a list. You can click it and go through and find all of them.
+And that's awesome, right? Not all of them. There are always more verbs every day. There's,
+I don't think there's eat in there yet, for instance, but still you can find a list of
+these frames by verb and that's awesome. And knowing this frame turns out to be really,
+really, really useful for processing text. Different sets of arguments imply different
+verb senses. This is called verb sense disambiguation in the computational linguistics world. And
+it just helps us understand text better. If you see, okay, there's business type firing
+going on. We should figure out who's doing the firing, who's being fired and where they're
+being fired from. This is really useful. Think if you're trying to automatically summarize
+a news article and you know, it's an article about firing in that sense, well then you
+better go through and find those things. What companies firing, who are they firing and
+where? Et cetera. Are they from a division? Is it from a particular sub part of the company?
+Who knows? So this is really useful stuff. And similarly, if it changes senses, that
+changes what you're looking for. And it lets us identify what are called semantic roles.
+And this is another big question here. What are the roles of different arguments in the
+sentence? What are the roles that each of these things have? Now, this is hard. Semantic
+roles are really, really tough to define. Like amazingly so. Your book will give you
+things like agent and source and experiencer and theme and goal and instrument. These are
+perfectly reasonable roles, right? And in fact, Prop Bank gives you a different set
+of them. The thing is, this gets it, and this gets it a really important question, which
+is that subject is kind of bad, right? Because the subject in John fired Ivan is very different
+than the subject in John fired a gun, as opposed to, for instance, John dreamed about cats.
+In that case, in the dream case, John isn't really active at all. But in this case, John
+is doing something strongly. And in this case, John is taking an even more direct action,
+right? In this case, it might just have been John made the decision. So subject can be
+very different across different verbs and across different verb senses. So we want to
+be able to differentiate things, differences among subjects and objects. Again, throwing
+the ball, the ball is undergoing something very different here than a fellow wrestler
+would. So semantic roles are trying to get at this question of what labels are best suited
+to describing all of these different roles. Should we spend hours discussing this? No.
+The reason I say that is not because it's uninteresting, not because it's unimportant.
+It's very important and very interesting. And in computational linguistics, oh my God,
+do we think semantic roles. But for 101, probably not the best use of our time right now. We're
+going to instead focus on the fact that every verb has a frame and every frame specifies
+the arguments that the verb expects. And then that that knowledge is really useful for understanding
+what a verb means in context. It's useful for parsing out what that verb will actually
+mean in a sentence. So we've been talking about meaning in isolation this whole time.
+We've been thinking about entailment. We've been thinking about connotation and denotation.
+We've been thinking about prototypes. We've been thinking about all of these various relationships.
+But we've been thinking about meaning sort of on its own, right? We've been thinking
+about meaning independent of the world by and large. What does this verb mean everywhere?
+What is always true about the relationship between up and down? What's always true about
+why given sentence X? But words can mean different things in different contexts. This is really
+important. Think about for a second while I drink some water, all the things that this
+sentence could mean. Think about a bunch of contexts where you could see this sentence.
+So just to throw a couple off the top of my head, I mean, one would be, can you see? Like
+literally, like, okay, uh, you know, I've just taken off the bandages. Can you see?
+Oh my God. Yes. Or maybe somebody sits down in front of you at a movie theater with a
+tall hat and you ask, Oh, can you, can you see? Um, that's useful to know. Um, can you
+see on a zoom call can be useful, right? Like, can you see everybody? Um, that's helpful.
+How about I'm open? I'm open again, has many different meanings depending on context. Part
+of this is sense, different senses of the word, but part of it is just different contexts,
+right? So I'm open could mean in a sport like, Hey, throw the ball to me. I'm open. No one's
+bothering me at the moment over here. Um, because they know I can't catch. Um, I can
+catch frisbees. That's what, anyways, I digress. Um, I'm open means I throw the ball to me
+or it could mean, uh, I'm open. Come on by. I have time for you to, you know, for me to
+repair your car or something like that. It could mean, what do you want for dinner? Oh,
+you know, Mexican Chinese. Do you have a feeling I'm open? I could go either way. So I'm open
+could mean that as well. How about take that? Take that could mean many things like, Oh,
+um, you know, I put a textbook on the table. Why don't you take that? There you go. Take
+that means literally grab the thing over there. Take that could mean, you know, you insulted
+my dignity. Take that. And then you whack them over the head with a rubber chicken.
+Um, it can mean all kinds of things. I feel you could mean I emotionally feel what you're
+saying here. It could mean we're both in a dark room and I'm trying to find where you
+are and I've just grabbed something and it is a leg. Oh, I feel you. Great. Okay. Excellent.
+All of these things have different meanings in different contexts. This is pragmatics.
+When meaning stops being about words and sentences and starts being about situations, we are
+in the land of pragmatics. So pragmatics is the study of meaning in a specific discourse
+context that is in this place that the meaning is being used basically in the area of the
+world that the meaning has come up. That's pragmatics. So semantics is very abstract.
+The semantic meaning of a word does not depend in any particular way on the context of it.
+That is just what that word always means. The meaning of fast will never turn into slow
+in a conversation. Um, we'll talk sarcasm later, but an entailment is true in every
+universe. Pragmatics is contextual. It considers the current conversation. It considers what's
+around us, right? It considers what you and I had been saying yesterday. It considers
+what we've been saying 20 minutes ago. Um, it assumes things about the current world.
+It knows that for instance, there's a mug on the table right there. Um, those are all
+pragmatic things and it uses elements of our situation to fill in blanks about meaning.
+So everything in pragmatics flows from this idea of discourse of conversation and linguistic
+interaction. This can be a conversation verbally back and forth. It can be a text message conversation.
+It can be the greater discourse in either a classroom or a, like a discord channel,
+right? You'll have a greater discourse there and everything will have its own meaning,
+but it'll have its own meaning within the context of that discourse. Right? And so we
+have these conversations in our world with goals in mind, generally speaking, um, they
+can be social goals. Like there were conversations I'll have with people that exist for no reason
+except to, you know, be social, right? If you are standing next to somebody in an elevator,
+you're going to have a conversation with them. Is it like crucial? Are you trying to get
+information for them? No. But if it's a colleague that you know, well, Hey, how was your weekend?
+Do I care? I mean, sometimes usually a little bit, but how was your weekend? Oh, wow. Sure
+is boring weather outside San Diego, right? But these can be a social goal. It can be
+a practical goal. You have sandwiches. I want sandwiches. Hey, let's, let's negotiate
+in such a way that a sandwich ends up in my stomach and money ends up in your cash register.
+This is a very practical goal. Or, you know, you walk into the library and you, you're
+trying to figure out, Hey, um, can you help me find a copy of this particular book? And
+so the librarian would help you with that or an informational goal. Like for instance,
+I might ask my wife, you know, Hey honey, are you working tomorrow here? There's not
+going to be anything accomplished by this except for me to gain more information. She
+might say, yeah, I'm working tomorrow from 10 to 10, 10 to six or something like that.
+That would give me useful information. And so we are assuming during these cooperations
+that whatever the goal is that we share that goal. And more importantly, we're assuming
+that we're going to cooperate and that's not universally true, but it's true more often
+than not. And as a result, we end up with the cooperative principle. And there's no
+one specific statement of this, but a good summary of it would be something like, I'm
+going to try to act in such a way as to help the exchange of information or just of life
+generally rather than to hinder it. I am going to try to help you conduct this conversation
+in a way that it meets both of our goals. This is huge. We don't even think about it,
+but it's kind of a pretty universal thing in human language. It's very weird when the
+cooperative principle is not being followed. And so this isn't a rule in the sense of a
+grammatical rule in grammatical rules and specifically descriptive grammatical rules,
+like sentences always have verbs. If you don't have a verb, it is a busted sentence in English.
+But this is true more in the sense of it is a guiding principle that is almost always
+followed. So we can break this down, the cooperative principle generally a little bit
+further. We can break it into four maxims developed by H. Paul Grice. And so these are
+referred to as the Gricean maxims. And these are huge. These are a really important part
+of understanding pragmatics. First of the maxims is tell the truth and give accurate
+information. That's all. This is a way that you can cooperate with somebody else in a
+conversation. They walk up to you and they ask you a question, give them an accurate answer,
+tell them the truth. And so don't say things that you believe to be false and don't say things that
+you don't actually know or that you don't have evidence to believe are true. So it would be a
+really bad thing if somebody walks up to you and he says, you know, oh, hey, did you see a fox run
+by here? And I didn't, I have no idea what you're talking about. And I say, yeah, I went that way.
+That'd be, that'd be nasty, right? It'd be dumb. You wouldn't do that because I don't actually
+know. I didn't actually happen. So that's false. And I'm giving information I don't actually have.
+So that's the maxim of quality. Tell the truth, give accurate information.
+The maxim of quantity says, give enough information, but not too much information.
+This is important. Be as informative as is required, but not more so. So it has bounds
+on both ends. This is the difference. And it needs to be bound on both ends because
+both sides are just as dumb. If somebody says, uh, Hey, Will, have you seen Mark? Uh, and I say,
+yes, that's a dick move, right? That's not something you would want to do generally
+because generally speaking, people, when they ask you a question like that, they want details.
+If you know, you should tell them. So technically you answered their question, but you didn't really,
+you didn't get at the main force of it, but it would be just as bad to say something along the
+lines of, yes, I've seen Mark 362 times in my lifetime. Uh, the first time was in my office, uh,
+or was in his office when I came to visit, et cetera, that wouldn't be wise. You don't want to
+be too informative, but you also want to be informative enough. And so it is just as cooperative
+to give too much or just as uncooperative that is to give too much information as it would be to
+give too little. The maximum of relation is saying, give relevant information and only relevant
+information in a conversation. There were an endless number of things. I mean, remember,
+we have an unlimited number of sentences to choose from. We can always create a new sentence,
+but the sentence that we're actually going to produce is going to be dictated in part by the
+relevance to the conversation. Right? Um, and so your responses should have something to do
+with the matter under discussion. So the maximum of rel relation or relevance, I'll say both and
+people understand both, but the maximum of relevance is just saying, talk about the thing
+we're talking about. You know, don't go off on some crazy tangent that has no, nothing to do
+with anything. Right. And then there's the maximum of manner be as clear as you can possibly be.
+So this has a bunch of different, uh, kind of consequences. One is don't be obscure.
+So don't use big words when little words would suffice, especially when they would just confuse
+things. Similarly, don't just manner wise, like avoid ambiguity. You don't want to sit there and
+give a bunch of lexically and syntactically ambiguous sentences, ambiguous, ambiguous.
+There's the prosody ambiguous sentences because that's uncooperative. That's dumb. And also,
+uh, wordiness, if you are too wordy. And by the way, I want to draw one big distinction here.
+This is something that trips a lot of folks up. So we've talked about the maximum of relevance.
+I'm sorry. We've talked about the maximum of quantity, which says don't give too much
+information that is different from the maximum manner. This says don't use too many words.
+If somebody is giving way too much information, but using the proper number of words to give it,
+that's a, uh, that's a, uh, quantity violation. But if somebody is not giving new information,
+but using a lot of words to do so, that would be manner. So a difference for instance,
+would be, um, the maximum of, um, a relevance violation would be, have you seen Mark?
+Uh, I'm sorry, a quantity violation would be, have you seen Mark? Uh, no, I have not seen Mark
+since May 5th, uh, when we bumped into each other at the grocery store or something like that. Uh,
+that would be an unnecessary amount of information. An unnecessary wordiness answer could
+be absolutely positively. No, I have not seen Mark in any of the slightest of ways. And in fact,
+if I even had seen Mark, I would probably be telling you, but I haven't seen Mark really at
+all. I can't think of even a scenario in which I would have seen Mark since I last saw Mark.
+So in general, no, Mark hasn't been seen by me there. I said a whole bunch of stuff, but not a
+damn bit of information beyond no. Right. And so manner is giving a lot of words without a lot of
+information. Whereas quantity is giving a lot of information, but in as many words as you'd like,
+right? So this is really important. And then organizing your thoughts is crucial too. As a
+teacher, this is the hard part, right? Um, organizing, I can talk to you all day long
+about things in this, in this subject, but I need to have my thoughts reasonably organized as I'm
+teaching or else it's going to be very hard for you to follow. One other thing with manner is that
+there is also, um, just physical manner violations, right? So if I were to talk to you like this,
+if I said this, and you can barely understand anything that I'm saying, it's probably better
+because I got a microphone right here, but still, or whispering, if I were to whisper in public,
+that would be yet another way that I could violate manner, or I respond in a language you
+don't speak. All of those things are possible maximum manner violations. So let's think about
+this for a second. Imagine that your roommate, Alex arrives home, asks where your other roommate,
+Chris is. You're not sure where Chris is, but you know, he left earlier. So let's think for a
+second. I want you to think at home about a way to violate the maximum quality. So come up with
+a statement you could make to your roommate, Alex explaining, uh, where Chris went, violating the
+maximum quality. So when you're ready, one really good way to violate quality is, I don't know where
+Chris is, but I could just say, oh, he's at the park. There, I'm lying. I'm giving inaccurate
+information. Or more importantly, I'm saying things that I don't exactly know. I'm portraying this
+guess, basically, this conjecture as truth. Or I could just say, oh, he's right behind me. Don't
+you see him? Again, that's both gaslighting and violating the maximum quality, right? So in this
+case, I'm saying things that I know and believe to be false, or I'm saying things that I know,
+I'm sorry, that I'm not sure are true. I could say, oh, you know, Chris ran off to join the Marines.
+Maybe he did, but I don't know that. So those would be violations of quality. Violations. Cool.
+Speech is really hard, remember? Quantity. How would I violate quantity with this? So think to
+yourself, what would a quantity violation look like for this situation? Chris is not here. You
+don't know where he is, but you know he left earlier. Think about it. So a good quantity
+violation would be to give not enough information. So you could say something like, where's Chris?
+Technically, you're not lying. You don't actually know where Chris is at the moment,
+but they probably want more information as to he's not here, right? So that's not quite
+informative enough. Or I could be super informative. I could say he left at 2.57 PM
+and 38 seconds, and I saw him heading east northeast last time he moved. That would be
+really uncooperative, right? To give that much information. So either of those could
+be a quantity violation. How about relation? Where's Chris? Go.
+Where's Chris? I really like Breath of the Wild. That was probably my very favorite Zelda game,
+and I never expected I was going to say that, but I think it's a little bit better than Ocarina of
+Time and Link to the Past, although it's very different. I happen to believe that. Fight me.
+But nonetheless, don't please. I'd lose. But the maxim of relation is relevance information,
+and there is no part of that discussion about Chris's location that involves the Breath of
+the Wild, right? Great game, but has nothing to do with Chris. And so a response that violates
+relevance is completely off topic. There is no relation to what's actually being discussed here.
+And then maxim of manner. Be as clear as I can be. So in this case, if I know that my roommate
+doesn't speak Spanish and I say, no se, right there, that's not a good manner, right? Or I
+could say something like, you know, Chris may or may not have left, although I'm not sure. Maybe
+he did leave. I don't know. I think, yeah, actually he did leave. Right there. That was really ugly,
+right? Because you kept going back and forth. Does he know? Does he not know? And then at the end,
+like, and quietly, yeah, he left. Or something like that. Or again, he is absolutely, positively,
+100% not here. Again, a little bit manner violation. Sometimes you can do this for style,
+right? But yeah, so manner violations would look something like that. Now, this is big,
+right? I mean, this is big, partly just to understand it's an interesting part of language.
+We all do these things. We all follow these maxims, and we never even think about it. And
+they're pretty damn universal, by the way. I mean, this is kind of a fact of conversation,
+right? I mean, they're going to be implemented a little bit differently, and they're going to
+be different sensations of, you know, that's too much, that's too little, culturally. But by and
+large, there's something approximating all of these across human language. But these affect
+meaning is the other reason we're bringing it up. It's not just useful to know about language,
+but these change meaning. So if I give you this sentence, John was alone in the room,
+or so he believed. How is that different? So the weird part about this is that last bit,
+or so he believed. If that bit wasn't on there, you would assume that John was alone in the room.
+But with that on there, you're thinking that he wasn't alone in the room.
+Why is that? Why does adding this on here make us think he wasn't alone?
+Because the maxim of relevance. John might be sitting in the room, right? And John might
+believe that he is alone in the room. That could be completely and totally true. Right now, I
+believe I am alone in this room. And in fact, I have pretty good evidence that, yeah, no one's
+behind my green screen. I'm alone in this room. Great. And so I believe it. But if you say this,
+you're kind of making the claim that he's not actually alone in this room. This has an
+implication, saying it that way. Similarly, Carl, who is absolutely not a lizard person,
+went to the store. What do you think about Carl? He's a lizard person. Yep. That's what this means.
+If you add this in there, maxim of relevance says, wait a second, hold on. This, why would you have
+even brought this up if he wasn't a lizard person? Yeah, that's weird. Marvin left at 544 and 30
+seconds. If somebody says this to you in good faith, what are you assuming?
+You would probably assume that this is like some variety of a game like, you know, oh,
+everybody leaves the room on a scavenger hunt. And then we're so in this case,
+you're precisely timing this for a specific reason. Or maybe the person is giving an
+electronic key card log to a police investigation where those 30 seconds really are relevant.
+Frankly, even 544 is a little weird, right? If somebody said, you know,
+hey, is Chris here? I said, no, he left at 543. They're going to kind of look at me like,
+did you really just give me that much precision? Okay, sure. And usually say like, oh, he left 545
+or so, left 15 minutes ago, something like that. So this has an implication. If you have that there,
+did Ramchand ever work with Sam? He hates dogs. What does this mean?
+There are two possible meanings. Well, actually there are many possible meanings for this,
+but we're going to go on ahead and assume because we're human, that this response has something to
+do with this question. So we're going to read it as such. I'm going to read this as, did Ramchand
+ever work with Sam? He hates dogs. So maybe Sam is blind and has a seeing eye dog. And so Ramchand
+wouldn't want to work with Sam because he's afraid of the seeing eye dog. Or maybe Sam is a
+dog. That's a possibility too. And this was a, you know, school for guide animals and Ramchand
+only works with horses. I don't know. I think there are guide horses. Either way, it's a thing.
+So in this case, we read this very differently, given that that is the response. Did Sarah buy
+chicken? I think so. What does this now mean? The fact that I said, I think so actually
+demonstrates uncertainty, right? I mean, that sounds really dumb. That's the way I phrased it,
+but we understand that if I say, I think so, I don't have any evidence strongly in either
+direction. I might say, I think so because Sarah, you know, usually buys chicken or, you know, oh,
+I looked at the receipt and I think she bought chicken, but I'm not sure. But this carries a
+strong implication that I am not sure because of the Gricean maxims, because we assume people
+follow them all the time. And when we assume this, it allows us to get a lot more done,
+right? There's less confirmation. There's less clarification. So for instance, if somebody says,
+if I walk up to somebody and I say, you know, hey, will you sell me a bottle of water? And they
+say that's $3.50 and I stop and I say, wait, will you sell me a bottle of water though? I don't want
+to talk price yet. Will you do it? That's dumb, right? The fact that they said it's $3.50, which,
+God, that's a lot of money for a bottle of water. Anyways, the fact that they said that to me
+indicates that, yes, I'm willing to sell it to you. Here is the price. The maxim of relevance
+gets that done. It makes things much more efficient as well, which is good. I love this sign so very,
+very much. My wife and my uncle-in-law and we were walking down at Balboa Park one time,
+some time back, and we happened upon this sign outside of a restaurant for, and this was the
+only sign out there. This is the only information and there's nothing else of use cut off on this
+side here. So this chunk right here, America's best restaurants, gourmet magazine. What does
+this mean? So what do you interpret this as meaning? Probably something like, this is one
+of America's best restaurants, right? Or this was listed in an article in gourmet magazine titled
+America's best restaurants. But that's not what it says. Literally all this says is a quote,
+America's best restaurants from gourmet magazine. This quote actually could have said,
+America's best restaurants are many and numerous, but not one of them is Prado at Balboa Park.
+Or, you know, Prado is absolutely not one of America's best restaurants. That quote would
+still be accurate. But the fact that they put it there means that they want us to draw the
+implicature that they are one of America's best restaurants. They didn't say we are one of
+America's best restaurants. They didn't do any of that. In fact, we have no detail as to why this
+was written aside from just the knowledge that they're probably trying to convince us this is a
+great restaurant, right? So this depends entirely on implicature here. We're assuming this is
+relevant. It would be weird if this showed up outside a dry cleaner, right? We're assuming
+this is relevant because this is a restaurant, right? We're assuming that this is true, that
+they wouldn't just print this if this were false. We're assuming that they're giving us a proper
+amount of information. We're assuming that quantity is good here because if this said
+not America's best restaurants, that would change the meaning entirely. So we're assuming that
+they're giving us enough information here. And we're assuming that this is clear. We're assuming
+that they're telling us this in a manner that is not deceptive. That's and, you know, is it clear?
+Not really. But through implicature, we're able to figure out exactly what they mean here.
+So this is really common. Gricey and Maxon's are leveraged all the damn time. And when we don't,
+it's problematic. So if we had, for instance, my wife and I are talking and she says,
+what did you get at the store? I reply, ice cream, tootsie rolls, a big squishy tofurkey,
+and a receipt. What's wrong there? What, Maxim, have I violated?
+The receipt. Everyone gets a receipt. Well, okay. Historically, everyone's gotten receipts. Hopefully
+less so in the future, right? Save the receipt trees. But nonetheless, and a receipt, this implies
+this doesn't need to be said. That's going to be a quantity violation.
+Did you really get a big squishy tofurkey? Maybe. I don't think so. Okay. Now we're seeing a quality
+violation up top here. And this itself is kind of quality-ish, right? Because maybe and I don't
+think so mean different things. So this doesn't really track. Wait, did you or didn't you?
+They didn't have any Kobe beef. This is asking for an answer. This is irrelevant. So we have
+a relevance violation here. What does that have to do with it? Absolutely, positively, completely,
+and totally nothing at all. That is a manner violation. There are too many words for too
+little information. She says it's divorce time and the screenplay is over. So this is the kind
+of thing that you end up with when you don't follow the Maxim's. And in fact, you're going
+to not follow the Maxim's in one of your homeworks. And it's going to be amazing because you're going
+to troll your family, friends, and fellow members of your discord servers. However you want to roll,
+it's going to be awesome. So this leads us to the next question here, which is what was I doing?
+Well, as you probably realize, I was violating a Maxim. That's why it says that top of the slide.
+When you are actually being uncooperative by failing to follow these guidelines, you are
+violating a Maxim. When you are breaking down conversation, you are violating a Maxim. When it
+is causing pain, you violate a Maxim. You are actually messing up a conversation. Just like in
+that last example, that was screwing up that conversation completely. That could have gone
+super smoothly, but because I was being non-Christian, everything broke down and I got a
+divorce. I didn't actually. Yay! But still, this violated the conversation's entire flow. It was
+bad. Violating Maxim's, that is, breaks conversations. And you will violate these for
+homework and it's going to be awesome. This is a video that if I click it, YouTube is going to
+copyright strike this. But this is an example of Macho Man Randy Savage violating every Maxim
+just ever. And so I highly encourage you look at the slides and you click this because it's amazing.
+You get all of them. It's absolutely great. So this is Maxim violation in action and I really
+wish I could click this link, but that's the nature of online teaching, right? And then flouting
+a Maxim. Flouting a Maxim is intentionally violating a Maxim in a way that the listener can
+detect in order to express a specific meaning. Here's the big difference. When you violate a
+Maxim, you break conversation because people don't understand what's going on. When you flout a Maxim,
+you're also violating the Maxim, but you're doing it in a way that's clear to people. You're doing
+it in a way that is obvious and that itself carries meaning. Violating Maxims breaks down
+meaning. It breaks down conversations. Flouting them uses these Maxims to express meaning. It
+carries meaning and this can have great comedic effect. And unless you completely do this and
+it's undetected, the conversation isn't messed up at all. So examples of this could be sarcasm.
+If I say to somebody, if they say, you know, what do you think about Taco Bell? I say, oh yes,
+Taco Bell, it's truly gourmet cuisine. I think most people would agree that Taco Bell is many
+things, but truly gourmet cuisine is not among them, right? So it is not gourmet and therefore
+saying this, I am flouting the Maxim of quality. I am lying to you outright, but I'm doing it in a
+way that is very apparent, right? If I said, you know, that about the Prado and it truly wasn't,
+then that would be probably violating the Maxim. But in this case, I'm flouting it by saying truly
+gourmet cuisine. Um, you're going to understand that I'm flouting it here. How about, um, very
+often students will ask me, is this going to be on the test? And my token response is, that's a
+good question. So what have I done there? I have provided insufficient information. I've told them
+it's a good question, but I haven't given them the information they want, but I've made it very
+clear to them that I heard them. I understand exactly what's being said, but I'm not going to
+give them that information. I am violating the heck out of quantity here, but I'm doing so to
+express a meaning. Namely, I'm not going to tell you whether that's on the test. How does my hair
+look? Somebody walks up to you and says, how does my hair look? And you say, hmm, we, uh, haven't
+been to a cat show in a while. What does that mean? Generally, you don't love the hair, right? Um, and
+that's not a great approach. Um, but this is a very conscious way of saying, I don't really care
+for it, but I don't want to say it. It carries that meaning in conversation to violate relevance
+in that case. Should I build syntax trees or work on phonology problems for the exam? Yes.
+I have given you insufficient information. You gave me a question that demanded X or Y,
+and I gave you an answer that equates to both. That's not actually giving you enough information,
+but by not giving you enough information, you get good information, right? And there are lots
+of other examples you can think about of flouting these maxims. And we do it actually pretty
+regularly in daily life, right? Um, but the thing is, uh, these maxims are omnipresent in our world
+and they turn out to be really, really important as we think about other elements of pragmatics
+and frankly of conversation generally. So to wrap up for today, words do have relationships to one
+another. Words expect certain arguments and those arguments depend on the word sense being used.
+We're assuming all the time that people are cooperative in conversations and the Gricean
+maxims describe what that cooperation usually looks like. And they can be violated, breaking
+down the conversation or flouted to advance the conversation by specifically violating them here,
+uh, for a specific meaning. So there we go. Next time, we're going to talk about some of
+the other elements in pragmatics. And so bring some more meaning in context. Thank you all very,
+very much and have a great day.

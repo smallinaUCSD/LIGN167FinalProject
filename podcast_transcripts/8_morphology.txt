@@ -1,0 +1,1300 @@
+Hi everybody, today we're going to talk about morphology, and we'll get a little deeper
+into how words work, but first I have a public service announcement for you.
+And that is simple.
+Back up your computers.
+Seriously, your computer will die.
+It will happen, sooner or later.
+Whether this is due to it being lost, it being stolen, you spilling a glass of water on it,
+or just the hard drive dying due to old age, it is very, very possible that your computer
+could die, and that it could die way sooner than you expect.
+So it's very important as you're kind of dealing with this, and as you're thinking
+about this, to take steps to back things up.
+If your hard drive or computer failed tomorrow, what would you do?
+So good ideas are do things like keep important and non-private documents on Google Drive.
+Buy an external drive and back up the whole machine.
+And by the way, things like viruses and ransomware are a factor too, and they can absolutely
+affect you.
+And because you have free utilities, if you get an external drive, and they're not that
+pricey these days, you can use Time Machine or Windows Backup.
+Any backup is better than no backup.
+You can also use professional services, like Backblaze, or just use R-Sync, or something
+like that, depending on how nerdy you want to get with it.
+But back up your computer.
+Your computer will die someday.
+Please, be prepared.
+And the reason I bring this up is because every year, I get, you know, two or three
+students, oh my God, I just lost everything.
+I'm going to need an extra two weeks in the pay—and look, I get it, but you can avoid
+these things.
+So do.
+Okay.
+Now, beside the point rant over, let's talk a little bit about morphology.
+And morphology is how words are built, right?
+So we'll start off talking about what morphology is.
+We'll talk about types of morphemes.
+We'll talk about types of words.
+We'll talk about the process for building new words.
+And we'll talk about derivational and inflectional morphology, and how languages construct words.
+So what is morphology, generally speaking?
+Well, think about it this way.
+We've been kind of working our way up the chain, so to speak.
+We started off the class by thinking about speech sounds, right, phonetics.
+And then we used those to make bigger chunks, combinations of them, patterns in phonology.
+Now we're going to take those chunks of sound, and we're going to turn them into bits of
+meaning.
+So morphology is the study of, well, words.
+It's the study of the shape and the formation of words, is one way to think about it.
+Basically, we're concerned with, you know, this thing here, study, that's a word.
+Is it one piece?
+Is it multiple pieces?
+What about formation, or words, plural?
+How do we deal with this?
+So in English, words are not entirely monolithic.
+What I mean by that is that an individual word in English might have multiple parts.
+It might have one chunk, and then a second part later on.
+And we detect these components by looking for correspondences across multiple words.
+We try and find correspondences between form and meaning.
+We try to find, okay, all of these words have an S at the end.
+They're all plural.
+That's weird.
+But if the same meaning keeps showing up in the same form in a word and across other words,
+that chunk of little form must carry meaning, right?
+So English plurals are a nice example of this.
+We have cat, a little furry thing, and then cats.
+We have sit, and then sits.
+We have pat versus pats.
+It sure looks like in all of those cases, all of these things are plural.
+I'm sorry, seats, not sits.
+And then this is pot versus pots.
+Wow, I'm not an IPA brain at the moment.
+But nonetheless, what we see here is all of these things are plural, and all of these
+things are singular.
+So when we add an S at the end, that sure looks meaningful, right?
+This means, this S at the end means there's more than one of something.
+That's a morpheme.
+That's a meaningful chunk.
+And any recurring chunk of a word, or a whole word for that matter, that seems to have some
+meaning is what's called a morpheme in linguistics.
+And so a morpheme is the smallest piece of a word that expresses a meaning or a function.
+A morpheme is a little tiny chunk of linguistic material that carries meaning.
+I'm going to be talking about it in terms of sound, but you have morphemes even within
+a sign language context.
+So nonetheless, it is a chunk of language that carries a meaning, and it is the smallest
+chunk of language that carries a meaning.
+And so a lot of words in English are composed of different morphemes, and every morpheme
+contributes to the word's meaning overall.
+So you get played, for instance, as a word, has play, which is the verb here, play, as
+in, oh, I'm going to go playing.
+And then id gives you past tense.
+You have cats, which is cat, the fuzzy thing, plus the plural marker, showing us that there
+is more than one of them.
+You get blacken, which is the black, an adjective, plus this cause to become in suffix that we
+can see elsewhere.
+We can see darken, deepen, what else can you, redden, et cetera.
+All of those things work as this cause to become.
+So we know that this is a chunk, and black is a chunk that works on its own, too.
+Or even unroll.
+You have this unchunk, which always seems to occur at the start of words where you're
+undoing what happened, kind of like the word undo, but in this case, it's paired with the
+roll.
+So it is the reverse of to roll.
+Older is a comparative, so it's old plus this comparative marker.
+So there are lots of morphemes in words on occasion.
+English actually tends to have relatively few morphemes per word compared to other languages.
+We'll talk about this a little bit more later on, but still, lots of words are composed
+of many morphemes.
+And there are two different kinds of morpheme that we're going to talk about this quarter.
+There are bound morphemes and free morphemes.
+So a free morpheme can stand on its own.
+It doesn't have to attach to anything else.
+So an example of this would be cat, or show, or class, panda, walk, purple.
+I can have all of those things on their own.
+I can say, hey, that's a nice panda you've got there.
+Or, wow, aren't you glad you're in class right now?
+Kind of, I guess.
+You're watching a show, at least.
+But all of those things can stand on their own.
+We can contrast these with bound morphemes.
+These are morphemes that cannot stand on their own.
+In order for them to exist, they must be attached to another morpheme.
+So these are things like id, s, ing, ur, un, aholic, twit, and cran.
+We'll talk about all of these later on, but you see chunks of these elsewhere.
+You see cran in cranberry, cran apple.
+You see ing in walking, running, eating.
+You see the past tense.
+You see ur, refrigerator, come on, a mugger.
+I have a mug.
+That's not exactly the meaning of it, right?
+But still, it works out.
+So bound morphemes are also called affixes, and they're really useful.
+And we can break them apart into different types, right?
+So we have prefixes, which go before the root.
+They go before the main chunk of the word.
+So a prefix goes before.
+So like redo, re is a prefix, unscrew, un is a prefix, overcome, over would be a prefix
+there.
+A suffix goes after the root.
+So like walked, cats, ending, those things go after the root.
+You have infixes, which go inside the root.
+And so, for instance, in the Khmer language, you end up with leun versus lebun, which gives
+you something.
+This be goes into the root.
+You insert it literally inside there.
+And then circumfixes go to either side of the root.
+So like, for instance, in German, you have spielen is to play, and then gespielt gives
+you play.
+So you get the g and the t on both sides.
+And if you don't have either component of it, it doesn't have the same meaning.
+So it needs to go to either side.
+So these are the four kinds of bound morphemes that we generally talk about in linguistics,
+right?
+And here's another way to think about it.
+This is a postmalone, a premalone, a circummalone, and an inmalone, the little lines are to either
+side there.
+Anyways, beside the point.
+So the er in refrigerator.
+Is this example of a, a prefix, b, a suffix, c, an infix, d, a circumfix, or e, a bushfix?
+Think about it for a second.
+So the er in refrigerator would be an example of a suffix.
+It's occurring at the end of the word.
+Easy.
+Okay.
+So morphemes.
+Good.
+The thing is though, there are a lot of kinds of morphemes and those morphemes can be in
+many forms, not only just bound and free, but they can accomplish many tasks.
+And so I want you to think for a second, and we're going to think for a second about the
+things that certain morphemes accomplish within sentences, the things that certain words accomplish
+within sentences.
+So what are words anyways?
+Turns out that word is tricky.
+Turns out that word is one of those things that is actually surprisingly difficult to
+really get a good sense of for linguists.
+And it's not just because we're weird, although certainly that's there.
+Word is sticky.
+We know that they're made up of morphemes.
+Sometimes just one.
+So for instance, just is made of one morpheme.
+You could probably argue that sometimes is two.
+It's some plus times, it's compound.
+We'll spend some time later or there later today, but once constructed, a word can have
+many different types.
+It can have many different roles in a sentence.
+And these are what we refer to as lexical categories.
+You know what these are, actually.
+You've been taught this before likely in your life, but we're going to give them different
+names.
+You might have heard them as parts of speech.
+These are types of words that occur in language, and these are functional types.
+These are things that these words can do for us in a given situation, maybe in a given
+syntactic construction, maybe just in a sentence overall.
+And so we have different kinds of lexical categories.
+We have things like nouns, like bike or car, cat, dog, tofu, bling.
+The old thing is person, place, or animal, right?
+Yeah, so nouns.
+Verbs are actions, right?
+Go, eat, walk, and talk.
+Adjectives are things like lit, or sweet, or hot, or cool, or awesome.
+All of those things are effective adjectives.
+Adverbs are things like well, fast, slowly, easily.
+All of these things are useful, and I mean well here in the sense of he ran well relative
+to his competitors.
+But in the sense of I feel well today, in that case it's actually an adjective.
+You get prepositions, which are, in English we have prepositions, in other languages you
+have postpositions.
+The question is just where it occurs.
+A preposition goes before the thing it's describing, a postposition goes afterwards.
+So you get prepositions like with, or from, or on, or in.
+We can continue with determiners.
+Determiners are things like the, a, this, that, those.
+Conjunctions are things like she, him, her, it, I, you, they.
+We're familiar with these.
+Conjunctions, conjunction, junctions, what are your functions?
+Well, in this case, they're connecting things, like and, or, or, or whenever, or while.
+All of those things are conjunctions.
+Numerals give us number, right?
+One, twice, third.
+And by the way, note that numerals can be either a cardinal, one, or ordinal, or iterative,
+or things like that.
+So you can get that.
+Interjections are things like ow, tsk, dammit, oof, is one of my very favorite interjections.
+Use it a lot, a lot lately.
+So anyways, these are different kinds of lexical categories.
+So how do we identify them?
+I mean, some of them are pretty easy, right?
+The dog is the one that everybody always uses for nouns, so that one's good.
+Or walk, oh yeah, I bet that's a verb.
+But how do you deal with ones that are a little bit more borderline?
+I'm going to give you a set of generalizations that work well for English, but there are
+other versions of these that are available for other languages.
+So nouns.
+Nouns describe generally a person, a place, or a thing.
+And thing, by the way, can of course be something very conceptual, like dignity.
+That's still a noun, right?
+But one way to test is whether it's singular or plural.
+Whether it can be singular or plural.
+So for instance, I can have book, and I can have books.
+Cool.
+I can have car, or I can have cars.
+I can pluralize that.
+But I can't pluralize quickly, right?
+Quickly's doesn't work.
+And I can't pluralize beg.
+I can't have two begs.
+Like I can't say, well sure, I'll give you 20 bucks, but I need two begs first.
+That doesn't quite make sense.
+I guess I can coerce it.
+But here's an interesting one.
+Red.
+Like the color.
+You can have two reds, can't you?
+Yeah.
+Like if you walk into a paint store, you could say something like, oh, we were looking for
+a color for that living room accent wall, so we were torn between two reds.
+But in that case, red is actually a noun there.
+And in most cases, red is an adjective.
+Like I saw the red car.
+So remember that English can swap these things around pretty regularly.
+You can also pair things with a determiner if it's a noun.
+So for instance, I like the book.
+I like the car.
+I like the cat.
+I like the show.
+I like all of these things make sense, right?
+But I like the angry?
+Doesn't work.
+I like the rotate.
+Nope.
+I like the beg.
+No.
+I like the begging.
+You can turn it into a noun, but you can't just say I like the beg.
+I like the quickly.
+No.
+You can't do that.
+That doesn't work.
+So nouns, you can usually make either singular or plural, and you can usually pair them with
+a determiner.
+By the way, there are, of course, some nouns that can't become plural.
+So for instance, dignity is weird, right?
+You hurt my dignity.
+Although I guess you might be able to say something like, you know, both John and I
+felt insulted.
+Our dignities were suffering greatly.
+You know, still.
+You can do those things with nouns generally.
+Verbs.
+A good way to tell is they take tense marking, right?
+So in English, we use tense to talk about past versus present.
+So I could say he rotates on a regular basis.
+She rotated.
+She rotated into San Diego last month, and now she's heading to Singapore.
+Learns and learned.
+Again, present, or well, habitual, present, and the past tense.
+Both work.
+But you can't do that to an adjective.
+I can't say he angries.
+Or he angried when I stole his water bottle.
+It doesn't work that way.
+You'd have to use a verb.
+Like he angers easily.
+Or he angered when I stole his presenting remote.
+You can also get these things working with modals.
+I'm a modal.
+I'm will.
+I'm a modal.
+So, and actually that makes life a little weird.
+Anyways, we'll get there later.
+But I can, so you can say, for instance, I will fly.
+That's a verb, right?
+But I will angry doesn't work, right?
+I can run.
+That's another modal, can.
+But you can't say I can cat.
+It's worth noting, by the way, that we, there's a construction that's come up recently of
+I can't noun, which turns it into a verb.
+So you can say something like I can't adult today.
+Like I'm sorry, I'm tired, I'm angry, I'm sick.
+I can't adult today.
+Or I can't linguist anymore.
+This is a possibility.
+But generally speaking, what we're doing is we're turning the noun into a verb.
+So that has become a verb.
+It's taking on the verb role.
+And again, this gets at something very important here.
+As you're thinking about these lexical categories, think about these not in terms of these are
+inherent and inalienable qualities of the thing, of the word itself.
+Think about these as roles that they're playing.
+So in I can't adult today, that's being, adult is being a verb.
+Not usually a verb, but this time it is.
+Cool.
+Language.
+Magic.
+So adjectives.
+Adjectives you can do comparative constructions with.
+Like I'm happy.
+Now I'm happier.
+But you know, unless fly is an adjective, as in wow, she's fly, you can't get that.
+You can't say fly as a verb and then flyer.
+If you do, that becomes flyer, as in like a person who flies.
+That's a different thing altogether.
+Angry and angrier works, but cat and catter doesn't work.
+You couldn't say, for instance, oh, I have two cats.
+I like them both.
+But Fluffy's a little catter than Mittens.
+No, it doesn't work out that well.
+So there you go.
+Superlative constructions.
+Mad versus maddest.
+You can, again, do this.
+You can say I'm mad, but he was the maddest person in the room.
+But you wouldn't say, you know, oh, I come from L.A. every day.
+I am the commutest person you know.
+Doesn't fly.
+You could say I have the longest commute, but that's because long is an adjective.
+Purple and purplest works, but you wouldn't say, oh, that's the penguinest penguin I've
+ever seen.
+No, doesn't fly.
+Very and to constructions work as well.
+Oh, that's very bad.
+I'm very angry.
+That's very purple.
+Oh, that's very ugly.
+But you wouldn't necessarily say, unless it's an adjective, that's very fly.
+That's very cat.
+That's very linguist.
+Again, we can coerce this.
+We can force these things to be adjectives.
+I could say, oh, wow, you're looking very fly.
+Or you know, you curled up in the sunlight.
+That's very cat of you.
+Or wow, what a nerd.
+Very linguist.
+That outfit is very linguist.
+But so we can do this.
+We can use words in other categories, but that's a different thing fundamentally.
+And you also will get words that don't fit the pattern.
+So for instance, elegant.
+Elegant is an adjective, right?
+You look very elegant.
+It passes that test, but it doesn't take a superlative, nor does it take a comparative.
+So I can't say, she was the elegantest person in the room.
+Or oh, wow, you look way eleganter with the new watch.
+I don't know.
+I cutted the bush.
+Again, that doesn't take tense marking.
+In fact, what's going on there is that the tense marking is invisible.
+You don't even see it there.
+You just get, I cut the bush.
+So there are definitely things that happen.
+Oh, and of course, sheep doesn't take a plural, because the plural of sheep is sheep for some
+reason.
+Go home, English.
+You're drunk.
+We'll talk about that next week.
+Adverbs.
+Suck.
+People have referred to them as the most nebulous and puzzling of the traditional word classes.
+It sounds about right.
+They can modify pretty much anything that's not nominal, anything that is not a noun.
+So for instance, you can have an adverb modifying a verb.
+We happily study.
+You can have an adverb modifying an adjective.
+We are studying a very interesting topic.
+You can have an adverb modifying another adverb.
+We are unbelievably happily, or we study linguistics unbelievably happily.
+Which is cool.
+And you can have a whole sentence adverb.
+We're studying linguistics now.
+Or sadly, we're not studying linguistics tomorrow.
+We're studying particle physics.
+Particle physics is cool.
+But not as cool as linguistics.
+Just saying, guys.
+Anyways.
+So there are many, many flavors of adverbs.
+One of them, for instance, is temporal.
+There are temporal adverbs that tell us things about time.
+So like now.
+You know, hey, come over now.
+I have the thing ready.
+Or then.
+Oh, I didn't see her then.
+Yesterday.
+Always.
+Tomorrow.
+Next week.
+All of these things are adverbs.
+Next week, you should come by.
+You're saying in the future.
+Locative adverbs are things like, oh, here.
+As in, oh, you should come here, rather than going there.
+You should study abroad.
+Actually you should.
+As a linguist, actually, it's a really good idea.
+And you can get, we work really well with the study abroad program.
+Just a little plug there.
+Anyways.
+Sentence adverbs are things like perhaps.
+Perhaps we will go to the park.
+Really modifies the entire thing, right?
+It means that maybe we'll go to the park.
+Maybe we won't.
+Fortunately, again, fortunately, we were taking linguistics.
+So we had a fun class this quarter.
+Etc.
+Okay.
+I'm biased.
+I don't care.
+Quickly.
+Will quickly revealed his bias and carefully ignored it.
+All of these things are manner adverbs.
+They tell us how we're doing something.
+Linking adverbs.
+I love these.
+So, you know, oh, well, here's this, this, this, and this, therefore, I'm right.
+More consequently, degree adverbs, we've been playing around with, like, very happy,
+very angry, very et cetera, extremely, extraordinarily, unprecedentedly, unprecedentedly, eh, wasn't
+a word much before this year anyways.
+So prepositions are a different thing, too.
+Prepositions tell us that there is a relationship of meaning, a semantic relationship, a relationship
+of meaning between other entities.
+So for instance, the joke is that prepositions have any relationship that a squirrel can
+have with a tree.
+And this seems silly, but it's really not.
+So if this is our tree and this is a squirrel, squirrel can be next to the tree, right?
+Can be behind the tree or, well, in this case, in front of the tree, can be behind the tree.
+It can be, it can run around the tree.
+It can be in the tree.
+It can be on the tree at the very top there.
+It can be under the tree.
+It can be, you know, between the tree and a house.
+Prepositions usually give us some kind of a semantic relationship.
+There are other kinds of prepositions that can be useful, too, but by and large, these
+are going to be locative in English very often.
+They don't change form in English is one of the keys that you're looking at a preposition.
+There's really nothing you can do to change a preposition around.
+You'll never get underer or, you know, oh, the squirrel was underer a tree or the squirrel
+undered the tree.
+No, it's a preposition.
+Doesn't do that.
+Pronouns.
+And they substitute in for noun phrases.
+So for instance, I could say, I saw the girl who Katie noticed was carrying a hamster in
+her backpack.
+Or I could just say, I saw her.
+Her, in this case, is standing in for this entire chunk, for this entire the gal who
+Katie noticed was carrying a hamster in her backpack.
+That entire thing is her now.
+So we can have that stand in for that.
+And there are lots of pronouns.
+There are personal pronouns.
+So for instance, first person would be I, me, or mine.
+Second person is you or yours.
+And then pronouns in third person are things like she, her, hers, he, him, his, they, them,
+theirs, and plenty of others.
+And there are all kinds of pronoun sets out there.
+But the thing is, these are all kinds of personal pronouns.
+They refer to a specific person.
+Indefinite pronouns are things like somebody, everybody, nobody.
+These are things that you use when you don't exactly know who they refer to, right?
+So you could say something like, someone stole my, someone stole my tea.
+Who was it?
+Well, probably my wife.
+She's the only other person in the house.
+But somebody did.
+Maybe somebody broke in late at night.
+I don't know.
+Or everybody loves linguistics.
+I don't know exactly who that means, because I don't know who everybody is.
+But I do know that they all love linguistics, because of course they do.
+It's linguistics, right?
+And nobody, similarly, nobody dislikes linguistics.
+Interrogative pronouns are things that substitute in for things you don't know.
+So you saw who at the park?
+You saw what at the park?
+You saw them where?
+When did you see them?
+All of those things substitute in for missing pieces of information.
+You saw who at the park?
+Could substitute in for, I saw Ashwini at the park.
+Great.
+You saw what at the park?
+I saw a hot air balloon being launched.
+That's the what.
+Where did you see it?
+Oh, behind the, I want to say patio.
+That's not a thing.
+I want to say ballista, but that's not remotely the thing.
+Yes, behind the medieval siege equipment.
+Yes, that's where I saw it.
+I saw it behind the ballista at the park.
+That's exactly what I'm, gazebo.
+Why did ballista and gazebo?
+The mind is a magical place.
+And when did you see it?
+Yesterday.
+Ballista.
+Okay, relative pronouns.
+I saw the girl who knew the cat that ate the bird which I was watching.
+All of these things are relative visors.
+They are giving us bigger chunks.
+The girl who knew the cat that ate the bird that I was watching, that's one big chunk
+right there.
+And then that ate the bird which I was watching is describing the cat.
+So this sentence that comes afterwards is all describing this girl.
+So these are relative pronouns.
+We'll play around with those more when we get into syntax actually.
+That'll make things fun.
+Then demonstratives, things like this or these or that or those.
+If I say something like, oh, I want tea.
+And you were to say, oh, which tea?
+I could point to one specifically and say, I want that tea right there or something like
+that.
+Or, you know, oh, you know, yeah, you know what these work.
+You know what these work.
+You know how.
+How these work.
+Haha.
+Wrong pronoun.
+Anyways.
+Determiners.
+Determiners mark and precede nouns.
+In the English language, they precede nouns.
+In other languages, they might come after.
+But for instance, in English, you get the or a are both determiners.
+So I saw the interesting book or I saw an interesting book.
+I saw those cookies right there.
+By the way, the difference between those as a determiner and those as a pronoun is that
+those as a pronoun would just fill in for that.
+The I saw those last week rather than I saw those cookies, in which case it's a determiner.
+Which movie did you see is acting as a determiner there?
+Although it's also an interrogative pronoun, determiners, by the way, do not vary in form
+as well.
+You can get a versus an.
+But beyond that, it doesn't change.
+And that's just phonological.
+You don't want two vowels next to each other.
+Whoa.
+I remember that from the last phonology lecture.
+Amazing.
+Hypenthesis.
+All right.
+And so we have in English a bunch of kinds of determiners.
+You have possessive determiners like, oh, do you have my tea?
+No, no, I don't.
+Oh, you've got her tea, though.
+Oh, what's our favorite subject this week or etc.
+Demonstratives.
+I saw this cat versus that cat versus the other cat versus those cats over there.
+Interrogative pronoun or determiners.
+Which cat did you see?
+So it's not just an interrogative pronoun, but it's like you saw which?
+No, you saw which cat.
+Definite pronouns or the in English and then indefinite pronouns are a and an.
+I, of course, have a favorite determiner joke, a and the walk into a bar.
+They sit down.
+They start drinking.
+And the says, you know, I'm sorry, says to the.
+So what are you up to lately?
+Are you still marking noun phrases?
+And the says, yeah, definitely.
+Yeah, because it's a definite determiner.
+But the thing is, this this definiteness is important.
+And what I mean by that is definite marks something that we know, right?
+If I say, for instance, oh, I saw the cat yesterday.
+Your assumption is going to be that that's a cat we have shared knowledge about, right?
+Your assumption is going to be, oh, it must be the cat, you know, across the way who I
+can sometimes see from my kitchen window.
+It's that cat versus if I just say I saw a cat yesterday.
+It's unclear.
+It could have been a cat outside on the street.
+It could have been a cat, you know, as I was walking around in the park.
+It just it's a cat.
+As opposed to the cat, which we have knowledge of, or, for instance, oh, where's the car
+means, oh, well, it's probably in the garage or, oh, it's over by the by the Starbucks,
+as opposed to where's a car all around us, I guess.
+Which one do you mean?
+I mean, by the way, this this can have fun semantics, too.
+For instance, what does it mean if somebody walks up to you and says, hey, did you go
+to the store today?
+So that usually probably means the grocery store or the store that you go to most often.
+Maybe if your main store is a Target or something like that.
+Oh, did you go to the store?
+Or maybe there's a pre-agreed store.
+You know, oh, I need you to go to the Apple store tomorrow.
+Later on, you might ask, oh, did you go to the store?
+But still, definiteness implies that we share that knowledge.
+So good pronouns, happy determiners, happy conjunctions.
+OK, conjunctions are used to link expressions.
+So for instance, sunny and warm means both sunny and warm at the same time.
+It's not just one of those things.
+It's both as opposed to red or blue, which means one of these things is true, but not
+the other one.
+You can't have if I say, oh, is it going to be sunny or warm tomorrow?
+That's kind of weird, right?
+It would imply that there's either going to be warmth or sun, but you wouldn't have both
+while can be a conjunction, too.
+He rolled over while I was petting him.
+This joins two sentences together with a temporal relationship.
+So we can practice a little bit here.
+The tiny dog scurried quickly between the buildings.
+What is it?
+A noun, B verb, C adjective, D preposition, E adverb.
+So tiny, tiny, we could, for instance, add an intensifier to.
+We could say the tiniest dog quickly scurried, boom, adjective.
+That's going to be an adjective.
+How about dog?
+Noun verb, adjective, preposition, adverb.
+Dog is a noun because you could add a plural marker to it if you wanted to, and it's kind
+of stereotypical now, right?
+Noun verb, adjective, preposition, adverb.
+So you can't change its form.
+That's one sign.
+Adverb, adverb, because it is modifying the scurrying.
+As a result, we have an adverb here.
+Scurried, in this case, scurried.
+What is this?
+Noun verb, adjective, preposition, adverb.
+This is a verb, and we know it's a verb because it's taking a tense marking right there.
+Between, ah, again, it can't change, can't take any other kind of thing.
+This is a preposition.
+It's describing a relationship between two objects.
+In this case, the relationship between the dog and the buildings.
+So cool.
+There you go.
+Problem solved.
+All languages have grammatical categories of some kind.
+The lines between them can be very blurry.
+For instance, English actually has relatively blurry lines in terms of these because, well,
+we can adverb verbs and noun, and we can change categories very, very quickly.
+This happens, and some languages don't necessarily use all of the categories, right?
+There are some languages that really don't have determiners, or, you know, it's a thing,
+but the concept of grammatical categories is pretty universal, and we use it extensively
+in syntax, which we'll be going into next time.
+But we can group these categories, actually, into larger sets.
+We can think about nouns, verbs, adjectives, and adverbs as being content words.
+They're telling us things about the world.
+They're telling us things about the situation.
+You know, if I'm describing a situation to you, I'm going to be using these things, and
+that's going to be describing the main players, the main actions, their natures, their methods,
+et cetera, as opposed to things like prepositions and postpositions, determiners, pronouns,
+conjunctions.
+All of these things are function words.
+These are used among all of our content words here to give grammatical information.
+We use prepositions to tell us relationships between content words.
+We use determiners to give us information about the content words.
+Pronouns stand in for content words.
+Conjunctions can help unite groupings of content words.
+This is a very small set.
+It is a very finite set.
+There are a limited number of prepositions, determiners, pronouns, conjunctions.
+All of those are function words, as opposed to content words, which is a huge set.
+It is ever-growing.
+It is constantly growing, and they change differently in languages.
+We very, very rarely gain a new function word.
+We very rarely gain a new determiner or a preposition or a pronoun or a conjunction,
+but we often gain brand-new content words, things like nouns and verbs and adjectives
+and adverbs, and so function words are what we call in linguistics a closed class.
+That means that we're not liable to get more of them any time soon, as opposed to an open
+class where we can add new ones any time we'd like.
+I can make up a brand-new content word at any given moment.
+Hey, this is a sprangle, and it works.
+It makes sense, right?
+So new function words, like I said, are pretty rare, but they're not impossible.
+So for instance, we have a new preposition in because.
+I didn't see the island because Michael Bay.
+Generally, previous generations might have said something like, I didn't see the island
+because of Michael Bay or because Michael Bay was the director.
+But in this case, actually, we've changed that into a preposition.
+So the relationship between the island and seeing the island and Michael Bay is because.
+I spent the last night in the library doing homework slash looking at pictures of cats.
+This one actually is newer than me, so to speak.
+What I've been told by people is, generally speaking, what this means is not you are doing
+homework and looking at pictures of cats.
+Instead, this means you were doing homework nominally, but actually you were looking at
+pictures of cats.
+So slash, in this case, gives me a new conjunction, saying the thing in front of this is stuff
+that I was supposed to be doing or that I would claim I'm doing.
+The stuff after it is stuff I was actually doing, right?
+But new content words, super common all the time.
+Bay, brand new, didn't exist before.
+Twerk, that's a brand new content word.
+Came about five, ten years ago, maybe?
+Wrecked.
+Yeah, absolutely.
+This is maybe five years old or so.
+Totes, relatively newish.
+Yeet.
+Oh, that's a new one.
+But this brings us to a big question, like, okay, cool, we've got a list of these words
+and we know that the function words, we're not going to be getting new ones up, but how
+do you really create a new content word?
+How does that happen, anyways?
+So let's think a little bit about word creation.
+Actually, I'm going to give you a second to think of any questions that come up, to sit
+on things.
+And by the way, always feel free to pause.
+And I'm going to drink some water.
+Okay.
+Creating new words.
+How do we do that?
+Well, we have a bunch of different ways to do that.
+I'd like to talk about some of the approaches that we use, generally speaking, in language
+to make a new word.
+We'll talk about a few of the most common ones, but there are lots more out there.
+And if you want, take Ling 120, Morphology, you'll spend more time looking at that.
+So compounding existing words together.
+One example of this came up recently-ish, the Taint team, as an idea of a group of prosecutors
+who are seeing all of the documents in a case, including the ones that are not legal to be
+looking at, and then they are the ones who are doing triage and saying to the real group
+of prosecutors, these are the ones you can see.
+So the Taint team is a group of people who are tainted by documents that they're not
+allowed to see if they were the real prosecutors.
+So it's a separate legal team designed to handle evidence.
+A brownout is, hey, hey, hey, California.
+This is not a blackout, but it is a partial blackout, where power isn't quite lost, but
+the power quality goes way down.
+Key and high key.
+These are relatively new things, but we've stitched two words together.
+We have low and key put down together, and high key as well.
+So two words clamped together, we get subtly or at a low level, or the opposite.
+A side piece is a piece of romantic interest, shall we say, outside of your primary relationship.
+So your side piece, this is a combination of the words side and piece.
+And we know that this is a separate word, right?
+You would talk about your side piece, because you can't talk about other variants.
+It's not like you have a side piece, a front piece, a back piece.
+No, it's just, this is a single chunk.
+We just happen to use a space in it.
+Turns out whether or not there's a space in a word actually isn't all that important as
+to whether it's a word or not, which, again, morphology, oh boy, morphology.
+Or we could talk about that in class.
+Just feel free to get me going.
+Binge watch, another great one.
+It combines the word binge, which is an existing thing, with watching, and then we get to watch
+a series all at once.
+So binge watching is a compound word.
+All of these are different compounds.
+There are lots of compounds in life.
+That's a laptop right there, right?
+Lap top.
+Lap top.
+Oh, didn't mean to do that.
+There are also blends.
+A blend is where you take several words and you combine them together.
+So a trendetarian is somebody who eats whatever is trendy.
+You've combined trendy and vegetarian.
+A staycation is when you stay at home, but you're taking a vacation, right?
+When I told everybody, you know what, in August, screw you, I don't exist.
+Go away.
+That was a staycation.
+A frenemy is a combination of a friend and an enemy.
+Somebody who you're really close with, but you're probably enemies, but you're also very
+congenial.
+It's a frenemy, right?
+To mansplain is to condescendingly explain something, and this is a blend of man and
+explain.
+I try hard not to, but yeah.
+So mansplain is a thing, and then twerk.
+Now many people don't believe this to be a blend, but I've heard that this is a blend
+of twist and jerk originally.
+Whether that's true or not, these things can actually be very difficult to figure out,
+but this is one of the many accepted etymologies for the word twerk, is that it could be a
+blend of twist and jerk.
+So these are blends.
+Here's a good example of a blend.
+This is a drog.
+Yeah, cursed.
+All right, so borrowing words from other languages is another way that we get words.
+So for instance, burrito comes from Spanish, right?
+We originally, that was a food item there.
+Now it's a food item here.
+A croissant is French, of course.
+Uber cute.
+This uber chunk, this little morpheme here, is German originally.
+Kawaii is Japanese, of course, and means cute of some variety, kind of a very specific cute,
+I think.
+Chocolate is actually a borrowing from Nahua, which is chocolat, chocolat, that is, sorry.
+So that's originally Nahua.
+So all of these are words that we just saw from another language, like hey, pretty nice
+word you got there.
+Shame if something were to happen to it.
+And so English does this a bunch, a bunch.
+Clipping is another thing that happens with existing words.
+So this is where you take an existing word and you chop it down.
+So for instance, family has given us fam, as in hey, what's up fam?
+A little socially interesting, but it's a thing from family.
+Pog or poggers.
+So oddly enough, I grew up in an era where pogs were a thing.
+Like a game where you throw metal objects at paper objects.
+Look, it was about as cool as it sounded, right?
+I wish I'd had iPads.
+But anyways, this comes from the Twitch emote pogchamp, originally.
+And so pogchamp, being an original emote put in there, became pog and then poggers.
+So both of these things are clips down from pogchamp.
+Bougie, or no matter how you want to spell it, comes from bourgeoisie, or bourgeois perhaps,
+depending on how you'd like to look at it.
+So like, I was feeling bougie, so I got bread from Whole Foods the other day.
+Something like that.
+Drip is from dripping.
+And actually, you could maybe even argue it's clipped down from the sentence as in, and
+this is from usually rap slang of like having a great deal of diamonds or gold or things
+like that, or fancy watches, as in you're dripping with gold.
+So drip is something like, oh, you know, I would never leave the house not wearing my
+drip if I'm trying to seem super classy or something like that.
+Or, I don't know, fancy, something.
+He caught an L. That was a really cool one.
+So an L is short for a loss.
+And so we clip L down to loss, or I'm sorry, loss down to L. So cool, right?
+Then you can change the part of speech.
+So that's clipping.
+Take something big, make it shorter.
+Changing the part of speech of an existing word is another way that you can do this.
+So you start off, for instance, with woke.
+Woke is already, was already a thing, but it was a verb, generally speaking.
+Now it's a noun, or in some cases, actually, it's an adjective.
+You could talk about somebody being woke.
+I guess, actually, usually it would be an adjective these days.
+So woke would be down, or would be an adjective, like, oh, you're very woke.
+You pay attention to social justice issues.
+I'm staying home because lazy.
+Went from a conjunction to a preposition.
+I don't want to adult today, or I forgot how to linguist would be a noun to a verb.
+Change a part of speech.
+And Stan, by the way, I Stan Morris Halley.
+Not quite that creepy, but this was a very, very well-known phonologist.
+And so it's sort of an obsessive fandom.
+Actually originally, one could make an argument that, you know, Stan was originally a name.
+This is a reference, actually, to an Eminem song that came out back when I listened to
+Eminem.
+But anyways, there was a song called Stan, and that has since become to Stan, to have
+an almost unhealthy obsession with the work of somebody.
+So noun becomes a verb there.
+And then I can't even.
+In that case, an adverb has become a verb.
+And by the way, you can't even.
+All right.
+So all of those things are changes in part of speech.
+Then there are acronyms.
+So acronyms and initialisms are two different things.
+We're going to talk about them as two different things because they are two different things.
+But an acronym is pronounceable, whereas an initialism is not.
+So an acronym is something like Wi-Fi.
+I don't say W-I-F-I.
+Like, hey, what is the password for the W-I-F-I?
+No, that doesn't work.
+This is actually pulled down from wireless fidelity.
+Nobody knows this, but it's a thing.
+GOAT is an acronym these days, although you don't always capitalize it anymore, but means
+greatest of all time.
+So like Sabrina Williams is the GOAT in tennis.
+NASA is from National Aeronautics and Space Administration.
+You've taken the first chunk of all of these words and created something pronounceable
+from it.
+In Wi-Fi, actually, you took the first chunk of two words and then chunked them together.
+We'll still call it an acronym.
+And then THOT, apparently, and again, this is another one of those where the origin of
+it is in debate.
+But THOT originally came from, I'm told, that hoe over there.
+And so THOT came from there.
+And then actually WAP is, of course, short for Wireless Application Protocol, although
+it's worth noting that acronyms can mean different things to different people.
+So initialisms are a different thing.
+Initialisms are pronounced as a series of letters.
+So UCSD is an initialism, right?
+Standing for, hopefully you are all aware, University of California at San Diego.
+Or UC, actually, is itself an initialism.
+FBI is the Federal Bureau of Investigation.
+And note that it's not UXD.
+If it were UXD, it would be an acronym, but it's an initialism instead.
+FB, nope.
+IPA, International Phonetic Alphabet, although some weirdos think it's beer.
+But either way, these are initialisms.
+And so initialisms are pronounced as a series of letters, unlike acronyms.
+And so it's important to know which of these are which, right?
+And in fact, it's the case that occasionally WAP is used for Wireless Access Protocol,
+whereas WAP is often used for Wireless Application Protocol.
+It's weird, as well as for other things.
+But nonetheless, you'll see things that are both, but often they'll have different meanings.
+And then finally, you can just make up a brand new word, like bling.
+As far as I'm aware, there is no origin of bling, right?
+It's not the case that it was shortened down from anything else.
+It's just bling.
+And it means, actually, relatively similar to what drip means now.
+Bling, I think, is a pretty old word now.
+Doggo.
+You would cop a...
+It's coming from dog, obviously.
+It's a type of dog.
+It's a cute way to refer to a dog, but the go thing doesn't make sense.
+You're not like compounding.
+It's not like a dog that's moving quickly.
+No, doggo is just sort of its own thing.
+A dongle.
+A dongle, of course, being a piece of technology that...
+Oh, come on.
+Where is my...
+I have a whole host of dongles around.
+It's a dongle, right?
+It has all your various ports on there, and it connects to your computer.
+That is a dongle.
+And the dongle has become, thanks, Apple, a big part of life lately.
+So it's a word of its own now.
+Ooh.
+As far as I know, it's kind of out of nowhere.
+I mean, actually, one could argue that it's art imitating the...
+Or writing system imitating art.
+But as a result, it is a brand new made-up thing.
+HODL.
+HODL is an interesting word.
+If you were in the cryptocurrency world, oddly enough, that's where this thing occurs.
+And it basically was originally a typo for hold on to your Bitcoin.
+People have turned it into a backronym.
+They've claimed that it's...
+Oh, what is it?
+They've given an explanation for this.
+Where, oh, H means this, et cetera.
+But this is just a typo that has become codified, right?
+Now HODL is a thing in, like, the Bitcoin world.
+Oh, the market's looking bad.
+I should sell.
+No, HODL.
+Anyways.
+So there's that.
+And then, of course, you can take an existing word, and you can add a new sense to it.
+You can use it in a different way.
+So for instance, snack, when I grew up, aging, used to just mean a granola bar, something
+like that.
+Whereas you can call somebody a snack, and you're referring to them as being sexually
+desirable in some way.
+Tasty food becomes a tasty human.
+The analogy is very strong there, right?
+It makes a lot of sense.
+Cancelled comes originally from, like, cancelling a series, or cancelling an event.
+But now you can cancel people.
+So oh, you know, who's gotten cancelled lately?
+Oh, all kinds of people.
+But either way, cancellation is where somebody has said or done something that people find
+abhorrent, and therefore they're no longer really tolerating that person.
+That person isn't welcome in the public sphere.
+Turned or wrecked.
+Both of these are Twitch kind of things.
+But these are coming from, actually, interestingly, both of these have new spellings.
+So this comes originally from turned, and wrecked means, for instance, I got messed
+up.
+I was wrecked, with a W-R-E-C-K, but in Twitch you'll often say wrecked.
+Like, ooh, you got wrecked in that round.
+That lit, of course, used to mean just with a lighter, right?
+I lit the fire, now you light the party.
+You would never say light the party, wow, I'm old.
+And then to flex on somebody.
+Flex originally just meant this, and now flex could mean, oh, well, you know, you did pretty
+good in college.
+You know, mind you, I got a 4.2 GPA, so, you know, but I don't want to flex, right?
+So show off your skills or possessions or means.
+I mean, originally, it kind of makes sense, right?
+If I had muscles, then I could flex on you all and show, but nerd, right?
+But the thing is, this is a reminder that a single spoken word can have many meanings.
+The word meanings is down right off the screen there, and it's amazing.
+But a single spoken word can have many, many meanings.
+So okay, cool.
+Now we've got a bunch of these word creation methods.
+We've got compounding, where you add two words together, like laptop.
+You've got blending, where you blend two words together, where parts of each of the words
+are present, but it's not the whole words snap together, as in compounding.
+So this would be like trenditarian.
+Borrowing from other languages, like burrito.
+Changing the part of speech, like, for instance, lit or woke or something like that.
+A clipping is where you take something down, like fam.
+Acronyms and initialisms, like NASA or the NSA.
+Making it up entirely, like on fleek.
+On fleek is another good one, meaning you're really on fire today.
+I'm on fleek in this lecture.
+Kind of, maybe, you tell me.
+Changing the meaning of an existing word is another way to create new words.
+So think about, and you're going to be actually answering during one of your discussion questions
+other new words.
+So think about new words that I've missed, and think about what variety of thing they
+are.
+How were they created?
+Which of these strategies were used to create those new words that you're aware of?
+I'll update the lecture next time.
+See, that way I don't seem quite as old.
+Ah, stonks.
+Oh, that's a good one, actually.
+Stonks.
+Sorry.
+This is a meme reference, and, like, half the class is probably going, stonks?
+That's not even a thing.
+Is that, like, a stork?
+This came about, God, in, like, April of 2020 or something like that.
+Reference to one bad image, but it's sort of like, I am doing very well but poorly at
+the same time.
+It's hard to say, but either way, yeah, stonks would be interesting.
+Which of these would that be, actually?
+Take a second here.
+This is going to be in that weird making it up category, because it's not like you've
+added it that N isn't coming from anywhere or anything like that.
+So I would probably put it in there with doggo, right?
+Okay.
+So we've been talking about building new words.
+The next question is how do you create a new form of a word to use in a sentence?
+What we've been talking about so far is, you know, derivational morphology.
+Taking an affix that changes something about the root, changes something about the meaning.
+You're adding something to a word that will completely change some element of that root.
+The meaning changes won't necessarily apply to all words, and they're also sometimes unpredictable.
+So here's an example.
+Control as a verb, you add in that "-able," and it becomes controllable, meaning it is
+something that you are able to control.
+Amaze becomes amazement when you add that "-ment," on the end there.
+Joy can become joyful, right?
+Teach can become teacher.
+You're adding that suffix at the end there that makes it the thing that does the teaching,
+right?
+I'm a thing.
+Anyways, roll and unroll.
+Here you're not changing the part of speech at all, but you're changing the meaning.
+When you add "-un," it means that you're doing exactly the opposite, or you're undoing
+that thing that you were doing there.
+Write and rewrite.
+Adding that "-re-" adds an element of repetition to it.
+So for instance, I re-parked the car after I screwed up the first parking job.
+You add that "-re-" on there, and it gives it a new meaning.
+Fair can become unfair.
+And so again, adjective to adjective, but it's saying it's the opposite meaning.
+So all of these are derivational.
+You're creating a new word that you might use again in the future, right?
+So if I have a teach, or if I have teach as a verb, I might have a teacher.
+If I have something that blocks somebody, then that would be a blocker, right?
+If I have somebody who installs firewalls, they could be a firewaller, right?
+That's a thing.
+Maybe, maybe.
+It's probably a thing, right?
+So that's derivational morphology.
+You're creating new words to use in the long term.
+You're adding something new to the dictionary.
+Here's another way to think about it.
+Compare this to inflectional morphology.
+Inflectional morphology changes the meaning of the word in a very predictable way, but
+it's not changing part of speech.
+It's not changing the meaning of the word in a very deep way.
+Inflectional morphology, another way to think about this, is that derivational morphology
+adds things to the dictionary.
+It's giving us new words to use in the future, whereas inflectional morphology is just adding
+something new right now for us to use.
+I'm just changing the form a little bit to match this sentence.
+So for instance, the plural marking is inflectional.
+I say cat.
+Oh no, now there's two of them.
+There are cats.
+Oh, that's a wug.
+Now there are two of them.
+Those are wugs.
+I'm adding on that plural marker.
+It's not creating a brand new thing, right?
+It's not the case that if I look in the dictionary under cat, there's going to be one thing,
+and if I look under cats, there's going to be another.
+No.
+They're the same thing.
+It's just one of them is being marked as plural in this sentence.
+Same thing with verb tense.
+We sing versus ... I'm sorry, this is verb inflection.
+We sing versus he sings.
+So we've added on that's at the end that shows that this is the third person form for English.
+This is done in that particular sentence, but it's not a new verb.
+Here's tense.
+He walked versus ... he walks, that is, versus he walked.
+We're changing the tense of the verb here.
+It's not, again, it's not creating a new verb.
+It's just changing the tense.
+So inflectional morphology is really common around the world.
+So for instance, in this particular language, you have, and I believe it's xanti, you end
+up with hot as one word, and then hotu as another word, and this is house, singular.
+This is a dual form.
+This means there are exactly two of them, and then there's a plural form, hotu, which
+is going to be, or hotu, I'm not sure exactly if this is IPA or not.
+I've gotten this example.
+This is an old example, but anyways, it is a plural form.
+So houses plural is different from there being two of them is different from there being
+one of them.
+This is inflectional.
+We're not creating new words.
+We're just giving new markings at the time of work.
+Russian, for instance, uses what's called case.
+We'll talk about this actually a good deal more later on, but you have something like
+devushka vidit sabaku, means the girl sees the dog.
+But if I change the endings here, if I change it from devushka to devushku, and I change
+it from sabaku to sabaka, you have devushka, I'm sorry, you have the dog sees the girl.
+So by changing those affixes, even without changing the word order, I've now changed
+who's doing what to who.
+This is called a case system, and we'll talk about more of that a little bit later on.
+Somali has a really cool example here, and I'm not going to try and pronounce it just
+because I don't know the Somali orthography.
+But at the same time, you have, for instance, marking of possession on here.
+So herd is this word here, probably huola or something along those lines.
+And then each one of these separate forms indicates a different person is possessing
+it.
+Note here, though, that it changes.
+Phonology.
+Interesting.
+And this can be used in compounding, by the way.
+So if you have, for instance, marak, and then you can actually add in the head there, which
+is really cool, right?
+So anyways, I digress.
+So we can do this kind of inflectional morphology and change things like possession, which is
+great.
+Spanish has all kinds of inflectional morphology.
+Hablo versus hablas versus habla.
+You have the conjugation tables in your life, no doubt.
+Hablamos, hablais, if you're from Spain, hablan, et cetera.
+This form never occurs in Mexico or, frankly, most of South America.
+Anyways, it's a thing.
+But all of these are different inflectional forms, and they mark both tense and they mark
+person at the same exact time.
+English doesn't do that much inflection, really.
+It's kind of a bad language to teach morphology in.
+Let's be real here.
+We have a plural marking.
+We have possessive marking, so like dogs and then barts, cat, or something like that.
+We have comparatives and superlatives, so closer, closest.
+We have verb agreement, like runs versus run, like I run, but he runs.
+We have past tense.
+We have past participle, chosen, et cetera, yachten, past participle of yeet.
+And then present participles, so like he will be walking next weekend.
+All of those are our inflectional morphemes.
+That's really it.
+Everything else is derivational.
+We don't do that much inflection.
+In fact, English is a language that has relatively little stuff tacked onto the end of words.
+But anyways, so we have derivational morphology and we have inflectional morphology in the
+world.
+Derivational creates new words that you might use later on in the future, and inflectional
+morphology just changes their meanings in predictable ways within sentences.
+And most languages do a little of each of those things.
+So you'll play with this a little bit more in this week's discussion section, well, actually
+in this case, in this week's class session.
+But still, that's what we'll be doing there.
+And actually, remember I was just saying to you, remember 30 seconds ago?
+Boy, I hope so.
+Remember I was just saying that English actually tends to have relatively few morphemes in
+a word?
+Well, yeah, they differ in this way.
+Languages differ a great deal, and we call this morphological type.
+And this is a means of categorizing how languages are able to put words together.
+So this is really useful, not because it's like one language is hard and fast, this is
+this type, et cetera.
+It's not useful in that so much.
+It's more useful for comparing across languages.
+This is what we call typology, looking across different languages and making useful comparisons.
+And we're going to talk about two different dimensions.
+One is, do words have lots of morphemes usually, or relatively few?
+The other is, if words have multiple morphemes, do those morphemes blend together well?
+Are they really kind of one chunk that has a lot of meanings, or are they very easy to
+pick apart?
+Are they just kind of stacked on each other?
+So first off, we'll think about many morphemes versus relatively few.
+If words have relatively few morphemes, like for instance, English or Mandarin Chinese
+is another very, very isolating language, we call these languages isolating.
+What that means is that there are individual morphemes, but they're usually kept on their
+own in words.
+There's not that many morphemes present here.
+If you have languages that have a lot of morphemes per word, like Spanish or like German, we
+call them synthetic languages.
+And there are languages where whole sentences are single words, and those are often called
+polysynthetic languages.
+We'll talk about those later on, but in English here, let's look at this sentence.
+I did see the cat on the street.
+He's cute.
+I did see, and then definite marker, cat on the street, all of those things are single
+morphemes.
+And then finally, he's is the only thing here that is a multi-morphemic word.
+He's has a third person singular be attached to it.
+Aside from that, all single morphemes.
+This is an isolating language.
+English is a pretty isolating language.
+Compare this to, for instance, Russian.
+In this case, you have a couple of words that are single morphemes.
+For instance, tea, single morpheme.
+Wow, I wrote this a little bit strangely.
+That's not IPA.
+Anyways, this is Cyrillic.
+The saw here is going to be, that's a single chunk right there, and then noi is actually
+two morphemes.
+It's put together.
+It's first singular and it's instrumental, but they're kind of fused together.
+We can't pick them apart.
+So away here, actually this second word has three morphemes.
+Away, u, and then jadi is to go in an imperfective form, and then past feminine is the la, the
+n.
+So this is one word, but it's got three different morphemes in it.
+So this is a little bit more synthetic.
+Compare this to Spanish, where you have esta, where you have one big chunk here that's all
+fused together, which is to be, third person singular, and then you have escribiendomelo,
+where you have right, and then the gerund form, first singular, dative form.
+We'll talk about what that means a little bit later on, but that means to me, first
+singular dative, and then a third singular masculine accusative form.
+So you are writing it to me.
+You have right, ing is the gerund form here, the escribiendo, and then me is the first
+person dative, to me, lo is the it.
+So he or she is writing it to me.
+We get two words, esta escribiendomelo.
+That's good and synthetic right there.
+Then Turkish.
+Oh, Turkish.
+Turkish is everybody's favorite example of synthesis, because it just, it's pretty, right?
+So you have, each one of these words is growing.
+So you see, you start off here with this, and I'm so sorry, my Turkish is terrible,
+but terbiye, and then you add on all of these morphemes, one after another, until you go
+from good manners to, I gather that it was from their rudeness, all in one single word.
+This is a lot of synthesis.
+Borderline polysynthetic, and then of course this cute example from German.
+This isn't really something that would commonly be said, but this is one big word, right?
+And it means the Danube Steamship Transport Electricity Head Operations Work Building
+Under Officials Association.
+Put together, like I said, it's mostly a joke, but it's an example of holy crap synthesis.
+This is a, this is Wichita.
+Wichita is a language that is, I believe to be extinct at this point.
+There are no speakers of this language left alive.
+But this is an example of a sentence in Wichita.
+There was the big buffalo lying over there, or lying there, that is.
+This entire sentence is one single word.
+So this is in the category of languages we would refer to as polysynthetic.
+There are many chunks in one piece.
+The whole thing is one word.
+This is polysynthetic.
+It's incorporating things.
+It's incorporating the object as well as the subject.
+There's a lot more to that.
+But this is a polysynthetic word.
+Remember, or I'm sorry, language.
+But this is always a continuum, right?
+English is a very isolating language, but Mandarin is more so.
+In Mandarin you very, very seldom get any morphemes in there, aside that are multi-morpheme
+words that is.
+Same thing with synthetic.
+It's very hard to be languages like Wichita.
+That's not super common, but we don't hold against them.
+I mean, synthetic languages are pretty common, and most of them are not that far in the synthesis
+direction, but still.
+So morphological type, if a language has relatively few words, I'm sorry, morphemes per word,
+it's pretty isolating.
+As opposed to if the language has multiple morphemes in a word, in which case it is synthetic.
+So if we want to wrap up for today, we can talk about how morphology works.
+It's the study of how words are built.
+And more specifically, looking at the correspondences between forms and meanings to get a sense
+of what the components of those words do.
+Morphology, I'm sorry, long day.
+Words are made up of morphemes, and those morphemes are, well, either isolated on their
+own or bound.
+They are able to live on their own or they are bound to other words.
+Morphemes have different types.
+Words have different types.
+We make words in many ways, and languages actually differ a fair amount in how they
+prefer to build their words.
+So okay, now we know about morphemes, we know what types that words have, we know how to
+build them, and we know that different languages have different approaches to building words.
+So what's next?
+Sentences.
+All right, thank you all very much, and I will see you on, well, I'll see you in the
+next video.
+Have a good day.

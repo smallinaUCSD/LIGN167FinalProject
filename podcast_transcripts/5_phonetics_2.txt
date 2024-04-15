@@ -1,0 +1,475 @@
+Hi, everybody. Today I'd like to talk with you and do our second presentation about phonetics.
+And in this case, we're going to do things a little bit differently. We are going to
+talk a little bit more about IPA transcription, going deeper into what this task actually
+is. We'll talk about why IPA is useful for anybody, and then we'll have a little bit
+of phonetic fun. So now we understand how speech sounds are being produced, right? This
+is really important for understanding how all of these things are. We can use this
+information to identify the symbols in the IPA, and we can transcribe speech using the
+IPA. Again, remember, online audio charts are a really useful resource, and IPAcharts.com
+is trash, so do be careful about that. But first off, let's dust off the IPA brain a
+little bit. The word thickened. Thickened. How many places of articulation are present
+in this word? Thickened. Thickened. And let's just put aside the vowels. So one, two, three,
+four, or 1,337. So the correct answer here is this. We have th, th is interdental, k
+is velar, n is alveolar, and d is alveolar. So the answer is three. Okay, how about manners
+of articulation? Same thing. Th, k, n, d. Thickened. 1, 2, 3, or 4. Th, k, n, d. Okay,
+so th, air is escaping, but it's making sound because of friction. That makes it a fricative.
+K, k, k stops the airflow. So it's a stop. N, n, n, n. There's sound coming out my nose.
+It's a nasal. Amazing. And then d stops the sound. So again, the answer here is three.
+Fricative, stop, and nasal. And then how many of these are voiced? So one, two, three,
+or four of those consonants. Th, k, n, d. Th, k, n, d. That's right. Th and k are voiceless.
+N and d are voiced. So two of those sounds are voiced. So your discussion sections actually
+aren't so much of a thing. What I actually meant to say here is the class session this
+week is all about transcription. But slightly different thing. You'll get more experience
+with it there in class, with us there to help you. So don't worry too much about that. You'll
+get some time. But before we go further, I want to talk about some pitfalls of transcription.
+Remember that your writing system is a giant dirty liar. So the letter C doesn't exist.
+We already talked about that. But in every instance, it's a K, an S, or a ch sound. The
+ng sound, the NG at the end of a word is not an N or a G. So it's usually a ng sound, as
+in ring, ring, ring. It's a single nasal, right? It's a velar nasal. Your tongue is
+up at the back of your mouth. The sound is going out of your nose and it's voiced. So
+it's a voiced velar nasal. Ring, sing. It's not ring, sing. There's no G involved. It's
+just a nasal at the end there.
+The th sound. Everybody say this thistle, this thistle, this thistle. Th, that's voiced.
+Th is voiceless. So there are two different sounds here. One of these, the theta, is voiceless.
+The other, the ev, is voiced. So that can be two different sounds, neither which is
+a T or an H. The X in the writing system is usually a KX, or a KS, that is, as in axis,
+axis. Or for instance, axe. Like, I swung an axe. Axe. So it's not a ch, which is what
+this is in the IPA. If you give me an X in the IPA in slashes, you're giving me ch, as
+in challah bread, or something like that. And then English does not allow double consonants.
+This is just one L here. It's not a thing. So soccer has two, I'm sorry, has two Cs,
+but it has one K. Or crass just has the single S in it. If you give me two Ks there, you're
+giving me sock-cur, sock-cur, or something like that, and that's not correct. Don't do
+it, please. And then finally, do not capitalize when making IPA transcriptions. It's just
+going to give you pain. Because capital letters aren't a thing in the IPA. IPA is all lowercase,
+and in many cases, a capital letter. So for instance, the English R is an upside-down
+R. The Spanish R is a right-side-up R, and a capital R is the uvular R, R, R, although
+actually that's usually smaller. But still, having both capital and small caps letters
+in IPA does mean something entirely different. There are other lies that the writing system
+tells you. Those final Ds are very often Ts. So sliced, rather than sliced. Sliced. Not
+a thing. Buzzed. That one is actually a D. Close, close, close, as in, oh, I, you know,
+she's pretty close, I'll just swing by and get it. As opposed to close, as in, honey,
+could you close that door for me? I'm filming a class. Those, one has an S, one has a Z.
+Very different things. Silent letters aren't real. So the K in knee hasn't been real for
+many hundreds of years. It used to be. It used to be knee, but no longer is. The B in
+lamb isn't a thing. It's not lamb, lamb. So don't give me lamb in transcriptions, please.
+If you give me the M, or I'm sorry, if you give me the E in name, I'm going to cry, right?
+It's not name anymore. Used to be, isn't anymore. And there is no I in team, but actually,
+there is an E in team. So feel free to show this, you know, show this to your coach. They'll,
+I'm sure, appreciate it, and in no way make you run laps. So there's that.
+Another thing to remember is that words don't have a single IPA equivalent. You are always
+transcribing somebody else saying them. As such, there is no such thing as an automatic
+IPA translator, and there never could be. Some dictionaries will give you the IPA for
+a word, but it'll do it badly. And some websites will do that as well. Every single quarter
+I give this speech, there are not websites that will give you answers for IPA. And every
+single quarter, somebody goes online and does IPA word equivalent thing. They find an online
+IPA site, and then they turn in their homework using answers from that. And then suddenly
+they're giving me very strange British pronunciations that aren't actually British, and the students
+aren't actually British. Or they're giving me weird things that are completely incorrect
+because they're using some weird offshoot of the IPA. And every quarter, those people
+fail homework one. And they don't get the opportunity to drop it. So please, please,
+please, just do the work honestly. Work with somebody. Come to office hours. We are here
+to help. But when you go online and you find an IPA website, it is super duper apparent
+to us, and it is super duper cheating. And that's not okay. And by the way, that's the
+least that can happen to them is failing that homework. So don't use those sites. It just
+won't help you. We will notice. You will be caught. It will be sad. I hate doing those
+lectures or those talks with people. So, okay, next thing is that some symbols don't
+mean the same things that they do in English. So the Y IPA character is actually a French
+E, E, E. We don't have this sound in English, although did, did is getting pretty close
+to it, right? But nonetheless, E is not present in English. So don't use Y in English. The
+Y sound is the one that you want. Voice palatal approximate as in, yes, this is the sound
+you want. Not that one. The R sound is a voiced alveolar trill, the Spanish rolled R. That
+is a R as opposed to the English R, which is upside down, R, R, R. So unless you really
+mean to be transcribing red, you're probably going to want to use this one rather than
+that one. Just saying. So, okay, those are some of the common pitfalls. And again, pay
+attention to that quick reference sheet. I spent hours on that and I want you to have
+it. I want you to use it. I want it to be good for you. But at the same time, you're
+probably wondering, well, okay, I get it. Yeah, we need to do IPA. You're teaching
+us IPA. Why, why do you make us suffer so well? Well, the answer is because it's useful.
+Um, there are a couple of boring answers. I mean, to start with the IPA makes you think
+about not just what you're saying, but how you're saying it, how you talk. It makes
+you think about what's going on in the world. And so that's really useful. It makes you
+think about your mouth in a more critical way. It also prepares you for future linguistics
+classes because all of your Ling classes will use the IPA. It's just a fact of life. Um,
+it will happen. And you can also now work for an airport announcing names. Oddly enough,
+this is one of the few job descriptions outside of, for instance, operas, where you also need
+to learn to sing in languages you don't speak. Um, so IPA is used there, but, uh, one of
+the few jobs where IPA is useful, because if you're an airport announcer and somebody
+calls and says, I need you to page, um, you know, somebody, and then they give you a name
+that you're not familiar with. You write it down on IPA and you speak it back in IPA and
+no one knows any better, right? This is super helpful, but there are better reasons for
+this. One of them is that your writing system probably sucks. If you're an English speaker,
+your writing system definitely sucks. It absolutely sucks beyond any shadow of a doubt. The suction
+of the English writing system would make everybody at Dyson vacuums, corporate headquarters,
+jealous because, Oh my God, this suck is huge. But nonetheless, um, the writing system that
+you're using in any language is probably awful. We talked about this one already in English,
+but if we look at this in IPA, they thoroughly, so this is thoroughly here.
+Cause we didn't say, and roughly it's thoroughly and roughly, roughly rot. Oh, that's right. Uh,
+and, uh, are spelled the same way. The bows in the burrow through and through. This is way simpler
+than this train wreck of OUGH, right? So the writing system sucks. And chances are,
+if you're working with another language, that writing system is disguising facts about the
+language too, right? This is a common thing that happens. Uh, writing systems are written
+with a good sense of contrast. We'll talk more about that next time in phonology, but we
+understand even a really well done writing system by a linguist will very often make
+conveniences that will hide the nature of the speech sounds. So the IPA tells us what sounds
+are there rather than what's meaningful. So to speak, although we can get back and forth with
+that a little bit more, we'll talk about that next week in phonology. Um, it's also useful to
+be able to write things down, even when you don't know the words. So for instance, if you're doing
+field work and somebody gives you the sound, you need to write that down. Uh, and if you're trying
+to do that using, for instance, the English writing system, or perhaps even a local writing
+system, presuming that there is a writing system involved, because remember, many languages around
+the world are not written. That's okay. It doesn't make them any lesser. It just means that they
+don't have a writing system yet. So you can write down very easily in the IPA, but it would be
+impossible to do in any other writing system unless somehow that was, yeah, IPA is just easier.
+So do that. Um, you don't always have a writing system to use. Uh, I already mentioned this.
+You will also train your brain by doing the IPA to hear these differences more easily. It doesn't
+feel like English has as many vowels as it does, but once you spend more time with the IPA, you
+will get to that point where you do, you do feel that way. So you get the versus the, you now can
+hear that difference a little bit better than before you knew that there was a difference,
+right? And one of the ways that we learn that there's a difference is by using the IPA.
+It also helps you capture individual variations in speech. And this can be really useful. Um,
+especially if you go on down the road into a speech pathology field, but also in dialectology,
+also in sociolinguistics. So for instance, my next door neighbor, when I was a kid, um,
+was a really nice guy, but he had one very particular speech disorder, uh, which meant
+that his S's always came out as lateral fricatives. So he would say, instead of sick, he would say
+sick, sick. Um, you know, uh, you would meet somebody named Sam instead of Sam.
+And so it was very difficult to figure out what was going on. But now that I know IPA,
+it's just, Oh, he's using instead of. Nice, useful. Um, dialect differences are also a factor.
+Let's think about received pronunciation or British English versus mainstream us English.
+So one of these is British. One of these is American. Which one is which try and read it out
+loud. So the first one we have, uh, Lou man, num, as opposed to all you men E. Um, so this is a big
+difference in the UK. You have aluminium and in the U S you have aluminum. This is a major
+difference in pronunciation. Kind of cool. Right? And in the IPA, we can actually see the difference
+between those two things. Um, similarly in, uh, RP, we have garage as opposed to garage in America,
+uh, in America, um, sorry, in mainstream us English, uh, garage versus garage.
+And you can tell the difference between these again in the IPA, these little dots above the
+words here, mark stress. We're not going to go deep into stress this quarter, but it's definitely
+there. Don't let it stress you out. Uh, okay. All right. Um, remember we looked at this example,
+sell your eye into Walter Zion, right? Um, in my dialect, uh, we have sell your iron to Walter
+Zion, Zion. I, in this case, I actually gave it a Zion. I would probably end up saying Zion.
+So that would be an aw much like this rather than an Schwab. But anyways, um, sell your eye
+and to Walter Zion, as opposed to the, the, in the local dialect, you have sell your iron
+to Walter Zion. And in fact, we can see here that this is the same ending as this. We can see the
+rhyme in the IPA. You can see when something rhymes. This is cool. This is different. Boston.
+Again, I'm having family from back East. You have to, so there's always the joke that, you know,
+park the car in Harvard yard becomes pack the car in Harvard yard because Boston has what's
+called a non-rhotic dialect. There is not the R sound in many of these cases. It's present in
+other cases. It's not like, uh, what color is that ed? No, it's just, it's a non-rhotic dialects
+lose ours in some cases and actually insert them in other cases. So park becomes park.
+The becomes the car becomes car in Harvard yard. So we can see that in the IPA. You can also
+impress and scare people at parties and bars. Hey, what's your, do you want to know what your
+name in the IPA is? Probably not a great pickup line. Maybe it would work. I don't know. I'm
+married somehow, right? Um, but nonetheless, uh, this is definitely effective. And then you can
+write down things that aren't quite language in the IPA. So let's do a quick transcription exercise.
+Um, uh, get ready. Um, you get ready to take some notes. I want you to transcribe the following.
+I said, the hip hop, the hibbit, the hibbit, do the hip, hip hop,
+or you don't stop the rock and do the bang, man. When you say up,
+just the boogie to the rhythm of the boogie. Okay. Did you get that?
+Probably not. So if you were to write this down in the English writing system,
+you would see something more like this. I said a hip hop, the hibby, the hibby to the hip,
+hip hop. And you don't stop the rocking to the bang, bang boogie. Say up, jump the boogie to
+the rhythm of the boogie, the beat. I'm sorry. I just, uh, to the rhythm of the boogie, the beat.
+Um, but that's not accurate here. Let's listen.
+Yeah, we're missing a bunch of things, but if we do in the IPA, we can actually do a lot better.
+So we get a set of, so it's not, I said a, it's a set of hip hop, the hibby, and it's not the
+hibby. It's the hibby, the hibby. There's a little bit more of a gap there to the, it's not to the,
+it's to the hip, hip, hoppy, uh, hoppy. You hear hip, hip, hoppy. You don't stop the rocking.
+And again, it's not rocking. It's rocking to the, it's not to the, it's to the bang,
+bang boogie say up, jump the boogie to the rhythm of the boogie, the beat. And it's not
+the boogie, the beat it's rhythm of the boogie, the beat. And when you put all this together,
+you get something that's much more fluid. I said a hip hop, the hibby, the hibby to the hip, hip,
+hoppy. You don't stop the rock to the bang, bang boogie, see up, jump the boogie to the rhythm
+of the boogie, the beat. And by that you can actually get something closer to the rap.
+And that's awesome. Okay. Let's try this one.
+One more time. Ready to transcribe.
+Got it. Yeah, no. Um, this is something I transcribed when I was very bored in graduate
+school and trying my best not to write a paper. Uh, and so, uh, we ended up with this one more
+time. You can look at it here. So this area here in the middle, I feel a little bit bad about these
+question marks. Um, but it turns out there isn't an IPA symbol for this because no Siri, I'm not
+talking to you. Um, there isn't an IPA, uh, symbol for this because what, uh, Scott and John is
+actually doing there. And I couldn't figure this out. I was, you know, trying to my best to hear
+this. Uh, and then I watched the music video and found out that he was doing these things with his
+fingers here, which would, I think technically be a labiodactyl trill. Anyways, it's a thing.
+Um, and so, uh, that that's, what's going on here. The IPA allows you to transcribe anything,
+not just language, not just speech. So all of this is why you're learning the IPA and that's
+actually everything you need to know to complete the homework and to deal with the final exam in
+this class about the IPA. Um, there is actually though one other misconception I'd like to
+address about sounds. Generally speaking, that's really important. Um, one of the things that you
+hear over and over again from often well-meaning people is that, Oh, well, people in Africa speak
+only with clicks. Yeah. So this is wrong in a whole bunch of ways. This is bad, wrong. Um, and
+so one thing to highlight is that Africa is a really big place, right? Um, you know, that there
+are lots of native English speakers in Africa and not just in South Africa. There are entire
+countries whose main language is English, right? Just throwing that out there. Anyways, Africa is
+a big place and it is true. There is a family of languages, the Khoisan languages, um, that,
+that use clicks extensively. They are there. They are present. They are a major part of the
+language. This group of languages is spoken by about 400,000 people ballparking. Um,
+the clicks have also been borrowed into a couple of other languages. Zulu and Xhosa, um, are both,
+um, Bantu languages within Niger Congo, and they are, uh, about 17.6 million speakers. So
+pretty big languages, right? But what this actually means statistically is that around 1%
+of Africans speak a language where there is clicks. That's, that's it. And all of these
+languages have a lot of non-clicky sounds. Here's a good example from YouTube of a Khoisan speaker.
+So what we see there is that there are a lot of different sounds going on there,
+but there are clicks. There are definitely clicks in there. And so this is one of the
+clickiest, so to speak, languages out there, but there's still a lot more going on than just clicks.
+So even though it may be shocking, I'd like to remind you, you could actually do this. Um,
+so for instance, this is how to produce click sounds. You can watch that at your own leisure,
+but anybody can pronounce any language. This is a truth of phonetics. Generally speaking,
+speech organs are universal. There have certainly been theories in the past that have gotten into,
+you know, Oh, well they can't produce a non-primitive language, but that's,
+that's just racism. Um, there, there are not really meaningful differences between, uh,
+your vocal tract and speakers of another language. Um, the only difference between
+humans is practice. Mind you, it's much easier if you start off speaking a language,
+you are more likely to achieve native-like proficiency if you grow up speaking a language,
+right? Um, but there are no sounds that English speakers simply cannot produce with enough
+practice. That doesn't mean it's easy. Some of these things can be very difficult. Um, so for
+instance, let's try making a very common sound that's English adjacent, but isn't quite English.
+The H sound. This is, uh, the sound is in Hanukkah or Challah or Bach, the composer.
+H. This is a voiceless velar fricative. H. Try it. Hanukkah. Challah. Bach. And this is by the
+way, why no one can properly spell Hanukkah on cards. There are just 50,000 letter combinations
+and it's all because we don't use IPA and we don't, we can't even with H. Um,
+voiced alveolar trill. Raa. Raa. Carro. Perro. Roto. That's a little weird, but still, um,
+all of these things, the R sound is a difficult sound to make, but it's very, very possible
+and you can learn to make one. Um, a voiceless palatal fricative is the sound that an angry cat
+makes. A voiceless alveolar lateral fricative as in the word Nahwat. Nahwat. Nahwat is a
+this is the sound, by the way, in Chipotle, um, that they don't say when we say Chipotle,
+it should be Chipotle. Um, but nonetheless, we, so if you go to Chipotle, make sure to use it and
+just scare them. Um, but anyways, Nahwat is a really cool language. Um, it's spoken,
+it's an indigenous language of Mexico and it's not Nahwatl. Please, please not Nahwatl. Um,
+and then, uh, try making a click between two vowels. Akwa. Akwa. Akwa. Akwa. Give it a try.
+Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa. Akwa.
+And this is one of the things that you will do as a linguist as you go, for instance,
+into grad school, chances are you'll be made to do a production exam where you will
+be forced to try to make all of these various sounds. It's a cool thing. It helps it,
+it makes it much easier to learn languages, but you can do it. I believe in you.
+So IPA conclusion is that these should be two different slides, but for some things and
+problematic. IPA is awesome. That's my conclusion for it. Um, and it's a great resource for you,
+but it is also independently hard to figure out what to include in a Ling 101.
+And so today I have abandoned good sense and tradition in favor of my own burning passions.
+Um, and basically I'm going to say, screw it. We're talking about speech perception
+because, oh my God, speech perception is amazing. Um, speech, as I've already mentioned,
+is flapping bits of meat around in your head and throat while you expel air, right? That's fine.
+Speech perception is turning those resulting vibrations in the air back into language,
+back into knowledge that you can actually use back into words that people can understand.
+So what are these vibrations actually look like? So if we were to take a microphone like this one,
+and I were to say a word like sky, we would see the patterns of vibration. You would see this
+little area right here is the S and then this bigger area here is the, uh, the, the vowel itself.
+So S I, and then fading down. So we can see from the vibrations elements of that, but it's,
+it's very difficult to read. And in fact, we can read them a little bit better. How do we pick
+them up? Well, we use our ears. And if you're curious about how hearing works, you should take
+Ling 113, uh, which is a hearing science class. Uh, and it's an amazing class. And, uh, you just
+come talk to me after class sometime, if you're interested in enrolling in it and you haven't
+had the fanatics class yet, but nonetheless, um, it, it vibrates the, your eardrum here,
+and then goes through these little bones and then goes into the cochlea and then is picked
+up by mechanisms that are just cool. Um, and then we get electrical signals inside of our brain,
+um, that are roughly organized by frequency. And then, uh, magic happens and we understand,
+oh, sky that thing up there. Yeah. Um, I, I skipped a step there. I agree. I absolutely
+skipped a step and I should go back. The problem is that step is difficult. It takes a long time
+to understand how little we understand. We get into some more of the complexity of speech
+perception in a Ling 112 and 113 and a little bit in Ling 6, but from a computer perspective,
+but speech perception is really hard. Um, you know, there are graduate seminars about that,
+or at least I hope there will be again, because I love teaching that anyways. Um, I digress. Um,
+speech perception is really difficult. So we're going to ignore exactly how it works and focus
+on what's amazing about it. Um, and do a couple of little experiments. Let's do some speech
+perception, magic tricks. One of the things that you never think about with your speech and with
+your understanding of speech is that you're really used to understanding English, right?
+You've gotten lazy. You can consistently hear word boundaries. If I say three cute penguins,
+you understand that I did three things there. Lexically. I had three, I did cute. I had
+penguins. Those are three different chunks, but you didn't ask yourself, what's a cute penguin.
+I didn't know what that is or three cute pen wins. There's a Gwin. What's a Gwin. There's three cute
+pen. And then there's a Gwin at the end there. Um, you hear these word boundaries. You can also
+pick out mixing words from context because you understand the language, right? If I say,
+for instance, um, uh, let's see, it was really out. So we didn't need to bring an umbrella.
+You can understand that. I probably meant something like sunny or nice or not rainy
+in that little bit that was kind of pulled out of there because you know context, right?
+And you know, roughly what to expect. If I walk into a room and I say, hi, how are you doing?
+Um, you're not going to have any trouble understanding what I mean, right? That's
+pretty common. So let's take you out of the comfort zone and make you listen to a language
+that isn't English. This is free.
+Chances are, and this is feeling very strange to you. Um, this is feeling like English. Like,
+oh wow, this sounds a lot like English, but it isn't quite English. But it realized that
+it's now hard for you to see word boundaries. It's hard for you to figure out what's going on.
+It's hard for you to understand why I chose this video clip, even though it's actually quite easy.
+There aren't that many examples of Frisian on YouTube, let's be real here. But anyways,
+Frisian is a cool language. It's very English-y, but it isn't English. And in fact,
+it's our closest, it's our language's closest living relative. Um, and certainly phonologically
+speaking. And nobody knows any speakers of Frisian except one. Uh, and that is Tony Beetz.
+If you watch the show Gold Rush, he is a Frisian speaker. Um, and I only watch the show for Frisian
+phonology. I, no, no, no, no other reason, not in any way addictive reality TV trash. No, no,
+no, no. Come on guys. So that's one of the things is we use our knowledge of the language to cheat
+a great deal as we're doing speech perception. Next thing that's interesting is the gradients
+of perception. So we're familiar with categories in a language and that affects our perception
+very, very strongly. So let's listen to a pair of words. First we'll hear date,
+date, date. Then we'll hear debt, debt, debt. So one more time, date, date,
+debt, debt. Great. So now you know the options. Let's listen to some mystery words.
+And I want you to ask yourself, is this date or debt? Date.
+Date. How about this one? Date. How about this one? Date. Getting a little harder to decide
+there. Let's do an experiment. I'm going to play for you a continuum basically, where you'll hear
+one word turn into the other. And if language were, you know, think about vowels. We're constantly
+moving our tongues and vowels can be an infinite little bit of gradation, right? I mean, you can
+move your tongue just a little tiny bit to change vowels. So then it should feel very smooth. It
+should smoothly shift from date to debt. So maybe, or let's listen. Let's see. Date, date, date,
+date, date, date, debt, debt, debt, debt, debt. So I'll ask you, did it feel smooth or was it
+date, date, date, date, and then suddenly, oh God, he's saying debt, debt, debt, debt, debt.
+Chances are for many of you, there might've been a little moment of confusion, but it probably
+just felt like there was a switch at a certain point. Date, date, date, date, date, date, date,
+debt, debt, debt, debt. Neat, right? And try this on your friends. Again, this is in the slides,
+you can use it. Anyways. So by looking at this, we can get the idea that our perception is very
+strong. We understand that even though vowel quality may differ kind of infinitely, right?
+Even though vowels may be able to change very, very little, we will still make strong boundaries.
+We make strong decisions. We draw lines in the sand about this is date, this is debt,
+and that's important. And these aren't the same decisions as the ones your neighbors make
+necessarily, which is cool too. It's great in a big lecture hall, everybody sees the differences.
+Okay. There you go. Next trick. Okay. So I'm going to give you a word and this is either the word
+bad or banned, but I have removed the final consonant. It's either going to be a bad or a
+ban, but I, either way, I have put noise over that last part. So you're either going to hear
+bad or ban, but really you're going to hear back because the last part has been removed.
+So the only thing that makes these two sounds different should be the last consonant, right?
+So if I've removed that, you probably can't tell the difference or can you?
+One more time.
+Many of you probably had a strong intuition about which one you heard. Let's try this one,
+bomb or Bob. Again, you might've had an intuition,
+even though it doesn't make sense that you would have. Let's try this one.
+How does this work? How can you have these intuitions
+even when that consonant is missing? And I'm not lying to you. It really is missing.
+What happens here, you might be wondering, am I a wizard? Well, yes, because you speak language,
+but no, because we pay attention to tiny details here. In a word like bend, for instance,
+there are actually multiple elements of that nasal. That nasal doesn't just stop
+at the beginning of the end. There's more to it than the IPA shows us. We have what's called
+coarticulation, which is where you start preparing the next sound before that sound even begins,
+which is really cool. So in the word bend, we'll start nasal airflow before that nasal N,
+but during that vowel. So actually what we see here is that this vowel is nasalized.
+The nasality from that N moves back a little bit into that vowel. And suddenly we hear something
+a little bit different and we can use this coarticulation to hear the upcoming nasal,
+even when the nasal itself is missing. That's magic, right? That's really cool.
+Actually, how we do this, how we hear nasality was the topic of my doctoral dissertation.
+This is what I'm interested in. Yes, that's a clickable link to a PDF. No, no one's going to
+click it, but still that's okay. Speaking of recovering information, let's try this one.
+Okay. Let's listen to a couple of sounds here real quick. Sound number one.
+What's that? Okay. Sound number two.
+And sound number three.
+Okay. Question for you is, are those human? Are those speech? No. Chances are one of them
+sounded like somebody getting into an inner tube. Another one sounded like a songbird
+of some variety, maybe a whale. Now let's play all three of those sounds at once.
+The exact same three sounds just overlaid on top of each other.
+How about now?
+One more time.
+Do you hear words? Can you hear words in that? Let's try playing this.
+Thanks for attending my presentation.
+And now.
+Your brain is magic. It was able to turn those three sounds, none of which were human,
+into, when you overlay them, human speech. Chances are many of you heard some human
+speechy thing, even though there was so little data there. This is called sine wave speech,
+and it's really, really awesome. What we do is we break down parts of the spectrum
+into just three different waves, and so we make the speech signal very, very sparse. We give you
+very little information, but the brain is still amazing enough that it's able to put those things
+together, and that's absolutely stellar. Okay, so the next thing we're going to take a look at
+is multimodal perception. Now for this part, I really need you to be focused on the screen.
+Look at the screen here. So what I want you to do is look at this guy, and now tell me what it is
+that this guy is saying. One more time. Okay, so get in your mind what the person was saying.
+Now let's look at it again, but let's look at it with your eyes closed. Nothing interesting
+will happen on the screen. Just focus on what's being said here. Again, eyes closed. Listen again.
+I bet you heard two different things there. I bet the first time when you looked at this,
+the clip with your eyes open, you heard one thing, and now with your eyes closed,
+you hear a different thing. Now here's the amazing thing. They're the same video. So what I want you
+to do this time is to start off looking at the guy, and then close your eyes partway through,
+and you're going to hear your perception change. Chances are, when your eyes are closed,
+you're hearing ba, and when your eyes are open, you're hearing either da or ga,
+and that's because this video is tricky. You're hearing a person saying ba, ba, ba, ba, ba, ba,
+and you're seeing a video of somebody saying ga, ga, ga, ga, ga, ga. These are two different things.
+When our brain, that is, sees, oh god, he's making a g, but I'm hearing a b,
+it kind of crashes. It's like, this is problematic. I can't do anything with this. I'll split the
+difference. It's probably a d, and then we take it from there, but as a result, what this is
+telling us is actually something super interesting. One could picture a world in which speech
+perception, which is inherently kind of an auditory thing, right, only has to do with,
+well, hearing, but that's not what we're seeing here. Instead, what we see is that hearing and
+vision both play a role. You are both hearing people's speech with your ears and with your
+eyes, and that's fascinating. That's really cool, and so the McGurk effect tells us fascinating
+things about language, namely that we're using more than one modality for speech perception,
+and even people, for instance, who are not hard of hearing are doing this too. It's really cool.
+Next thing is tone. Tone languages are amazing. Tone is changes in pitch during the word change.
+Wow. Prosody is where I properly intonate that sentence. I just didn't do that right,
+so changes in pitch during the word change the meaning of the word. There we go. That's language.
+So you can get two different kinds of tone. You can get level tone, high versus low, and sometimes
+you'll get mid or rising and falling. Here's an example from the language Zarma. So here's two
+words. Yesterday be, won't be. Yesterday be, won't be. So there are two different sounds be.
+There's be and be. Be, be. The only difference there is the pitch of the voice and probably my
+eyebrows because I'm very bad at doing tone without using my eyebrows, and so if I can play
+you these things and you can tell me which one is which, right? So if I give you yesterday is high
+and wound is low, which one is which? Yesterday be, won't be. Yesterday be. I just said that out
+loud. Whoops. Anyways, so we can tell which one has the high tone based on listening to the pitch
+of the voice, right? And then other languages have contour tones where the pitch pattern is able to
+change the meaning. So Mandarin Chinese has this, and you can watch this link for a whole video
+talking about this, but in Mandarin actually the tone that you produce the word ma with will have
+massive effects on what word you're hearing. It could be mother, bother, horse, scold, or other
+kinds of things. So this is really, really cool and is something that I really appreciate. So tone
+is where the pitch of your voice changes the meaning of words. It's super common around the
+world and it's really fascinating. Then finally, the coolest trick of all. I'm going to make you
+listen to this. Please call Stella. Ask her to bring these things with her from the store.
+Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother
+Bob. We also need a small plastic snake and a big toy frog for the kids. She can scoop these things
+into three red bags and we will go meet her Wednesday at the train station. Okay, so you just
+did the single hardest thing that's really possible in speech perception. This right there that you
+are listening to is a woman you've never met, right? Presumably you've never met her. You're
+probably never going to meet this person. She was, at the time of recording, 28 years old from
+Monrovia, Liberia, which is a country in Africa. She is also a speaker of Liberian Pidgin English,
+which is probably not a language you've ever heard before. Maybe it is, but probably not.
+She's from a place you've probably never been. She's also a speaker of a language you don't speak.
+You've never seen her face, by the way. You have no idea what she looks like, what she's
+shaped like as a human. You've never had a conversation with her. The thing is you understood
+her. Maybe it took you a second, maybe it didn't, but you understood every word that that woman said.
+Seriously, you've probably never heard anybody with a Liberian Pidgin English accent before. You've
+probably never heard anybody from Liberia. You had no way of seeing her to judge how large or small
+her vocal tract was. Because remember, vowels are about resonance, and resonances change depending
+on how big or small your vocal tract is. You had no gestures to rely on. You had no facial movements.
+You couldn't watch her on screen talking, and so you had no way to fill in the blanks there,
+and you had no context to know what words she would or wouldn't say. This is exactly a worst
+case scenario for speech perception. There is very, very little information that you had here,
+aside from exactly what is in the speech. But you didn't give a damn. You probably had no problem
+with this. And in fact, all of us, when we listen to something like this, don't seem to care that
+every single person that we will ever meet sounds different. Just because of the different shaped
+vocal tracts, because of their different dialect, socioelect, idiolect, because of their different
+language backgrounds, every person we meet will sound different, socially, etc., anatomically
+different. The vowel that I have in the word bet might be acoustically identical to the vowel you
+have in the word bit. The resonances might be the same for my eh and your ih. That's a very
+real possibility. And in fact, even as I'm talking, if I say the word cat, cat, cat, cat, cat, cat, cat,
+cat, all of those words were the same thing. But you understood that, even though acoustically
+all of them were very different. And so no two productions of even the same word by the same
+person are identical. And in fact, you are your own little acoustical snowflake, not just in terms
+of your dialect and idiolect, but you are your own acoustical snowflake too. And the thing is,
+no one gives a damn. No one cares. No one even thinks about this. We just talk and it works. And
+this is magic. This is the most magical thing you ever do. This question, how we adjust to different
+speakers, was the topic of my MA thesis. Not making that available, it was a dumpster fire.
+This is a topic for my entire Ling 214 speech perception course. Making speech is hard.
+This is true, but understanding speech is even harder than that. Being able to adjust when two
+people sound exactly the same and we don't even notice that they sound exactly the same, saying
+different words, but we just understand. Oh my God. But the fact is, we're doing it right now.
+I'm talking. It's not bothering me. I can do this all day, as you're noticing. And you're
+listening and you can keep doing this and you'll get up and you'll talk to somebody and you won't
+even think about it because you'll be thinking about, wow, I'd sure like a sandwich. Do we have
+materials for a sandwich or whatever it is that you're thinking about right now. You are going to,
+we don't care. This is amazing. Speech is impossible. It really is. We shouldn't be
+able to do this part with the flap and the meat around. We shouldn't be able to do this
+part where we understand it, but we do it anyways. And that's because we are really,
+really awesome. Our ability to produce speech is incredible. We flap bits of meat around inside of
+our heads in precise, intricate patterns and series without thinking, trying or running out
+of air, which by the way, you don't do. Right? When was the last time you ran out of air mid
+sentence? Probably a long time ago. And if you're anything like me, you were probably going upstairs
+or something like that. We never do this. And why? And we can do it while we're walking. We can do
+it while I'm frantically gesturing around in my office. We can do it while we're running,
+biking or eating. We can do this in an amazing diversity of circumstances and we still get the
+message across. So our ability to perceive speech is absolutely incredible too, because we pull
+these signals out of the air. And this is going into a microphone through all kinds of fancy
+signal processing algorithms into probably a set of headphones on your ears that are bouncing and
+that are sending that down into your ear canal. And now you're parsing them according to rules in
+your mind that no one really knows quite how those work. You're taking advantage of little
+tiny details. We're covering huge amounts of lost information and wading through an amount
+of variability that is completely mind boggling without noticing that you're doing anything
+special. This is really cool. And this is why I say over and over again, that speech is the
+most complicated thing that you will ever do as a human. And yet you don't think twice about it.
+Speech is magic. Seriously, speech is amazing. It's the coolest thing ever. And the fact that
+we're not telling kids about this in elementary school of like, oh my God, you can talk. How are
+you able to do that? Oh my God, you can sign. Signed languages are amazing too. Oh my God,
+how does any of this work? That is amazing. That is magic. And you are all wizards.
+So if you want more information about speech, take Ling 110 and then Ling 112. And then for
+perception, take 113. And you can get a whole bunch more information. Just had to have a little
+plug in there. But nonetheless, thank you. And go forth and talk and realize that, oh my God,
+that's basically magic. And have yourself a wonderful rest of your day.

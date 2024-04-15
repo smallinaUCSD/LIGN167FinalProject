@@ -1,0 +1,975 @@
+Okay, hi everybody, and welcome to the second lecture on phonology.
+This is a really old meme.
+This comes from the days back in the world of memes where they mostly involved animals
+and a lot of misspellings.
+Yeah, I know, I'm old.
+But anyways, this is an epenthetic cat.
+That is, this cat has arrived between two cushions.
+So zero turned into a cat between two cushions.
+Cute.
+So today we're going to go a little deeper into phonology and talk a little bit more
+about some sound pattern stuff.
+So first off, one really important note.
+Signed languages have phonology too.
+We've been talking about phonology exclusively in the world of spoken languages because,
+well, frankly, a lot of the languages we're going to be working with this quarter are
+spoken, right?
+But this is very much a factor in signed language because signed language has articulators,
+right?
+It has different gestures.
+It has different parts of the face.
+It has different parts.
+There are all kinds of things going on in signed language and adjacency can modify them
+too.
+If you're making a sign, for instance, that's very high up immediately before a sign that's
+very low, then chances are the low sign is going to be a little bit more intermediate,
+right?
+There are laws governing the juxtaposition or not of gestures.
+There are gestures that aren't legal next to each other, et cetera.
+And so you can use the exact same principles and approaches to describe phonology in signed
+language as you can in spoken language.
+Phonology is very much a thing in signed language, even though it's not using the same
+alveolar, velar, voiced, voiceless kind of thing that we're using in the rest of this
+class.
+So again, this should reinforce to you, signed language is very much language, even if it's
+not the kind of language we're going to talk about most regularly in this class.
+So today's plan to start with, we'll talk about some common phonological processes.
+We'll think about them in a little bit more of a humanizing way.
+Next thing we'll talk about syllables a little bit.
+We'll talk about phonotactics, and we will talk about some actual work with language.
+And actually, I'll probably break some of this off into another video, but I'll give
+you a data set that you can chew on that is a real language data set, right?
+And a little bit more, or a little more complicated.
+So common phonological processes.
+We now know, based on last week's work, or last, sorry, last lecture's work, how to describe
+all of these various rules.
+But the big question becomes, well, what do we do with them?
+What are these rules actually doing in language?
+Why do we have these rules?
+Why do we bother?
+Why would a language ever come up with an alternation?
+Why would any of this happen?
+This doesn't make any sense, a feeling that you can have, especially thinking about these
+things in isolation.
+But the thing is, these processes actually make a lot of sense, right?
+These processes do things for us.
+They make our lives easier.
+And they make our lives easier in ways that we intuitively understand.
+So today we're going to talk to start with about four different kinds of phonological
+process.
+One is assimilation.
+The next is dissimilation.
+The third is insertion or appenthesis.
+These mean the same thing.
+And then the final is deletion or elision.
+And I'm going to explain all of these using high school drama, something that we are all
+no doubt familiar with.
+So assimilation.
+Assimilation is when sounds change to become more like one another.
+So chances are, if you've just watched the first phonology lecture, you can think of
+a couple of cases where that might have happened, right?
+So as we were thinking about the English past tense data, we saw a rule that said the past
+tense becomes voiceless after a voiceless sound.
+The past tense becomes voiced after a voiced sound.
+Interesting, right?
+So what could be doing this?
+Or for instance, the M becomes labiodental before a labiodental sound.
+This is peer pressure.
+Flat out, this is peer pressure.
+Assimilation is just a way for sounds to become a little bit more like their neighbors.
+And so in the same way that all of the kids end up looking roughly the same in a given
+click, all of the sounds end up looking roughly the same in the given area.
+And so a really good example of this is with nasals.
+Nasals, I love nasals.
+I really do.
+They're a source of incredible joy for me.
+But they're really, really kind of pushovers, right?
+A nasal sound will go wherever, you know, whatever place of articulation their friends
+are doing, they'll do it too, right?
+So if all the surrounding sounds say, oh my God, we're being dental.
+You should try it.
+The nasal is going to be like, yeah, cool, I'm an alveolar, no, I'm dental with you guys.
+That's awesome.
+So you get things like pine thugs, where the next word over has a th and the nasal is like,
+you know what?
+Yeah, I'll be dental.
+That'll be fun.
+All the cool kids are dental.
+I'm going to be dental too.
+But at the same time, the same nasal in pine becomes pine guys, pine guys.
+So you get the same nasal becoming velar because all the cool kids are being velar.
+So nasals really lack some element of identity.
+A really extreme example of this are long distance harmony effects, where you get assimilation
+that are not just local.
+I've just been showing you examples of, you know, a nasal being affected by the thing
+next to it.
+Here's an example of an entire word becoming nasal because one of the words, I'm sorry,
+one of the sounds in it is nasal.
+So when other phones, when other sounds in the word change to match the nasality of a
+nasal segment, we call this a nasal harmony approach.
+So for instance, in this particular language here, you see this phenomenon of, well, if
+I'm going to be nasal, you're all going to be nasal with me.
+So this word, which underlyingly just has one nasal thing, ends up with a bunch of nasality
+right over here.
+This word, which underlyingly just has one nasal thing, ends up getting a whole bunch
+more nasality.
+So words have spreading nasality.
+Dao, dao, underlyingly becomes dao, where the entire thing becomes nasal.
+This is assimilation.
+All of these harmony effects are assimilation.
+And so this is described in this particular language, actually in a paper by Sharon Rose,
+which who is a professor here and a good friend and a colleague.
+And so you can take classes with her.
+You might have Ling 111 with this very person, it's amazing.
+But anyways, so this is an example of assimilation that's very, very strong.
+This also happens with vowels.
+Turkish speakers are going to be very well familiar with this.
+So you get vowel harmony.
+So for instance, in Turkish, you have a back front vowel harmony.
+This means that within a given word, you will have either vowels that are from the front
+or vowels from the back, but you're not going to get a mix of those things.
+So all the vowels in a word need to either be all back or all front.
+There's a lot of peer pressure.
+Guys, we're being front vowels.
+Okay, let's all be front vowels.
+And so you can have, for instance, a word that is, where it changes.
+So for instance, it is this dir suffix, and I'm sorry, my Turkish is non-existent, suddenly
+changes when here, these are all front vowels in the word, but here it's not, right?
+And so these vowels end up changing around a lot.
+This is the same word, but the vowel in it keeps changing because the vowels in the surrounding
+word are changing themselves.
+So vowel harmony is a kind of assimilation where all of the vowels start to seem more
+similar for phonological reasons, right?
+So assimilation is just peer pressure, and it comes from a very reasonable place, right?
+We want to be doing fewer things with articulators.
+If I'm already making a dental sound, it's more efficient to just make the next sound
+dental if I can, right?
+If I'm already doing something velar, if my tongue's already back there, let's just make
+the nasal velar too.
+It's not hurting anything if no one understands it, or I'm sorry, and if no one has misunderstandings,
+if it doesn't carry a contrast, let's just make it velar, I don't care.
+And so peer pressure is a very real thing, much like in high school, in phonology.
+And so this is a very common thing that you'll find making phonological rules happen.
+Next one is dissimilation, which as you might expect is exactly the opposite.
+It's when sounds change to become less like one another.
+This is also known as a high school rebellion, right?
+When you decide, hmm, I think I'm going to be goth.
+And I know it doesn't always work that way, and of course, no hate on goth, right?
+But nonetheless, you are going to have people who want to be very different from everybody
+else.
+You're going to want to have segments that aren't going to blend in with everybody else.
+So in English, a good example of this is actually using deletion in R's.
+So if I have a sentence like this, say this sentence aloud right now, go, go, yeah, the
+third rural bird juror murdered a murd.
+That's a lot of erotic, right?
+That's a lot of R. The third rural bird juror murdered a murd.
+You don't want to have that much R going on.
+And so in English, we've actually changed some of our words to remove R's, to dissimilate
+things.
+So surprise is usually now pronounced surprised.
+Same thing with berserk.
+Generally, you just say he went berserk, right?
+You don't say berserk because there's a lot of R going on in there.
+And similarly, purple, the word purple for the color was originally purpure.
+And so we change one of those R's into an L. We've dissimulated.
+February is not February, even though it once was, it's now Febuary, bu rather than
+brew.
+Because that would be a whole lot of R, right, February, ay, ay, ay.
+So anyways, that's a good example of dissimilation.
+Another nice example of this was actually in the plural data that we were looking at
+or in the past tense data, where you had like a past tense of dot being dotted rather than
+dot-ed, dot-ed, or dot-ed, dot-ed.
+You can't really hear when there are two alveolar sounds right next to each other, and more specifically
+two alveolar stops.
+So that past tense wouldn't work if it were dot-ed.
+Like today I dot, yesterday I dot-ed, doesn't go.
+So instead we add something else in there.
+We insert something, which given is another one of the things we'll talk about, but we're
+inserting a sound to make them less similar.
+So we end up with dot-ed, dot-ed.
+Or in dishes, the plural form, you don't get dishs, dishs, it's a lot of fricative right
+next to each other.
+So you get dish, and then add a vowel in, separate them out, dishes, right?
+So actually that brings us into our next one, which is insertion or appentices.
+Now remember, this can actually be done for dissimilation or for, usually for dissimilation,
+but nonetheless insertion is a really important thing, and this happens all the time.
+When a sound pops up to prevent something that is awkward or undesirable.
+This is also known as showing up on a friend's bad date.
+Perhaps you've been on a blind date, or perhaps a friend has been on a blind date where it's
+just like, oh my god, this is terrible.
+This person is talking about sounds, they're making weird noises, they're writing my name
+in IPA, oh my god, what is this person even thinking?
+Or maybe that's a great date.
+I hope that's a great date, anyways, but anyways, you realize you're having a bad
+date, and so you invite a friend over to pop up and prevent that.
+The reason for this is very simple.
+There's something awkward going on here.
+There is a pairing that you don't like, and so you'd like something to come in and provide
+a little bit of a buffer, right?
+And so this is a good example in what we were just talking about here.
+The allomorphs that include vowels are plurals.
+So dish plus ss becomes dishes, because shs, dishs, dishs, or dishs is not acceptable.
+That's not a good pairing.
+So we add in that little ih sound there, and that makes it okay.
+Or rot plus dh becomes rotted, rather than rotd, rotd, that can't be a thing.
+So the vowel is popping in to stop these things from being a thing.
+Languages also, look, languages have many passions, right?
+Languages do many things around the world, but one of the very things that languages
+generally hate is what's called hiatus, having two vowels next to one another.
+When you have two vowels right there next to each other, so you'd have like a word like
+waia, waia, that would not necessarily be desirable for most languages.
+Usually they would rather that be something like wadida, wadida, or something like that.
+So having multiple vowels next to each other is generally bad, and so a lot of languages
+will put something up in the middle there.
+Any time that you remove something that would give you two vowels next to each other, you
+might reinsert something else to prevent it from happening.
+Blocking hiatus is a really common thing that you'll see around the world, and so if you're
+giving me a rule, for instance, in a homework, and the purpose of that rule is to prevent
+two vowels from being next to each other, that's probably a really good rule.
+That's probably pretty well attested around the world.
+So allomorphs with vowels give us a nice example of popping a sound in there to separate things,
+to make sure that the bad date is broken up.
+Then finally there's deletion, or elision, which is when a sound is removed to stop an
+awkward or an undesirable combination from occurring.
+This is also known as uninviting your friend's ex from the party.
+You've been planning this party for months, your friend says, oh yeah, here's the thing,
+I broke up with Jeremy, and you decide, okay, hold on, Jeremy, okay, but I really like my
+friend more, so you just say, hey, Jeremy, I'm sorry, we ran out of space, and I know
+you're a vegetarian, and so we're having a gigantic pig, and he's going to be alive at
+the start, anyways, I digress.
+So you would find a way to make sure that that friend's ex doesn't show up at the party
+and goes off on their own someplace elsewhere.
+So deletion is trying, you're doing the same thing, you're saying, god, it's awkward for
+these two things to be together, but rather than popping something up in between them,
+you just say, you know what, yeah, you're uninvited.
+And so this is a good example of this in English.
+In the word fifths, fifths, fifths, you get this f-f-s, f-f-s thing, yeah, we're not doing
+that, fifths, fifths, we just say fifths, where we get rid of that f entirely, we just
+drop that out of there, and that makes lives a lot easier, because f-f-f-f, yeah, that's
+awkward.
+Similarly, family ends up being family, family, family.
+You don't generally say, if I say, oh, me and my family are going, that's a little weird,
+right?
+You just say me and my family.
+Um, comfortable, you don't generally say comfortable, comfortable, oh, I am very comfortable, and
+I am in no way, shape, or form a lizard person.
+Yeah, you would say comfortable, so you remove this com-fur-table, you just knock this little
+er vowel out of there, and you end up with comfortable.
+And in fact, in this case, there's a weird swap where that r moves to the other side.
+Cool.
+Anyways, um, so all of those are common phonological processes that we get.
+We get peer pressure, making sounds more similar to one another.
+We get dissimilation, where you're trying to pull sounds apart, you're trying to say,
+no, no, no, there's too much similarity, you're all a bunch of conformists, I want to be different,
+and so one of the sounds changes, or maybe you add something in, maybe you do an insertion
+or an appenthesis, to break up an awkward combination, to make things less similar maybe,
+or just when you've got two things that really shouldn't be together, or instead of adding
+something in, you just uninvite, and unfriend, and next thing you know, that segment's not
+anymore.
+But all of these things are really important.
+There are lots of other processes out there.
+They're really awesome, but those four are very, very common.
+You will very often find yourself writing rules that do appenthesis and deletion, and
+writing rules that do things like creating assimilation, making sounds more similar,
+creating dissimilation, making sounds less similar, or otherwise.
+There's a reason, though, I'm humanizing these patterns.
+Before you start looking for a rule, or looking for a pattern, you might think to yourself,
+what's causing this, right?
+If I give you a data set, and you identify the alternation, you're like, okay, so the
+weird thing here is that all of these S's are turning into Z's, and in fact, weird,
+so all these S's are turning into Z's, and all these SH sounds are turning into Z sounds,
+so all of these voiceless things are becoming voiced.
+If you're just thinking about this as like some weird form of algebra, which you can
+certainly do, you can treat phonology sort of independently of that, I don't recommend it,
+you're going to have trouble there, but if you think, okay, all of these voiceless things
+are becoming voiced, why would that happen?
+The first thing on your mind is going to be, well, maybe there's something voiced that's
+making that they're becoming more alike, so you would think peer pressure, and so then
+you would look, okay, is there something voiced after all of them?
+There is.
+Okay, cool, I know the pattern.
+Life is good.
+So, okay, for instance, let's do some thinking about this.
+If a language changes a D into a T when it is next to a voiceless consonant, is this
+an example of A, assimilation, B, dissimilation, C, insertion or appenthesis, or D, deletion
+and elision?
+Okay, so D becoming T next to a voiceless consonant, so D is voiced, T is voiceless,
+and it's next to a voiceless consonant, yeah, peer pressure.
+This is assimilation here.
+So, those are your major phonological processes that we're going to be dealing with in 101
+here, and it's just a reminder that any time you see something changing, ask, why would
+this be happening?
+Because very often that will make it easier as you're making hypotheses, as you're deciding,
+hmm, I think I know why this is going on, because then you can make a more informed
+guess.
+Okay, now for something completely different, syllables.
+So, a lot of what we're going to talk about this quarter in 101 is sort of a little different
+than you might have grown up with, right?
+We're going to talk about sentence diagramming, but chances are you didn't learn the kind
+of sentence diagramming that we did in elementary school, or I'm sorry, you didn't learn the
+kind that we're going to do here, right?
+And similarly, maybe you learned some phonetic way of writing things in music school, but
+it probably wasn't the IPA.
+Syllables actually work pretty much the same way for us and for the rest of the world,
+right?
+Syllables are pretty important in some languages.
+Not in all languages, but in some languages they're definitely a thing, and English is
+among them.
+English is a language where syllables are real, and we have a very intuitive sense of
+syllables, right?
+So, let's try it.
+What I'd like you to do is to tell me how many syllables are in under.
+There are a bunch of ways that you can do this.
+Maybe you've been taught this already, but a couple of things you can do are to put your
+hand under your chin here, under, under, uh.
+And you're going to feel two major kind of pulses.
+Your chin is going to move twice.
+This really is counting vowels in practice, because your mouth opens more for vowels.
+But that's one approach.
+Another thing that you can do is try to kind of tap it out, so under, under, because it
+doesn't make sense to do under, under.
+It doesn't match, right?
+Or under, no, so it's under, under, two syllables there.
+So you have this break.
+You have under, two different syllables.
+Let's go with a bigger word here, decoagulate.
+So decoagulate.
+I should have given you more time to pause.
+Either way, decoagulate, decoagulate, cool.
+Here's a big one.
+Here, work on it yourself.
+Pause if you need to.
+Okay, so you can do this in many ways.
+But one way would be antipenultimate, antipenultimate.
+Looks like six syllables, antipenultimate, yeah, cool.
+Okay, six syllables, and in fact, that's the syllabic breakdown there.
+And by the way, you have intuitions about this, right?
+It's not ant, that's not valid.
+It's antipenultimate.
+It's not pen-ul, it's pen-ul-ti-mate, interesting, right?
+But it's not ultim.
+We have cool intuitions here.
+So as linguists, we think about syllables in roughly the same way.
+Counting syllables is very intuitive for most English speakers, but we break syllables apart
+in a different way than maybe you're used to.
+Syllables for linguists have three parts.
+The sigma here just means a syllable in linguistics, so you'll see sigma appearing over and over
+again talking about syllables, but we have three different parts of a syllable.
+We have an onset.
+This is a consonant that occurs before the nucleus.
+It's the start of the syllable.
+Then we have the nucleus.
+This is almost always a vowel.
+We'll talk about cases where it might not be later on, but it's almost always a vowel.
+Then we have the coda.
+That's the bit after the nucleus.
+But the thing is, we actually break it into three parts because this feels a little bit
+better.
+We can think about it as onset, nucleus, coda all on one level, but it's better to think
+about it as having this sort of subdivision, right?
+Because we have this intuition of rhyming, right?
+Cat and flat rhyme with one another.
+Cat flat.
+It's not the case, for instance, that cat and kit rhyme with each other.
+No, those are different.
+It has to share both the nucleus and the coda.
+So we've broken the nucleus and the coda off into this one bigger area here, which we call
+the rhyme.
+You'll sometimes see it spelled with an R-H-Y.
+That's fine.
+They're basically the same thing.
+But what we do here is we have the onset, and then the nucleus and coda form this separate
+division called the rhyme, and a big part of the reason that we talk about it that way
+is because we have this intuition, right, of rhyming involves a shared nucleus and coda.
+These things are together.
+So there is a theory underlying the syllable structure that we have here, but it's one
+that works pretty well and makes a lot of sense.
+So let's look at some syllables here and get a sense of what these act like.
+So here's cat.
+So cat is a single syllable, right?
+The onset of it is kuh, and then the nucleus is a, and then the coda is tuh.
+So the rhyme of this would be at.
+Cool.
+Makes sense.
+Okay, T. You don't always have to have a coda, right?
+So if I have T, which I do right here, we would have an onset, which is tuh, because
+it comes before the nucleus.
+We have a nucleus, which is e, because it's the vowel, and then there's nothing in the
+coda.
+So if I have teen, then there would be something in the coda.
+There would be an N there, but because it's just T, then it's an onset and a nucleus.
+That's all.
+And because T, for instance, would rhyme with P or C, but it wouldn't necessarily rhyme
+with bean, we know that the rhyme is different there.
+So again, justification for the rhyme existing.
+Eat is a word that doesn't have an onset.
+There's e is the nucleus, and then the coda is tuh.
+Eat.
+Cool.
+Then skip.
+Skip has what's called a complex onset.
+There's more than one thing in the onset here.
+So you have skuh is the onset, ih is the nucleus, and puh is the coda.
+Cool.
+So here a complex onset is there.
+We want to make sure that this, we don't have like suh onset, kuh, or kih as the nucleus.
+No.
+It's, complex onsets are a thing, complex codas are a thing, but, and in this case actually,
+you've got a multi-syllables, but you're always going to have a vowel, by and large, with
+some exceptions we'll talk about later on in the nucleus position.
+Fences is a multi-syllabic word.
+You've got two syllables here.
+First one is fen, second one is sis.
+So fuh is the onset, e nucleus, n the rhyme, well I'm sorry, in the coda that is, the rhyme
+would be n, and then in the second syllable you get suh, ih, zuh, where suh is the onset,
+is the nucleus, zuh is the coda.
+So why is it broken up in this particular way?
+That's actually a little trickier to talk about.
+Why it is that you can't have n-sis as a syllable is something that's more of a Ling 111 kind
+of question.
+It's really cool.
+I'd be happy to talk with you about it in office hours, but it's above and beyond the
+call of duty today.
+Now let's look at the biggest single syllable word in the English language, which is strengths.
+In this case we have a very complex onset.
+We have struh as our onset here, and then the nucleus is going to be e, and then our
+coda is four different segments, n, kuh, fuh, suh.
+All of those things go in the coda.
+Rhyming with strengths is very difficult.
+You need something like lengths, which has that same e, n, kuh, fuh thing.
+But all of that together is the rhyme, and this is a very complex syllable, right?
+Three consonant onset, a vowel nucleus, and then a four consonant coda.
+That's big.
+So phonological rules will very often reference syllables.
+So for instance, the English L becomes darkened in the coda position.
+This is a rule that we have in English.
+Or for instance, the e vowel is illegal in words without a coda in English.
+I can say wet just fine.
+I can say ed, as in higher ed.
+That's a perfectly fine word, or as in the name ed.
+I can say s, as in the letter s.
+That's fine.
+But if I try to say keh, that doesn't work.
+That couldn't be English.
+If I gave you some brand new object, and I'm like, oh, this is a deh.
+No, doesn't work.
+In fact, the only thing that's available for that is meh.
+That's not really a word, right?
+It's an attitude.
+It's a feeling.
+It's a sensation.
+So anyways, e is illegal when you don't have a coda consonant.
+Spanish is really cool, because you will re-syllabify words
+to turn codas into onsets.
+Spanish really likes onsets, so they will turn codas into onsets.
+So you get a sentence that, spoken very poorly,
+would be van a gritar a las olas.
+Instead, we'll get re-syllabified as van a, van a gritar a las olas.
+Las olas.
+Las olas.
+So you get this n becomes van a, and this r, gritar a las olas.
+So this is really cool.
+And pardon my Spanish, by the way.
+But this is an awesome thing that Spanish does,
+and that English actually doesn't.
+English syllabification doesn't really change that much,
+depending on adjacent words.
+So syllables are really important to think about,
+and that's why we're talking to you about them more.
+You'll spend more time on them in 111.
+And in fact, the stuff you do in 111 with syllables is amazing.
+I love 111.
+I love 111 generally, for all she's just badass.
+But I got to say, the syllable stuff is great.
+So let's think about it for a second.
+In the word star, in the English language,
+the coda is which of these things?
+A, st, B, a, C, r, er, er.
+Sorry, I'm still in Spanish mode.
+D, ar, or E, tar.
+The word star, which of those is the coda?
+The correct answer here is C, the r sound.
+Because st is the onset, a is the nucleus,
+and r, sorry, English, is the coda.
+So another thing that uses syllables is English aspiration.
+We've kind of been ignoring this all quarter.
+We've talked about it very, very briefly.
+But there's actually more to the T allophone than just the T.
+Let's look at this data set right here.
+So here we have a bunch of English words.
+So we have what.
+So on the very top here, I'll read the first column.
+We have what, tar, pat, renting, Cuba, star.
+Here we have skin, spun, spot, restart, pocket,
+and spinster.
+All of those words are English, and we
+have some of those words with a little h after them.
+These are aspirated stops.
+So tar, pot, renting, I might have said pat there.
+That's pot.
+Renting, Cuba, pocket, and all of those have aspirated stops.
+So look at these data for a second
+and tell me when you get aspirated stops
+and when you don't.
+Pause the video.
+Remember, you're doing phonological analysis here.
+So step one, are there minimal pairs?
+No, there are not.
+Step two, look at the distributions.
+See where all of those aspirated sounds occur.
+Step three is going to be, or I'm sorry, technically step two.
+Making a step zero is bad unless you speak Python natively.
+It's a computer language.
+I'm not a parcel of the mouth.
+Sorry, Harry Potter reference.
+Anyways, I'm like three levels of nerd deep.
+Let's start.
+So anyways, the next step, whatever
+it would be, to make a generalization
+about the distribution.
+So we could look at this and go, OK, this one is happening.
+Tar is happening at the start of a word.
+Pot is happening at the start of the word.
+Cuba is happening at the start of the word.
+This one's happening at the start of the word.
+OK, so maybe it's the start of the word.
+But then you'd look and you'd say, renting.
+Oh, damn, that's not at the start of the word.
+Pocket, oh, it's not at the start of the word.
+So we know that none of these aspirated stops
+So we know that none of the unaspirated ones
+happen at the start of the word.
+But we also know that there are aspirated ones
+that don't happen there.
+So then we might think, OK, maybe it's
+something to do with the syllable.
+So we would have renting, renting.
+So the syllable structure here is renting.
+And in pocket, you'd have pocket.
+So maybe it's at the start of a syllable.
+And more specifically, you can't just say it's in the onset,
+because things like spot or star don't have it.
+So you would have to say it has to start the syllable.
+It has to be the first sound in the onset.
+If it is the first sound in the onset in English,
+it will be aspirated, either P, T, or K.
+But if it is not the first sound in the onset,
+if it's the second sound in the onset,
+or if it's not in the onset at all, it will not be.
+So that is the rule.
+T is aspirated at the start of a syllable,
+not just in the onset.
+So are P and K. And so we could give them a natural class.
+And we could say, voiceless stops become aspirated
+at the start of a syllable.
+Cool.
+So that's where syllables come in handy.
+And different languages, by the way,
+allow different syllable structures.
+This is something that we've touched
+on a little bit in the first lecture, actually.
+But it's really important when we think about phonotactics.
+So phonotactics kind of makes sense, right?
+We've been talking about phone already as meaning sound.
+And then tactics, it's like, what, strategy?
+Well, not exactly.
+But nonetheless, it's how you work
+with sounds in that language.
+What's allowable with sounds in a language is phonotactics.
+The study of what sounds and combinations of sounds
+are legal in a given language is phonotactics.
+So every language has a set of phonemes
+that are used in that language.
+This is called a language's phonemic inventory.
+This is the sounds that are available in that language that
+are legal and that are contrastive.
+It's a phonemic inventory, not an allophonic inventory.
+You'll sometimes hear phonological inventory.
+These mean the same things.
+The IPA chart that I gave you for 101
+that has some things grayed out is basically
+a phonemic inventory for English.
+I've added a couple of allophones in there,
+namely the TAP, which is on its way
+to being phonemic in English.
+It's not there yet, though.
+But every language has a phonemic inventory.
+And you can probably find it at this website.
+If you're interested in a language,
+if you, for instance, grew up speaking a language,
+you can often find it either on FOIBL more directly,
+or you can look at the Wikipedia page
+on, for instance, Turkish phonology or otherwise,
+and you'll very often see exactly that.
+It'll sometimes be arrayed with the writing system.
+Sometimes you can't even do that.
+But you'll be able to find the phonemic inventory
+someplace online.
+And it's really useful.
+So for instance, this is a language
+with a very small phonemic inventory.
+This is Pirahan.
+This is a language that we've talked about before.
+This is the language that is postulated
+not to have recursion by somebody.
+It has a very small inventory.
+It has p, b, t.
+I'm sorry, a dental t.
+It has k and g, a glottal stop, and h.
+Ah, it's pretty tiny, right?
+Hawaiian improves that just a little bit,
+gets a few more sounds.
+P, m, n, s, l, k, glottal stop, and then an h,
+a glottal fricative.
+Mandarin has more.
+Mandarin has p, m, f, s, t, n, r, l, y, h,
+which is a sound that we don't have in English,
+although we kind of do in Bach and Loch and things like that.
+K and g, I'm sorry, n and k.
+Note, interestingly, no b's, no d's, et cetera.
+They can show up, but they're allophonic.
+Urdu is a language with even more in their phonemic
+inventories.
+You've got dental t and d, n, r.
+You've got the r sound.
+You've got retroflex sounds, k, d, r.
+In this case was a, I'm sorry, that's a tap, not a r there.
+You have palatal fricatives, a, h, a, y.
+You have palatal approximant, y, h, r.
+And then you have a uvular, a, k, as well as the glottal.
+So you've got even more sounds here in Urdu relative to English.
+Malayalam is a language which has an amazing phonological inventory
+because you have a dental versus alveolar contrast.
+So t and t, t, t are different sounds in Malayalam.
+And then t, t, so that was dental, alveolar, t, retroflex, t, palatal, k,
+velar.
+You have a bunch of contrasts here.
+So English doesn't do dental versus alveolar.
+Malayalam does.
+And in fact, it does it for everything.
+It does n, n, n, a, n, n, n.
+Cool.
+And this inventory is really important because it
+tells you what phonemes are legal to use.
+It tells you what's on the menu for this language.
+It tells you what the options are when you've got a bunch of alternations.
+And it will play a big role in your analysis.
+But the fun thing about this is that it really complicates word borrowings.
+So Hawaiian, we're just talking about Hawaiian.
+It has a tiny little consonant inventory.
+Hawaiian has p, m, s, n, k, l, glottal stop, and h.
+That's it.
+Compared to English, which has a lot more.
+So what happens when Hawaiian borrows English words?
+What happens?
+What goes on when a Hawaiian speaker decides, you know what?
+I want this English word.
+What happens is something like this.
+All of these sounds here, t, d, f, j, d, s, z, j, ch, j, k, and g,
+all become k.
+Anything of p, b, and f, p, b, f, all become a p.
+N and ng both become n.
+M becomes m.
+This is a really kind of complicated process.
+We can think about it this way, but let's just look at some borrowings here.
+OK, what's this word?
+Iniseka.
+Iniseka.
+One other thing that's worth noting is that Hawaiian also
+constrains syllable structure a lot.
+In this case, you're not allowed, really,
+to have much in the way of anything beyond consonant-vowel,
+consonant-vowel.
+So all of these crazy codas that we've got in English,
+not going to fly here.
+So iniseka.
+Any thoughts?
+Insect.
+The word insect was borrowed as iniseka.
+Elepani.
+This one's usually a little easier.
+Elephant.
+They got rid of that final t altogether, and so you just ended up with ele.
+OK, we're good here.
+Fa, oh, no, fa's not a thing.
+Let's just make that a p.
+OK, ah, no, we're good there.
+Nt, no.
+Let's just get rid of that t.
+And so, cool.
+Hippa.
+Immediately, you're going to say hippo, but no.
+Sheep.
+Yeah, because you've got that e there.
+Hippa is sheep.
+Kayoke.
+Kayoke, I suppose.
+Coyote.
+Nice.
+Kanakalu.
+Kanakalu.
+Kangaroo.
+Oh, yeah.
+Lacuna.
+Lacuna.
+Raccoon.
+Where are my sixth college people at?
+And although sixth has now moved, the raccoons won't be there anymore.
+That'll be, oh.
+Anyways, sorry, I'm technically assigned a sixth as faculty,
+so I know the raccoon lore.
+So lacuna is raccoon.
+Nupepa.
+This is not an animal, but a daily life object.
+Well, in the past, I suppose.
+The correct answer here is newspaper.
+They've gotten rid of the wz, z, as gotten all together,
+so it's just nupepa.
+Mokokaikala.
+Motorcycle.
+Nice.
+Moko.
+So moto becomes moko.
+Kaikala.
+Completely get rid of that r.
+Who needs it?
+Kaikala.
+Yeah, cycle.
+Kaikala.
+Sure.
+And then again, has to be, you can't end with an l,
+because that's the syllable constraint.
+So you have to say kaikala.
+Add that l at the end, or the a at the end there.
+Kakalina.
+Give you a hint.
+You might put it in your mokokaikala.
+Mokokaikala, I suppose.
+Gasoline.
+Kelepona.
+I'm going to call you on my kelepona.
+Telephone.
+Kolokalaiwa.
+This is kind of a stranger one.
+Kolokalaiwa.
+Screwdriver.
+Now this is fun.
+See, you've gotten rid of the initial s, right?
+It's not skolokalaiwa, because sk, illegal.
+And because s turns into k anyways,
+so you've got sk just becomes k.
+And then that r there becomes an l.
+So you get the skra becomes kolokalaiwa.
+So then you get the driver, kalaiwa,
+so that the k, the d becomes a k, the r becomes an l,
+and then aiwa, and then you get rid of that final r,
+because who needs it anyways?
+Really cool.
+But the other thing is that language
+differ in terms of combinations they allow.
+You get combinations that may or may not be legal.
+So in English, for instance, some sounds
+can't happen at the start of ender words.
+Some sound combinations can't happen.
+Some syllable structures are favored or prevented.
+English has some weird constraints, actually.
+We have h, right, in the word happy, hobby, hurt.
+All of those things start with an h, h.
+We can't end a word with h in English.
+The word bah isn't a thing.
+If I invent a new object, it's never going to be a teh.
+That doesn't work.
+You know this is, anyways.
+Teh couldn't be a thing, right?
+This sound, the ng in ring, can't go at the start of a word.
+We can't have, we can have ring, but we can't have ngir.
+Ngir doesn't work.
+Similarly, there's a Vietnamese last name,
+Nguyen, which is pronounced, or I'm sorry,
+is written N-G, usually N-G-U-Y-E-N.
+Nguyen is not pronounced Nguyen, please.
+Nguyen, it starts with a ng sound.
+And then you end up with, or there's
+a Tibetan spiritual tradition, ngondro,
+which English speakers have nothing for.
+You get ngondro, like, eh, eh.
+Okay, you cannot end a word with a vowel in bet or book.
+We've already talked about this a little bit,
+but this is why we butcher the word sake.
+We'll say sake, want some sake or sake?
+No, sake.
+S-K and V all work, but we're not willing to say Moskva.
+Moskva, so we end up with Moscow.
+No, Moskva is the name of Moscow, the Russian city, right?
+And other languages have these too,
+and these come into play when we're borrowing words.
+Languages adapt words to fit the phonotactic constraints
+when borrowing.
+We saw this already with Hawaiian,
+and we've looked at it with English here.
+But for instance, Japanese has a syllable constraint
+that says CV syllables, dammit.
+You give me an onset, you give me a nucleus, and then stop.
+That's it, just onset, nucleus, no, no codas, no codas.
+And in fact, around the world, generally,
+languages aren't as big a fan of codas.
+It's much more common to have languages
+that do not allow codas than to have a language
+that doesn't, I don't think there are languages
+that do not allow an onset, right?
+But codas are generally something languages
+are trying to get rid of in life.
+In fact, this is how Chinese got tone, among other things.
+Well, certainly it's how Vietnamese got tone.
+I believe Chinese also got their tone from lack of codas.
+But anyways, super common.
+It's how French got vowel nasality too.
+Anyways, this means that borrowing from English,
+which doesn't have a constraint like that,
+is very complicated.
+So if we look at Japanese, we could have,
+this Merry Christmas gets borrowed as.
+Merry Christmas.
+Merry Christmas.
+Merry Christmas.
+Interesting.
+So Merry works fine, right?
+That's okay.
+But then Christmas is getting borrowed with,
+all of the consonants are still there.
+So kuh, kuh, ri, ri.
+So you get kuh-ri.
+And I'm mispronouncing this vowel.
+I deeply apologize, Japanese speakers.
+I am not a Japanese speaker.
+But so you see the K, you see the R sound here.
+You see the E, suh, good.
+We're losing the T in there.
+The stuh, absolutely not gonna fly.
+But then you get kuh-ri-suh, ma.
+Okay, good, we can deal with that.
+And then a final S isn't gonna fly.
+So you're gonna get suh at the very end there.
+So Merry Christmas is going to be
+how you would pronounce that in Japanese.
+They have borrowed our English word,
+which has all kinds of consonant clustery stuff going on.
+And they've done it in a way
+that works with local laws, so to speak.
+And there are languages out there
+that allow a lot more complexity in syllables.
+For instance, in English, we've already talked about sixths.
+Sixths, oof.
+Four consonants in a coda, really?
+Oof.
+So C-V-C-C-C, or C-C-C-C.
+This is a big ol' coda right there.
+Strengths has three consonants
+and then four at the end of it.
+That's crazy.
+Russian goes a little bit heavier, right?
+So you get vzglyat, where you have a four-consonant onset.
+Vzglya.
+Vzglya.
+Vzglya.
+And if you want to consider the y
+a completely different thing, then yeah.
+Anyways, we'll talk about that.
+But vzglyat has a four-consonant onset,
+which is serious business.
+Or streytelstv ends up with a four-consonant coda there
+that English is not coming anywhere near.
+The elstv, elstv, stv,
+doesn't get to fly with English.
+No, no way.
+Czech we talked about actually in the very first day,
+but Czech does something that English will do as well.
+It has syllabic consonants,
+where you have an entire word that is just consonants.
+So strt, strt, prst, skrt, krk.
+Strt, prst, skrt, krk.
+All of those are consonants.
+In this case, actually,
+the r is forming the nucleus of the syllable.
+So this c right here is the nucleus of the syllable.
+The third consonant is the nucleus there.
+And similarly, the second consonant in prst,
+it's prst, is the coda.
+So that can be a thing.
+And English can do this too.
+So for instance, able.
+This little dot under the l here,
+it means this is a syllabic consonant.
+A syllabic consonant is just a consonant
+that is decided to put on its vowel pants that day.
+It gets up and like, you know what?
+This word needs a second vowel.
+I will rise to the challenge.
+And so able needs a second thing
+because bl isn't a legal coda in English.
+Inevitable, bl, bl, bl, doesn't fly.
+So instead we have to do another syllable there.
+So able, bl, where l is the nucleus of the second syllable.
+We have a, and then a second syllable, which is bl.
+Fun games, fun games, fun and games, fun games.
+You're not saying fun and games by and large.
+Oh, come to the department welcome party.
+There'll be fun and games.
+Not this year.
+Fun games is,
+that middle n there isn't actually and.
+It's just a new word that is just a syllabic n.
+Fun and games, fun and games.
+So that right there is a consonant there.
+And in fact, we can do this in other words too,
+like, oh, there are lots of syllabic consonants
+out there in the world.
+But English does this as well,
+but it's especially prominent in Czech
+when you get these big long sentences
+or big long sequences without vowels at all.
+So this is, all of this is just scratching
+the very surface of phonology.
+Seriously, phonology is a big and really rich subfield.
+There is a lot of joy in phonology.
+I could have very easily found a happy home in phonology.
+We are here, phonology is this.
+And you can go so very, very deep down the rabbit hole.
+It's just amazing.
+Ling 111 is where you will go to start with this.
+You will get a really good overview
+of all of the various different phonological ideas here.
+You'll get deeper into the theory of phonology,
+how it is that you wanna choose those features
+that make up those classes,
+how it is that you wanna write rules
+and the kinds of things that you'll need to write rules for
+that will make things a little easier.
+So a definite plug for 111 here.
+That's a great class and you'll have a lot of fun with it.
+But in order to do well in Ling 111,
+or frankly in 101,
+you're gonna need practice doing these analysis.
+So I will see you in the class session for more.
+And I'm also going to make a video
+where I go through this data set here.
+But this data set is something you can pause and write down
+or just pause the video and work through it.
+But this is a data set asking you here,
+buh, or I'm sorry, these three sounds,
+ruh, luh, and guh are in complimentary distribution
+with buh, duh, and guh.
+Look at this data set,
+which is from a very, very old version
+of the Bantu languages spoken in South Africa.
+And tell me whether these are,
+you know, basically what's the distribution?
+How do we know which one should be where?
+And we'll work through this one together
+in a separate video.
+But for now, that's all I've got for you today.
+So thank you very much.
+And next week, we will move on to morphology,
+go from the sounds up to the words,
+and it's gonna be awesome.
+Have a wonderful rest of your day, bye.

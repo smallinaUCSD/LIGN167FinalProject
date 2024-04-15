@@ -1,0 +1,756 @@
+Okay, hi everybody. First off, I have two quick reminders for you. The first one is
+that we have a study guide for this course that's online. Your final exam will be open
+book, open note, of course, but it's going to be useful for you to have as much as you'd
+like, as much information as you can, that is, kind of put up into your head, so to speak.
+And this study guide tells you all of the things you're going to need to know this quarter.
+Not just for phonetics and phonology, but throughout the rest of the quarter. It's just
+a useful resource, and so as you're going through and as you're kind of figuring out,
+okay, did I learn everything I need to from this section of the course? The study guide
+is a great place to find out. So check that out.
+The other thing is the phonetics phonology quick reference, which not only has some good
+IPA words to memorize, some IPA tips, but also has information about phonological rule
+notation that we'll talk about later on in today's lecture. But both of those things
+are online, and both of those things are really good resources for you to use as you're guiding
+your learning in this class.
+So today we're going to start talking about phonology, the sound patterns of language.
+And our plan is to first define phonology. Seems like a good thing to do, right? To talk
+about phonemic analysis, that is, how we decide whether something is a phoneme or an allophone.
+We'll talk about that, what that means in a bit here. We'll talk about how to tell whether
+I'm actually Batman, and then we will talk about writing phonological rules and what
+that actually looks like.
+So first off, a quick note on notation. We are going to start differentiating writing
+words in the IPA in slashes and in brackets. You've probably seen IPA in slashes already
+in this course. What the difference is, is a little bit, well, it's very fiddly, right?
+When you have things in slashes, this means at an abstract level. These are things that
+are going on inside of your head. This top here means top at a very abstract level. As
+opposed to this guy here, which means that same sequence of sounds, but coming out of
+my mouth. So in this case, that would mean top. And so we would have two different sort
+of representations here. What's going on in the speaker's mind goes in slashes. What's
+going on in the speaker's mouth goes in brackets. So that's the big difference there. This will
+make more sense as we spend more time on this, but yeah, that's a note on notation.
+So now at this point in time, we've done phonetics, right? We know roughly what speech looks like.
+We know what this world looks like. We know what sounds we're using in English. We know
+how to describe those sounds in terms of things like voiced, voiceless, in terms of other
+elements of what they're called natural classes. So all of the alveolar sounds form a class,
+nasal sounds. We know how to talk about stops versus fricatives, etc. And we know symbols
+that we can use to talk about sounds rather than letters, which is really, really important.
+But at this point in time, we've got all these sounds. We should just be able to put them
+together, right? That would make sense. So let's look at all of these sounds here. We've
+got at the top here, I, K, P, S, D. Those are all sounds present in English, right?
+We have words with each of those. So I has in like bit. Kick has that sound. Pit. Skip
+has actually a bunch of those. And then D as in dog, right? Those are all sounds we
+have in English. So we should be able to put them together. And in fact, we can. See? Skip.
+Cool. Those sounds work. That's an English word. Kid. Well, that worked. Great. English
+word. Pick. Yeah. English word. Sure. Sip. Yep. Absolutely. Dip. Yeah. These are all
+English words. So if we have all these English sounds and we put them together, it works.
+Kiss and so on. But then there comes a problem though, because what about I? Can I be an
+English word? Probably not. According to most English speakers, I is a poorly formed English
+word. If I gave you a brand new object and I said, this is an I, you'd be like a what?
+You didn't finish the word. So I doesn't work. How about a K? Could that be an English word?
+Oh, I made a new invention. It's called a K. People are going to be like new. No, it isn't.
+P. This is weird, right? Because P, for instance, is a word. Like I had a plate of peas. P can be
+a word, but P, that doesn't work for some reason. How about P-D? P-D? P-D doesn't fly for most
+English speakers. How about K-S-P? No, that's not going to be an English word. None of these
+things can be English words. And so this is unusual, right? We've got all those sounds.
+Shouldn't they go together? Well, let's think about this. Plural marker. The S sound is a
+plural marker, right? So if we've got skip, we should have skips. Yeah. Okay, great. That works.
+And if we have pick, as in a dental pick, then we have picks, right? Easy. But then what about
+kids? Kids. Kids. Kids doesn't work, right? We need something better than kids.
+How about, in fact, that should be kids. Or kiss. We have the word kiss. Why wouldn't this be kiss?
+Kiss. I mean, partly because English doesn't do two consonants next to each other. That doesn't
+fly. But the other reason is that we have a separate thing going on. In fact, in English,
+this becomes kisses. But why? Again, we have all these sounds. What's the point there?
+So adding the plural marker is more than just adding an S in English. In fact, there are several
+different versions of the plural marker in English. We call these different allomorphs,
+different forms of this plural, what's called morpheme, little chunk of meaning. So there are
+three different allomorphs of this morpheme, of the S. And so you might be thinking to yourself,
+okay, well, that's weird, right? So if you've got skips as the plural of skip, kids with a Z
+is the plural of kid, and kisses is the plural of kiss, then maybe we just memorize this. Maybe
+as we were growing up, we heard people say, oh, okay, that's a skip. So then we have skips. Cool.
+Easy. Memorized. No problems. Then we ask ourselves, what would S be for a brand new word?
+And in fact, this brings us to a really cool experiment that's gone on in the linguistic
+world. This is the WUG test. So this was developed originally by a very well-known linguist named
+Jean Berko Gleason. And what she did is she presented kids with a WUG. Actually, she presented
+a bunch of people with a WUG, kids included. But this is a WUG right here. Now there are two of
+them. There are two. So ask yourself, which of the following is true? If there is one WUG,
+there are two. A, wugs, B, wugs, C, wuggis, or D, wuggiz. So wugs, wugs, wuggis, wuggiz.
+Most English speakers, including young kids, are going to reply, well, the answer is wugs.
+That's weird. What if it was a wuck? What if there was a different creature called a wuck,
+and there were two of them? So is it A, wucks, B, wucks, wucks, C, wuggis, and D, wuggiz?
+Yeah, most people are going to have wucks, A. What if it was a wush? That's also not an English
+word. You've never heard it before. So wushes, wushes, wushes, wushes. Yeah, most people are
+going to have wushes. There are two wushes there. And by the way, this leads to all kinds
+of linguistic memes. In fact, you can see right here, this is the UC San Diego Linguistics
+Department logo, which is a WUG with the sun god on it. Now you understand what that little dude
+is. But anyways, yeah, linguist dubstep would be wug, wug, wug, wug, wug, wug, wug, wug, wug.
+Yeah. Anyways, so how do we know this? How do we have these instincts that the plural of wugs
+should be wugs, the plural of wuck should be wucks, and the plural of wush should be wushes?
+How do we have all this? And why are there three different versions of the plural marker in English
+anyways? Why do we do that? Well, the answer to this is phonology. Phonology is our next subfield,
+and it's what we're going to cover here. And phonology is the study of how sounds pattern
+in language and in languages, generally speaking. So we might ask ourselves, what do phonologists
+study? Why are phonologists doing all of this? And so there are a bunch of questions that
+phonologists might study. Within a language, you might ask yourself, for instance, what sounds
+are able to differentiate words? So what I mean by that is the word, let's see here, jug, is
+fundamentally different in meaning than the word tug or the word mug. All of those things are
+different words. So clearly those sounds can differentiate words, but other ones might not,
+right? And what do speakers hear, and this is a very related question, as being the same sound?
+If I give you, for instance, tug and tug, tug, tug, tug, tug, you don't really, you might hear
+a slight difference in sound, but you don't hear them as being different words. Even though one of
+those was a dental T, the other of them was an alveolar T. We might ask ourselves, how do speakers
+tend to group sounds together in the language? What is it that speakers are doing to combine
+sounds? So why do we always end up doing similar things to all of the nasals? Why do alveolar sounds
+tend to act similarly? This is because they share a natural class. How do sounds change when we
+combine them together? These are phonological alternations, and we'll talk about those a great
+deal more. What sound combinations are legal in the language? For instance, why is skip okay, but
+xid wouldn't be? What's up with that? We might ask ourselves what a syllable is, how it's formed,
+what kind of syllable does a language prefer? We might ask ourselves questions about stress,
+or pitch, or emphasis. Stress, of course, being, you know, in a word, what parts of the word
+actually have stress? So, for instance, why is it emphasis rather than emphasis, or emphasis?
+These are all other questions within phonology. So phonology is a very, very broad field, and all of
+them together, we want to ask ourselves, how can we generate a theory of language that can explain
+all of these various things? And this brings us into a theoretical discipline. Phonetics has
+theory, absolutely 100 percent, and I don't mean to sell it short, but relative to a lot of areas
+of linguistics, it's much less theoretical. Phonology is a very theoretical part of linguistics.
+We've been focused on concrete data, but now we're going to start talking more about linguistic
+theory, which is a question of how humans do language. What's going on in our heads that
+gives us the ability to say wucks versus wugs versus washes? Why is this a thing? How can we
+most gracefully describe the data that we see in the world? How do we most gracefully describe the
+things that speakers are actually doing? How do we account for most of the data out there in the
+world? Because a theory that works really well for half of the data isn't generally a great theory,
+right? We want something to explain everything, or at least almost everything, pretty well.
+And so there are a lot of theoretical questions we might ask generally in linguistic, right?
+So how do we model the patterns we see? How are we able to figure out why we do this weird thing
+with the English plural? Are we using rules, for instance, in phonology that transform some sound
+that is underlying, some early version of the sound, maybe an S, into different forms? Or are
+we choosing a form that does the fewest things we don't like? This is actually a really interesting
+question and a major divide in phonology. Or maybe another approach would be to say,
+actually, we're not doing any of that. Maybe we're just remembering the words that we've heard,
+and then we're just saying, okay, well, hold on just a second here. I've got wug here. This is a
+mug. The plural of this is mugs, because I heard, you know, people say that in the world. So then
+if the plural of this is mugs, then the plural of that thing there is wugs. So yeah, that makes
+sense, right? That's another approach you can take. And so all of these are possible approaches.
+And then the big question is, how do these handle real data from real languages?
+Actually use that mug, you know. But how do these handle actual language data? Do they
+predict the things that really happen? And do they predict crazy things that never happen?
+Because a great theory is going to generate all the possible forms that we see. It's going to
+tell us everything that is observed, and it's not going to give us crazy things that we don't see,
+right? This is a perfect generative model will do that. And then another question is, how do they
+account for the exceptions? Are there weird data that these theories can't account for?
+Really cool questions. And then finally, does this theory actually describe something
+going on inside our mind? Or is this theory something that we're just using for description?
+Is this just something that's kind of a useful shorthand, even if it doesn't have any cognitive
+reality? Is it just a tool for describing language, or is it a mental construct there?
+We're just going to scrape the surface of theoretical questions here in Ling 101.
+As you go forward, as you take 110, phonetics, 111, phonology, 120, morphology, syntax. Oh,
+boy, are you going to have the... But you'll get deeper into theory here. But for the moment,
+we're just scraping that surface. But know that these questions are there, and they're really,
+really cool. Big, big fan of this. So one of the things to kind of help you work with a little bit
+is that phonology is not the same thing as phonetics. These are two different fields.
+Phoneticians are, like myself, are more concerned with the physical processes of speech. For
+instance, with what the mouth and jaw is actually doing as I'm trying to talk. That's useful. I'm
+interested in what's actually going on in hearing. I'm interested in how you're actually trying to
+pick apart the things that you're hearing into, well, speech perception, right? So all of these
+things, articulation, perception, and the cognition underlying all of it, that's phonetics.
+Phonology is different. It's more concerned with the patterns of sound structure in different
+languages. So for instance, putting aside what's going on in the head at all, why is it the case
+that nasal sounds like M or N or NG tend to move around a little bit more often than, for instance,
+oral stops like T or D or M? I'm sorry, M is a nasal stop. Or B is what I meant to say there.
+So those kinds of facts are something that phonologists are more interested in.
+So things like markedness, what's okay in the language, phonotactics,
+what combinations are going to be legal in producing new words, the rules that are used
+there, and general cross-linguistic patterns. All of these things are very, very different.
+And certainly you can use phonetic data to answer phonological questions. And phonology oftentimes
+gives us interesting information about phonetics, but they are not the same thing. You can definitely
+learn from both of those things. And like I said, more and more, a lot of people are applying
+laboratory methods for phonology, well, laboratory methods from phonetics for phonology, but they're
+not the same thing. We love each other very, very much, phonetics and phonology, but we're different.
+They are deeply different fields. And when I talk with my colleagues, even in the department,
+we have a phonco group, which is the phonetics and phonology people, generally speaking.
+Um, we all talk, we all have fun. We all understand each other for the most part,
+but we are fundamentally different beasts and asking different questions about the world.
+So, um, okay, cool. There's your background. Now let's go into action. You've just jumped
+out of a plane. You are coming down into a, an area unknown, um, that you, you know,
+nothing about the language that you're getting into there. Um, but you've decided wherever I
+land, I'm going to describe the language they speak there. Um, and so your goal is to collect
+data, to write a grammar and write a dictionary. Great. Seems reasonable, right? A grammar would
+be a listing of all the various rules that you find in that language that control things like
+sentence structure and such in a dictionary just lists all the words. So you might ask yourself,
+what are the morphemes in this language? What are the units of meaning? What are the little
+tiny chunks of meaning that you find? So for instance, the English plural S that's a morpheme
+cat morpheme, et cetera. What are the words in this language? What are the chunks of bigger
+meaning that you might want to be using? How are the, how should you write this language down?
+Like what writing system should you come up with? If there is not already there,
+you'll need to make decisions. But one of the big questions you're going to face as you make all of
+these decisions is what of these sounds actually matter to the people who are speaking, right?
+Which of these sounds carry a contrast, which of these sounds are able to define words to make
+them different from other words out there? And what sounds can you not change without changing
+the meaning of a word? This is a really big one. And so this gets at this fundamental question in
+phonology of phonemic analysis. You determine what sound changes affect the meaning of words
+in a language, which sounds are important enough that changing them changes the word.
+We call these phonemic sounds as opposed to sound changes that are predictable,
+where we understand when this change happens and why it happens in many cases,
+but it doesn't actually change the meaning. So for instance, wugs versus wucks, we know that
+both of those things are a plural marker, right? It doesn't change the meaning of the plural.
+We just know that they're different and we have to figure out why we can in fact predict that.
+And these are what are called allophonic sounds. So phonemic sounds change meaning.
+Allophonic sounds are predictable. They don't change meaning. And then there are
+classes of sound variation that are completely unpredictable and they're meaningless. We don't
+know why they happen and it doesn't matter to speakers whether they happen or not. It just
+is a thing. And this is called free variation. It's not as common. And don't worry about that
+as you're doing homework. I'm not going to give you something that's actually free variation
+and make you suffer in that way. So we're going to look at this process. We're going to look at
+this idea of phonemic analysis, trying to figure out what's a phoneme, what's phonemic, what's
+allophonic, and what's free variation using three very different views. And we're actually
+going to loop back to the same material three times, trying three different approaches. The
+reason for this is that this is a difficult concept for many people. You'll get it. I believe in you.
+But at the same time, I want to make sure that you've got that before you're moving forward.
+And if at the end of today's lecture, you're feeling like, oh God, I'm still lost, then,
+well, A, come to the help session, but also just come to class. Come to office hours. We are happy
+to help walk you through this. You won't be the first person this has tripped up, but hopefully
+you're going to do great. So first, we'll look at this in terms of data, in terms of let's look
+at chunks of language and see what we've got there. Second, we'll look at it in terms of
+perception. And then finally, we'll look at it in terms of distribution, in terms of where the
+sounds occur. So like I said, this is an important concept. It's a threshold concept. And that's why
+I'm spending this much time. And if you're struggling, please come to office hours.
+So number one, let's just check some data, right? You've landed out of your plane there,
+and there were sounds everywhere. People are using this huge set of sounds, and you don't
+know what differences matter. What changes in sound are random and don't affect meaning?
+That's free variation. What changes in sounds are meaningful and change the meaning of a world,
+of the word, that is, that's phonemes. And what can be predicted and doesn't change the meaning?
+Those are allophones. And this then makes you wonder, okay, so let's say I'm writing a dictionary.
+If I hear a sound that changes all the time and it doesn't matter, I don't really need to write
+it down in a specific way in the dictionary, right? That would be deceptive. But if a sound
+change is very meaningful, I want to make sure that it's written down that way in my dictionary,
+in my grammar, et cetera. So let's look at these sample data from a language here.
+And actually, let's just go ahead and use English as an example.
+So what this little diacritic here, this little set of vampire fangs here,
+little vampire fangs mean teeth, right? Dental. This is a dental T and this is an alveolar T
+over here. So if I say the word team, which is this guy, and if I say the word team, team, team,
+did I say two different words in English? Probably not. If I say T's, T's, I've just
+said the same word twice. Tie, tie, same thing. Top, top, you don't care. So going back and forth
+between an alveolar stop and a dental stop in English just doesn't matter. This is free variation.
+It doesn't change the meaning. And we can't really predict when it's going to happen or not.
+Usually it's because of some external factor. Like for instance, you grew up speaking Spanish
+or Russian, or any other language around the world that has dental T's, right? It doesn't
+matter though. And so we can switch between these. Nobody really cares. And there's not a good way
+to predict it. It's just maddening chaos. So this is free variation. If we look at the data and it
+varies and no one cares and we can't predict why, then free variation, no problem there.
+Let's take a look at these words in English here. Okay. So this is the word key. This is the word
+pea. Are these two different words? Yeah. Key like your car key and pea like I ate a pea with
+my dinner. And then, okay, how about this one? This is caught and this is pot. Caught, pot.
+Those are two different words again, right? So one of them is a little roll up thing that you
+bring into your hotel room. And this thing is something that you cook with, right? Those are
+two very different things. Cast and past cast past ones, the past, by the way, I gestured
+backwards. That's not universal around languages and cultures of the world. And the other is a
+cast. Like if you break an arm, so cast and past different words, cop and pop again, two very
+different words, right? Cool and pool. Very different. So then the difference between K
+and P in English is actually very important, right? If I were to switch between these, then you
+wouldn't know whether I'm talking about a cast or the past, right? Those are two different words.
+And so in this case, the meaning changes. Listening to these, we know that changing these
+two words, changing between a K and a P, I'm sorry, those two letters actually changes the
+meaning of the word. And therefore that's, that's important. Um, so we see also what's called a
+minimal pair here. The only thing that is changed between T and P is the letter is, I'm sorry,
+not the letter, the sound. It's not the letter. Don't use letter. Sorry, that was violent, but I,
+I really, that bothers me when students do it, so I shouldn't do it either. I won't hit you.
+Anyways, I'll keep it in the video. Why not? So anyways, um, minimal pairs are when you get
+two things that differ by a single sound, by a different segment, not necessarily by a letter,
+because the writing system is lying to you. But anyways, when you have a key and P, those things
+are a minimal pair. They are very slightly different. The segment is the only thing that
+has changed. So this is a minimal pair. That's a really good sign that you have what's called
+a contrastive distribution. It's called that because these two sounds are contrasting each
+other. There is a contrast between using K and using P in this language. It matters to the
+speakers. So these two things are different phonemes in English. K and P are different
+phonemes. So, okay, now let's look at this set of data here. We've got safe over here,
+and we've got save over here. Are those different words or are they the same word?
+Those are different, right? One you put valuables in, the other is an action that you do with a
+document, right? Ape and Abe, one is a name and the other is a type of animal, right? Mate and
+made. But what we see here is a difference because the vowel here, A, is longer in these
+latter columns here. So we've got mate and made, H and age, ache, egg. In some places, egg can also
+be a thing, but you'll see egg out there. And then mace and maize. So mace, like a medieval
+piece of armament, or I guess pepper spray, whatever. You're a D&D nerd. You've got whatever.
+And then maize, like the maze where you've got the minotaur that's chasing after you,
+probably with a mace. So anyways, what we see here are long vowels in this column
+and short vowels over here. The long vowels marked by that colon.
+So does that difference change the meaning? Well, this is scary because the meaning has
+changed, right? Safe and save. But it's not the only thing that's changed, right? The F
+has also changed into a V in this column. Safe, save. So it's not the case that the
+vowel is the only thing changing. Ape, abe. And in fact, if I were to make ape, ape, safe, safe,
+it's going to be weird, right? But you're still going to understand me. So this is different.
+It's not free variation because there seems to be a pattern here. And we'll talk about that
+in a second. And it's not phonemic because these aren't a minimal pair. There are other
+differences aside from just being short versus long vowels. In fact, there's a pattern here that
+tells us when all of these things grow longer. No. Changing from a short A to a long A does not
+change the meaning for the speakers. In fact, it's that other segment that changes the meaning.
+And in fact, what's going on here is the voicing of the next consonant predicts this. If we look
+at this, save, a, b, d, j, g, z, all of those are voiced and s, k, ch, t, p, s, I'm sorry,
+those are all voiceless. So we get a long vowel before a voiced sound and a short vowel before
+a voiceless one. So this is predictable based on voicing of the next consonant. So therefore,
+short and long vowels in English are in a complementary distribution. This is not
+complement in the sense of, hey, nice hair. This is complement in the sense of a mathematical
+complement. All of things belong to either this class or that class. It is a complementary
+distribution in that they form a complement in that way. So these are allophones of the same
+phoneme. Rather than being different phonemes because they change the meaning or in free
+variation where they change, no one cares and they're unpredictable. These are predictable
+and changing between them doesn't change the meaning. These are allophones. So, okay, ask
+yourself for a second here. How do you feel about this? Do you feel like you get it? Are you okay?
+Not sure? Then just kind of keep that in the back of your head. Hopefully we're going to feel a
+little bit better about it each time. And sometimes it's helpful to just to think about your level of
+awareness. I'm going to give you a second for me to drink tea and for you to think about any
+questions that you might have, but hopefully I'll get back to them later. All right.
+So let's think about this in a different way. Let's think about perception instead. So we'll
+use Spanish because I know many students in the class will speak Spanish, which is great.
+So cabo, this is the Spanish word for cape. And if I say cabo, people will understand me,
+generally speaking, but I can actually say two different things. I can say cabo,
+cabo, cabo with a B, or I can say cabo, cabo, cabo. That little beta looking guy is a bilabial
+approximate. Cabo. I'm not completely bringing my lips together there. So this bilabial approximate
+cabo or cabo both sound to a Spanish speaker, like the word cabo, right? And so these two things
+are equivalent for Spanish speakers. They don't change the word. There's not a contrast there.
+So put differently, a Spanish speaker will hear a B in that word, whether I say either an actual
+voiced bilabial stop or a bilabial approximate, both of those things will work.
+Let's use an English example. English actually has two L sounds. This is something we haven't
+talked about so far because it's a little bit tricky. It's a deeper detail, but we have what's
+called the light L, as in the word lip, lip, lip, lip. Try and make these sounds, lip. And then we've
+got a dark L or a velarized L, which is written with a little squiggly in the middle of it,
+and that's as in the sound pill, pill, pill. So you go back and forth, lip, lip, pill, pill.
+In one case, the back of your tongue is going to be bunched up. In the velarized case,
+you're going to have a velar constriction, hence velarized, as opposed to the light L,
+where you're just going to have something going on in the front of your mouth.
+So the light L and the dark L are fundamentally different, right? But the thing is,
+we know when they happen, right? In English, the dark L happens at the end of a syllable.
+So an English speaker will hear the word pill. I can give you the word pill, and you will
+understand me if I say either pill, the normal expected pronunciation. If I say pill, you're
+going to be fine, like I took a pill yesterday. But you'll also get it if I say pill, pill, pill,
+pill, pill. It's a little weird, right, pill? Do you have a pill for that? Maybe a little funky,
+but by and large, you're not going to hear that strong of a difference. And same thing on the
+other side, by the way. I could say lip. I could say lip, lip, lip, lip, lip, and that's fine. Or
+I could say lip with the light L. So English speakers will hear an L, whether I say either
+the light L or the dark L, L or L, both are L to English speakers. It doesn't matter which one you
+use, but we can predict which one is which based on the position in the word. So what's important,
+and by the way, pay attention here to the slashes versus the brackets. These are different
+allophones. This is a phoneme. This exists in the head. These come out of your mouth.
+So put differently, speakers of a language will hear a phoneme whenever somebody says any of the
+allophones of that phoneme. Anytime that you see any of the allophones of a phoneme, you will go
+ahead and link it to that phoneme, which is going on in your mind. So phonemes are groups of sounds
+which can trade places predictably. A phoneme is sort of, you can talk about the high level thing,
+the L phoneme in slashes, or you can talk about it as being the phoneme is a group of several
+allophones. In this case of L, it's a light L and a dark L, or in Spanish, it is the bilabial stop
+and the bilabial approximate. Both of those things form a group of sounds and both of them trade
+places. That trading is pretty opaque to speakers. You might be able to tell, you know,
+lip, it's a little weird, right? But I guess, whatever. It's not, you know, super apparent,
+but it's definitely there. So the L phoneme in English has two allophones, L and L, lip and pill,
+and the T phoneme has a bunch more allophones. T has all kinds of allophones. You've got an
+unaspirated version as in star. You've got the aspirated version with the little H as in tar.
+You've got a glottal stop here as in button, button, button. You have an unreleased version
+as in cat. It's not cat, cat. You have a tap as in later and a nasal tap as in winter, winter.
+So yeah, cool, right? And every sound that is produced is an allophone of some phoneme,
+right? This is the tricky part. All of these sounds, there's a phoneme and then we produce
+one of the allophones in a given context, right? And one thing to note is that not every phoneme
+has multiple allophones. For instance, V in English really doesn't change that much, right?
+There's not all that much that happens to V. It doesn't get pushed around. It doesn't change either.
+So you have the phoneme V and then below it, the allophone V and it's kind of boring, right?
+Don't spend much time on it in phonology. But nonetheless, so every sound that's produced is
+an allophone of some phoneme or another and not every phoneme has allophones. So, okay,
+we've now thought about this in a different way, thinking about it in terms of perceptual
+equivalence. Speakers hear the phoneme when you produce any of the allophones. Feeling any better
+about this now? Feel free to think about some questions while I drink some tea.
+We will spend a lot more time with this material. Don't worry. Okay, now let's look at it in a third
+way. Distribution is really important here. Allophones are predictable. This is what
+distinguishes them from free variation, which is just chaos, right? But allophones are predictable.
+They will always show up in very specific environments and they do not affect the
+meaning of the word. So for instance, the ma, ma, ma. Now watch this. Ma, ma, ma is the basic one.
+Both of my lips are closed. Ma, ma, ma. As opposed to a labiodental M, which is ma, ma, ma. Where I
+am still putting air out through my nose. But there's a labiodental closure right here. See?
+So a labiodental M will show up in English only when there's an M before an F. So you get same
+ma, ma, ma. But symphony, symphony. Try saying symphony right now on your own. Go! Symphony.
+You can say symphony, symphony, symphony, but it's kind of weird, right? You're just going to say
+symphony. You'll make that labiodental M. Everything will be okay. So M shows up only
+when there's an M before an F. Similarly, the dental N shows up in English only when there
+is an N before an interdental sound. So for instance, pine, nuh, nuh, nuh, nuh, nuh. Tongue
+is not between the teeth. Pine, nuh, nuh, nuh, nuh. But then pine thug, pine thug. Don't, don't
+ask. Pine thug. So pine, nuh, nuh, pine thug. So there we see that that N has moved and we can
+predict why, because it's before an interdental sound, right? And similarly, the dark L only
+shows up in Muse at the end of a syllable. Interestingly, other dialects of English around
+the world have very different rules for light and dark L, but that's kind of fun and separate.
+So, okay. Allophones show up according to rules. You will be able to write a rule as to when an
+allophone shows up. If a sound is a variant of another sound that only shows up according to a
+rule, then chances are it's an allophone of another phoneme. If you can predict when a sound occurs,
+then it's an allophone of another phoneme. As opposed to a phoneme, which is unpredictable,
+there is no pattern that dictates when they show up. They will occur in the same environment.
+So for instance, let's say pit and mitt. Pit and mitt, like the pit of a cherry and a catcher's
+mitt from baseball. So a mitt and a pit are fundamentally different words. You can't predict
+when you're going to see an M versus a P in English. It depends. Are you talking about a
+mitt or are you talking about the pit of a cherry, right? It doesn't matter. There's no way to predict
+this based on sound. And this is, by the way, another one of those minimal pairs. Mitt and
+pit differ only by virtue of that first letter there. Ah, first sound. See, what I'm doing here
+is I'm making that mistake repeatedly. That way you won't make that mistake yourself. Learning.
+Yeah, pedagogical equivalent of stonks. Anyways, moving on. But these four minimal pairs,
+where there is just one difference in sound, in segment there. Or sometimes you'll get near
+minimal pairs like tether and measure. They're not exactly the same, but the immediate context
+is correct. But anyways, so if a sound has its own identity in the language's structure,
+that is, if it shows up on its own unpredictably and it's not a variant of something else that
+you can predict, then it's a phoneme. But if the sound is just another persona of another sound,
+then it's an allophone. So to get a little deeper into this, let's ask a very simple question.
+Am I Batman? Many of you may not know me super well, but that's a very valid question you might
+ask. How do you find out if I'm secretly Batman? How do you hunt that down on the internet? How do
+you figure this out? Well, the easiest way to do this is to actually look at the distributions,
+right? If you see Batman and Will in the same context, then they are two very different people.
+Let's say you walked into a classroom one day in the future and you see I'm up at the front of the
+room and I'm chatting and Batman is up at the front of the room and we're chatting. We're
+talking about allophony or something like that, which is great. Then if you can see me and Batman
+in the exact same context, then clearly Batman and I are two different people. If you find two people
+talking to each other in the same place, that's a good indication that they are in fact different
+people. They're independent entities. Two different personas can't be in the same place at the exact
+same time. And look, we know this as humans, right? This is intuitive. If you're trying to figure out
+whether somebody in your discord is actually an alt nickname for another person, if they're both
+talking at the same time, that's decent evidence, right? Not perfect, but if you see two people in
+the exact same context at the exact same time, then you know what? They're probably two different
+things. So in this case, if Batman and I are both talking at the front of the same classroom,
+we are in contrastive distribution. There's one and there's the other, and there's a difference
+between those two things. They happen in the same context. So if you have two sounds that show up in
+an identical context in a minimal pair, where for instance, again, mit and pit, P and M there,
+that's the same context, they must be independent phonemes. They must be two different phonological
+people, so to speak. That said, there's another approach. Let's say that were the case that
+if you only, if you look around and there's no crime going on, and then you see me,
+and then a few minutes later, some crime occurs, and then suddenly Batman is there.
+This might start to make you wonder, like, wait a second. Anytime that there's crime, I see Batman,
+but anytime that there's no crime, then I see Will. Interesting, right? This is a sign that Will could
+be the same thing as Batman. If you never, ever, ever see two things in the same context, and in
+fact, when the context changes, suddenly you see one rather than the other, that's a sign that I
+could be the same thing as Batman, right? And so, and again, if you see close evidence of a
+transformation, if for instance, crime starts occurring in the classroom, you know, somebody
+steals somebody's laptop in the back, I suddenly run out of the classroom, and then I come back,
+and then, I'm sorry, Batman comes back in and apprehends the criminal, that's a pretty good
+piece of evidence that I might be Batman, right? So, we can use this. If we see a transformation,
+where one thing becomes another thing when the context changes, that's good evidence. This is
+an alternation. This is important, and this would indicate that Will and Batman are in a complementary
+distribution. I would never go to the grocery store as Batman, absolutely not, that wouldn't
+make sense, but I would never go to the scene of a crime as Will. That would be really ridiculous,
+too, because I'd be like, dude, why did you send a linguist? Which, to be fair, they've got a point,
+right? So, if one shows up in one context, and the other shows up in another context, this is
+complementary distribution. So, if you have two sounds that show up only in different contexts,
+or if the sound suddenly changes, then they're probably allophones of the same phoneme.
+They're probably two identities of the same underlying person, right? So, put differently,
+for those of you who are maybe more familiar with the pop culture legend, this is Bruce Wayne over
+here, at least a recent iteration of Bruce Wayne, and this is Batman. These are the same person,
+but again, you'd never see Bruce Wayne at a crime scene, and you'd never see Batman in the grocery
+store. You'd probably never see Bruce Wayne in the grocery store, too. He's probably rich enough,
+he could just do, like, I don't know, hire someone. Anyways, I digress, putting the socioeconomics of
+Batman completely aside. These two things, these two entities, are actually the same creature.
+They're actually the same underlying human, but they are only going to show up in different areas,
+and we compare that to, for instance, Batman and Superman, who recently showed up in a movie which
+was a movie, but nonetheless, we can see that they are both together at the same crime scene,
+right? They're both showing up in the same context, therefore, these are two different
+entities. They are contrasted. It's not the case that Batman is secretly Superman, and vice versa.
+So, to sum up everything, Superman is an allophone of Clark Kent, right? Although,
+whether you want to consider Clark Kent underlyingly Superman, I don't want to. It
+depends on your analysis, right? But at the very least, Clark Kent and Superman are allophones of
+the same thing, whatever that actually is. Batman is an allophone of Bruce Wayne. Whatever Bruce
+Wayne is, Batman is another version of the same thing, but you would probably argue that Batman,
+Superman, and Will Styler are different phonemes. We are all fundamentally different. We could all
+show up at the front of the same classroom, right? You could walk in and see Batman,
+Superman, and me hanging out, chatting before class someday. Possible. Probably unlikely.
+Possible, though. Or at least that's what I want you to think. So, these are three different
+perspectives on phonemic analysis. You can look at the data and see when the meaning changes,
+because the meaning will change when you get different phonemes. You can look at perception
+and see what the changes are that listeners hear, and this will give you another perspective here.
+And then you can look at the distribution, and you can see what sounds occur when.
+This is phonemic analysis. Those are three different approaches to it.
+And so, now let's ask one more time, one final time, how are you feeling about this material?
+Maybe you feel like you've got it well. Maybe you're not quite sure if you get it.
+Or maybe if you're down here, come to office hours. Come to a help session.
+Seriously, you're not alone, and we love helping people with this, because the thing is,
+usually this isn't, well, look, college is hard, generally speaking, right? If this were stuff you
+knew already, you'd be on this video, not me, right? And so, very often, this is something
+where it just, it requires it to be presented to you in the way that clicks with your brain,
+and when it does, you're just like, oh, cool, I got it now. But don't feel any shame in it,
+in any of this. This is tough. So, anyways, if you're feeling down here, come talk to us.
+Free variation, this is just a nice way to think about this one more time.
+A cute little chart here. So, if there is a pattern that predicts which sound occurs,
+or does changing the sound change the meaning? These are the two variables here. So, free variation,
+there is no pattern, it doesn't change meaning. Different allophones, there is a pattern,
+it doesn't change meaning. Different phonemes, there is no pattern, it changes meaning.
+Yeah, cool. And again, I'm not going to give you free variation on a homework or something like
+that, because that would be really cruel. Anything that you're going to deal with is
+either going to be allophones of the same phoneme, or two different phonemes.
+Okay, so how do we do this in practice? We've talked about this now, but what do we actually
+do? So, step one, as you're doing this process, if I hand you a data set, if I give you a bunch
+of words, just like I've given you a couple of times here already, for instance, with the
+dark L, light L data, and things like that. But if I give you a minimal pair where the meaning
+changes, then the sounds are different phonemes. Your work is done. In the same sense that if you
+walk into the room and you see Will and Batman there, you're like, well, there goes that theory,
+and it's done. You know that they are different. So, if you have a minimal pair where the meaning
+is changed, if you have mitt and pit, and they're differing only by that one sound,
+then the sounds are different phonemes. Your work is done. Again, this bears repeating. If you have
+a minimal pair, then the sounds are different phonemes, and your work is done. Get it? Bears
+repeating? Okay. Anyways, so this is crucial. This is really important because the vault might
+be unlocked. You have all of these cases. You've seen the movie, right, where somebody's, you know,
+the safe cracker runs up to the door and starts, you know, listening to the lock and manipulating
+it, and then, you know, the mustachioed badass walks over and just pulls it open because it was
+unlocked the whole time, right? This is important. So, always, always, always check for minimal pairs
+first. If you don't see minimal pairs, then we can proceed. So, first, check for minimal pairs.
+Step zero before you do anything else. Second, collect all the environments that the sound you're
+interested in can occur in. So, figure out where these sounds occur, one after the other, just like,
+okay, this one occurs between these two vowels. This one occurs between a T and an O. This one
+occurs between a T and an O. This one occurs between a D and an O, etc. Then, you state the
+distribution of these sounds. Where does one occur? Where does the other one occur? And then,
+you decide which of these allophones is the underlying form. You make a decision, and you say,
+okay, it's easier for my life if I consider this one to be the allophone, I'm sorry, to be the
+phoneme, and then, these two are predictable from it. Figure out which one is easy, hardest to
+predict, make that underlying, and then, you write the rules that derive the other allophones from
+that underlying form based on the environment. So, let's go through this step by step. First,
+check for minimal pairs. Damn it. Second, collect the environment. So, take the sounds and write
+down what follows them and precedes them. So, use the little underscore thing. So, for instance,
+you could do something like, if we're looking at the word, if we're looking at this L here in this
+data set, I might do, for instance, the L occurs here, so I write E underscore P. Well, in this
+case, eh, because it's help, right? Eh underscore P. And then, where's the next L? Oh, here's one
+between an ah and an oh. So, I would do ah underscore oh, et cetera. Are there other L's
+here? All. So, I would do ah underscore end of the word. Use a little hashtag for that. So, anyways,
+write down all the environments. Collect the environments. This just makes it easier for
+your brain to kind of see, wait a second, I see a pattern here. All of these occur
+before voice sounds. All of these occur at the end of a word. All of these occur, et cetera.
+Next step is to state the distribution of the sounds. So, you would say something like, well,
+wow, if I'm looking at this, I can't predict, for instance, where this particular form, I can't
+predict where the M occurs in the data set here. It shows up in all of these various areas, but
+every time I see the labiodental M, the M with the little tail hanging off the bottom of it,
+that one always seems to occur before a labiodental sound. There you're just making
+a claim. You're just saying, weird, all of these occur before labiodental sounds. Or with the
+voiced, I'm sorry, the long vowel in English. Weird. Every long vowel occurs before a voiced
+sound. So, that's a distribution, right? And sometimes you can't describe where the other
+one happens. Sometimes it's hard to predict. Sometimes you can. Doesn't matter. But just try
+it. Make a distribution, or I'm sorry, make a claim. Say this one only happens before voice
+sounds. Then you look, you look, you look. Ah, crap, here's a voiced sound. It doesn't happen
+before. So, then you can go back and you can say, okay, well, maybe it's not voiced sounds. Maybe
+it's voiced, oh, maybe it's voiced stops. Because here it happened before, or it didn't happen
+before a voiced liquid. So, test your hypotheses. Try to prove them wrong. Then at that point,
+it's time, okay, I have this one occurs before voiced sounds. This one seems to occur everywhere
+else. Then which one can't you predict really well? You know, which one is problematic? So,
+we're just talking about M versus the labiodental M. You can't predict where M is going to show up.
+It would be terrible to write a rule that tells us every place M is going to show up.
+But we can very easily predict where M, where the labiodental version comes. So, we would just
+choose that one. Say, my life is easier, and this feels a little bit like cheating, I'm going to be
+real here. But say, my life is easier if this one is the underlying form. And then, there it is,
+it's the underlying form. That's a part of your analysis. This is one of the moving parts that
+you control as you are making a phonological analysis. And this is a tricky thing. Come on,
+camera. Hi. There we go. This is a tricky thing, actually, in phonology. A lot of people are like,
+well, what is it truthfully? I'm not sure. This is about analysis here. And so, you will usually
+have one allophone that's predictable, and maybe another one that is the everywhere else. Just
+like this one occurs everywhere else, but I know where this one happens. So, choose the everyone
+else, or the everywhere else one. Then finally, write some rules to derive the other allophones
+from that one, based on the environment. So, put differently, take that generalization that
+you've already made. The long vowel seems to occur before voice sounds, and you turn that into a rule
+form. And we'll talk a little bit more about writing rules soon. Actually, not next week,
+next video. Whoops. But anyways, so, then you'll write that rule, and it'll help us to understand
+exactly what happens. You'll write a rule that sounds like short vowels become long in the
+environment of being before a long vowel. So, okay. There are all kinds of things that can make
+these kinds of changes happen, right? There are all kinds of things that can motivate rules. One
+of the biggest ones is an adjacent sound. So, for instance, we already saw the labiodental M thing.
+Those happen before a labiodental sound. So, F or V will trigger an M to become labiodental. You'll
+have M goes to labiodental M in the environment before a labiodental sound, generally. It could
+be an adjacent type of sound. So, it could be before any voiced sound. It's not just before T,
+or I'm sorry, it's not just before D, or M, or B. It's before any sound that is voiced. So, you can
+have types of sound triggered. Word boundaries will very often trigger that. You'll get sounds
+become voiceless at the end of a word, or rules that turn sounds voiceless at the end of a word.
+Or you'll get vowels that are only rounded at the start of the word. You get things like that
+happening. Word boundaries are a thing. Syllable boundaries are a thing. We've already talked about
+this in English, actually, with the dark L, light L thing. And sometimes you'll get longer
+distance effects. You'll get a sound that's earlier or later in the word triggering that
+kind of thing. It's a little bit more rare, and we won't give you any of that in this class,
+but it's really cool when it happens. So, let's actually look at a little bit of data here.
+Let's look at L and N in Russian. So, here's a data set. This is your very first phonological
+data set that you're expected to deal with. I encourage you to pause the video for a second,
+and then go through the steps. Step one, check, I'm sorry, step zero is check for minimal pairs.
+Step two, write out the environments. Look for the distributions. Step three,
+state something about the generalization, or the distribution. Make some generalization
+broadly. Step three is to then pick an underlying form. And step four, try and
+write some kind of a rule in the form, this one turns into that one in the environment of
+some other sound like that. So, pause the video right now and do it.
+Okay, cool. So, now let's look at the data here. Are L and N allophones in Russian?
+Step one to check. Well, step zero, are there minimal pairs? So, we can look here,
+and we can say yellow, no. No. No. Whoa, hold on, back up. There's an L, followed by a Y,
+that's a palatalized L, we'll get there. And then here's an N.
+The only thing that differs there is the sound. Minimal pair. So, if these are minimal pairs,
+where do we go from here? We're done, hallelujah, they're phonemes. We know that these two words,
+because this means years and this means no, then it's very, very straightforward to say
+these are two different phonemes. L and N are different phonemes in Russian. There is a minimal
+pair. If L and N differ in meaning only by that one segment, they cannot be allophones.
+So, they are different phonemes. How about vowel length in this language?
+Oh, we already did this one. Cool. But the way you would do this, we can work through this one
+together, is first check for minimal pairs. No, all of these things differ by more than just the
+vowel length. Then we would look at the distribution here. We would see, okay,
+long vowels are occurring between an S and a V, between a word boundary and a B, between an M and
+a D, between an M and a Z, between a word boundary and a J, an H and a G. Okay, so we see that at the
+end of that, those are all voiced. Okay, so then let's make a generalization. It sure looks like
+all of the short vowels are followed by a voiceless sound. And in fact, I can look,
+voiceless, voiceless, voiceless, voiceless, voiceless, voiceless. And then I look over here,
+voiced, voiced, voiced, voiced, voiced, voiced, voiced. That's a good generalization. Which one
+is underlying? In this case, it doesn't really matter, right? There's no real consequence of
+choosing one or the other. So, we'll just say short is underlying. And then we can write a rule.
+We can say, okay, short vowels become long before a voiced sound. And there we go. We're done.
+Beautiful. English vowels are longer before a voiced sound. So, cool. Sound good? Let's talk
+about writing these phonological rules. That's right, I moved into this video. So, you've figured
+out that sounds are allophones of the same phoneme. Remember, you don't need a rule if they're
+different phonemes, and you can't write a rule if it's free variation. So, the only time you're
+writing a rule is if they're allophones, right? So, you know that these sounds are in a complementary
+distribution. There's no minimal pairs, no sense that they're phonemes, and there is some kind of
+pattern there. And so, you will have to predict which one shows up based on that environment.
+And the big question with writing a rule is, well, okay, cool, I got a prediction. I've got a
+generalization. How do I express that to somebody else? How do I show that to somebody else?
+So, a phonological rule is just generalize, taking that generalization you've made. Something like,
+well, all the long vowels occur before voice sounds, and turning it into a format that a
+phonologist can read quickly, right? So, how do you write that out? And so, the format that we're
+going to use here is x turns into y in the environment of z, right? This turns into this
+in this condition. So, we have this little segment here, x arrow y, and this is an arrow, by the way,
+it means x turns into y. So, if we have sound x, it turns into sound y. And I'm just using this
+because it's easier to type. And then we have a little slash. And in this case, a single slash
+means in the environment of. Because honestly, I don't want to type out in the environment of 50
+times in the middle of a paper, right? And then you add in a blank. That blank represents where
+the sound gets changed. It represents where the x would be and where the y ends up. That blank
+ends up being where that sound should have been. And then you position that blank relative to
+things in the conditioning environment. So, let's say we've got an n turning into a ng before a
+velar sound. To start with, that makes a lot of sense, right? Something that is alveolar becoming
+velar before a velar thing, yeah, peer pressure, right? Talk about that next time. So, the way we
+would write that out is we would say the aliphon, I'm sorry, the phoneme n, the n phoneme becomes
+the aliphone ng. So, we write that in brackets. So, slashes, brackets, in the environment of
+before velar sounds. And for this class, you can just write velar sounds in brackets like this.
+You'll want to write it in brackets, by the way, because otherwise, if you just write out velar
+sounds, then I'm going to assume you mean before a v, a, l, a, r, r, in this case, and so forth.
+So, you want to make sure you put anything that you're using as a descriptor in brackets so we
+understand that you're talking about a whole, you know, you're talking about words there rather than
+talking about sounds. So, n goes to ng in the environment of before velar sounds. And this
+little guy is positioned before the sounds that modify it. If it happened after velar sounds,
+we would swap those things around in the environment. So, we would say that still n
+goes to ng. This part doesn't change. This is just describing the change. But in this case,
+we would say the velar sounds, and then more specifically, it happens afterwards. So,
+the underscore here goes after the velar sound because the change happens after a velar sound.
+An n in this position changes into an engma, which is another name for this character, by the way.
+So, there were a couple of other symbols you'll see around. So, the hashtag means,
+or octothorpe, if you'd like to use the old term, means the boundary of a word. So, if you put that
+in a rule, that means it's happening at the boundary of a word. So, you know, before a
+word boundary would be underscore hashtag. V capitalized means any vowel. C capitalized means
+any consonant. And then this little guy, the zero with a slash through it means nothing.
+So, we'll talk about where that's useful. Namely, deletion and insertion. So,
+if you delete a T, what you're actually doing is you're transforming T into nothingness, right? I
+mean, that's a way to talk about deletion, right? Sounds kind of vaguely supervillain. I will
+transform you into nothingness. And similarly, insertion is nothingness turning into a T,
+right? There was nothing there, and suddenly it is a T. And actually, that should be in brackets,
+not slashes. Whoops. So, nonetheless, visualize this in your mind in brackets, because this is on
+the other side of the arrow. This is an allophone that's being inserted there. So, let's look at
+some phonological rules. First, in real life, Bruce Wayne becomes Batman when surrounded by
+crime. Because see, this is where the transformation happens, and crime is all around him,
+right? White clothes should apparently disappear between Memorial Day and Labor Day. I can't
+confirm this. It may not still be the fashion law, but this was what was taught to me at a
+certain point in my life that I've since ignored. T goes to a dental form. Ah, that should be in
+brackets. This goes to a dental T before a dental consonant. So, any dental consonant,
+so an interdental sound in English, will change a T into, ah, brackets, into a dental T there.
+A turns into a long A before voiced sounds. So, any time you have a sound that is plus voice,
+that is voiced, and you can just write voiced sounds there as well. I'm just way too used to
+writing the plus minus. You'll get there in Ling 111. But any time it is before a voiced sound,
+the short vowel turns into the long vowel. And so, the underlying form here of any vowel
+will become nasalized before a nasal. This actually should be pretty familiar to you.
+This is what we talked about last time in speech perception, right? The fact that you get vowels
+becoming nasalized before nasals is what allowed you to recover those codas as you was listening.
+As you was listening. That's not my dialect, generally. Cool. It happened.
+Maybe I need more tea. So, anyways, this is a rule saying vowels become nasalized,
+with this little nasal diacritic up here, before nasals. So, sometimes you'll use entire groups of
+sounds in your rules. And generally speaking, you'll want to do this, right? All of the groups
+will share something. They'll have something in common. So, you might say, this happens before
+voiceless sounds. This happens before velar sounds. This happens after consonants. This happens
+consonants. This happens between high vowels. All of these things are in, they share a feature.
+It's a natural class. So, you might have a rule like stops become fricatives before vac vowels.
+The perfectly plausible rule that might happen in the world. Maybe a little weird,
+but it doesn't really matter. But anyways, anytime you have a group of sounds that share
+some feature together, maybe they're all back vowels, maybe they're all vowels,
+maybe they're all consonants, maybe they're all voiced, maybe they're all
+stops. All of those things form classes. They are groups of things that share a feature. And those
+we can call a natural class. So, cool. You talk a lot more about these in Ling 111 phonology,
+but for the moment, that's what we're going to touch on there. And for what it's worth,
+we can use this same format to talk about different versions of a morpheme, right?
+If you have multiple versions of the same chunk of meaning, then we can describe where they happen.
+So, the English plural can be s, as in cats, z, as in dogs, or iz, as in dishes, right? So,
+cats, dogs, and dishes have different plural forms. Similarly, the English past tense ed can be a t,
+as in walked, a d, as in buzzed, or an id, as in rounded, right? And so, we can figure out rules
+that would describe which causes each one of these to be a thing. And in fact, I'll leave
+that as an exercise for you. It's a fun little thing. So, okay. No, actually, well, here. Here's
+some data. There are three different kinds of English past tense marker. When do they appear?
+When can you describe when you'll get a t versus a d versus an id? So, how would we do this? We
+would start off by looking to see what's the environment here. So, here, t is occurring
+at the end of a word. So, you do underscore, hashtag, because it's at the end of the word.
+And it's before, or I'm sorry, it's following a k. Here, the t is following an s. Here, it's
+following a k. Here, it's a sh. Here, it's an s. Okay. So, in this case, k, s, k, sh, s.
+Now, for this one, again, what's on the other side is always going to be the end of the word,
+and then hashtag there. So, we can look at this, and the d is coming before an n, or after an n,
+an n, v, z, n. So, n, z, v, n, n. Okay. And then, finally, on the far end here,
+we have rusted. And by the way, these are walked, sinned, rusted, passed, sunned,
+oh, as in sunned on a rock, tufted, licked, gloved, boarded, washed, buzzed, pitted,
+oh, like as in pitted with rust, and then loosed, as in I loosed the hounds on him,
+stoned. Why did I use that example? And then sighted. But anyways, in rusted here, this
+happens before a t. Here, it happens before a t. Here, it happens before a d, before a tap,
+before a t. All right. So, we have our environment, right? So, what are some good generalizations?
+Think about it for a moment. Pause it and think about what could describe all of those groups.
+All right. So, a really good generalization for this one is k, s, k, sh, s, k, s, k, sh, s.
+All of those are voiceless. All the t's seem to occur after voiceless sounds.
+All of these are voiced, n, n, v, z, n. All the d's seem to occur after voiced sounds.
+And then this guy over here that I can't reach to has a t, t, d, r, t. This isn't about voicing
+anymore, because it's happening after both t's and d's, and after the tap. So, voiced and voiceless.
+But what do those have in common? What's a natural class that all of those belong to?
+The answer is alveolar sounds. So, you get t before voiced sounds, d before voiceless sounds,
+and id, I'm sorry, after voiceless sounds, and id after alveolar sounds. So, when I click over here
+again, we can look at it and do this. We can say this ending becomes a t before a voiceless sound,
+d stays d before a voiced sound, and d becomes id after an alveolar stop or a tap,
+or after an alveolar sound. Although, actually, we can't just say alveolar,
+because it didn't work for n. Interesting. So, we have to test our rules. We have to work through
+them over and over again. In practice, it's more complicated than this. We're not going to go too
+deep into it, but this is a way to think about these data, and it's another set of data to look
+at. Okay, how about, and then with liet and niet, we can write a separate set of rules here.
+Or can we? No, there's a minimal pair. There is no rule that we can write. How about some Spanish
+de and the? Let's look at this again. And again, we'll take a second here. So, we're trying to
+figure out whether de and the are in complementary or contrastive distribution here. So, step zero,
+look for minimal pairs. Nope. Okay, cool. So, then, chances are these are allophones, right?
+So, then, okay, let's look at cases where de occurs. So, in the first one, de is occurring
+between front of the word and ah. Second one, it's occurring between an a and the end of the word.
+Third one, it's occurring between an a and the end of the word. Second, between de,
+or between the front of the word and an a. And in this case, it's occurring between an n and an o.
+All right. Cool. So, maybe some patterns. We're seeing a lot of front of the word,
+back of the word stuff, but then there's that last one with an n and an o, right?
+Let's look at this one. The eth here is occurring here between two vowels, ah and ah. Here,
+it's occurring between two vowels, a and ah. Here, it's occurring between two vowels, a and a.
+Here, it's occurring between two vowels, o and ah. Here, it's occurring between two vowels,
+ah and a. Boy, that sure seems like a pattern, doesn't it? Is it any specific set of vowels?
+No, because we see it occurring between a bunch of different vowels, right? In fact,
+what seems to matter here is that the change is happening between two vowels. So, that's how we
+might talk about the distribution. It sure seems like d sort of occurs where it occurs,
+or at least it's harder to predict where d happens, but this guy occurs between two vowels.
+And does that work? Do we see any cases of d occurring between two vowels? No. So, yeah,
+that seems reasonable. So then, how would we write a rule for this? Or what would be
+our underlying form, actually? Let's back up. Think about it for a second.
+Think about it for a second. The question to ask yourself is, which one of these is easier
+for you to deal with as an underlying form? Which one of these don't you want to predict?
+Personally, I don't want to predict d, because here, it happens between the start of the word.
+Here, it's the end of the word. Here, end of the word. Here, it's between an n and an o for some
+reason. That seems like a pain in the neck, whereas this one, this is super easy to predict.
+Anytime it's between two vowels, I can do that. So, let's choose d as the underlying form,
+and let's make ev an allophone of that. So, we can write a rule for it. We can say d
+becomes v in the environment between any two vowels. So, capital V underscore capital V
+means between two vowels. By the way, this is the same thing we were looking at earlier with
+cabo, right? So, b becomes v between two vowels, and in Spanish, by the way, g becomes g between
+two vowels, as in las agas. So, voice stops, we can actually generalize this much bigger. We can
+say voice stops become fricatives, and they're fricatives at the same place of articulation.
+That doesn't change between vowels in Spanish. So, we could write that out, and that's beautiful.
+That explains so much, and by the way, this explains why if you walk up to somebody and say,
+for instance, cada for each, as you're speaking Spanish, you're going to come across as just
+amazingly American, and it's not going to be so great. Oh, yeah, ceda. Yeah, no, no, no, ceda,
+ceda. Anyways, so, we can write rules that talk about all of these changes, and in fact,
+we can even generalize it more, and it's beautiful. And so, you are now doing phonology. Amazing,
+right? Hopefully, you're feeling a lot better about this process. This has been a journey.
+This has been an hour and eight minutes of joy together with us doing this phonology,
+but if you're not, if you're still struggling, watch the next lecture. Maybe it'll help a little
+bit, but come to office hours. Come talk to us. We desperately want to help you understand phonology
+and to understand exactly why that's so beautiful, because it is. Oh, my God, it is.
+So, anyways, we are more than happy to talk with you about any of this, but to wrap it all up,
+phonology is the study of how sounds pattern. Phonemic analysis is how we determine which
+sounds have some identity in the language, and which of those sounds are personas of other
+sounds. I may be Batman, because you've never seen us in the same place, and phonology is fun.
+You may not have this one yet, but give me time. Next time, we're going to talk about four common
+phonological processes. We'll talk about phonotactics, and we'll look at some more data.
+So, thank you all very, very much, and I will see you in the next video.
